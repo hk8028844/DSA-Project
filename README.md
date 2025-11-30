@@ -35,7 +35,7 @@ git clone https://github.com/hk8028844/DSA-Project
 
 /project
 │-- src/
-│-- docs/
+│-- res/
 │-- data/
 │-- tests/
 │-- README.md
