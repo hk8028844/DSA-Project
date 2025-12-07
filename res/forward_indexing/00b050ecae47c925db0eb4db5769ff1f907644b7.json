@@ -1,0 +1,2800 @@
+{
+  "document_id": "00b050ecae47c925db0eb4db5769ff1f907644b7",
+  "source_type": "pdf_json",
+  "file_name": "00b050ecae47c925db0eb4db5769ff1f907644b7.json",
+  "total_terms": 583,
+  "unique_terms": 304,
+  "sections": {
+    "title": {
+      "term_count": 7,
+      "char_length": 132,
+      "top_terms": {
+        "cochi": 1,
+        "md": 1,
+        "mph": 1,
+        "outstanding": 1,
+        "eradication": 1,
+        "elimination": 1,
+        "vaccine-preventable": 1
+      }
+    },
+    "": {
+      "term_count": 65,
+      "char_length": 1520,
+      "top_terms": {
+        "cochi": 4,
+        "immunization": 4,
+        "cdc": 4,
+        "disease": 2,
+        "prevention": 2,
+        "program": 2,
+        "initiative": 2,
+        "reduction": 2,
+        "particularly": 2,
+        "infectious": 2,
+        "rom": 1,
+        "dr": 1,
+        "million-per-year": 1,
+        "technical": 1,
+        "programmatic": 1,
+        "responsible": 1,
+        "vaccine": 1,
+        "eradication": 1,
+        "mortality": 1,
+        "priority": 1
+      }
+    },
+    "Early Childhood and Adolescence": {
+      "term_count": 82,
+      "char_length": 3660,
+      "top_terms": {
+        "personal": 3,
+        "correspondence": 3,
+        "winifred": 2,
+        "whitelaw": 2,
+        "cochi": 2,
+        "position": 2,
+        "district": 2,
+        "particularly": 2,
+        "leonina": 2,
+        "business": 2,
+        "memorable": 2,
+        "academic": 2,
+        "athletic": 2,
+        "football": 2,
+        "lacrosse": 2,
+        "potsdam": 1,
+        "rochester": 1,
+        "graduate": 1,
+        "lawrence": 1,
+        "university": 1
+      }
+    },
+    "College and Medical Training": {
+      "term_count": 102,
+      "char_length": 3692,
+      "top_terms": {
+        "cochi": 10,
+        "hospital": 5,
+        "mit": 4,
+        "infectious": 4,
+        "program": 4,
+        "massachusetts": 3,
+        "dr": 3,
+        "katz": 3,
+        "pediatric": 3,
+        "residency": 3,
+        "gallup": 3,
+        "southwest": 3,
+        "aeronautical": 2,
+        "especially": 2,
+        "fraternity": 2,
+        "throughout": 2,
+        "addition": 2,
+        "mexico": 2,
+        "eis": 2,
+        "thomas": 1
+      }
+    },
+    "Contributions to Global Eradication and Control of Vaccine-Preventable Diseases": {
+      "term_count": 79,
+      "char_length": 2607,
+      "top_terms": {
+        "cochi": 6,
+        "immunization": 6,
+        "cdc": 4,
+        "national": 4,
+        "international": 3,
+        "vaccine": 3,
+        "extraordinary": 2,
+        "eradication": 2,
+        "elimination": 2,
+        "vaccine-preventable": 2,
+        "disease": 2,
+        "director": 2,
+        "program": 2,
+        "following": 2,
+        "initiative": 2,
+        "polio-free": 2,
+        "poliomyelitis": 1,
+        "regional": 1,
+        "reduction": 1,
+        "mortality": 1
+      }
+    },
+    "The Leader and His Vision": {
+      "term_count": 7,
+      "char_length": 292,
+      "top_terms": {
+        "exceptional": 1,
+        "cochi": 1,
+        "visionary": 1,
+        "particular": 1,
+        "foresight": 1,
+        "perceive": 1,
+        "throughout": 1
+      }
+    },
+    "Think and Act Globally": {
+      "term_count": 18,
+      "char_length": 693,
+      "top_terms": {
+        "immunodeficiency": 2,
+        "virus": 2,
+        "syndrome": 2,
+        "american": 1,
+        "numerous": 1,
+        "together": 1,
+        "superpower": 1,
+        "hiv": 1,
+        "acute": 1,
+        "respiratory": 1,
+        "sars": 1,
+        "bioterrorism": 1,
+        "imperative": 1,
+        "globally": 1,
+        "consider": 1
+      }
+    },
+    "Work in Partnerships": {
+      "term_count": 4,
+      "char_length": 289,
+      "top_terms": {
+        "effective": 2,
+        "globally": 1,
+        "idealism": 1
+      }
+    },
+    "Plan Strategically to Anticipate Change": {
+      "term_count": 11,
+      "char_length": 443,
+      "top_terms": {
+        "biotechnology": 1,
+        "naturally": 1,
+        "pathologic": 1,
+        "political": 1,
+        "environment": 1,
+        "plethora": 1,
+        "government": 1,
+        "effectively": 1,
+        "response": 1,
+        "programmatic": 1,
+        "commitment": 1
+      }
+    },
+    "Converging of Public Health and Humanitarian Goals": {
+      "term_count": 8,
+      "char_length": 394,
+      "top_terms": {
+        "cochi": 1,
+        "poorest": 1,
+        "underserved": 1,
+        "reduction": 1,
+        "equality": 1,
+        "political": 1,
+        "security": 1,
+        "regardless": 1
+      }
+    },
+    "Realizing the Vision": {
+      "term_count": 27,
+      "char_length": 1121,
+      "top_terms": {
+        "cochi": 3,
+        "immunization": 3,
+        "measurable": 2,
+        "cdc": 1,
+        "position": 1,
+        "unicef": 1,
+        "substantial": 1,
+        "vaccine-preventable": 1,
+        "positive": 1,
+        "government": 1,
+        "creation": 1,
+        "strategic": 1,
+        "blueprint": 1,
+        "expansion": 1,
+        "eradication": 1,
+        "poliomyelitis": 1,
+        "mortality": 1,
+        "childhood": 1,
+        "under-utilized": 1,
+        "increase": 1
+      }
+    },
+    "Respect and Integrity": {
+      "term_count": 14,
+      "char_length": 470,
+      "top_terms": {
+        "dr": 1,
+        "cochi": 1,
+        "quantity": 1,
+        "integrity": 1,
+        "subordinate": 1,
+        "collaborative": 1,
+        "domestic": 1,
+        "immunization": 1,
+        "combination": 1,
+        "scientific": 1,
+        "credibility": 1,
+        "operational": 1,
+        "willingness": 1,
+        "effectiveness": 1
+      }
+    },
+    "Thinking Big": {
+      "term_count": 19,
+      "char_length": 608,
+      "top_terms": {
+        "program": 1,
+        "anticipate": 1,
+        "collaborative": 1,
+        "relevant": 1,
+        "cochi": 1,
+        "successfully": 1,
+        "poliomyelitis": 1,
+        "diphtheria": 1,
+        "infectious": 1,
+        "disease": 1,
+        "surveillance": 1,
+        "cdc": 1,
+        "influence": 1,
+        "assignment": 1,
+        "funding": 1,
+        "traditional": 1,
+        "american": 1,
+        "unicef": 1,
+        "foundation": 1
+      }
+    },
+    "Forging Consensus": {
+      "term_count": 17,
+      "char_length": 645,
+      "top_terms": {
+        "cochi": 2,
+        "consensus": 2,
+        "numerous": 2,
+        "international": 2,
+        "effectively": 1,
+        "buy-in": 1,
+        "cdc": 1,
+        "national": 1,
+        "immunization": 1,
+        "significant": 1,
+        "eradication": 1,
+        "poliomyelitis": 1,
+        "multiply": 1
+      }
+    },
+    "Motivating Colleagues and Staff": {
+      "term_count": 9,
+      "char_length": 417,
+      "top_terms": {
+        "objective": 3,
+        "motivation": 1,
+        "especially": 1,
+        "cochi": 1,
+        "consistently": 1,
+        "successful": 1,
+        "perceive": 1
+      }
+    },
+    "Make Decisions/Take Calculated Risks": {
+      "term_count": 10,
+      "char_length": 409,
+      "top_terms": {
+        "necessary": 2,
+        "information": 2,
+        "successful": 1,
+        "cochi": 1,
+        "impeccable": 1,
+        "critical": 1,
+        "outstanding": 1,
+        "judgment": 1
+      }
+    },
+    "Publications and Awards": {
+      "term_count": 36,
+      "char_length": 1064,
+      "top_terms": {
+        "cochi": 3,
+        "cdc": 3,
+        "american": 3,
+        "scientific": 2,
+        "international": 2,
+        "infectious": 2,
+        "addition": 1,
+        "coauthored": 1,
+        "vaccine-preventable": 1,
+        "frequently": 1,
+        "consultant": 1,
+        "lecturer": 1,
+        "immunization": 1,
+        "pediatrics": 1,
+        "disease": 1,
+        "association": 1,
+        "pediatric": 1,
+        "epidemiological": 1,
+        "meritorious": 1,
+        "high-level": 1
+      }
+    },
+    "Family Life": {
+      "term_count": 56,
+      "char_length": 2450,
+      "top_terms": {
+        "cochi": 7,
+        "italy": 4,
+        "cdc": 2,
+        "ultimate": 2,
+        "frisbee": 2,
+        "possible": 2,
+        "together": 2,
+        "interest": 2,
+        "although": 1,
+        "grateful": 1,
+        "proud": 1,
+        "recognition": 1,
+        "scientific": 1,
+        "community": 1,
+        "greatest": 1,
+        "treasure": 1,
+        "magnitude": 1,
+        "athletic": 1,
+        "championship": 1,
+        "turku": 1
+      }
+    },
+    "back_matter": {
+      "term_count": 12,
+      "char_length": 344,
+      "top_terms": {
+        "dr": 2,
+        "especially": 1,
+        "grateful": 1,
+        "cochi": 1,
+        "personal": 1,
+        "information": 1,
+        "biography": 1,
+        "publication": 1,
+        "ligon": 1,
+        "different": 1,
+        "cohesive": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "cochi": {
+      "term_id": 37867,
+      "frequency": 45,
+      "positions": [
+        2,
+        5,
+        68,
+        97,
+        29,
+        27,
+        29,
+        196,
+        219,
+        5,
+        20,
+        64,
+        96,
+        5,
+        44,
+        82,
+        82,
+        0,
+        50,
+        16,
+        85,
+        0,
+        21,
+        4,
+        0,
+        4,
+        0,
+        21,
+        1,
+        28,
+        14,
+        77,
+        32,
+        43,
+        10,
+        0,
+        51,
+        20,
+        54,
+        140,
+        32,
+        81,
+        2,
+        101,
+        7
+      ]
+    },
+    "md": {
+      "term_id": 905,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "mph": {
+      "term_id": 13514,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "outstanding": {
+      "term_id": 4294,
+      "frequency": 3,
+      "positions": [
+        6,
+        83,
+        60
+      ]
+    },
+    "eradication": {
+      "term_id": 2136,
+      "frequency": 6,
+      "positions": [
+        10,
+        51,
+        26,
+        79,
+        84,
+        67
+      ]
+    },
+    "elimination": {
+      "term_id": 1457,
+      "frequency": 3,
+      "positions": [
+        11,
+        30,
+        8
+      ]
+    },
+    "vaccine-preventable": {
+      "term_id": 8733,
+      "frequency": 6,
+      "positions": [
+        15,
+        112,
+        41,
+        64,
+        54,
+        27
+      ]
+    },
+    "rom": {
+      "term_id": 5673,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "dr": {
+      "term_id": 758,
+      "frequency": 8,
+      "positions": [
+        3,
+        145,
+        158,
+        171,
+        20,
+        0,
+        6,
+        38
+      ]
+    },
+    "immunization": {
+      "term_id": 717,
+      "frequency": 16,
+      "positions": [
+        9,
+        64,
+        77,
+        94,
+        5,
+        12,
+        14,
+        44,
+        16,
+        54,
+        26,
+        99,
+        103,
+        50,
+        32,
+        51
+      ]
+    },
+    "disease": {
+      "term_id": 8,
+      "frequency": 6,
+      "positions": [
+        15,
+        121,
+        73,
+        31,
+        48,
+        72
+      ]
+    },
+    "prevention": {
+      "term_id": 324,
+      "frequency": 2,
+      "positions": [
+        18,
+        105
+      ]
+    },
+    "cdc": {
+      "term_id": 1052,
+      "frequency": 17,
+      "positions": [
+        19,
+        28,
+        80,
+        96,
+        57,
+        7,
+        56,
+        40,
+        3,
+        9,
+        56,
+        21,
+        32,
+        40,
+        58,
+        35,
+        42
+      ]
+    },
+    "million-per-year": {
+      "term_id": 484762,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "program": {
+      "term_id": 75,
+      "frequency": 9,
+      "positions": [
+        24,
+        78,
+        218,
+        55,
+        65,
+        93,
+        15,
+        90,
+        10
+      ]
+    },
+    "technical": {
+      "term_id": 891,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "programmatic": {
+      "term_id": 16644,
+      "frequency": 2,
+      "positions": [
+        33,
+        62
+      ]
+    },
+    "responsible": {
+      "term_id": 392,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "vaccine": {
+      "term_id": 15,
+      "frequency": 4,
+      "positions": [
+        41,
+        74,
+        28,
+        36
+      ]
+    },
+    "initiative": {
+      "term_id": 1034,
+      "frequency": 4,
+      "positions": [
+        52,
+        59,
+        2,
+        46
+      ]
+    },
+    "mortality": {
+      "term_id": 320,
+      "frequency": 3,
+      "positions": [
+        57,
+        36,
+        94
+      ]
+    },
+    "reduction": {
+      "term_id": 321,
+      "frequency": 4,
+      "positions": [
+        58,
+        19,
+        33,
+        25
+      ]
+    },
+    "priority": {
+      "term_id": 949,
+      "frequency": 2,
+      "positions": [
+        62,
+        83
+      ]
+    },
+    "director": {
+      "term_id": 2285,
+      "frequency": 3,
+      "positions": [
+        73,
+        1,
+        9
+      ]
+    },
+    "national": {
+      "term_id": 288,
+      "frequency": 6,
+      "positions": [
+        76,
+        12,
+        13,
+        23,
+        27,
+        25
+      ]
+    },
+    "virtually": {
+      "term_id": 1892,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "particularly": {
+      "term_id": 362,
+      "frequency": 4,
+      "positions": [
+        114,
+        42,
+        20,
+        28
+      ]
+    },
+    "diphtheria": {
+      "term_id": 4484,
+      "frequency": 2,
+      "positions": [
+        115,
+        44
+      ]
+    },
+    "haemophilus": {
+      "term_id": 2273,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "influenzae": {
+      "term_id": 2469,
+      "frequency": 1,
+      "positions": [
+        117
+      ]
+    },
+    "hib": {
+      "term_id": 11550,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "pertussis": {
+      "term_id": 2924,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "varicella": {
+      "term_id": 3217,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "cost-effective": {
+      "term_id": 2658,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "preventive": {
+      "term_id": 1302,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "intervention": {
+      "term_id": 139,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "potential": {
+      "term_id": 102,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "communicable": {
+      "term_id": 2429,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "significant": {
+      "term_id": 138,
+      "frequency": 3,
+      "positions": [
+        18,
+        6,
+        64
+      ]
+    },
+    "childhood": {
+      "term_id": 1433,
+      "frequency": 4,
+      "positions": [
+        21,
+        88,
+        39,
+        98
+      ]
+    },
+    "enormous": {
+      "term_id": 2499,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "presentation": {
+      "term_id": 152,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "biography": {
+      "term_id": 33636,
+      "frequency": 3,
+      "positions": [
+        31,
+        156,
+        28
+      ]
+    },
+    "pediatric": {
+      "term_id": 1073,
+      "frequency": 5,
+      "positions": [
+        38,
+        166,
+        216,
+        227,
+        85
+      ]
+    },
+    "infectious": {
+      "term_id": 124,
+      "frequency": 10,
+      "positions": [
+        39,
+        55,
+        167,
+        12,
+        28,
+        42,
+        72,
+        47,
+        71,
+        86
+      ]
+    },
+    "relevant": {
+      "term_id": 520,
+      "frequency": 2,
+      "positions": [
+        43,
+        18
+      ]
+    },
+    "background": {
+      "term_id": 468,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "demonstrate": {
+      "term_id": 17,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "devotion": {
+      "term_id": 49594,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "humanity": {
+      "term_id": 6000,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "commitment": {
+      "term_id": 2405,
+      "frequency": 3,
+      "positions": [
+        75,
+        28,
+        63
+      ]
+    },
+    "tomorrow": {
+      "term_id": 12056,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "potsdam": {
+      "term_id": 90591,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "winifred": {
+      "term_id": 136376,
+      "frequency": 2,
+      "positions": [
+        23,
+        105
+      ]
+    },
+    "whitelaw": {
+      "term_id": 24656,
+      "frequency": 2,
+      "positions": [
+        24,
+        25
+      ]
+    },
+    "rochester": {
+      "term_id": 7064,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "graduate": {
+      "term_id": 2824,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "lawrence": {
+      "term_id": 3148,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "university": {
+      "term_id": 220,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "teaching": {
+      "term_id": 29305,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "position": {
+      "term_id": 169,
+      "frequency": 3,
+      "positions": [
+        67,
+        79,
+        18
+      ]
+    },
+    "district": {
+      "term_id": 1873,
+      "frequency": 2,
+      "positions": [
+        72,
+        85
+      ]
+    },
+    "principal": {
+      "term_id": 1444,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "eventually": {
+      "term_id": 1203,
+      "frequency": 2,
+      "positions": [
+        86,
+        45
+      ]
+    },
+    "penfield": {
+      "term_id": 154307,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "full-time": {
+      "term_id": 12796,
+      "frequency": 1,
+      "positions": [
+        110
+      ]
+    },
+    "homemaker": {
+      "term_id": 79614,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "lovingly": {
+      "term_id": 187135,
+      "frequency": 1,
+      "positions": [
+        114
+      ]
+    },
+    "rearing": {
+      "term_id": 337111,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "close-knit": {
+      "term_id": 145959,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "paternal": {
+      "term_id": 15742,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "leonina": {
+      "term_id": 54098,
+      "frequency": 2,
+      "positions": [
+        26,
+        67
+      ]
+    },
+    "maenza": {
+      "term_id": 314484,
+      "frequency": 2,
+      "positions": [
+        32,
+        213
+      ]
+    },
+    "italy": {
+      "term_id": 1372,
+      "frequency": 5,
+      "positions": [
+        33,
+        198,
+        208,
+        214,
+        86
+      ]
+    },
+    "business": {
+      "term_id": 1754,
+      "frequency": 2,
+      "positions": [
+        54,
+        72
+      ]
+    },
+    "neighborhood": {
+      "term_id": 5004,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "attending": {
+      "term_id": 21685,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "personal": {
+      "term_id": 829,
+      "frequency": 4,
+      "positions": [
+        124,
+        147,
+        202,
+        17
+      ]
+    },
+    "correspondence": {
+      "term_id": 3550,
+      "frequency": 3,
+      "positions": [
+        125,
+        148,
+        203
+      ]
+    },
+    "maternal": {
+      "term_id": 1710,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "memorable": {
+      "term_id": 47901,
+      "frequency": 3,
+      "positions": [
+        8,
+        120,
+        192
+      ]
+    },
+    "yeoman": {
+      "term_id": 52363,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "woman": {
+      "term_id": 123,
+      "frequency": 1,
+      "positions": [
+        55
+      ]
+    },
+    "memorial": {
+      "term_id": 6638,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "washington": {
+      "term_id": 2362,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "dc": {
+      "term_id": 398,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "grandfather": {
+      "term_id": 50037,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "robbie": {
+      "term_id": 75048,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "doesn": {
+      "term_id": 8754,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "connection": {
+      "term_id": 1129,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "favorite": {
+      "term_id": 17727,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "gehrig": {
+      "term_id": 61043,
+      "frequency": 1,
+      "positions": [
+        136
+      ]
+    },
+    "addition": {
+      "term_id": 131,
+      "frequency": 6,
+      "positions": [
+        6,
+        246,
+        81,
+        48,
+        1,
+        68
+      ]
+    },
+    "picking": {
+      "term_id": 297498,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "although": {
+      "term_id": 116,
+      "frequency": 2,
+      "positions": [
+        26,
+        0
+      ]
+    },
+    "adolescent": {
+      "term_id": 966,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "exceptional": {
+      "term_id": 4456,
+      "frequency": 2,
+      "positions": [
+        55,
+        2
+      ]
+    },
+    "academic": {
+      "term_id": 1758,
+      "frequency": 2,
+      "positions": [
+        56,
+        66
+      ]
+    },
+    "athletic": {
+      "term_id": 20547,
+      "frequency": 3,
+      "positions": [
+        58,
+        141,
+        84
+      ]
+    },
+    "foretold": {
+      "term_id": 130322,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "began": {
+      "term_id": 1424,
+      "frequency": 2,
+      "positions": [
+        68,
+        3
+      ]
+    },
+    "spelling": {
+      "term_id": 170591,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "championship": {
+      "term_id": 39337,
+      "frequency": 2,
+      "positions": [
+        80,
+        105
+      ]
+    },
+    "academically": {
+      "term_id": 48632,
+      "frequency": 2,
+      "positions": [
+        105,
+        10
+      ]
+    },
+    "excellent": {
+      "term_id": 1115,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "musician": {
+      "term_id": 118816,
+      "frequency": 1,
+      "positions": [
+        117
+      ]
+    },
+    "participation": {
+      "term_id": 1821,
+      "frequency": 1,
+      "positions": [
+        128
+      ]
+    },
+    "football": {
+      "term_id": 18457,
+      "frequency": 2,
+      "positions": [
+        149,
+        161
+      ]
+    },
+    "basketball": {
+      "term_id": 71680,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    },
+    "lacrosse": {
+      "term_id": 54360,
+      "frequency": 3,
+      "positions": [
+        152,
+        165,
+        56
+      ]
+    },
+    "defensive": {
+      "term_id": 7074,
+      "frequency": 1,
+      "positions": [
+        155
+      ]
+    },
+    "tremendous": {
+      "term_id": 3186,
+      "frequency": 1,
+      "positions": [
+        191
+      ]
+    },
+    "determination": {
+      "term_id": 684,
+      "frequency": 1,
+      "positions": [
+        194
+      ]
+    },
+    "successful": {
+      "term_id": 628,
+      "frequency": 3,
+      "positions": [
+        199,
+        36,
+        1
+      ]
+    },
+    "thomas": {
+      "term_id": 874,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "massachusetts": {
+      "term_id": 3636,
+      "frequency": 3,
+      "positions": [
+        10,
+        116,
+        202
+      ]
+    },
+    "institute": {
+      "term_id": 302,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "technology": {
+      "term_id": 108,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "mit": {
+      "term_id": 5311,
+      "frequency": 4,
+      "positions": [
+        14,
+        3,
+        65,
+        110
+      ]
+    },
+    "aeronautical": {
+      "term_id": 61567,
+      "frequency": 2,
+      "positions": [
+        18,
+        25
+      ]
+    },
+    "consider": {
+      "term_id": 21,
+      "frequency": 2,
+      "positions": [
+        30,
+        97
+      ]
+    },
+    "biology": {
+      "term_id": 543,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "especially": {
+      "term_id": 316,
+      "frequency": 5,
+      "positions": [
+        5,
+        76,
+        21,
+        191,
+        3
+      ]
+    },
+    "socially": {
+      "term_id": 6613,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "sigma": {
+      "term_id": 1485,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "alpha": {
+      "term_id": 1088,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "epsilon": {
+      "term_id": 10341,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "fraternity": {
+      "term_id": 62006,
+      "frequency": 2,
+      "positions": [
+        18,
+        22
+      ]
+    },
+    "standard": {
+      "term_id": 115,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "all-time": {
+      "term_id": 63393,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "held": {
+      "term_id": 1597,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "semester": {
+      "term_id": 32945,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "hospital": {
+      "term_id": 60,
+      "frequency": 5,
+      "positions": [
+        118,
+        187,
+        204,
+        254,
+        79
+      ]
+    },
+    "phlebotomist": {
+      "term_id": 50125,
+      "frequency": 1,
+      "positions": [
+        121
+      ]
+    },
+    "privilege": {
+      "term_id": 4526,
+      "frequency": 1,
+      "positions": [
+        142
+      ]
+    },
+    "katz": {
+      "term_id": 2957,
+      "frequency": 3,
+      "positions": [
+        148,
+        159,
+        172
+      ]
+    },
+    "throughout": {
+      "term_id": 538,
+      "frequency": 4,
+      "positions": [
+        178,
+        66,
+        44,
+        71
+      ]
+    },
+    "residency": {
+      "term_id": 9122,
+      "frequency": 3,
+      "positions": [
+        210,
+        217,
+        4
+      ]
+    },
+    "intensive": {
+      "term_id": 744,
+      "frequency": 1,
+      "positions": [
+        228
+      ]
+    },
+    "spending": {
+      "term_id": 498172,
+      "frequency": 1,
+      "positions": [
+        236
+      ]
+    },
+    "schedule": {
+      "term_id": 1176,
+      "frequency": 1,
+      "positions": [
+        251
+      ]
+    },
+    "destination": {
+      "term_id": 2195,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "gallup": {
+      "term_id": 34489,
+      "frequency": 3,
+      "positions": [
+        16,
+        46,
+        0
+      ]
+    },
+    "mexico": {
+      "term_id": 2359,
+      "frequency": 2,
+      "positions": [
+        18,
+        4
+      ]
+    },
+    "physician": {
+      "term_id": 300,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "southwest": {
+      "term_id": 6196,
+      "frequency": 3,
+      "positions": [
+        59,
+        68,
+        88
+      ]
+    },
+    "whenever": {
+      "term_id": 2969,
+      "frequency": 2,
+      "positions": [
+        61,
+        188
+      ]
+    },
+    "hbo": {
+      "term_id": 66014,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "indescribable": {
+      "term_id": 822755,
+      "frequency": 1,
+      "positions": [
+        128
+      ]
+    },
+    "earlier": {
+      "term_id": 638,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "interest": {
+      "term_id": 89,
+      "frequency": 3,
+      "positions": [
+        10,
+        55,
+        73
+      ]
+    },
+    "importance": {
+      "term_id": 339,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "prevalent": {
+      "term_id": 1134,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "patient": {
+      "term_id": 2,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "population": {
+      "term_id": 35,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "epidemic": {
+      "term_id": 109,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "intelligence": {
+      "term_id": 4179,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "eis": {
+      "term_id": 16646,
+      "frequency": 2,
+      "positions": [
+        54,
+        92
+      ]
+    },
+    "nantucket": {
+      "term_id": 167387,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "hospital-based": {
+      "term_id": 5781,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "extraordinary": {
+      "term_id": 4622,
+      "frequency": 2,
+      "positions": [
+        4,
+        110
+      ]
+    },
+    "international": {
+      "term_id": 401,
+      "frequency": 7,
+      "positions": [
+        14,
+        25,
+        100,
+        27,
+        53,
+        50,
+        57
+      ]
+    },
+    "poliomyelitis": {
+      "term_id": 4485,
+      "frequency": 4,
+      "positions": [
+        28,
+        86,
+        41,
+        69
+      ]
+    },
+    "regional": {
+      "term_id": 1001,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "greatest": {
+      "term_id": 1299,
+      "frequency": 2,
+      "positions": [
+        71,
+        22
+      ]
+    },
+    "american": {
+      "term_id": 494,
+      "frequency": 6,
+      "positions": [
+        81,
+        5,
+        87,
+        65,
+        81,
+        90
+      ]
+    },
+    "importation": {
+      "term_id": 3892,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "division": {
+      "term_id": 1438,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "associate": {
+      "term_id": 7,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "forefront": {
+      "term_id": 7964,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "vaccinepreventable": {
+      "term_id": 38185,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "tirelessly": {
+      "term_id": 52265,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "devastation": {
+      "term_id": 14603,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "preventable": {
+      "term_id": 4637,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "leadership": {
+      "term_id": 3545,
+      "frequency": 2,
+      "positions": [
+        87,
+        45
+      ]
+    },
+    "coordination": {
+      "term_id": 2173,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "organization": {
+      "term_id": 222,
+      "frequency": 1,
+      "positions": [
+        97
+      ]
+    },
+    "unicef": {
+      "term_id": 10230,
+      "frequency": 3,
+      "positions": [
+        101,
+        45,
+        91
+      ]
+    },
+    "following": {
+      "term_id": 37934,
+      "frequency": 2,
+      "positions": [
+        109,
+        53
+      ]
+    },
+    "polio-endemic": {
+      "term_id": 106702,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "lowest": {
+      "term_id": 1377,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "annually": {
+      "term_id": 1983,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "paralysis": {
+      "term_id": 2753,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "european": {
+      "term_id": 693,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "became": {
+      "term_id": 854,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "polio-free": {
+      "term_id": 48864,
+      "frequency": 2,
+      "positions": [
+        87,
+        102
+      ]
+    },
+    "creation": {
+      "term_id": 2353,
+      "frequency": 2,
+      "positions": [
+        24,
+        68
+      ]
+    },
+    "vaers": {
+      "term_id": 59035,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "datalink": {
+      "term_id": 59034,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "monitoring": {
+      "term_id": 339815,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "visionary": {
+      "term_id": 39099,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "particular": {
+      "term_id": 352,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "foresight": {
+      "term_id": 26740,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "perceive": {
+      "term_id": 557,
+      "frequency": 2,
+      "positions": [
+        19,
+        45
+      ]
+    },
+    "numerous": {
+      "term_id": 670,
+      "frequency": 3,
+      "positions": [
+        10,
+        24,
+        62
+      ]
+    },
+    "together": {
+      "term_id": 365,
+      "frequency": 3,
+      "positions": [
+        16,
+        187,
+        67
+      ]
+    },
+    "superpower": {
+      "term_id": 94552,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "immunodeficiency": {
+      "term_id": 636,
+      "frequency": 2,
+      "positions": [
+        60,
+        63
+      ]
+    },
+    "virus": {
+      "term_id": 3,
+      "frequency": 2,
+      "positions": [
+        61,
+        70
+      ]
+    },
+    "syndrome": {
+      "term_id": 85,
+      "frequency": 2,
+      "positions": [
+        64,
+        75
+      ]
+    },
+    "hiv": {
+      "term_id": 612,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "acute": {
+      "term_id": 100,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "respiratory": {
+      "term_id": 91,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "sars": {
+      "term_id": 292,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "bioterrorism": {
+      "term_id": 3117,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "imperative": {
+      "term_id": 2831,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "globally": {
+      "term_id": 1456,
+      "frequency": 2,
+      "positions": [
+        94,
+        5
+      ]
+    },
+    "effective": {
+      "term_id": 243,
+      "frequency": 2,
+      "positions": [
+        2,
+        28
+      ]
+    },
+    "idealism": {
+      "term_id": 103799,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "biotechnology": {
+      "term_id": 1325,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "naturally": {
+      "term_id": 911,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "pathologic": {
+      "term_id": 2298,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "political": {
+      "term_id": 2291,
+      "frequency": 2,
+      "positions": [
+        24,
+        48
+      ]
+    },
+    "environment": {
+      "term_id": 217,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "plethora": {
+      "term_id": 5139,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "government": {
+      "term_id": 558,
+      "frequency": 2,
+      "positions": [
+        41,
+        64
+      ]
+    },
+    "effectively": {
+      "term_id": 756,
+      "frequency": 2,
+      "positions": [
+        49,
+        3
+      ]
+    },
+    "response": {
+      "term_id": 12,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "poorest": {
+      "term_id": 8837,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "underserved": {
+      "term_id": 18440,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "equality": {
+      "term_id": 10091,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "security": {
+      "term_id": 1769,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "regardless": {
+      "term_id": 1111,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "substantial": {
+      "term_id": 776,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "measurable": {
+      "term_id": 3766,
+      "frequency": 2,
+      "positions": [
+        51,
+        29
+      ]
+    },
+    "positive": {
+      "term_id": 140,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "strategic": {
+      "term_id": 2570,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "blueprint": {
+      "term_id": 8145,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "expansion": {
+      "term_id": 1105,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "under-utilized": {
+      "term_id": 98365,
+      "frequency": 1,
+      "positions": [
+        108
+      ]
+    },
+    "increase": {
+      "term_id": 6,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "combination": {
+      "term_id": 226,
+      "frequency": 2,
+      "positions": [
+        4,
+        53
+      ]
+    },
+    "quantity": {
+      "term_id": 712,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "integrity": {
+      "term_id": 1479,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "subordinate": {
+      "term_id": 14613,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "collaborative": {
+      "term_id": 2162,
+      "frequency": 2,
+      "positions": [
+        40,
+        14
+      ]
+    },
+    "domestic": {
+      "term_id": 983,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "scientific": {
+      "term_id": 681,
+      "frequency": 4,
+      "positions": [
+        56,
+        17,
+        61,
+        18
+      ]
+    },
+    "credibility": {
+      "term_id": 7884,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "operational": {
+      "term_id": 2815,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "willingness": {
+      "term_id": 5043,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "effectiveness": {
+      "term_id": 796,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "anticipate": {
+      "term_id": 1040,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "successfully": {
+      "term_id": 755,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "surveillance": {
+      "term_id": 528,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "influence": {
+      "term_id": 103,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "assignment": {
+      "term_id": 2036,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "funding": {
+      "term_id": 193972,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "traditional": {
+      "term_id": 861,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "foundation": {
+      "term_id": 912,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "buy-in": {
+      "term_id": 46208,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "consensus": {
+      "term_id": 898,
+      "frequency": 2,
+      "positions": [
+        17,
+        82
+      ]
+    },
+    "multiply": {
+      "term_id": 1971,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "motivation": {
+      "term_id": 4015,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "objective": {
+      "term_id": 255,
+      "frequency": 3,
+      "positions": [
+        13,
+        20,
+        50
+      ]
+    },
+    "consistently": {
+      "term_id": 1278,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "necessary": {
+      "term_id": 368,
+      "frequency": 2,
+      "positions": [
+        18,
+        57
+      ]
+    },
+    "information": {
+      "term_id": 223,
+      "frequency": 3,
+      "positions": [
+        21,
+        39,
+        18
+      ]
+    },
+    "impeccable": {
+      "term_id": 121383,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "critical": {
+      "term_id": 286,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "judgment": {
+      "term_id": 3849,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "coauthored": {
+      "term_id": 146474,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "frequently": {
+      "term_id": 511,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "consultant": {
+      "term_id": 3977,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "lecturer": {
+      "term_id": 15692,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "pediatrics": {
+      "term_id": 1603,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "association": {
+      "term_id": 134,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "epidemiological": {
+      "term_id": 598,
+      "frequency": 1,
+      "positions": [
+        91
+      ]
+    },
+    "meritorious": {
+      "term_id": 98937,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "high-level": {
+      "term_id": 4140,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "prestigious": {
+      "term_id": 27914,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "horne": {
+      "term_id": 13477,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "recognition": {
+      "term_id": 568,
+      "frequency": 2,
+      "positions": [
+        42,
+        9
+      ]
+    },
+    "nationally": {
+      "term_id": 5281,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "internationally": {
+      "term_id": 3690,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "shepard": {
+      "term_id": 11164,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "grateful": {
+      "term_id": 3004,
+      "frequency": 2,
+      "positions": [
+        3,
+        4
+      ]
+    },
+    "proud": {
+      "term_id": 9875,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "community": {
+      "term_id": 200,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "treasure": {
+      "term_id": 20677,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "magnitude": {
+      "term_id": 1228,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "ultimate": {
+      "term_id": 2870,
+      "frequency": 2,
+      "positions": [
+        91,
+        102
+      ]
+    },
+    "frisbee": {
+      "term_id": 402409,
+      "frequency": 2,
+      "positions": [
+        92,
+        103
+      ]
+    },
+    "turku": {
+      "term_id": 17647,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "daughter": {
+      "term_id": 5822,
+      "frequency": 1,
+      "positions": [
+        110
+      ]
+    },
+    "kindergarten": {
+      "term_id": 13622,
+      "frequency": 1,
+      "positions": [
+        133
+      ]
+    },
+    "possible": {
+      "term_id": 136,
+      "frequency": 2,
+      "positions": [
+        178,
+        189
+      ]
+    },
+    "difficulty": {
+      "term_id": 669,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "understanding": {
+      "term_id": 8216,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "switzerland": {
+      "term_id": 2376,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "northern": {
+      "term_id": 1395,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "austria": {
+      "term_id": 4498,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "voracious": {
+      "term_id": 112770,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "newspaper": {
+      "term_id": 3605,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "fascination": {
+      "term_id": 37585,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "involvement": {
+      "term_id": 709,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "newest": {
+      "term_id": 11412,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "hartwell": {
+      "term_id": 63137,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "carolina": {
+      "term_id": 3762,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "learning": {
+      "term_id": 84761,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "publication": {
+      "term_id": 655,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "ligon": {
+      "term_id": 36947,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "cohesive": {
+      "term_id": 14706,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.503990",
+    "sections_count": 35
+  }
+}

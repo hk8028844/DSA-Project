@@ -1,0 +1,1069 @@
+{
+  "document_id": "00a00d0edc750db4a0c299dd1ec0c6871f5a4f24",
+  "source_type": "pdf_json",
+  "file_name": "00a00d0edc750db4a0c299dd1ec0c6871f5a4f24.json",
+  "total_terms": 187,
+  "unique_terms": 132,
+  "sections": {
+    "title": {
+      "term_count": 0,
+      "char_length": 0,
+      "top_terms": {}
+    },
+    "Editorial": {
+      "term_count": 12,
+      "char_length": 304,
+      "top_terms": {
+        "non-commercial": 2,
+        "creative": 1,
+        "attribution": 1,
+        "creativecommons": 1,
+        "org": 1,
+        "bync": 1,
+        "unrestricted": 1,
+        "distribution": 1,
+        "reproduction": 1,
+        "original": 1,
+        "properly": 1
+      }
+    },
+    "ⓒ 2015 The Korean Society of Medical Informatics": {
+      "term_count": 84,
+      "char_length": 2223,
+      "top_terms": {
+        "epidemic": 4,
+        "mers": 3,
+        "ebola": 3,
+        "information": 3,
+        "respiratory": 2,
+        "syndrome": 2,
+        "korea": 2,
+        "informatics": 2,
+        "nedss": 2,
+        "cell": 2,
+        "organization": 1,
+        "wakeup": 1,
+        "acute": 1,
+        "sars": 1,
+        "continue": 1,
+        "anywhere": 1,
+        "retrospect": 1,
+        "regrettable": 1,
+        "invasion": 1,
+        "largest": 1
+      }
+    },
+    "What Digital Systems Should Do for Medicine": {
+      "term_count": 91,
+      "char_length": 3921,
+      "top_terms": {
+        "mers": 9,
+        "medicine": 8,
+        "technology": 5,
+        "informatics": 4,
+        "epidemic": 3,
+        "hospital": 3,
+        "tuberculosis": 2,
+        "infection": 2,
+        "korea": 2,
+        "analog": 2,
+        "principle": 2,
+        "outbreak": 1,
+        "headline": 1,
+        "mortality": 1,
+        "fingernail": 1,
+        "bleeding": 1,
+        "probable": 1,
+        "became": 1,
+        "nosocomial": 1,
+        "surprise": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "creative": {
+      "term_id": 5478,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "attribution": {
+      "term_id": 6954,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "non-commercial": {
+      "term_id": 20032,
+      "frequency": 2,
+      "positions": [
+        15,
+        25
+      ]
+    },
+    "creativecommons": {
+      "term_id": 10264,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "org": {
+      "term_id": 859,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "bync": {
+      "term_id": 300267,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "unrestricted": {
+      "term_id": 5286,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "distribution": {
+      "term_id": 219,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "reproduction": {
+      "term_id": 1801,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "original": {
+      "term_id": 775,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "properly": {
+      "term_id": 1799,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "respiratory": {
+      "term_id": 91,
+      "frequency": 2,
+      "positions": [
+        3,
+        41
+      ]
+    },
+    "syndrome": {
+      "term_id": 85,
+      "frequency": 2,
+      "positions": [
+        4,
+        42
+      ]
+    },
+    "mers": {
+      "term_id": 1415,
+      "frequency": 12,
+      "positions": [
+        5,
+        32,
+        88,
+        2,
+        16,
+        25,
+        4,
+        42,
+        125,
+        134,
+        85,
+        94
+      ]
+    },
+    "korea": {
+      "term_id": 1271,
+      "frequency": 4,
+      "positions": [
+        8,
+        56,
+        44,
+        1
+      ]
+    },
+    "organization": {
+      "term_id": 222,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "wakeup": {
+      "term_id": 110990,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "acute": {
+      "term_id": 100,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "sars": {
+      "term_id": 292,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "epidemic": {
+      "term_id": 109,
+      "frequency": 7,
+      "positions": [
+        49,
+        98,
+        2,
+        83,
+        3,
+        126,
+        132
+      ]
+    },
+    "continue": {
+      "term_id": 110,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "anywhere": {
+      "term_id": 5090,
+      "frequency": 1,
+      "positions": [
+        55
+      ]
+    },
+    "retrospect": {
+      "term_id": 10169,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "regrettable": {
+      "term_id": 93288,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "informatics": {
+      "term_id": 5524,
+      "frequency": 6,
+      "positions": [
+        80,
+        34,
+        116,
+        3,
+        124,
+        23
+      ]
+    },
+    "invasion": {
+      "term_id": 1293,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "ebola": {
+      "term_id": 1023,
+      "frequency": 3,
+      "positions": [
+        1,
+        52,
+        76
+      ]
+    },
+    "largest": {
+      "term_id": 979,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "outbreak": {
+      "term_id": 29,
+      "frequency": 2,
+      "positions": [
+        8,
+        4
+      ]
+    },
+    "africa": {
+      "term_id": 950,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "inadequate": {
+      "term_id": 1615,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "emergency": {
+      "term_id": 453,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "response": {
+      "term_id": 12,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "effective": {
+      "term_id": 243,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "research": {
+      "term_id": 130,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "development": {
+      "term_id": 98,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "others": {
+      "term_id": 451,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "strongly": {
+      "term_id": 634,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "innovate": {
+      "term_id": 14587,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "radically": {
+      "term_id": 9474,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "previous": {
+      "term_id": 267,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "simultaneous": {
+      "term_id": 1227,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "parallel": {
+      "term_id": 804,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "difficult": {
+      "term_id": 439,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "outdated": {
+      "term_id": 12785,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "therapeutic": {
+      "term_id": 197,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "irrelevant": {
+      "term_id": 4708,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "information": {
+      "term_id": 223,
+      "frequency": 3,
+      "positions": [
+        8,
+        40,
+        49
+      ]
+    },
+    "untimely": {
+      "term_id": 52495,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "communication": {
+      "term_id": 626,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "decision-making": {
+      "term_id": 3344,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "uncoordinated": {
+      "term_id": 19700,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "leadership": {
+      "term_id": 3545,
+      "frequency": 2,
+      "positions": [
+        17,
+        117
+      ]
+    },
+    "unreasonable": {
+      "term_id": 13506,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "behavior": {
+      "term_id": 513,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "recom": {
+      "term_id": 40226,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "tems": {
+      "term_id": 48636,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "nedss": {
+      "term_id": 118162,
+      "frequency": 2,
+      "positions": [
+        28,
+        94
+      ]
+    },
+    "infrastructure": {
+      "term_id": 1722,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "HL7": {
+      "term_id": 70235,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "loinc": {
+      "term_id": 129019,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "SNOMED-CT": {
+      "term_id": 219277,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "US-CDC": {
+      "term_id": 186353,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "reinvent": {
+      "term_id": 26850,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "connection": {
+      "term_id": 1129,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "disease": {
+      "term_id": 8,
+      "frequency": 2,
+      "positions": [
+        85,
+        58
+      ]
+    },
+    "surveillance": {
+      "term_id": 528,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "relatively": {
+      "term_id": 390,
+      "frequency": 1,
+      "positions": [
+        90
+      ]
+    },
+    "cell": {
+      "term_id": 1,
+      "frequency": 2,
+      "positions": [
+        97,
+        120
+      ]
+    },
+    "instantly": {
+      "term_id": 18589,
+      "frequency": 1,
+      "positions": [
+        103
+      ]
+    },
+    "establish": {
+      "term_id": 54,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "real-time": {
+      "term_id": 811,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "patient": {
+      "term_id": 2,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "tuple": {
+      "term_id": 94942,
+      "frequency": 1,
+      "positions": [
+        112
+      ]
+    },
+    "location": {
+      "term_id": 337,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "temperature": {
+      "term_id": 232,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "suspicious": {
+      "term_id": 6035,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "departure": {
+      "term_id": 6137,
+      "frequency": 1,
+      "positions": [
+        133
+      ]
+    },
+    "healthcare": {
+      "term_id": 736,
+      "frequency": 2,
+      "positions": [
+        141,
+        70
+      ]
+    },
+    "headline": {
+      "term_id": 8337,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "tuberculosis": {
+      "term_id": 1082,
+      "frequency": 2,
+      "positions": [
+        18,
+        31
+      ]
+    },
+    "mortality": {
+      "term_id": 320,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "fingernail": {
+      "term_id": 29383,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "bleeding": {
+      "term_id": 26565,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "probable": {
+      "term_id": 1158,
+      "frequency": 1,
+      "positions": [
+        105
+      ]
+    },
+    "hospital": {
+      "term_id": 60,
+      "frequency": 3,
+      "positions": [
+        1,
+        33,
+        52
+      ]
+    },
+    "became": {
+      "term_id": 854,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "nosocomial": {
+      "term_id": 1448,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "infection": {
+      "term_id": 4,
+      "frequency": 2,
+      "positions": [
+        11,
+        97
+      ]
+    },
+    "surprise": {
+      "term_id": 1069,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "understand": {
+      "term_id": 56,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "professionalism": {
+      "term_id": 15603,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "unexpected": {
+      "term_id": 1521,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "fashionable": {
+      "term_id": 55718,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "data-mine": {
+      "term_id": 68861,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "diagnosis": {
+      "term_id": 325,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "prescription": {
+      "term_id": 1881,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "personal": {
+      "term_id": 829,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "uncertain": {
+      "term_id": 1878,
+      "frequency": 1,
+      "positions": [
+        145
+      ]
+    },
+    "standing": {
+      "term_id": 304622,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "medicine": {
+      "term_id": 238,
+      "frequency": 8,
+      "positions": [
+        17,
+        52,
+        113,
+        31,
+        40,
+        64,
+        121,
+        113
+      ]
+    },
+    "successful": {
+      "term_id": 628,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "especially": {
+      "term_id": 316,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "eventu-ally": {
+      "term_id": 567481,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "wonderful": {
+      "term_id": 25360,
+      "frequency": 1,
+      "positions": [
+        90
+      ]
+    },
+    "scientific": {
+      "term_id": 681,
+      "frequency": 1,
+      "positions": [
+        91
+      ]
+    },
+    "clinical": {
+      "term_id": 107,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "expertise": {
+      "term_id": 2198,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "important": {
+      "term_id": 106,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "technology": {
+      "term_id": 108,
+      "frequency": 5,
+      "positions": [
+        110,
+        34,
+        55,
+        72,
+        105
+      ]
+    },
+    "opposite": {
+      "term_id": 1880,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "complete": {
+      "term_id": 128,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "similarly": {
+      "term_id": 522,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "analog": {
+      "term_id": 1019,
+      "frequency": 2,
+      "positions": [
+        30,
+        116
+      ]
+    },
+    "oldfashioned": {
+      "term_id": 354215,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "humanistic": {
+      "term_id": 41604,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "managerial": {
+      "term_id": 11729,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "overload": {
+      "term_id": 4190,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "single-eyed": {
+      "term_id": 567482,
+      "frequency": 1,
+      "positions": [
+        80
+      ]
+    },
+    "mythology": {
+      "term_id": 61900,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "Two-eyed": {
+      "term_id": 567483,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "informaticians": {
+      "term_id": 108960,
+      "frequency": 1,
+      "positions": [
+        103
+      ]
+    },
+    "mountain": {
+      "term_id": 3085,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "carefully": {
+      "term_id": 1533,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "biological": {
+      "term_id": 378,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "feodosia": {
+      "term_id": 354216,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "ukraine": {
+      "term_id": 13394,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "throughout": {
+      "term_id": 538,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "europe": {
+      "term_id": 812,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "principle": {
+      "term_id": 351,
+      "frequency": 2,
+      "positions": [
+        89,
+        110
+      ]
+    },
+    "pandemic": {
+      "term_id": 291,
+      "frequency": 1,
+      "positions": [
+        134
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.261077",
+    "sections_count": 10
+  }
+}

@@ -1,0 +1,1484 @@
+{
+  "document_id": "00bbc69b846d083f62be3f1fee311380526f5df6",
+  "source_type": "pdf_json",
+  "file_name": "00bbc69b846d083f62be3f1fee311380526f5df6.json",
+  "total_terms": 315,
+  "unique_terms": 187,
+  "sections": {
+    "title": {
+      "term_count": 0,
+      "char_length": 0,
+      "top_terms": {}
+    },
+    "": {
+      "term_count": 315,
+      "char_length": 3515,
+      "top_terms": {
+        "influenza": 10,
+        "dat": 10,
+        "voor": 8,
+        "een": 7,
+        "niet": 7,
+        "influenzaperiode": 6,
+        "mortaliteit": 5,
+        "bij": 5,
+        "gevaccineerden": 5,
+        "mensen": 5,
+        "als": 4,
+        "op": 4,
+        "niet-gevaccineerden": 4,
+        "influenzavirus": 4,
+        "tijdens": 4,
+        "doden": 4,
+        "zijn": 3,
+        "naar": 3,
+        "waarin": 3,
+        "veel": 3
+      }
+    }
+  },
+  "term_frequencies": {
+    "probleem": {
+      "term_id": 42917,
+      "frequency": 2,
+      "positions": [
+        1,
+        1
+      ]
+    },
+    "influenza": {
+      "term_id": 221,
+      "frequency": 10,
+      "positions": [
+        3,
+        15,
+        24,
+        43,
+        63,
+        136,
+        255,
+        293,
+        310,
+        13
+      ]
+    },
+    "dat": {
+      "term_id": 9523,
+      "frequency": 10,
+      "positions": [
+        5,
+        10,
+        58,
+        115,
+        65,
+        88,
+        145,
+        164,
+        181,
+        15
+      ]
+    },
+    "een": {
+      "term_id": 16001,
+      "frequency": 7,
+      "positions": [
+        7,
+        46,
+        75,
+        1,
+        71,
+        210,
+        217
+      ]
+    },
+    "syndroom": {
+      "term_id": 43455,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "niet": {
+      "term_id": 21307,
+      "frequency": 7,
+      "positions": [
+        11,
+        48,
+        94,
+        116,
+        103,
+        134,
+        297
+      ]
+    },
+    "specifiek": {
+      "term_id": 44019,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "voor": {
+      "term_id": 13766,
+      "frequency": 8,
+      "positions": [
+        14,
+        4,
+        105,
+        112,
+        209,
+        222,
+        265,
+        276
+      ]
+    },
+    "omdat": {
+      "term_id": 28489,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "meerdere": {
+      "term_id": 43453,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "micro-organismen": {
+      "term_id": 45867,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "influenza-achtige": {
+      "term_id": 168984,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "ziektebeelden": {
+      "term_id": 50866,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "kunnen": {
+      "term_id": 24248,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "veroorzaken": {
+      "term_id": 38064,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "coronavirus": {
+      "term_id": 93,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "parainfluenza": {
+      "term_id": 1045,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "rhinovirussen": {
+      "term_id": 710503,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "respiratoir": {
+      "term_id": 68570,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "syncytiaal": {
+      "term_id": 710504,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "virus": {
+      "term_id": 3,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "voorts": {
+      "term_id": 113069,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "mortaliteit": {
+      "term_id": 50087,
+      "frequency": 5,
+      "positions": [
+        38,
+        152,
+        197,
+        308,
+        17
+      ]
+    },
+    "als": {
+      "term_id": 343620,
+      "frequency": 4,
+      "positions": [
+        39,
+        0,
+        97,
+        313
+      ]
+    },
+    "eindpunt": {
+      "term_id": 330693,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "gering": {
+      "term_id": 27408,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "zodat": {
+      "term_id": 38495,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "vaccinatieeffect": {
+      "term_id": 710505,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "gemakkelijk": {
+      "term_id": 53344,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "aantoonbaar": {
+      "term_id": 68587,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "toch": {
+      "term_id": 38964,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "wil": {
+      "term_id": 30201,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "gaarne": {
+      "term_id": 710506,
+      "frequency": 1,
+      "positions": [
+        55
+      ]
+    },
+    "zekerheid": {
+      "term_id": 70142,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "hebben": {
+      "term_id": 23314,
+      "frequency": 2,
+      "positions": [
+        57,
+        70
+      ]
+    },
+    "gelden": {
+      "term_id": 83806,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "aangewend": {
+      "term_id": 392437,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "voorkomen": {
+      "term_id": 27433,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "besteed": {
+      "term_id": 97610,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "zijn": {
+      "term_id": 22308,
+      "frequency": 3,
+      "positions": [
+        68,
+        48,
+        74
+      ]
+    },
+    "daarom": {
+      "term_id": 36045,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "armstrong": {
+      "term_id": 3208,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "et": {
+      "term_id": 191,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "op": {
+      "term_id": 6537,
+      "frequency": 4,
+      "positions": [
+        74,
+        234,
+        238,
+        256
+      ]
+    },
+    "andere": {
+      "term_id": 11073,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "manier": {
+      "term_id": 47182,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "gebruikelijk": {
+      "term_id": 108680,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "naar": {
+      "term_id": 21658,
+      "frequency": 3,
+      "positions": [
+        80,
+        54,
+        7
+      ]
+    },
+    "influenzavaccinatie": {
+      "term_id": 180752,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "gekeken": {
+      "term_id": 104722,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "namelijk": {
+      "term_id": 58222,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "toename": {
+      "term_id": 47183,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "sterfte": {
+      "term_id": 57161,
+      "frequency": 2,
+      "positions": [
+        92,
+        109
+      ]
+    },
+    "optreedt": {
+      "term_id": 49320,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "bij": {
+      "term_id": 16056,
+      "frequency": 5,
+      "positions": [
+        96,
+        102,
+        139,
+        153,
+        160
+      ]
+    },
+    "gevaccineerden": {
+      "term_id": 288010,
+      "frequency": 5,
+      "positions": [
+        97,
+        155,
+        185,
+        237,
+        268
+      ]
+    },
+    "vergelijken": {
+      "term_id": 149763,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "niet-gevaccineerden": {
+      "term_id": 288011,
+      "frequency": 4,
+      "positions": [
+        103,
+        162,
+        190,
+        233
+      ]
+    },
+    "gedurende": {
+      "term_id": 37247,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "perioden": {
+      "term_id": 65616,
+      "frequency": 2,
+      "positions": [
+        105,
+        113
+      ]
+    },
+    "waarin": {
+      "term_id": 33875,
+      "frequency": 3,
+      "positions": [
+        106,
+        114,
+        22
+      ]
+    },
+    "veel": {
+      "term_id": 24862,
+      "frequency": 3,
+      "positions": [
+        108,
+        156,
+        200
+      ]
+    },
+    "influenzavirus": {
+      "term_id": 10576,
+      "frequency": 4,
+      "positions": [
+        109,
+        10,
+        24,
+        263
+      ]
+    },
+    "circuleert": {
+      "term_id": 158763,
+      "frequency": 1,
+      "positions": [
+        110
+      ]
+    },
+    "onderzoek": {
+      "term_id": 22003,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "omvatte": {
+      "term_id": 330267,
+      "frequency": 1,
+      "positions": [
+        121
+      ]
+    },
+    "mensen": {
+      "term_id": 27524,
+      "frequency": 5,
+      "positions": [
+        122,
+        45,
+        114,
+        221,
+        278
+      ]
+    },
+    "jaar": {
+      "term_id": 26598,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "ouder": {
+      "term_id": 52460,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "huisartspraktijken": {
+      "term_id": 710507,
+      "frequency": 1,
+      "positions": [
+        128
+      ]
+    },
+    "vond": {
+      "term_id": 94469,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "plaats": {
+      "term_id": 28488,
+      "frequency": 1,
+      "positions": [
+        131
+      ]
+    },
+    "januari": {
+      "term_id": 88728,
+      "frequency": 1,
+      "positions": [
+        133
+      ]
+    },
+    "augustus": {
+      "term_id": 67615,
+      "frequency": 1,
+      "positions": [
+        135
+      ]
+    },
+    "wekelijkse": {
+      "term_id": 330617,
+      "frequency": 2,
+      "positions": [
+        2,
+        39
+      ]
+    },
+    "maat": {
+      "term_id": 51585,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "populatie": {
+      "term_id": 57162,
+      "frequency": 2,
+      "positions": [
+        8,
+        81
+      ]
+    },
+    "circulerend": {
+      "term_id": 158764,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "A-H3N2": {
+      "term_id": 262244,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "overheersende": {
+      "term_id": 288012,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "werden": {
+      "term_id": 9243,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "hoeveelheden": {
+      "term_id": 70153,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "klinische": {
+      "term_id": 12016,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "specimina": {
+      "term_id": 288013,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "gebruikt": {
+      "term_id": 33527,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "aanwezig": {
+      "term_id": 35653,
+      "frequency": 2,
+      "positions": [
+        25,
+        169
+      ]
+    },
+    "zoals": {
+      "term_id": 25692,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "opgegeven": {
+      "term_id": 231556,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "uk": {
+      "term_id": 849,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "laboratory": {
+      "term_id": 70,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "uiteraard": {
+      "term_id": 47884,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "zullen": {
+      "term_id": 47193,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "aantallen": {
+      "term_id": 71780,
+      "frequency": 3,
+      "positions": [
+        40,
+        43,
+        287
+      ]
+    },
+    "werkelijke": {
+      "term_id": 113076,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "nfecteerd": {
+      "term_id": 330637,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "onderschatten": {
+      "term_id": 330694,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "maar": {
+      "term_id": 21565,
+      "frequency": 3,
+      "positions": [
+        50,
+        110,
+        296
+      ]
+    },
+    "deze": {
+      "term_id": 23027,
+      "frequency": 3,
+      "positions": [
+        51,
+        66,
+        123
+      ]
+    },
+    "onderschatting": {
+      "term_id": 330695,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "werd": {
+      "term_id": 32267,
+      "frequency": 2,
+      "positions": [
+        55,
+        126
+      ]
+    },
+    "aangenomen": {
+      "term_id": 88811,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "constant": {
+      "term_id": 749,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "tijdens": {
+      "term_id": 29680,
+      "frequency": 4,
+      "positions": [
+        58,
+        94,
+        202,
+        229
+      ]
+    },
+    "onderzoeksperiode": {
+      "term_id": 485605,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "onderzoekers": {
+      "term_id": 88769,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "nemen": {
+      "term_id": 32881,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "aan": {
+      "term_id": 16864,
+      "frequency": 3,
+      "positions": [
+        64,
+        254,
+        292
+      ]
+    },
+    "tellingen": {
+      "term_id": 330696,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "positieve": {
+      "term_id": 42361,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "laboratoriumuitslagen": {
+      "term_id": 180772,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "goede": {
+      "term_id": 16865,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "afspiegeling": {
+      "term_id": 485606,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "aantal": {
+      "term_id": 27036,
+      "frequency": 3,
+      "positions": [
+        77,
+        86,
+        245
+      ]
+    },
+    "influenzagevallen": {
+      "term_id": 710508,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "daarnaast": {
+      "term_id": 37244,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "kwantificeerden": {
+      "term_id": 710509,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "zij": {
+      "term_id": 30773,
+      "frequency": 2,
+      "positions": [
+        84,
+        100
+      ]
+    },
+    "doden": {
+      "term_id": 88783,
+      "frequency": 4,
+      "positions": [
+        87,
+        150,
+        250,
+        288
+      ]
+    },
+    "optrad": {
+      "term_id": 194956,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "onderzoekspopulatie": {
+      "term_id": 485607,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "zowel": {
+      "term_id": 32269,
+      "frequency": 2,
+      "positions": [
+        93,
+        311
+      ]
+    },
+    "influenzaperiode": {
+      "term_id": 710510,
+      "frequency": 6,
+      "positions": [
+        96,
+        173,
+        204,
+        231,
+        242,
+        316
+      ]
+    },
+    "ook": {
+      "term_id": 21679,
+      "frequency": 3,
+      "positions": [
+        98,
+        111,
+        167
+      ]
+    },
+    "daarbuiten": {
+      "term_id": 169013,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "deden": {
+      "term_id": 180773,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "alleen": {
+      "term_id": 27246,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "gevallen": {
+      "term_id": 31061,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "subgroepen": {
+      "term_id": 194957,
+      "frequency": 2,
+      "positions": [
+        113,
+        274
+      ]
+    },
+    "respectievelijk": {
+      "term_id": 59305,
+      "frequency": 3,
+      "positions": [
+        116,
+        246,
+        269
+      ]
+    },
+    "cardiovasculaire": {
+      "term_id": 48603,
+      "frequency": 2,
+      "positions": [
+        117,
+        280
+      ]
+    },
+    "respiratoire": {
+      "term_id": 9082,
+      "frequency": 2,
+      "positions": [
+        118,
+        282
+      ]
+    },
+    "overige": {
+      "term_id": 51652,
+      "frequency": 2,
+      "positions": [
+        120,
+        301
+      ]
+    },
+    "aandoeningen": {
+      "term_id": 33879,
+      "frequency": 3,
+      "positions": [
+        121,
+        283,
+        302
+      ]
+    },
+    "binnen": {
+      "term_id": 25199,
+      "frequency": 3,
+      "positions": [
+        122,
+        271,
+        312
+      ]
+    },
+    "groepen": {
+      "term_id": 43451,
+      "frequency": 1,
+      "positions": [
+        125
+      ]
+    },
+    "vervolgens": {
+      "term_id": 38062,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "nagegaan": {
+      "term_id": 104689,
+      "frequency": 1,
+      "positions": [
+        128
+      ]
+    },
+    "overledenen": {
+      "term_id": 231557,
+      "frequency": 1,
+      "positions": [
+        131
+      ]
+    },
+    "wel": {
+      "term_id": 20279,
+      "frequency": 1,
+      "positions": [
+        132
+      ]
+    },
+    "tegen": {
+      "term_id": 27842,
+      "frequency": 2,
+      "positions": [
+        135,
+        12
+      ]
+    },
+    "gevaccineerd": {
+      "term_id": 62890,
+      "frequency": 1,
+      "positions": [
+        137
+      ]
+    },
+    "waren": {
+      "term_id": 15893,
+      "frequency": 3,
+      "positions": [
+        138,
+        187,
+        275
+      ]
+    },
+    "resultaten": {
+      "term_id": 52567,
+      "frequency": 1,
+      "positions": [
+        143
+      ]
+    },
+    "bleek": {
+      "term_id": 26325,
+      "frequency": 1,
+      "positions": [
+        144
+      ]
+    },
+    "groep": {
+      "term_id": 33808,
+      "frequency": 2,
+      "positions": [
+        148,
+        300
+      ]
+    },
+    "verschil": {
+      "term_id": 59307,
+      "frequency": 2,
+      "positions": [
+        166,
+        195
+      ]
+    },
+    "buiten": {
+      "term_id": 21195,
+      "frequency": 3,
+      "positions": [
+        171,
+        240,
+        314
+      ]
+    },
+    "aandachtige": {
+      "term_id": 710511,
+      "frequency": 1,
+      "positions": [
+        175
+      ]
+    },
+    "lezer": {
+      "term_id": 134844,
+      "frequency": 1,
+      "positions": [
+        176
+      ]
+    },
+    "zal": {
+      "term_id": 25805,
+      "frequency": 1,
+      "positions": [
+        177
+      ]
+    },
+    "nu": {
+      "term_id": 7481,
+      "frequency": 1,
+      "positions": [
+        178
+      ]
+    },
+    "meteen": {
+      "term_id": 113044,
+      "frequency": 1,
+      "positions": [
+        179
+      ]
+    },
+    "opmerken": {
+      "term_id": 287984,
+      "frequency": 1,
+      "positions": [
+        180
+      ]
+    },
+    "kennelijk": {
+      "term_id": 141869,
+      "frequency": 1,
+      "positions": [
+        183
+      ]
+    },
+    "gezonder": {
+      "term_id": 256241,
+      "frequency": 1,
+      "positions": [
+        186
+      ]
+    },
+    "indication": {
+      "term_id": 715,
+      "frequency": 1,
+      "positions": [
+        193
+      ]
+    },
+    "echter": {
+      "term_id": 30513,
+      "frequency": 1,
+      "positions": [
+        199
+      ]
+    },
+    "groter": {
+      "term_id": 43450,
+      "frequency": 2,
+      "positions": [
+        201,
+        295
+      ]
+    },
+    "daarna": {
+      "term_id": 40323,
+      "frequency": 1,
+      "positions": [
+        206
+      ]
+    },
+    "hetgeen": {
+      "term_id": 97573,
+      "frequency": 1,
+      "positions": [
+        207
+      ]
+    },
+    "pleit": {
+      "term_id": 108685,
+      "frequency": 1,
+      "positions": [
+        208
+      ]
+    },
+    "vaccinatie": {
+      "term_id": 41835,
+      "frequency": 3,
+      "positions": [
+        214,
+        223,
+        11
+      ]
+    },
+    "onafhankelijk": {
+      "term_id": 117817,
+      "frequency": 1,
+      "positions": [
+        215
+      ]
+    },
+    "eventuele": {
+      "term_id": 43456,
+      "frequency": 1,
+      "positions": [
+        218
+      ]
+    },
+    "selectie": {
+      "term_id": 134787,
+      "frequency": 1,
+      "positions": [
+        219
+      ]
+    },
+    "enkele": {
+      "term_id": 31063,
+      "frequency": 1,
+      "positions": [
+        224
+      ]
+    },
+    "getallen": {
+      "term_id": 194958,
+      "frequency": 1,
+      "positions": [
+        225
+      ]
+    },
+    "moge": {
+      "term_id": 207698,
+      "frequency": 1,
+      "positions": [
+        226
+      ]
+    },
+    "onderbouwen": {
+      "term_id": 485608,
+      "frequency": 1,
+      "positions": [
+        228
+      ]
+    },
+    "stierven": {
+      "term_id": 231558,
+      "frequency": 1,
+      "positions": [
+        232
+      ]
+    },
+    "jaarbasis": {
+      "term_id": 330697,
+      "frequency": 2,
+      "positions": [
+        235,
+        239
+      ]
+    },
+    "percentage": {
+      "term_id": 517,
+      "frequency": 1,
+      "positions": [
+        249
+      ]
+    },
+    "schrijven": {
+      "term_id": 79347,
+      "frequency": 2,
+      "positions": [
+        253,
+        291
+      ]
+    },
+    "hoogtepunt": {
+      "term_id": 194889,
+      "frequency": 1,
+      "positions": [
+        258
+      ]
+    },
+    "circulerende": {
+      "term_id": 86251,
+      "frequency": 1,
+      "positions": [
+        261
+      ]
+    },
+    "hoeveelheid": {
+      "term_id": 61651,
+      "frequency": 1,
+      "positions": [
+        262
+      ]
+    },
+    "nietgevaccineerden": {
+      "term_id": 710512,
+      "frequency": 1,
+      "positions": [
+        266
+      ]
+    },
+    "drie": {
+      "term_id": 26617,
+      "frequency": 1,
+      "positions": [
+        273
+      ]
+    },
+    "verschillen": {
+      "term_id": 44020,
+      "frequency": 1,
+      "positions": [
+        285
+      ]
+    },
+    "daarin": {
+      "term_id": 79363,
+      "frequency": 1,
+      "positions": [
+        303
+      ]
+    },
+    "geen": {
+      "term_id": 23176,
+      "frequency": 1,
+      "positions": [
+        305
+      ]
+    },
+    "associatie": {
+      "term_id": 94502,
+      "frequency": 1,
+      "positions": [
+        306
+      ]
+    },
+    "tussen": {
+      "term_id": 26796,
+      "frequency": 1,
+      "positions": [
+        307
+      ]
+    },
+    "gebruikelijke": {
+      "term_id": 77338,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "gerandomiseerde": {
+      "term_id": 392438,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "onderzoeken": {
+      "term_id": 44018,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "laag": {
+      "term_id": 42912,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.566099",
+    "sections_count": 4
+  }
+}

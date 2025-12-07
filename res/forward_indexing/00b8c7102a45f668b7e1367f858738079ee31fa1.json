@@ -1,0 +1,2720 @@
+{
+  "document_id": "00b8c7102a45f668b7e1367f858738079ee31fa1",
+  "source_type": "pdf_json",
+  "file_name": "00b8c7102a45f668b7e1367f858738079ee31fa1.json",
+  "total_terms": 645,
+  "unique_terms": 273,
+  "sections": {
+    "title": {
+      "term_count": 10,
+      "char_length": 149,
+      "top_terms": {
+        "quantitative": 1,
+        "analysis": 1,
+        "chromatographic": 1,
+        "fingerprinting": 1,
+        "evaluation": 1,
+        "scutellaria": 1,
+        "baicalensis": 1,
+        "georgi": 1,
+        "capillary": 1,
+        "electrophoresis": 1
+      }
+    },
+    "abstract": {
+      "term_count": 47,
+      "char_length": 1213,
+      "top_terms": {
+        "analysis": 3,
+        "mm": 3,
+        "quantitative": 2,
+        "evaluation": 2,
+        "baicalensis": 2,
+        "capillary": 2,
+        "separation": 2,
+        "cm": 2,
+        "condition": 2,
+        "baicalin": 2,
+        "baicalein": 2,
+        "wogonin": 2,
+        "respectively": 2,
+        "chromatographic": 1,
+        "fingerprinting": 1,
+        "scutellaria": 1,
+        "georgi": 1,
+        "electrophoresis": 1,
+        "technique": 1,
+        "detector": 1
+      }
+    },
+    "Introduction": {
+      "term_count": 162,
+      "char_length": 5049,
+      "top_terms": {
+        "evaluation": 9,
+        "analysis": 5,
+        "chromatographic": 5,
+        "fingerprinting": 5,
+        "technique": 5,
+        "chemical": 4,
+        "baicalensis": 4,
+        "baicalin": 4,
+        "efficacy": 3,
+        "medicine": 3,
+        "separation": 3,
+        "baicalein": 3,
+        "wogonin": 3,
+        "quantitative": 3,
+        "practice": 2,
+        "quantification": 2,
+        "therapeutic": 2,
+        "chromatography": 2,
+        "commonly": 2,
+        "resolution": 2
+      }
+    },
+    "Instrumentation": {
+      "term_count": 33,
+      "char_length": 680,
+      "top_terms": {
+        "agilent": 2,
+        "detector": 2,
+        "capillary": 2,
+        "cm": 2,
+        "similarity": 2,
+        "hp": 1,
+        "waldbronn": 1,
+        "germany": 1,
+        "diode-array": 1,
+        "instrumental": 1,
+        "acquisition": 1,
+        "chemstation": 1,
+        "software": 1,
+        "electrophoresis": 1,
+        "fused-silica": 1,
+        "yongnian": 1,
+        "photoconductive": 1,
+        "hebei": 1,
+        "matlab": 1,
+        "mathworks": 1
+      }
+    },
+    "Chemicals": {
+      "term_count": 33,
+      "char_length": 850,
+      "top_terms": {
+        "standard": 2,
+        "methanol": 2,
+        "merck": 2,
+        "usa": 2,
+        "analytical": 2,
+        "baicalin": 1,
+        "baicalein": 1,
+        "wogonin": 1,
+        "national": 1,
+        "institute": 1,
+        "pharmaceutical": 1,
+        "biological": 1,
+        "beijing": 1,
+        "darmstadt": 1,
+        "germany": 1,
+        "appropriate": 1,
+        "sulphate": 1,
+        "sigma": 1,
+        "acetonitrile": 1,
+        "propanol": 1
+      }
+    },
+    "Materials": {
+      "term_count": 18,
+      "char_length": 481,
+      "top_terms": {
+        "associate": 2,
+        "thirty-four": 1,
+        "different": 1,
+        "professor": 1,
+        "xiao": 1,
+        "pharmacist": 1,
+        "zhang": 1,
+        "national": 1,
+        "institute": 1,
+        "pharmaceutical": 1,
+        "biological": 1,
+        "morphological": 1,
+        "laboratory": 1,
+        "department": 1,
+        "medicine": 1,
+        "zhejiang": 1,
+        "university": 1
+      }
+    },
+    "Sample preparation": {
+      "term_count": 14,
+      "char_length": 590,
+      "top_terms": {
+        "ml": 2,
+        "solution": 2,
+        "ultrasonic": 1,
+        "together": 1,
+        "analytical": 1,
+        "centrifugation": 1,
+        "rpm": 1,
+        "supernatant": 1,
+        "protocol": 1,
+        "analysis": 1,
+        "ultrasonically": 1,
+        "injection": 1
+      }
+    },
+    "Electrophoretic procedures": {
+      "term_count": 18,
+      "char_length": 859,
+      "top_terms": {
+        "naoh": 5,
+        "capillary": 4,
+        "respectively": 2,
+        "reproducibility": 1,
+        "electrophoretogram": 1,
+        "wavelength": 1,
+        "nm": 1,
+        "solution": 1,
+        "hydrodynamically": 1,
+        "mbar": 1
+      }
+    },
+    "Preliminary investigations": {
+      "term_count": 43,
+      "char_length": 1122,
+      "top_terms": {
+        "separation": 3,
+        "material": 2,
+        "preliminary": 2,
+        "capillary": 2,
+        "mekc": 2,
+        "mm": 2,
+        "baicalensis": 1,
+        "mongolia": 1,
+        "optimization": 1,
+        "procedure": 1,
+        "different": 1,
+        "electrophoresis": 1,
+        "cze": 1,
+        "resolution": 1,
+        "chemically": 1,
+        "character": 1,
+        "therefore": 1,
+        "micellar": 1,
+        "electrokinetic": 1,
+        "chromatography": 1
+      }
+    },
+    "Central composite design": {
+      "term_count": 44,
+      "char_length": 1425,
+      "top_terms": {
+        "experimental": 4,
+        "separation": 3,
+        "condition": 3,
+        "ccd": 3,
+        "concentration": 2,
+        "performance": 2,
+        "temperature": 2,
+        "injection": 2,
+        "phosphate": 1,
+        "acetonitrile": 1,
+        "propanol": 1,
+        "pressure": 1,
+        "kv": 1,
+        "mbar": 1,
+        "respectively": 1,
+        "composite": 1,
+        "systemically": 1,
+        "investigate": 1,
+        "preliminary": 1,
+        "centroid": 1
+      }
+    },
+    "Multivariate analysis": {
+      "term_count": 56,
+      "char_length": 1864,
+      "top_terms": {
+        "response": 6,
+        "coefficient": 6,
+        "regression": 5,
+        "variable": 5,
+        "experimental": 3,
+        "ccd": 2,
+        "confidence": 2,
+        "positive": 2,
+        "negative": 2,
+        "second-order": 1,
+        "non-linear": 1,
+        "different": 1,
+        "interaction": 1,
+        "relationship": 1,
+        "interval": 1,
+        "variation": 1,
+        "negligible": 1,
+        "respectively": 1,
+        "quadratic": 1,
+        "three-dimensional": 1
+      }
+    },
+    "Optimized result": {
+      "term_count": 21,
+      "char_length": 598,
+      "top_terms": {
+        "mm": 3,
+        "standard": 2,
+        "resolution": 1,
+        "separation": 1,
+        "phosphate": 1,
+        "acetonitrile": 1,
+        "propanol": 1,
+        "analysis": 1,
+        "mekc": 1,
+        "condition": 1,
+        "baicalin": 1,
+        "baicalein": 1,
+        "wogonin": 1,
+        "chromatogram": 1,
+        "mobility": 1,
+        "characteristic": 1,
+        "uv": 1,
+        "solution": 1
+      }
+    },
+    "Injection repeatability and analysis repeatability": {
+      "term_count": 25,
+      "char_length": 770,
+      "top_terms": {
+        "repeatability": 7,
+        "injection": 5,
+        "analysis": 3,
+        "mekc": 2,
+        "preparation": 2,
+        "relative": 1,
+        "standard": 1,
+        "deviation": 1,
+        "migration": 1,
+        "continuous": 1,
+        "procedure": 1
+      }
+    },
+    "Intra-day and inter-day precision": {
+      "term_count": 13,
+      "char_length": 489,
+      "top_terms": {
+        "precision": 3,
+        "intra-assay": 2,
+        "inter-assay": 2,
+        "interval": 1,
+        "analysis": 1,
+        "chromatographic": 1,
+        "satisfactory": 1,
+        "separation": 1,
+        "multiple": 1
+      }
+    },
+    "Linearity, range and limits of detection": {
+      "term_count": 20,
+      "char_length": 563,
+      "top_terms": {
+        "standard": 3,
+        "linearity": 3,
+        "concentration": 3,
+        "baicalin": 1,
+        "baicalein": 1,
+        "wogonin": 1,
+        "determine": 1,
+        "analytes": 1,
+        "calibration": 1,
+        "triplicate": 1,
+        "establish": 1,
+        "mg": 1,
+        "analyte": 1,
+        "regression": 1
+      }
+    },
+    "Recovery test": {
+      "term_count": 12,
+      "char_length": 439,
+      "top_terms": {
+        "standard": 3,
+        "complexity": 1,
+        "determination": 1,
+        "reference": 1,
+        "therefore": 1,
+        "recovery": 1,
+        "generally": 1,
+        "evaluate": 1,
+        "accuracy": 1,
+        "concentration": 1
+      }
+    },
+    "Quantitative analysis": {
+      "term_count": 27,
+      "char_length": 977,
+      "top_terms": {
+        "mekc": 5,
+        "different": 2,
+        "geographical": 2,
+        "analysis": 2,
+        "determination": 1,
+        "baicalin": 1,
+        "baicalein": 1,
+        "wogonin": 1,
+        "previous": 1,
+        "optimization": 1,
+        "separation": 1,
+        "chemical": 1,
+        "addition": 1,
+        "efficiency": 1,
+        "consumption": 1,
+        "therefore": 1,
+        "applicable": 1,
+        "quantitative": 1,
+        "analytical": 1,
+        "cultivation": 1
+      }
+    },
+    "Comparative analysis of chromatographic fingerprints": {
+      "term_count": 30,
+      "char_length": 1270,
+      "top_terms": {
+        "similarity": 4,
+        "fingerprint": 2,
+        "comparative": 2,
+        "analysis": 2,
+        "calculate": 2,
+        "mongolia": 2,
+        "different": 1,
+        "relative": 1,
+        "electrophoretogram": 1,
+        "construct": 1,
+        "characterize": 1,
+        "chemical": 1,
+        "representation": 1,
+        "transposition": 1,
+        "holistic": 1,
+        "difference": 1,
+        "gansu": 1,
+        "shandong": 1,
+        "undistinguished": 1,
+        "heibei": 1
+      }
+    },
+    "Conclusion": {
+      "term_count": 19,
+      "char_length": 511,
+      "top_terms": {
+        "analysis": 2,
+        "evaluation": 2,
+        "baicalensis": 2,
+        "quantitative": 1,
+        "chromatographic": 1,
+        "fingerprinting": 1,
+        "capillary": 1,
+        "electrophoresis": 1,
+        "baicalin": 1,
+        "baicalein": 1,
+        "wogonin": 1,
+        "condition": 1,
+        "combination": 1,
+        "composite": 1,
+        "multivariate": 1,
+        "applicable": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "quantitative": {
+      "term_id": 550,
+      "frequency": 8,
+      "positions": [
+        0,
+        0,
+        146,
+        19,
+        72,
+        143,
+        96,
+        8
+      ]
+    },
+    "analysis": {
+      "term_id": 90,
+      "frequency": 23,
+      "positions": [
+        1,
+        1,
+        56,
+        147,
+        112,
+        20,
+        73,
+        114,
+        144,
+        90,
+        70,
+        138,
+        30,
+        21,
+        66,
+        90,
+        27,
+        63,
+        97,
+        23,
+        23,
+        9,
+        57
+      ]
+    },
+    "chromatographic": {
+      "term_id": 5890,
+      "frequency": 10,
+      "positions": [
+        3,
+        3,
+        0,
+        126,
+        1,
+        75,
+        146,
+        74,
+        46,
+        11
+      ]
+    },
+    "fingerprinting": {
+      "term_id": 261318,
+      "frequency": 8,
+      "positions": [
+        4,
+        4,
+        1,
+        82,
+        127,
+        2,
+        147,
+        12
+      ]
+    },
+    "evaluation": {
+      "term_id": 258,
+      "frequency": 15,
+      "positions": [
+        8,
+        8,
+        154,
+        88,
+        8,
+        95,
+        188,
+        25,
+        42,
+        38,
+        85,
+        155,
+        71,
+        21,
+        66
+      ]
+    },
+    "scutellaria": {
+      "term_id": 28411,
+      "frequency": 3,
+      "positions": [
+        10,
+        13,
+        0
+      ]
+    },
+    "baicalensis": {
+      "term_id": 31554,
+      "frequency": 10,
+      "positions": [
+        11,
+        14,
+        157,
+        1,
+        51,
+        88,
+        93,
+        5,
+        26,
+        69
+      ]
+    },
+    "georgi": {
+      "term_id": 37949,
+      "frequency": 3,
+      "positions": [
+        12,
+        15,
+        2
+      ]
+    },
+    "capillary": {
+      "term_id": 1465,
+      "frequency": 13,
+      "positions": [
+        14,
+        17,
+        39,
+        91,
+        33,
+        51,
+        7,
+        37,
+        64,
+        83,
+        28,
+        54,
+        14
+      ]
+    },
+    "electrophoresis": {
+      "term_id": 1169,
+      "frequency": 6,
+      "positions": [
+        15,
+        18,
+        92,
+        34,
+        30,
+        15
+      ]
+    },
+    "technique": {
+      "term_id": 71,
+      "frequency": 6,
+      "positions": [
+        20,
+        32,
+        80,
+        102,
+        130,
+        79
+      ]
+    },
+    "separation": {
+      "term_id": 1347,
+      "frequency": 15,
+      "positions": [
+        24,
+        84,
+        173,
+        101,
+        117,
+        84,
+        118,
+        145,
+        41,
+        57,
+        21,
+        81,
+        7,
+        68,
+        47
+      ]
+    },
+    "cm": {
+      "term_id": 830,
+      "frequency": 4,
+      "positions": [
+        29,
+        30,
+        39,
+        40
+      ]
+    },
+    "detector": {
+      "term_id": 2997,
+      "frequency": 3,
+      "positions": [
+        33,
+        19,
+        46
+      ]
+    },
+    "fused-silica": {
+      "term_id": 192325,
+      "frequency": 2,
+      "positions": [
+        38,
+        50
+      ]
+    },
+    "fingerprint": {
+      "term_id": 2323,
+      "frequency": 4,
+      "positions": [
+        43,
+        76,
+        15,
+        55
+      ]
+    },
+    "condition": {
+      "term_id": 20,
+      "frequency": 9,
+      "positions": [
+        44,
+        107,
+        122,
+        136,
+        49,
+        65,
+        66,
+        45,
+        46
+      ]
+    },
+    "combination": {
+      "term_id": 226,
+      "frequency": 4,
+      "positions": [
+        49,
+        107,
+        141,
+        50
+      ]
+    },
+    "composite": {
+      "term_id": 2497,
+      "frequency": 5,
+      "positions": [
+        52,
+        48,
+        110,
+        2,
+        53
+      ]
+    },
+    "multivariate": {
+      "term_id": 2649,
+      "frequency": 3,
+      "positions": [
+        55,
+        113,
+        56
+      ]
+    },
+    "mm": {
+      "term_id": 516,
+      "frequency": 8,
+      "positions": [
+        62,
+        64,
+        66,
+        67,
+        70,
+        17,
+        19,
+        21
+      ]
+    },
+    "phosphate": {
+      "term_id": 1094,
+      "frequency": 6,
+      "positions": [
+        65,
+        84,
+        71,
+        9,
+        78,
+        20
+      ]
+    },
+    "acetonitrile": {
+      "term_id": 6913,
+      "frequency": 5,
+      "positions": [
+        70,
+        67,
+        109,
+        17,
+        23
+      ]
+    },
+    "propanol": {
+      "term_id": 28513,
+      "frequency": 5,
+      "positions": [
+        74,
+        69,
+        111,
+        19,
+        25
+      ]
+    },
+    "development": {
+      "term_id": 98,
+      "frequency": 2,
+      "positions": [
+        80,
+        98
+      ]
+    },
+    "baseline": {
+      "term_id": 1288,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "determination": {
+      "term_id": 684,
+      "frequency": 4,
+      "positions": [
+        90,
+        176,
+        16,
+        8
+      ]
+    },
+    "baicalin": {
+      "term_id": 26011,
+      "frequency": 11,
+      "positions": [
+        96,
+        123,
+        75,
+        87,
+        112,
+        126,
+        0,
+        53,
+        8,
+        10,
+        31
+      ]
+    },
+    "baicalein": {
+      "term_id": 30984,
+      "frequency": 10,
+      "positions": [
+        97,
+        125,
+        76,
+        106,
+        127,
+        1,
+        54,
+        9,
+        11,
+        32
+      ]
+    },
+    "wogonin": {
+      "term_id": 61274,
+      "frequency": 10,
+      "positions": [
+        99,
+        128,
+        78,
+        113,
+        129,
+        3,
+        56,
+        11,
+        13,
+        34
+      ]
+    },
+    "concentration": {
+      "term_id": 34,
+      "frequency": 8,
+      "positions": [
+        116,
+        5,
+        11,
+        74,
+        38,
+        46,
+        75,
+        55
+      ]
+    },
+    "respectively": {
+      "term_id": 199,
+      "frequency": 6,
+      "positions": [
+        129,
+        140,
+        33,
+        81,
+        74,
+        162
+      ]
+    },
+    "practice": {
+      "term_id": 99,
+      "frequency": 2,
+      "positions": [
+        8,
+        17
+      ]
+    },
+    "especially": {
+      "term_id": 316,
+      "frequency": 2,
+      "positions": [
+        12,
+        159
+      ]
+    },
+    "globally": {
+      "term_id": 1456,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "considerable": {
+      "term_id": 900,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "attention": {
+      "term_id": 707,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "toxicity": {
+      "term_id": 932,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "therapeutical": {
+      "term_id": 17479,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "performance": {
+      "term_id": 683,
+      "frequency": 3,
+      "positions": [
+        40,
+        39,
+        19
+      ]
+    },
+    "unfortunately": {
+      "term_id": 1251,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "quantification": {
+      "term_id": 1207,
+      "frequency": 2,
+      "positions": [
+        43,
+        128
+      ]
+    },
+    "efficacy": {
+      "term_id": 498,
+      "frequency": 3,
+      "positions": [
+        49,
+        30,
+        82
+      ]
+    },
+    "sufficiency": {
+      "term_id": 22110,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "regulation": {
+      "term_id": 285,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "reliable": {
+      "term_id": 1038,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "acceptable": {
+      "term_id": 1888,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "strategy": {
+      "term_id": 41,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "generally": {
+      "term_id": 429,
+      "frequency": 2,
+      "positions": [
+        0,
+        33
+      ]
+    },
+    "long-standing": {
+      "term_id": 6718,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "particular": {
+      "term_id": 352,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "medicine": {
+      "term_id": 238,
+      "frequency": 4,
+      "positions": [
+        49,
+        9,
+        12,
+        59
+      ]
+    },
+    "chemical": {
+      "term_id": 450,
+      "frequency": 6,
+      "positions": [
+        59,
+        12,
+        80,
+        7,
+        51,
+        51
+      ]
+    },
+    "responsible": {
+      "term_id": 392,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "therapeutic": {
+      "term_id": 197,
+      "frequency": 2,
+      "positions": [
+        67,
+        28
+      ]
+    },
+    "furthermore": {
+      "term_id": 328,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "relationship": {
+      "term_id": 114,
+      "frequency": 2,
+      "positions": [
+        77,
+        65
+      ]
+    },
+    "therefore": {
+      "term_id": 162,
+      "frequency": 4,
+      "positions": [
+        93,
+        51,
+        25,
+        86
+      ]
+    },
+    "possible": {
+      "term_id": 136,
+      "frequency": 1,
+      "positions": [
+        133
+      ]
+    },
+    "evaluate": {
+      "term_id": 42,
+      "frequency": 2,
+      "positions": [
+        140,
+        36
+      ]
+    },
+    "impossible": {
+      "term_id": 1830,
+      "frequency": 1,
+      "positions": [
+        151
+      ]
+    },
+    "reference": {
+      "term_id": 322,
+      "frequency": 2,
+      "positions": [
+        154,
+        24
+      ]
+    },
+    "commercially": {
+      "term_id": 1379,
+      "frequency": 1,
+      "positions": [
+        158
+      ]
+    },
+    "available": {
+      "term_id": 164,
+      "frequency": 1,
+      "positions": [
+        159
+      ]
+    },
+    "moreover": {
+      "term_id": 461,
+      "frequency": 1,
+      "positions": [
+        160
+      ]
+    },
+    "procedure": {
+      "term_id": 76,
+      "frequency": 3,
+      "positions": [
+        171,
+        20,
+        83
+      ]
+    },
+    "identification": {
+      "term_id": 216,
+      "frequency": 1,
+      "positions": [
+        174
+      ]
+    },
+    "pharmaceutical": {
+      "term_id": 968,
+      "frequency": 3,
+      "positions": [
+        186,
+        14,
+        38
+      ]
+    },
+    "systemic": {
+      "term_id": 654,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "characterization": {
+      "term_id": 293,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "composition": {
+      "term_id": 768,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "nowadays": {
+      "term_id": 4429,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "authenticity": {
+      "term_id": 16837,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "administration": {
+      "term_id": 532,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "standardize": {
+      "term_id": 762,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "high-performance": {
+      "term_id": 6747,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "chromatography": {
+      "term_id": 1701,
+      "frequency": 3,
+      "positions": [
+        74,
+        58,
+        55
+      ]
+    },
+    "commonly": {
+      "term_id": 488,
+      "frequency": 3,
+      "positions": [
+        78,
+        6,
+        94
+      ]
+    },
+    "resolution": {
+      "term_id": 858,
+      "frequency": 5,
+      "positions": [
+        87,
+        107,
+        34,
+        68,
+        3
+      ]
+    },
+    "reproducibility": {
+      "term_id": 3322,
+      "frequency": 2,
+      "positions": [
+        88,
+        114
+      ]
+    },
+    "reliability": {
+      "term_id": 2334,
+      "frequency": 1,
+      "positions": [
+        90
+      ]
+    },
+    "increasingly": {
+      "term_id": 1018,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "important": {
+      "term_id": 106,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "extraordinary": {
+      "term_id": 4622,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "consumption": {
+      "term_id": 1491,
+      "frequency": 2,
+      "positions": [
+        114,
+        75
+      ]
+    },
+    "efficiency": {
+      "term_id": 547,
+      "frequency": 2,
+      "positions": [
+        120,
+        64
+      ]
+    },
+    "recently": {
+      "term_id": 236,
+      "frequency": 1,
+      "positions": [
+        121
+      ]
+    },
+    "labiatae": {
+      "term_id": 106785,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "officially": {
+      "term_id": 4771,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "pharmacopoeia": {
+      "term_id": 14180,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "treatment": {
+      "term_id": 66,
+      "frequency": 2,
+      "positions": [
+        38,
+        68
+      ]
+    },
+    "bronchitis": {
+      "term_id": 1330,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "hepatitis": {
+      "term_id": 466,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "inflammatory": {
+      "term_id": 603,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "ingredient": {
+      "term_id": 2104,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "abundant": {
+      "term_id": 1346,
+      "frequency": 1,
+      "positions": [
+        91
+      ]
+    },
+    "component": {
+      "term_id": 59,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "anti-inflammatory": {
+      "term_id": 1894,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "anti-HIV": {
+      "term_id": 4462,
+      "frequency": 1,
+      "positions": [
+        97
+      ]
+    },
+    "anti-tumor": {
+      "term_id": 6558,
+      "frequency": 2,
+      "positions": [
+        98,
+        119
+      ]
+    },
+    "anti-SARS": {
+      "term_id": 6212,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "coronavirus": {
+      "term_id": 93,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "activity": {
+      "term_id": 28,
+      "frequency": 2,
+      "positions": [
+        104,
+        29
+      ]
+    },
+    "anti-respiratory": {
+      "term_id": 75200,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "syncytial": {
+      "term_id": 735,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "virus": {
+      "term_id": 3,
+      "frequency": 1,
+      "positions": [
+        117
+      ]
+    },
+    "although": {
+      "term_id": 116,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "chromatogram": {
+      "term_id": 7586,
+      "frequency": 3,
+      "positions": [
+        18,
+        92,
+        60
+      ]
+    },
+    "substance": {
+      "term_id": 722,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "information": {
+      "term_id": 223,
+      "frequency": 3,
+      "positions": [
+        34,
+        151,
+        73
+      ]
+    },
+    "micellar": {
+      "term_id": 20049,
+      "frequency": 2,
+      "positions": [
+        56,
+        52
+      ]
+    },
+    "electrokinetic": {
+      "term_id": 38135,
+      "frequency": 2,
+      "positions": [
+        57,
+        53
+      ]
+    },
+    "mekc": {
+      "term_id": 193992,
+      "frequency": 11,
+      "positions": [
+        59,
+        56,
+        100,
+        33,
+        5,
+        44,
+        2,
+        43,
+        66,
+        82,
+        89
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 7,
+      "positions": [
+        99,
+        6,
+        24,
+        37,
+        21,
+        137,
+        28
+      ]
+    },
+    "geographical": {
+      "term_id": 1650,
+      "frequency": 3,
+      "positions": [
+        100,
+        22,
+        143
+      ]
+    },
+    "valuable": {
+      "term_id": 1061,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    },
+    "hp": {
+      "term_id": 2394,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "agilent": {
+      "term_id": 5382,
+      "frequency": 2,
+      "positions": [
+        11,
+        31
+      ]
+    },
+    "waldbronn": {
+      "term_id": 112082,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "germany": {
+      "term_id": 838,
+      "frequency": 2,
+      "positions": [
+        14,
+        32
+      ]
+    },
+    "diode-array": {
+      "term_id": 137874,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "instrumental": {
+      "term_id": 4289,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "acquisition": {
+      "term_id": 1297,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "chemstation": {
+      "term_id": 164629,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "software": {
+      "term_id": 629,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "yongnian": {
+      "term_id": 269233,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "photoconductive": {
+      "term_id": 480520,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "hebei": {
+      "term_id": 13741,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "matlab": {
+      "term_id": 13363,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "mathworks": {
+      "term_id": 36162,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "usa": {
+      "term_id": 311,
+      "frequency": 3,
+      "positions": [
+        62,
+        65,
+        120
+      ]
+    },
+    "computer-aided": {
+      "term_id": 19040,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "similarity": {
+      "term_id": 544,
+      "frequency": 6,
+      "positions": [
+        70,
+        89,
+        63,
+        5,
+        17,
+        33
+      ]
+    },
+    "sfda": {
+      "term_id": 64008,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "language": {
+      "term_id": 1926,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "national": {
+      "term_id": 288,
+      "frequency": 2,
+      "positions": [
+        8,
+        32
+      ]
+    },
+    "institute": {
+      "term_id": 302,
+      "frequency": 2,
+      "positions": [
+        9,
+        33
+      ]
+    },
+    "biological": {
+      "term_id": 378,
+      "frequency": 2,
+      "positions": [
+        16,
+        40
+      ]
+    },
+    "beijing": {
+      "term_id": 1741,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "standard": {
+      "term_id": 115,
+      "frequency": 11,
+      "positions": [
+        21,
+        38,
+        37,
+        87,
+        11,
+        4,
+        56,
+        62,
+        12,
+        23,
+        29
+      ]
+    },
+    "methanol": {
+      "term_id": 3021,
+      "frequency": 2,
+      "positions": [
+        28,
+        49
+      ]
+    },
+    "merck": {
+      "term_id": 3654,
+      "frequency": 2,
+      "positions": [
+        30,
+        81
+      ]
+    },
+    "darmstadt": {
+      "term_id": 9157,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "appropriate": {
+      "term_id": 389,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "sulphate": {
+      "term_id": 5604,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "sigma": {
+      "term_id": 1485,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "analytical": {
+      "term_id": 1545,
+      "frequency": 4,
+      "positions": [
+        87,
+        102,
+        37,
+        109
+      ]
+    },
+    "hangzhou": {
+      "term_id": 10808,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "zhejiang": {
+      "term_id": 6306,
+      "frequency": 2,
+      "positions": [
+        95,
+        63
+      ]
+    },
+    "throughout": {
+      "term_id": 538,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "Milli-Q": {
+      "term_id": 24041,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "academic": {
+      "term_id": 1758,
+      "frequency": 1,
+      "positions": [
+        114
+      ]
+    },
+    "purification": {
+      "term_id": 926,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "milford": {
+      "term_id": 19929,
+      "frequency": 1,
+      "positions": [
+        118
+      ]
+    },
+    "thirty-four": {
+      "term_id": 59180,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "associate": {
+      "term_id": 7,
+      "frequency": 2,
+      "positions": [
+        22,
+        27
+      ]
+    },
+    "professor": {
+      "term_id": 3016,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "xiao": {
+      "term_id": 1477,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "pharmacist": {
+      "term_id": 2490,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "zhang": {
+      "term_id": 354,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "morphological": {
+      "term_id": 2031,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "laboratory": {
+      "term_id": 70,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "department": {
+      "term_id": 405,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "university": {
+      "term_id": 220,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "ml": {
+      "term_id": 334,
+      "frequency": 2,
+      "positions": [
+        9,
+        58
+      ]
+    },
+    "solution": {
+      "term_id": 205,
+      "frequency": 5,
+      "positions": [
+        12,
+        54,
+        126,
+        152,
+        88
+      ]
+    },
+    "ultrasonic": {
+      "term_id": 8482,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "together": {
+      "term_id": 365,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "centrifugation": {
+      "term_id": 1233,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "rpm": {
+      "term_id": 2565,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "supernatant": {
+      "term_id": 410,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "protocol": {
+      "term_id": 211,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "ultrasonically": {
+      "term_id": 67616,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "injection": {
+      "term_id": 640,
+      "frequency": 8,
+      "positions": [
+        84,
+        48,
+        64,
+        18,
+        49,
+        56,
+        72,
+        101
+      ]
+    },
+    "naoh": {
+      "term_id": 6327,
+      "frequency": 5,
+      "positions": [
+        12,
+        17,
+        42,
+        72,
+        88
+      ]
+    },
+    "electrophoretogram": {
+      "term_id": 159316,
+      "frequency": 2,
+      "positions": [
+        115,
+        40
+      ]
+    },
+    "wavelength": {
+      "term_id": 2666,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "nm": {
+      "term_id": 688,
+      "frequency": 1,
+      "positions": [
+        123
+      ]
+    },
+    "hydrodynamically": {
+      "term_id": 93286,
+      "frequency": 1,
+      "positions": [
+        129
+      ]
+    },
+    "mbar": {
+      "term_id": 53920,
+      "frequency": 2,
+      "positions": [
+        131,
+        72
+      ]
+    },
+    "material": {
+      "term_id": 36,
+      "frequency": 2,
+      "positions": [
+        2,
+        45
+      ]
+    },
+    "mongolia": {
+      "term_id": 10484,
+      "frequency": 3,
+      "positions": [
+        8,
+        70,
+        95
+      ]
+    },
+    "optimization": {
+      "term_id": 1628,
+      "frequency": 2,
+      "positions": [
+        19,
+        40
+      ]
+    },
+    "preliminary": {
+      "term_id": 871,
+      "frequency": 3,
+      "positions": [
+        21,
+        140,
+        37
+      ]
+    },
+    "cze": {
+      "term_id": 99713,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "chemically": {
+      "term_id": 2470,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "character": {
+      "term_id": 1913,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "investigation": {
+      "term_id": 148,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "relative": {
+      "term_id": 333,
+      "frequency": 3,
+      "positions": [
+        82,
+        10,
+        31
+      ]
+    },
+    "surfactant": {
+      "term_id": 3044,
+      "frequency": 1,
+      "positions": [
+        90
+      ]
+    },
+    "simultaneous": {
+      "term_id": 1227,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "addition": {
+      "term_id": 131,
+      "frequency": 2,
+      "positions": [
+        107,
+        61
+      ]
+    },
+    "multiple": {
+      "term_id": 180,
+      "frequency": 2,
+      "positions": [
+        147,
+        70
+      ]
+    },
+    "sensitive": {
+      "term_id": 510,
+      "frequency": 1,
+      "positions": [
+        154
+      ]
+    },
+    "experimental": {
+      "term_id": 353,
+      "frequency": 8,
+      "positions": [
+        157,
+        1,
+        27,
+        52,
+        78,
+        16,
+        124,
+        90
+      ]
+    },
+    "temperature": {
+      "term_id": 232,
+      "frequency": 2,
+      "positions": [
+        45,
+        61
+      ]
+    },
+    "pressure": {
+      "term_id": 502,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "kv": {
+      "term_id": 3969,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "ccd": {
+      "term_id": 9446,
+      "frequency": 5,
+      "positions": [
+        4,
+        81,
+        105,
+        1,
+        93
+      ]
+    },
+    "systemically": {
+      "term_id": 4112,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "investigate": {
+      "term_id": 64,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "centroid": {
+      "term_id": 14817,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "domain": {
+      "term_id": 68,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "distance": {
+      "term_id": 512,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "establish": {
+      "term_id": 54,
+      "frequency": 2,
+      "positions": [
+        63,
+        54
+      ]
+    },
+    "generate": {
+      "term_id": 44,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "additional": {
+      "term_id": 270,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "centre": {
+      "term_id": 639,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "estimate": {
+      "term_id": 43,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "randomly": {
+      "term_id": 1390,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "systematic": {
+      "term_id": 674,
+      "frequency": 1,
+      "positions": [
+        129
+      ]
+    },
+    "response": {
+      "term_id": 12,
+      "frequency": 6,
+      "positions": [
+        5,
+        72,
+        110,
+        161,
+        10,
+        24
+      ]
+    },
+    "second-order": {
+      "term_id": 17943,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "regression": {
+      "term_id": 1127,
+      "frequency": 6,
+      "positions": [
+        14,
+        4,
+        44,
+        96,
+        42,
+        84
+      ]
+    },
+    "coefficient": {
+      "term_id": 1014,
+      "frequency": 6,
+      "positions": [
+        5,
+        45,
+        85,
+        97,
+        144,
+        43
+      ]
+    },
+    "variable": {
+      "term_id": 104,
+      "frequency": 5,
+      "positions": [
+        23,
+        80,
+        117,
+        133,
+        152
+      ]
+    },
+    "non-linear": {
+      "term_id": 8534,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "interaction": {
+      "term_id": 23,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "confidence": {
+      "term_id": 1177,
+      "frequency": 2,
+      "positions": [
+        48,
+        89
+      ]
+    },
+    "interval": {
+      "term_id": 416,
+      "frequency": 2,
+      "positions": [
+        103,
+        12
+      ]
+    },
+    "variation": {
+      "term_id": 239,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "negligible": {
+      "term_id": 3146,
+      "frequency": 1,
+      "positions": [
+        139
+      ]
+    },
+    "positive": {
+      "term_id": 140,
+      "frequency": 2,
+      "positions": [
+        141,
+        155
+      ]
+    },
+    "negative": {
+      "term_id": 234,
+      "frequency": 2,
+      "positions": [
+        143,
+        157
+      ]
+    },
+    "quadratic": {
+      "term_id": 14477,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "three-dimensional": {
+      "term_id": 2919,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "mapping": {
+      "term_id": 23938,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "significant": {
+      "term_id": 138,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "others": {
+      "term_id": 451,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "constant": {
+      "term_id": 749,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "critical": {
+      "term_id": 286,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "selection": {
+      "term_id": 556,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "balancing": {
+      "term_id": 570266,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "necessary": {
+      "term_id": 368,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "mobility": {
+      "term_id": 1851,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "characteristic": {
+      "term_id": 38,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "uv": {
+      "term_id": 2077,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "repeatability": {
+      "term_id": 10548,
+      "frequency": 7,
+      "positions": [
+        1,
+        19,
+        22,
+        50,
+        67,
+        91,
+        102
+      ]
+    },
+    "deviation": {
+      "term_id": 959,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "migration": {
+      "term_id": 1124,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "continuous": {
+      "term_id": 727,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "preparation": {
+      "term_id": 304,
+      "frequency": 2,
+      "positions": [
+        82,
+        116
+      ]
+    },
+    "intra-assay": {
+      "term_id": 19036,
+      "frequency": 2,
+      "positions": [
+        1,
+        50
+      ]
+    },
+    "precision": {
+      "term_id": 2767,
+      "frequency": 3,
+      "positions": [
+        2,
+        20,
+        63
+      ]
+    },
+    "inter-assay": {
+      "term_id": 16754,
+      "frequency": 2,
+      "positions": [
+        19,
+        52
+      ]
+    },
+    "satisfactory": {
+      "term_id": 3343,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "determine": {
+      "term_id": 18,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "linearity": {
+      "term_id": 8954,
+      "frequency": 3,
+      "positions": [
+        17,
+        20,
+        59
+      ]
+    },
+    "analytes": {
+      "term_id": 7226,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "calibration": {
+      "term_id": 4360,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "triplicate": {
+      "term_id": 2058,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "mg": {
+      "term_id": 500,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "analyte": {
+      "term_id": 7162,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "complexity": {
+      "term_id": 1067,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "recovery": {
+      "term_id": 714,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "accuracy": {
+      "term_id": 1178,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "previous": {
+      "term_id": 267,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "applicable": {
+      "term_id": 1497,
+      "frequency": 2,
+      "positions": [
+        93,
+        62
+      ]
+    },
+    "cultivation": {
+      "term_id": 3059,
+      "frequency": 1,
+      "positions": [
+        138
+      ]
+    },
+    "comparative": {
+      "term_id": 620,
+      "frequency": 2,
+      "positions": [
+        22,
+        22
+      ]
+    },
+    "construct": {
+      "term_id": 156,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "characterize": {
+      "term_id": 65,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "representation": {
+      "term_id": 1409,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "calculate": {
+      "term_id": 94,
+      "frequency": 2,
+      "positions": [
+        61,
+        15
+      ]
+    },
+    "transposition": {
+      "term_id": 12593,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "holistic": {
+      "term_id": 6028,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "difference": {
+      "term_id": 25,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "gansu": {
+      "term_id": 17354,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "shandong": {
+      "term_id": 9160,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "undistinguished": {
+      "term_id": 392008,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "heibei": {
+      "term_id": 192038,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "shaanxi": {
+      "term_id": 18135,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "yunnan": {
+      "term_id": 9603,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.531224",
+    "sections_count": 29
+  }
+}

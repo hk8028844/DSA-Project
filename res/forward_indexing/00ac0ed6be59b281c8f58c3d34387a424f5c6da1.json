@@ -1,0 +1,2906 @@
+{
+  "document_id": "00ac0ed6be59b281c8f58c3d34387a424f5c6da1",
+  "source_type": "pdf_json",
+  "file_name": "00ac0ed6be59b281c8f58c3d34387a424f5c6da1.json",
+  "total_terms": 958,
+  "unique_terms": 257,
+  "sections": {
+    "title": {
+      "term_count": 3,
+      "char_length": 54,
+      "top_terms": {
+        "pathology": 1,
+        "diarrhoea": 1,
+        "southern": 1
+      }
+    },
+    "": {
+      "term_count": 81,
+      "char_length": 2099,
+      "top_terms": {
+        "diarrhoea": 7,
+        "enteropathogens": 4,
+        "rotavirus": 4,
+        "coronavirus": 4,
+        "cryptosporidium": 3,
+        "infectious": 3,
+        "et": 3,
+        "moribund": 2,
+        "salmonella": 2,
+        "bacteria": 2,
+        "adherent": 2,
+        "k99": 2,
+        "enteropathogen": 2,
+        "contribute": 2,
+        "disease": 2,
+        "twenty-one": 1,
+        "faeces": 1,
+        "intestinal": 1,
+        "tissue": 1,
+        "anaesthesia": 1
+      }
+    },
+    "Animals": {
+      "term_count": 36,
+      "char_length": 1142,
+      "top_terms": {
+        "necropsy": 3,
+        "faeces": 3,
+        "diarrhoea": 2,
+        "faecal": 2,
+        "et": 2,
+        "twenty-one": 1,
+        "duration": 1,
+        "rotavirus": 1,
+        "coronavirus": 1,
+        "enzyme-linked": 1,
+        "immunosorbent": 1,
+        "cryptosporidium": 1,
+        "microscopical": 1,
+        "examination": 1,
+        "giemsa": 1,
+        "k99": 1,
+        "agglutination": 1,
+        "salmonella": 1,
+        "enrichment": 1,
+        "rappaport": 1
+      }
+    },
+    "Necropsy": {
+      "term_count": 32,
+      "char_length": 950,
+      "top_terms": {
+        "mercuric": 4,
+        "duodenum": 2,
+        "fixative": 2,
+        "chloride": 2,
+        "adjacent": 2,
+        "intestinal": 1,
+        "microscopy": 1,
+        "pentobarbitone": 1,
+        "anaesthesia": 1,
+        "intestine": 1,
+        "ern": 1,
+        "formalin": 1,
+        "phosphate": 1,
+        "glutaraldehyde": 1,
+        "ph": 1,
+        "ligament": 1,
+        "treitz": 1,
+        "ileocaecal": 1,
+        "junction": 1,
+        "possible": 1
+      }
+    },
+    "Enteropathogen scores": {
+      "term_count": 64,
+      "char_length": 1921,
+      "top_terms": {
+        "enterocytes": 6,
+        "intestine": 6,
+        "enteropathogens": 5,
+        "coronavirus": 4,
+        "infection": 4,
+        "enteropathogen": 3,
+        "antisera": 2,
+        "rotavirus": 2,
+        "bacteria": 2,
+        "duodenum": 2,
+        "immunostaining": 1,
+        "indirect": 1,
+        "immunoperoxidase": 1,
+        "newbury": 1,
+        "peroxidase-antiperoxidase": 1,
+        "sternberger": 1,
+        "et": 1,
+        "atypical": 1,
+        "cytoplasm": 1,
+        "enteropathogenic": 1
+      }
+    },
+    "Lesion scores": {
+      "term_count": 70,
+      "char_length": 3151,
+      "top_terms": {
+        "enterocytes": 12,
+        "intestinal": 7,
+        "propria": 6,
+        "intestine": 5,
+        "presence": 4,
+        "contribution": 3,
+        "pathology": 3,
+        "following": 2,
+        "degenerate": 2,
+        "cuboidal": 2,
+        "abnormally": 2,
+        "similarly": 2,
+        "percentage": 2,
+        "villi": 2,
+        "vacuo": 1,
+        "neutrophilic": 1,
+        "polymorphonuclear": 1,
+        "non-intestinal": 1,
+        "impression": 1,
+        "severely": 1
+      }
+    },
+    "Statistical method": {
+      "term_count": 7,
+      "char_length": 360,
+      "top_terms": {
+        "analysis": 2,
+        "intestine": 2,
+        "statistical": 1,
+        "enteropathogen": 1,
+        "salmonella-infected": 1
+      }
+    },
+    "Electron microscopy": {
+      "term_count": 19,
+      "char_length": 425,
+      "top_terms": {
+        "electron": 3,
+        "examination": 2,
+        "glutaraldehyde": 2,
+        "microscopy": 2,
+        "transmission": 2,
+        "histological": 1,
+        "presence": 1,
+        "infection": 1,
+        "investigation": 1,
+        "intestinal": 1,
+        "intestine": 1,
+        "original": 1,
+        "et": 1
+      }
+    },
+    "Detection ofenteropathogens": {
+      "term_count": 27,
+      "char_length": 901,
+      "top_terms": {
+        "enteropathogens": 4,
+        "faeces": 3,
+        "faecal": 3,
+        "examination": 3,
+        "rotavirus": 2,
+        "mortem": 1,
+        "newbury": 1,
+        "bacteria": 1,
+        "apparently": 1,
+        "adherent": 1,
+        "intestine": 1,
+        "detection": 1,
+        "intestinal": 1,
+        "identical": 1,
+        "opposite": 1,
+        "coronavirus": 1,
+        "enteropathogen": 1
+      }
+    },
+    "Rotavirus": {
+      "term_count": 26,
+      "char_length": 844,
+      "top_terms": {
+        "enteropathogens": 3,
+        "additional": 3,
+        "et": 2,
+        "coronavirus": 2,
+        "examination": 2,
+        "rotavirus-infected": 1,
+        "langpap": 1,
+        "experimental": 1,
+        "mebus": 1,
+        "probably": 1,
+        "disease": 1,
+        "enteropathogen": 1,
+        "bacteria": 1,
+        "apparently": 1,
+        "adherent": 1,
+        "intestine": 1,
+        "cryptosporidium": 1,
+        "rotavirus": 1,
+        "typhimurium": 1
+      }
+    },
+    "-.": {
+      "term_count": 47,
+      "char_length": 1352,
+      "top_terms": {
+        "rotavirus": 5,
+        "intestine": 4,
+        "infection": 4,
+        "additional": 3,
+        "enteropathogens": 3,
+        "enteropathogen": 2,
+        "examination": 2,
+        "diarrhoea": 2,
+        "rotavirusinfected": 2,
+        "virus": 1,
+        "throughout": 1,
+        "rotavirus-infected": 1,
+        "bacteria": 1,
+        "apparently": 1,
+        "adherent": 1,
+        "coronavirus": 1,
+        "cryptosporidium": 1,
+        "newbury": 1,
+        "presence": 1,
+        "severity": 1
+      }
+    },
+    "Cryptosporidium": {
+      "term_count": 36,
+      "char_length": 1207,
+      "top_terms": {
+        "examination": 6,
+        "cryptosporidium": 3,
+        "enteropathogens": 3,
+        "additional": 3,
+        "infection": 2,
+        "faecal": 1,
+        "extensively": 1,
+        "principal": 1,
+        "diarrhoea": 1,
+        "previously": 1,
+        "pearson": 1,
+        "et": 1,
+        "josephson": 1,
+        "disease": 1,
+        "enteropathogen": 1,
+        "bacteria": 1,
+        "apparently": 1,
+        "adherent": 1,
+        "cryptosporidium-infected": 1,
+        "coronavirus": 1
+      }
+    },
+    "Coronavirus": {
+      "term_count": 13,
+      "char_length": 506,
+      "top_terms": {
+        "coronavirus": 4,
+        "examination": 3,
+        "faecal": 1,
+        "throughout": 1,
+        "enteropathogen": 1,
+        "diarrhoea": 1,
+        "infection": 1,
+        "identical": 1
+      }
+    },
+    "Adherent bacteria": {
+      "term_count": 24,
+      "char_length": 752,
+      "top_terms": {
+        "additional": 4,
+        "enteropathogens": 3,
+        "bacteria": 2,
+        "examination": 2,
+        "mortem": 2,
+        "apparently": 1,
+        "adherent": 1,
+        "association": 1,
+        "disease": 1,
+        "faeces": 1,
+        "presence": 1,
+        "enteropathogen": 1,
+        "entero": 1,
+        "k99": 1,
+        "disarrangement": 1,
+        "enterocytes": 1
+      }
+    },
+    "Newbury agent": {
+      "term_count": 97,
+      "char_length": 3676,
+      "top_terms": {
+        "bacteria": 11,
+        "enterocytes": 8,
+        "adherent": 5,
+        "newbury": 4,
+        "examination": 4,
+        "electron": 4,
+        "cryptosporidium": 3,
+        "severity": 3,
+        "microscopy": 3,
+        "infection": 2,
+        "intestine": 2,
+        "rotavirus": 2,
+        "identical": 2,
+        "propria": 2,
+        "microscopic": 2,
+        "although": 2,
+        "additional": 1,
+        "disease": 1,
+        "k99": 1,
+        "throughout": 1
+      }
+    },
+    "Mixed injections": {
+      "term_count": 59,
+      "char_length": 2019,
+      "top_terms": {
+        "enterocytes": 5,
+        "examination": 4,
+        "villi": 3,
+        "faecal": 3,
+        "intestinal": 3,
+        "intestine": 3,
+        "typhimurium": 3,
+        "enteropathogens": 2,
+        "bacteria": 2,
+        "apparently": 2,
+        "newbury": 2,
+        "infection": 2,
+        "principal": 2,
+        "diarrhoea": 2,
+        "infiltration": 2,
+        "adherent": 2,
+        "cuboidal": 2,
+        "numerous": 2,
+        "propria": 2,
+        "enteropathogen": 1
+      }
+    },
+    "Discussion": {
+      "term_count": 316,
+      "char_length": 8602,
+      "top_terms": {
+        "intestine": 16,
+        "infection": 13,
+        "diarrhoea": 10,
+        "intestinal": 9,
+        "examination": 9,
+        "bacteria": 8,
+        "et": 7,
+        "enterocytes": 7,
+        "diarrhoeic": 5,
+        "enteropathogens": 5,
+        "rotavirus-infected": 5,
+        "S102-9": 5,
+        "adherent": 5,
+        "infectious": 4,
+        "faeces": 4,
+        "rotavirus": 4,
+        "coronavirus": 4,
+        "histological": 4,
+        "tissue": 4,
+        "outbreak": 4
+      }
+    },
+    "back_matter": {
+      "term_count": 1,
+      "char_length": 47,
+      "top_terms": {
+        "desport": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "pathology": {
+      "term_id": 608,
+      "frequency": 6,
+      "positions": [
+        0,
+        97,
+        156,
+        73,
+        149,
+        11
+      ]
+    },
+    "diarrhoea": {
+      "term_id": 1690,
+      "frequency": 27,
+      "positions": [
+        4,
+        4,
+        56,
+        87,
+        112,
+        5,
+        73,
+        83,
+        3,
+        28,
+        33,
+        150,
+        56,
+        52,
+        170,
+        104,
+        233,
+        23,
+        89,
+        138,
+        204,
+        275,
+        99,
+        182,
+        130,
+        157,
+        177
+      ]
+    },
+    "southern": {
+      "term_id": 1036,
+      "frequency": 2,
+      "positions": [
+        6,
+        75
+      ]
+    },
+    "twenty-one": {
+      "term_id": 38272,
+      "frequency": 2,
+      "positions": [
+        0,
+        0
+      ]
+    },
+    "moribund": {
+      "term_id": 9057,
+      "frequency": 2,
+      "positions": [
+        1,
+        80
+      ]
+    },
+    "faeces": {
+      "term_id": 2898,
+      "frequency": 12,
+      "positions": [
+        10,
+        61,
+        129,
+        147,
+        0,
+        45,
+        93,
+        34,
+        5,
+        97,
+        108,
+        117
+      ]
+    },
+    "enteropathogens": {
+      "term_id": 7979,
+      "frequency": 33,
+      "positions": [
+        13,
+        26,
+        43,
+        126,
+        9,
+        15,
+        6,
+        18,
+        41,
+        62,
+        106,
+        126,
+        49,
+        75,
+        82,
+        63,
+        70,
+        110,
+        90,
+        119,
+        126,
+        25,
+        70,
+        98,
+        154,
+        23,
+        171,
+        65,
+        82,
+        31,
+        74,
+        151,
+        145
+      ]
+    },
+    "intestinal": {
+      "term_id": 954,
+      "frequency": 23,
+      "positions": [
+        17,
+        0,
+        10,
+        63,
+        95,
+        107,
+        181,
+        10,
+        15,
+        48,
+        75,
+        90,
+        270,
+        65,
+        11,
+        25,
+        47,
+        82,
+        125,
+        146,
+        78,
+        145,
+        16
+      ]
+    },
+    "tissue": {
+      "term_id": 37,
+      "frequency": 5,
+      "positions": [
+        18,
+        26,
+        48,
+        78,
+        131
+      ]
+    },
+    "anaesthesia": {
+      "term_id": 6238,
+      "frequency": 3,
+      "positions": [
+        21,
+        9,
+        51
+      ]
+    },
+    "presence": {
+      "term_id": 195,
+      "frequency": 11,
+      "positions": [
+        24,
+        28,
+        36,
+        52,
+        86,
+        5,
+        107,
+        45,
+        31,
+        134,
+        147
+      ]
+    },
+    "histological": {
+      "term_id": 2072,
+      "frequency": 8,
+      "positions": [
+        34,
+        76,
+        1,
+        433,
+        19,
+        37,
+        74,
+        101
+      ]
+    },
+    "examination": {
+      "term_id": 460,
+      "frequency": 40,
+      "positions": [
+        35,
+        101,
+        2,
+        46,
+        43,
+        67,
+        71,
+        66,
+        109,
+        9,
+        57,
+        10,
+        20,
+        30,
+        103,
+        111,
+        154,
+        10,
+        20,
+        48,
+        14,
+        62,
+        9,
+        228,
+        272,
+        317,
+        63,
+        153,
+        163,
+        168,
+        8,
+        26,
+        38,
+        45,
+        89,
+        95,
+        105,
+        106,
+        132,
+        102
+      ]
+    },
+    "immunostained": {
+      "term_id": 11634,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "paraffin": {
+      "term_id": 3556,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "cryptosporidium": {
+      "term_id": 3675,
+      "frequency": 17,
+      "positions": [
+        48,
+        140,
+        46,
+        98,
+        104,
+        92,
+        0,
+        34,
+        59,
+        30,
+        80,
+        119,
+        178,
+        38,
+        42,
+        52,
+        109
+      ]
+    },
+    "principal": {
+      "term_id": 1444,
+      "frequency": 8,
+      "positions": [
+        53,
+        147,
+        53,
+        167,
+        101,
+        230,
+        49,
+        46
+      ]
+    },
+    "rotavirus": {
+      "term_id": 646,
+      "frequency": 23,
+      "positions": [
+        60,
+        137,
+        44,
+        12,
+        90,
+        14,
+        88,
+        120,
+        115,
+        13,
+        40,
+        118,
+        126,
+        142,
+        160,
+        78,
+        110,
+        192,
+        36,
+        34,
+        270,
+        27,
+        53
+      ]
+    },
+    "salmonella": {
+      "term_id": 1432,
+      "frequency": 7,
+      "positions": [
+        63,
+        51,
+        124,
+        32,
+        139,
+        39,
+        156
+      ]
+    },
+    "typhimurium": {
+      "term_id": 3750,
+      "frequency": 11,
+      "positions": [
+        64,
+        33,
+        120,
+        169,
+        124,
+        140,
+        142,
+        227,
+        64,
+        128,
+        227
+      ]
+    },
+    "bacteria": {
+      "term_id": 495,
+      "frequency": 31,
+      "positions": [
+        67,
+        149,
+        68,
+        11,
+        89,
+        73,
+        130,
+        0,
+        42,
+        162,
+        242,
+        276,
+        304,
+        356,
+        403,
+        418,
+        427,
+        444,
+        494,
+        16,
+        27,
+        180,
+        46,
+        19,
+        123,
+        162,
+        9,
+        104,
+        115,
+        232,
+        243
+      ]
+    },
+    "adherent": {
+      "term_id": 4137,
+      "frequency": 20,
+      "positions": [
+        68,
+        151,
+        13,
+        93,
+        75,
+        134,
+        2,
+        161,
+        245,
+        311,
+        421,
+        448,
+        182,
+        197,
+        48,
+        21,
+        124,
+        164,
+        12,
+        114
+      ]
+    },
+    "intestine": {
+      "term_id": 931,
+      "frequency": 43,
+      "positions": [
+        75,
+        15,
+        79,
+        116,
+        24,
+        27,
+        32,
+        21,
+        100,
+        20,
+        28,
+        82,
+        123,
+        56,
+        137,
+        110,
+        206,
+        238,
+        8,
+        24,
+        28,
+        42,
+        56,
+        142,
+        30,
+        33,
+        42,
+        214,
+        221,
+        243,
+        246,
+        255,
+        15,
+        108,
+        187,
+        194,
+        205,
+        224,
+        18,
+        40,
+        81,
+        171,
+        186
+      ]
+    },
+    "coronavirus": {
+      "term_id": 93,
+      "frequency": 24,
+      "positions": [
+        78,
+        138,
+        147,
+        45,
+        92,
+        16,
+        95,
+        23,
+        34,
+        89,
+        149,
+        0,
+        29,
+        40,
+        59,
+        116,
+        175,
+        35,
+        44,
+        67,
+        35,
+        25,
+        133,
+        154
+      ]
+    },
+    "k99": {
+      "term_id": 358603,
+      "frequency": 6,
+      "positions": [
+        82,
+        47,
+        111,
+        82,
+        37,
+        54
+      ]
+    },
+    "escherichiacoli": {
+      "term_id": 227164,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "consequence": {
+      "term_id": 248,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "enteropathogen": {
+      "term_id": 17282,
+      "frequency": 17,
+      "positions": [
+        101,
+        109,
+        46,
+        24,
+        11,
+        119,
+        61,
+        5,
+        52,
+        106,
+        44,
+        57,
+        15,
+        1,
+        58,
+        161,
+        215
+      ]
+    },
+    "predominate": {
+      "term_id": 2418,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "throughout": {
+      "term_id": 538,
+      "frequency": 5,
+      "positions": [
+        119,
+        17,
+        33,
+        51,
+        293
+      ]
+    },
+    "frequently": {
+      "term_id": 511,
+      "frequency": 4,
+      "positions": [
+        128,
+        344,
+        86,
+        11
+      ]
+    },
+    "apparently": {
+      "term_id": 1289,
+      "frequency": 12,
+      "positions": [
+        150,
+        12,
+        92,
+        74,
+        133,
+        1,
+        447,
+        28,
+        181,
+        47,
+        20,
+        163
+      ]
+    },
+    "aetiology": {
+      "term_id": 2002,
+      "frequency": 2,
+      "positions": [
+        1,
+        21
+      ]
+    },
+    "neonatal": {
+      "term_id": 1215,
+      "frequency": 4,
+      "positions": [
+        3,
+        478,
+        88,
+        180
+      ]
+    },
+    "infectious": {
+      "term_id": 124,
+      "frequency": 7,
+      "positions": [
+        9,
+        37,
+        115,
+        2,
+        108,
+        21,
+        25
+      ]
+    },
+    "combination": {
+      "term_id": 226,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "et": {
+      "term_id": 191,
+      "frequency": 20,
+      "positions": [
+        22,
+        25,
+        21,
+        143,
+        165,
+        33,
+        54,
+        10,
+        15,
+        160,
+        81,
+        104,
+        134,
+        81,
+        94,
+        277,
+        86,
+        89,
+        160,
+        100
+      ]
+    },
+    "non-infectious": {
+      "term_id": 4583,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "contribute": {
+      "term_id": 86,
+      "frequency": 2,
+      "positions": [
+        30,
+        41
+      ]
+    },
+    "disease": {
+      "term_id": 8,
+      "frequency": 7,
+      "positions": [
+        33,
+        101,
+        48,
+        57,
+        97,
+        32,
+        25
+      ]
+    },
+    "significantly": {
+      "term_id": 237,
+      "frequency": 3,
+      "positions": [
+        42,
+        7,
+        6
+      ]
+    },
+    "escherichia": {
+      "term_id": 902,
+      "frequency": 2,
+      "positions": [
+        48,
+        52
+      ]
+    },
+    "importance": {
+      "term_id": 339,
+      "frequency": 1,
+      "positions": [
+        55
+      ]
+    },
+    "recently": {
+      "term_id": 236,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "microbiology": {
+      "term_id": 867,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "mortem": {
+      "term_id": 8681,
+      "frequency": 4,
+      "positions": [
+        89,
+        5,
+        39,
+        54
+      ]
+    },
+    "following": {
+      "term_id": 37934,
+      "frequency": 5,
+      "positions": [
+        92,
+        22,
+        77,
+        120,
+        156
+      ]
+    },
+    "describe": {
+      "term_id": 13,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "investigate": {
+      "term_id": 64,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "diagnostic": {
+      "term_id": 430,
+      "frequency": 1,
+      "positions": [
+        105
+      ]
+    },
+    "relationship": {
+      "term_id": 114,
+      "frequency": 1,
+      "positions": [
+        110
+      ]
+    },
+    "preliminary": {
+      "term_id": 871,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "duration": {
+      "term_id": 594,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "necropsy": {
+      "term_id": 2680,
+      "frequency": 3,
+      "positions": [
+        30,
+        71,
+        85
+      ]
+    },
+    "enzyme-linked": {
+      "term_id": 1838,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "immunosorbent": {
+      "term_id": 1541,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "microscopical": {
+      "term_id": 12268,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "faecal": {
+      "term_id": 3098,
+      "frequency": 13,
+      "positions": [
+        103,
+        120,
+        35,
+        70,
+        100,
+        7,
+        7,
+        60,
+        150,
+        162,
+        25,
+        104,
+        139
+      ]
+    },
+    "giemsa": {
+      "term_id": 8927,
+      "frequency": 2,
+      "positions": [
+        108,
+        124
+      ]
+    },
+    "agglutination": {
+      "term_id": 4262,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "enrichment": {
+      "term_id": 2476,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "rappaport": {
+      "term_id": 19267,
+      "frequency": 1,
+      "positions": [
+        131
+      ]
+    },
+    "subculture": {
+      "term_id": 12936,
+      "frequency": 1,
+      "positions": [
+        137
+      ]
+    },
+    "brilliant": {
+      "term_id": 6767,
+      "frequency": 1,
+      "positions": [
+        139
+      ]
+    },
+    "electron": {
+      "term_id": 909,
+      "frequency": 8,
+      "positions": [
+        150,
+        24,
+        28,
+        51,
+        226,
+        270,
+        320,
+        396
+      ]
+    },
+    "microscopy": {
+      "term_id": 831,
+      "frequency": 7,
+      "positions": [
+        151,
+        3,
+        25,
+        29,
+        308,
+        321,
+        397
+      ]
+    },
+    "differential": {
+      "term_id": 596,
+      "frequency": 1,
+      "positions": [
+        153
+      ]
+    },
+    "centrifugation": {
+      "term_id": 1233,
+      "frequency": 1,
+      "positions": [
+        154
+      ]
+    },
+    "negative": {
+      "term_id": 234,
+      "frequency": 1,
+      "positions": [
+        157
+      ]
+    },
+    "staining": {
+      "term_id": 17123,
+      "frequency": 3,
+      "positions": [
+        158,
+        121,
+        22
+      ]
+    },
+    "newbury": {
+      "term_id": 24635,
+      "frequency": 11,
+      "positions": [
+        162,
+        17,
+        7,
+        96,
+        163,
+        3,
+        48,
+        65,
+        101,
+        67,
+        131
+      ]
+    },
+    "pentobarbitone": {
+      "term_id": 60140,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "duodenum": {
+      "term_id": 5585,
+      "frequency": 5,
+      "positions": [
+        19,
+        67,
+        58,
+        73,
+        30
+      ]
+    },
+    "ern": {
+      "term_id": 19470,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "fixative": {
+      "term_id": 7526,
+      "frequency": 2,
+      "positions": [
+        34,
+        41
+      ]
+    },
+    "mercuric": {
+      "term_id": 38176,
+      "frequency": 4,
+      "positions": [
+        38,
+        46,
+        23,
+        27
+      ]
+    },
+    "chloride": {
+      "term_id": 2010,
+      "frequency": 2,
+      "positions": [
+        47,
+        28
+      ]
+    },
+    "formalin": {
+      "term_id": 2889,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "phosphate": {
+      "term_id": 1094,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "glutaraldehyde": {
+      "term_id": 5201,
+      "frequency": 3,
+      "positions": [
+        65,
+        19,
+        38
+      ]
+    },
+    "ph": {
+      "term_id": 573,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "adjacent": {
+      "term_id": 1307,
+      "frequency": 3,
+      "positions": [
+        70,
+        81,
+        431
+      ]
+    },
+    "ligament": {
+      "term_id": 7838,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "treitz": {
+      "term_id": 127357,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "ileocaecal": {
+      "term_id": 64007,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "junction": {
+      "term_id": 1000,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "possible": {
+      "term_id": 136,
+      "frequency": 4,
+      "positions": [
+        93,
+        61,
+        82,
+        135
+      ]
+    },
+    "intravascular": {
+      "term_id": 3474,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "injection": {
+      "term_id": 640,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "overdose": {
+      "term_id": 6727,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "anaesthetic": {
+      "term_id": 10945,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "fixation": {
+      "term_id": 2611,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "immunostaining": {
+      "term_id": 4658,
+      "frequency": 2,
+      "positions": [
+        1,
+        269
+      ]
+    },
+    "indirect": {
+      "term_id": 888,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "immunoperoxidase": {
+      "term_id": 7505,
+      "frequency": 5,
+      "positions": [
+        7,
+        457,
+        60,
+        116,
+        21
+      ]
+    },
+    "antisera": {
+      "term_id": 3077,
+      "frequency": 2,
+      "positions": [
+        11,
+        37
+      ]
+    },
+    "peroxidase-antiperoxidase": {
+      "term_id": 76524,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "sternberger": {
+      "term_id": 56066,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "atypical": {
+      "term_id": 1398,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "infection": {
+      "term_id": 4,
+      "frequency": 29,
+      "positions": [
+        51,
+        43,
+        56,
+        10,
+        22,
+        41,
+        119,
+        169,
+        32,
+        57,
+        60,
+        46,
+        145,
+        86,
+        213,
+        62,
+        69,
+        55,
+        77,
+        90,
+        186,
+        207,
+        265,
+        129,
+        220,
+        3,
+        42,
+        134,
+        137
+      ]
+    },
+    "cytoplasm": {
+      "term_id": 1219,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "enterocytes": {
+      "term_id": 4365,
+      "frequency": 39,
+      "positions": [
+        58,
+        90,
+        101,
+        2,
+        6,
+        12,
+        42,
+        44,
+        47,
+        50,
+        81,
+        84,
+        93,
+        0,
+        215,
+        283,
+        339,
+        379,
+        381,
+        408,
+        425,
+        246,
+        251,
+        275,
+        277,
+        292,
+        84,
+        88,
+        92,
+        103,
+        152,
+        156,
+        31,
+        43,
+        54,
+        34,
+        77,
+        95,
+        143
+      ]
+    },
+    "enteropathogenic": {
+      "term_id": 4723,
+      "frequency": 6,
+      "positions": [
+        66,
+        195,
+        159,
+        175,
+        237,
+        96
+      ]
+    },
+    "protozoa": {
+      "term_id": 3463,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "cross-section": {
+      "term_id": 13226,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "subjectively": {
+      "term_id": 13022,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "enterocyte": {
+      "term_id": 10287,
+      "frequency": 2,
+      "positions": [
+        97,
+        116
+      ]
+    },
+    "majority": {
+      "term_id": 523,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "salmonellosis": {
+      "term_id": 5642,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "ofthe": {
+      "term_id": 20222,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "propria": {
+      "term_id": 4964,
+      "frequency": 14,
+      "positions": [
+        60,
+        35,
+        60,
+        92,
+        219,
+        388,
+        262,
+        303,
+        99,
+        123,
+        163,
+        71,
+        143,
+        150
+      ]
+    },
+    "degenerate": {
+      "term_id": 2994,
+      "frequency": 2,
+      "positions": [
+        30,
+        118
+      ]
+    },
+    "cuboidal": {
+      "term_id": 12270,
+      "frequency": 6,
+      "positions": [
+        41,
+        253,
+        274,
+        83,
+        42,
+        53
+      ]
+    },
+    "vacuo": {
+      "term_id": 20378,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "abnormally": {
+      "term_id": 6153,
+      "frequency": 2,
+      "positions": [
+        48,
+        82
+      ]
+    },
+    "neutrophilic": {
+      "term_id": 4998,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "polymorphonuclear": {
+      "term_id": 4509,
+      "frequency": 1,
+      "positions": [
+        55
+      ]
+    },
+    "similarly": {
+      "term_id": 522,
+      "frequency": 2,
+      "positions": [
+        74,
+        157
+      ]
+    },
+    "contribution": {
+      "term_id": 436,
+      "frequency": 4,
+      "positions": [
+        148,
+        56,
+        133,
+        3
+      ]
+    },
+    "non-intestinal": {
+      "term_id": 101971,
+      "frequency": 1,
+      "positions": [
+        188
+      ]
+    },
+    "impression": {
+      "term_id": 4642,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "severely": {
+      "term_id": 1300,
+      "frequency": 2,
+      "positions": [
+        14,
+        140
+      ]
+    },
+    "salmonella-infected": {
+      "term_id": 221936,
+      "frequency": 2,
+      "positions": [
+        57,
+        32
+      ]
+    },
+    "statistical": {
+      "term_id": 530,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "analysis": {
+      "term_id": 90,
+      "frequency": 3,
+      "positions": [
+        2,
+        38,
+        0
+      ]
+    },
+    "investigation": {
+      "term_id": 148,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "transmission": {
+      "term_id": 240,
+      "frequency": 3,
+      "positions": [
+        27,
+        48,
+        319
+      ]
+    },
+    "original": {
+      "term_id": 775,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "detection": {
+      "term_id": 171,
+      "frequency": 3,
+      "positions": [
+        39,
+        0,
+        92
+      ]
+    },
+    "identical": {
+      "term_id": 797,
+      "frequency": 8,
+      "positions": [
+        51,
+        153,
+        73,
+        92,
+        488,
+        71,
+        234,
+        201
+      ]
+    },
+    "opposite": {
+      "term_id": 1880,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "rotavirus-infected": {
+      "term_id": 25925,
+      "frequency": 7,
+      "positions": [
+        4,
+        48,
+        177,
+        198,
+        63,
+        76,
+        94
+      ]
+    },
+    "langpap": {
+      "term_id": 112237,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "experimental": {
+      "term_id": 353,
+      "frequency": 5,
+      "positions": [
+        13,
+        163,
+        78,
+        264,
+        248
+      ]
+    },
+    "mebus": {
+      "term_id": 9394,
+      "frequency": 4,
+      "positions": [
+        14,
+        164,
+        82,
+        159
+      ]
+    },
+    "probably": {
+      "term_id": 571,
+      "frequency": 2,
+      "positions": [
+        53,
+        106
+      ]
+    },
+    "additional": {
+      "term_id": 270,
+      "frequency": 14,
+      "positions": [
+        60,
+        74,
+        81,
+        51,
+        62,
+        69,
+        105,
+        118,
+        125,
+        24,
+        56,
+        69,
+        78,
+        17
+      ]
+    },
+    "virus": {
+      "term_id": 3,
+      "frequency": 2,
+      "positions": [
+        1,
+        263
+      ]
+    },
+    "rotavirusinfected": {
+      "term_id": 101980,
+      "frequency": 3,
+      "positions": [
+        87,
+        102,
+        29
+      ]
+    },
+    "severity": {
+      "term_id": 534,
+      "frequency": 7,
+      "positions": [
+        112,
+        143,
+        262,
+        394,
+        82,
+        86,
+        221
+      ]
+    },
+    "important": {
+      "term_id": 106,
+      "frequency": 1,
+      "positions": [
+        129
+      ]
+    },
+    "aetiological": {
+      "term_id": 4919,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "pearson": {
+      "term_id": 2412,
+      "frequency": 4,
+      "positions": [
+        159,
+        80,
+        211,
+        85
+      ]
+    },
+    "newman": {
+      "term_id": 3262,
+      "frequency": 2,
+      "positions": [
+        166,
+        84
+      ]
+    },
+    "extensively": {
+      "term_id": 1098,
+      "frequency": 2,
+      "positions": [
+        39,
+        76
+      ]
+    },
+    "previously": {
+      "term_id": 201,
+      "frequency": 2,
+      "positions": [
+        79,
+        260
+      ]
+    },
+    "josephson": {
+      "term_id": 19652,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "cryptosporidium-infected": {
+      "term_id": 474320,
+      "frequency": 1,
+      "positions": [
+        147
+      ]
+    },
+    "ii": {
+      "term_id": 310,
+      "frequency": 1,
+      "positions": [
+        159
+      ]
+    },
+    "association": {
+      "term_id": 134,
+      "frequency": 5,
+      "positions": [
+        19,
+        18,
+        257,
+        94,
+        142
+      ]
+    },
+    "entero": {
+      "term_id": 19796,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "disarrangement": {
+      "term_id": 133611,
+      "frequency": 3,
+      "positions": [
+        91,
+        210,
+        27
+      ]
+    },
+    "conclude": {
+      "term_id": 397,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "nevertheless": {
+      "term_id": 802,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "experimentally": {
+      "term_id": 1130,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "villi": {
+      "term_id": 5476,
+      "frequency": 7,
+      "positions": [
+        171,
+        48,
+        124,
+        234,
+        76,
+        80,
+        39
+      ]
+    },
+    "slightly": {
+      "term_id": 862,
+      "frequency": 1,
+      "positions": [
+        181
+      ]
+    },
+    "exfoliation": {
+      "term_id": 23618,
+      "frequency": 3,
+      "positions": [
+        212,
+        117,
+        29
+      ]
+    },
+    "microscopic": {
+      "term_id": 1594,
+      "frequency": 2,
+      "positions": [
+        227,
+        271
+      ]
+    },
+    "variation": {
+      "term_id": 239,
+      "frequency": 1,
+      "positions": [
+        251
+      ]
+    },
+    "bacterial": {
+      "term_id": 388,
+      "frequency": 3,
+      "positions": [
+        257,
+        136,
+        154
+      ]
+    },
+    "colonisation": {
+      "term_id": 7118,
+      "frequency": 1,
+      "positions": [
+        258
+      ]
+    },
+    "microvilli": {
+      "term_id": 9217,
+      "frequency": 1,
+      "positions": [
+        293
+      ]
+    },
+    "although": {
+      "term_id": 116,
+      "frequency": 5,
+      "positions": [
+        324,
+        426,
+        54,
+        8,
+        219
+      ]
+    },
+    "musocal": {
+      "term_id": 832995,
+      "frequency": 1,
+      "positions": [
+        329
+      ]
+    },
+    "together": {
+      "term_id": 365,
+      "frequency": 3,
+      "positions": [
+        362,
+        17,
+        144
+      ]
+    },
+    "infiltration": {
+      "term_id": 1443,
+      "frequency": 4,
+      "positions": [
+        384,
+        137,
+        299,
+        166
+      ]
+    },
+    "abnormal": {
+      "term_id": 1305,
+      "frequency": 1,
+      "positions": [
+        424
+      ]
+    },
+    "antiserum": {
+      "term_id": 2962,
+      "frequency": 1,
+      "positions": [
+        462
+      ]
+    },
+    "dysentery": {
+      "term_id": 6073,
+      "frequency": 4,
+      "positions": [
+        476,
+        186,
+        49,
+        75
+      ]
+    },
+    "numerous": {
+      "term_id": 670,
+      "frequency": 4,
+      "positions": [
+        258,
+        264,
+        81,
+        67
+      ]
+    },
+    "multiple": {
+      "term_id": 180,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "resistant": {
+      "term_id": 780,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "percentage": {
+      "term_id": 517,
+      "frequency": 2,
+      "positions": [
+        69,
+        145
+      ]
+    },
+    "vacuolated": {
+      "term_id": 14862,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "pathogen": {
+      "term_id": 14,
+      "frequency": 3,
+      "positions": [
+        3,
+        0,
+        13
+      ]
+    },
+    "separately": {
+      "term_id": 1487,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "significant": {
+      "term_id": 138,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "statistically": {
+      "term_id": 907,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "oi": {
+      "term_id": 14521,
+      "frequency": 2,
+      "positions": [
+        37,
+        34
+      ]
+    },
+    "understanding": {
+      "term_id": 8216,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "approach": {
+      "term_id": 46,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "enterotoxigenic": {
+      "term_id": 5323,
+      "frequency": 2,
+      "positions": [
+        36,
+        111
+      ]
+    },
+    "causative": {
+      "term_id": 997,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "jubb": {
+      "term_id": 37393,
+      "frequency": 2,
+      "positions": [
+        80,
+        88
+      ]
+    },
+    "undifferentiated": {
+      "term_id": 6046,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "previous": {
+      "term_id": 267,
+      "frequency": 2,
+      "positions": [
+        0,
+        50
+      ]
+    },
+    "bacteriological": {
+      "term_id": 5243,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "virological": {
+      "term_id": 1591,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "immunofluorescent": {
+      "term_id": 3661,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "diarrhoeic": {
+      "term_id": 8497,
+      "frequency": 5,
+      "positions": [
+        28,
+        53,
+        111,
+        281,
+        173
+      ]
+    },
+    "immunocytochemical": {
+      "term_id": 7296,
+      "frequency": 2,
+      "positions": [
+        44,
+        88
+      ]
+    },
+    "particular": {
+      "term_id": 352,
+      "frequency": 2,
+      "positions": [
+        56,
+        262
+      ]
+    },
+    "advantage": {
+      "term_id": 338,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "evaluation": {
+      "term_id": 258,
+      "frequency": 2,
+      "positions": [
+        66,
+        75
+      ]
+    },
+    "paraffinembedded": {
+      "term_id": 31412,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "microbiological": {
+      "term_id": 1879,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "outbreak": {
+      "term_id": 29,
+      "frequency": 4,
+      "positions": [
+        115,
+        46,
+        59,
+        72
+      ]
+    },
+    "contemporary": {
+      "term_id": 2602,
+      "frequency": 1,
+      "positions": [
+        119
+      ]
+    },
+    "valuable": {
+      "term_id": 1061,
+      "frequency": 1,
+      "positions": [
+        128
+      ]
+    },
+    "investigative": {
+      "term_id": 8002,
+      "frequency": 1,
+      "positions": [
+        129
+      ]
+    },
+    "procedure": {
+      "term_id": 76,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "diagnosis": {
+      "term_id": 325,
+      "frequency": 2,
+      "positions": [
+        146,
+        94
+      ]
+    },
+    "probable": {
+      "term_id": 1158,
+      "frequency": 2,
+      "positions": [
+        41,
+        234
+      ]
+    },
+    "possibility": {
+      "term_id": 396,
+      "frequency": 2,
+      "positions": [
+        61,
+        148
+      ]
+    },
+    "unrecognised": {
+      "term_id": 20305,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "cumulative": {
+      "term_id": 1844,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 3,
+      "positions": [
+        107,
+        121,
+        153
+      ]
+    },
+    "digestive": {
+      "term_id": 2539,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "absorptive": {
+      "term_id": 8853,
+      "frequency": 4,
+      "positions": [
+        132,
+        237,
+        300,
+        191
+      ]
+    },
+    "function": {
+      "term_id": 31,
+      "frequency": 4,
+      "positions": [
+        133,
+        149,
+        238,
+        192
+      ]
+    },
+    "sufficient": {
+      "term_id": 584,
+      "frequency": 1,
+      "positions": [
+        134
+      ]
+    },
+    "additive": {
+      "term_id": 2056,
+      "frequency": 1,
+      "positions": [
+        143
+      ]
+    },
+    "structure": {
+      "term_id": 27,
+      "frequency": 1,
+      "positions": [
+        147
+      ]
+    },
+    "alimentary": {
+      "term_id": 7026,
+      "frequency": 1,
+      "positions": [
+        157
+      ]
+    },
+    "earlier": {
+      "term_id": 638,
+      "frequency": 1,
+      "positions": [
+        166
+      ]
+    },
+    "clinically": {
+      "term_id": 724,
+      "frequency": 1,
+      "positions": [
+        175
+      ]
+    },
+    "virtually": {
+      "term_id": 1892,
+      "frequency": 1,
+      "positions": [
+        227
+      ]
+    },
+    "undamaged": {
+      "term_id": 33968,
+      "frequency": 1,
+      "positions": [
+        228
+      ]
+    },
+    "rotavirus-induced": {
+      "term_id": 25926,
+      "frequency": 1,
+      "positions": [
+        249
+      ]
+    },
+    "malabsorption": {
+      "term_id": 6632,
+      "frequency": 1,
+      "positions": [
+        250
+      ]
+    },
+    "hypothesis": {
+      "term_id": 536,
+      "frequency": 1,
+      "positions": [
+        257
+      ]
+    },
+    "colostrumdeprived": {
+      "term_id": 54134,
+      "frequency": 1,
+      "positions": [
+        267
+      ]
+    },
+    "logan": {
+      "term_id": 5816,
+      "frequency": 1,
+      "positions": [
+        276
+      ]
+    },
+    "capacity": {
+      "term_id": 442,
+      "frequency": 1,
+      "positions": [
+        301
+      ]
+    },
+    "regardless": {
+      "term_id": 1111,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "especially": {
+      "term_id": 316,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "prevalent": {
+      "term_id": 1134,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "immunocytochemistry": {
+      "term_id": 8356,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "presumptive": {
+      "term_id": 4791,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "confusion": {
+      "term_id": 3028,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    },
+    "primarily": {
+      "term_id": 617,
+      "frequency": 1,
+      "positions": [
+        183
+      ]
+    },
+    "involvement": {
+      "term_id": 709,
+      "frequency": 1,
+      "positions": [
+        190
+      ]
+    },
+    "personal": {
+      "term_id": 829,
+      "frequency": 1,
+      "positions": [
+        212
+      ]
+    },
+    "communication": {
+      "term_id": 626,
+      "frequency": 1,
+      "positions": [
+        213
+      ]
+    },
+    "logically": {
+      "term_id": 14008,
+      "frequency": 1,
+      "positions": [
+        233
+      ]
+    },
+    "S102-9": {
+      "term_id": 261012,
+      "frequency": 5,
+      "positions": [
+        241,
+        193,
+        29,
+        109,
+        218
+      ]
+    },
+    "virus-induced": {
+      "term_id": 1644,
+      "frequency": 1,
+      "positions": [
+        254
+      ]
+    },
+    "viral": {
+      "term_id": 92,
+      "frequency": 1,
+      "positions": [
+        271
+      ]
+    },
+    "antigen": {
+      "term_id": 40,
+      "frequency": 1,
+      "positions": [
+        272
+      ]
+    },
+    "distribution": {
+      "term_id": 219,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "immunofluorescence": {
+      "term_id": 1193,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "technique": {
+      "term_id": 71,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "cryostat": {
+      "term_id": 14471,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "sensitivity": {
+      "term_id": 414,
+      "frequency": 1,
+      "positions": [
+        112
+      ]
+    },
+    "characteristic": {
+      "term_id": 38,
+      "frequency": 1,
+      "positions": [
+        157
+      ]
+    },
+    "separate": {
+      "term_id": 225,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "indistinguishable": {
+      "term_id": 2920,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "a11985": {
+      "term_id": 784996,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "pathogenesis": {
+      "term_id": 434,
+      "frequency": 2,
+      "positions": [
+        128,
+        175
+      ]
+    },
+    "alternatively": {
+      "term_id": 1208,
+      "frequency": 1,
+      "positions": [
+        168
+      ]
+    },
+    "variable": {
+      "term_id": 104,
+      "frequency": 1,
+      "positions": [
+        223
+      ]
+    },
+    "pathogenic": {
+      "term_id": 529,
+      "frequency": 1,
+      "positions": [
+        227
+      ]
+    },
+    "unidentified": {
+      "term_id": 3331,
+      "frequency": 1,
+      "positions": [
+        231
+      ]
+    },
+    "isolation": {
+      "term_id": 295,
+      "frequency": 1,
+      "positions": [
+        238
+      ]
+    },
+    "identification": {
+      "term_id": 216,
+      "frequency": 1,
+      "positions": [
+        240
+      ]
+    },
+    "desport": {
+      "term_id": 157826,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.460999",
+    "sections_count": 35
+  }
+}

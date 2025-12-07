@@ -1,0 +1,1845 @@
+{
+  "document_id": "000affa746a03f1fe4e3b3ef1a62fdfa9b9ac52a",
+  "source_type": "pdf_json",
+  "file_name": "000affa746a03f1fe4e3b3ef1a62fdfa9b9ac52a.json",
+  "total_terms": 575,
+  "unique_terms": 170,
+  "sections": {
+    "title": {
+      "term_count": 13,
+      "char_length": 239,
+      "top_terms": {
+        "correlation": 1,
+        "antimicrobial": 1,
+        "consumption": 1,
+        "incidence": 1,
+        "health-care": 1,
+        "methicillin": 1,
+        "resistant": 1,
+        "staphylococcus": 1,
+        "vancomycin-resistant": 1,
+        "enterococci": 1,
+        "university": 1,
+        "hospital": 1,
+        "taiwan": 1
+      }
+    },
+    "abstract": {
+      "term_count": 66,
+      "char_length": 1618,
+      "top_terms": {
+        "incidence": 7,
+        "consumption": 5,
+        "teicoplanin": 4,
+        "mrsa": 3,
+        "linezolid": 3,
+        "significant": 3,
+        "correlation": 2,
+        "antibiotic": 2,
+        "patient-days": 2,
+        "tigecycline": 2,
+        "vre": 2,
+        "investigate": 1,
+        "health-care-associated": 1,
+        "hcais": 1,
+        "methicillin-resistant": 1,
+        "staphylococcus": 1,
+        "vancomycin-resistant": 1,
+        "enterococci": 1,
+        "vres": 1,
+        "university": 1
+      }
+    },
+    "Introduction": {
+      "term_count": 107,
+      "char_length": 2598,
+      "top_terms": {
+        "mrsa": 8,
+        "vre": 5,
+        "antibiotic": 4,
+        "consumption": 4,
+        "prevalence": 4,
+        "infection": 3,
+        "resistance": 3,
+        "relationship": 3,
+        "incidence": 2,
+        "hcai": 2,
+        "bacteria": 2,
+        "gram-positive": 2,
+        "enterococcus": 2,
+        "mortality": 2,
+        "addition": 2,
+        "taiwan": 2,
+        "linezolid": 2,
+        "fusidic": 2,
+        "association": 2,
+        "tigecycline": 2
+      }
+    },
+    "Hospital setting": {
+      "term_count": 42,
+      "char_length": 1477,
+      "top_terms": {
+        "hospital": 3,
+        "taiwan": 2,
+        "ntuh": 2,
+        "oxacillin": 2,
+        "enterococcus": 2,
+        "resistance": 2,
+        "mg": 2,
+        "vancomycin": 2,
+        "national": 1,
+        "university": 1,
+        "academically": 1,
+        "tertiary": 1,
+        "northern": 1,
+        "inpatient-days": 1,
+        "linezolid": 1,
+        "fusidic": 1,
+        "formulary": 1,
+        "tigecycline": 1,
+        "daptomycin": 1,
+        "respectively": 1
+      }
+    },
+    "Patients with HCAI-MRSA and HCAI-VRE": {
+      "term_count": 13,
+      "char_length": 357,
+      "top_terms": {
+        "hcai": 2,
+        "nonduplicate": 1,
+        "clinical": 1,
+        "mrsa": 1,
+        "vre": 1,
+        "national": 1,
+        "nosocomial": 1,
+        "infection": 1,
+        "surveillance": 1,
+        "incidence": 1,
+        "respectively": 1,
+        "inpatient-days": 1
+      }
+    },
+    "Antimicrobial agents and consumption": {
+      "term_count": 13,
+      "char_length": 251,
+      "top_terms": {
+        "consumption": 1,
+        "ddd": 1,
+        "inpatient-days": 1,
+        "glycopeptides": 1,
+        "vancomycin": 1,
+        "teicoplanin": 1,
+        "linezolid": 1,
+        "fusidic": 1,
+        "tigecycline": 1,
+        "daptomycin": 1,
+        "pharmacy": 1,
+        "department": 1,
+        "hospital": 1
+      }
+    },
+    "Statistical analysis": {
+      "term_count": 15,
+      "char_length": 381,
+      "top_terms": {
+        "consumption": 2,
+        "regression": 1,
+        "analysis": 1,
+        "antimicrobial": 1,
+        "incidence": 1,
+        "pearson": 1,
+        "correlation": 1,
+        "coefficient": 1,
+        "determine": 1,
+        "relationship": 1,
+        "antibiotic": 1,
+        "resistance": 1,
+        "statistically": 1,
+        "significant": 1
+      }
+    },
+    "Annual antibiotic consumption": {
+      "term_count": 28,
+      "char_length": 842,
+      "top_terms": {
+        "incidence": 5,
+        "consumption": 2,
+        "teicoplanin": 2,
+        "vancomycin": 2,
+        "hcai": 2,
+        "mrsa": 2,
+        "vre": 2,
+        "significant": 2,
+        "antimicrobial": 1,
+        "linezolid": 1,
+        "significantly": 1,
+        "glycopeptides": 1,
+        "tigecycline": 1,
+        "fusidic": 1,
+        "nonduplicate": 1,
+        "enterococcal": 1,
+        "decrease": 1
+      }
+    },
+    "Correlation between antibiotic consumption and incidence of HCAI-MRSA and HCAI-VRE": {
+      "term_count": 31,
+      "char_length": 672,
+      "top_terms": {
+        "correlation": 4,
+        "incidence": 4,
+        "teicoplanin": 4,
+        "vancomycin": 3,
+        "tigecycline": 3,
+        "linezolid": 2,
+        "fusidic": 2,
+        "significant": 2,
+        "consumption": 1,
+        "daptomycin": 1,
+        "prevalence": 1,
+        "mrsa": 1,
+        "contrast": 1,
+        "glycopeptides": 1,
+        "positive": 1
+      }
+    },
+    "Discussion": {
+      "term_count": 243,
+      "char_length": 6166,
+      "top_terms": {
+        "incidence": 18,
+        "consumption": 12,
+        "teicoplanin": 12,
+        "tigecycline": 10,
+        "mrsa": 10,
+        "correlation": 9,
+        "linezolid": 8,
+        "addition": 5,
+        "daptomycin": 5,
+        "vancomycin": 5,
+        "although": 5,
+        "association": 4,
+        "bacteria": 4,
+        "significant": 4,
+        "significantly": 4,
+        "hospital": 4,
+        "antimicrobial": 4,
+        "antibiotic": 3,
+        "appropriate": 3,
+        "glycopeptides": 3
+      }
+    },
+    "back_matter": {
+      "term_count": 4,
+      "char_length": 157,
+      "top_terms": {
+        "financial": 1,
+        "nonfinancial": 1,
+        "interest": 1,
+        "manuscript": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "correlation": {
+      "term_id": 409,
+      "frequency": 18,
+      "positions": [
+        0,
+        8,
+        39,
+        319,
+        30,
+        3,
+        33,
+        54,
+        81,
+        70,
+        117,
+        193,
+        51,
+        68,
+        92,
+        10,
+        27,
+        50
+      ]
+    },
+    "antimicrobial": {
+      "term_id": 591,
+      "frequency": 8,
+      "positions": [
+        2,
+        147,
+        13,
+        6,
+        105,
+        197,
+        39,
+        72
+      ]
+    },
+    "consumption": {
+      "term_id": 1491,
+      "frequency": 28,
+      "positions": [
+        3,
+        11,
+        49,
+        3,
+        64,
+        8,
+        148,
+        226,
+        281,
+        321,
+        3,
+        11,
+        41,
+        14,
+        23,
+        16,
+        7,
+        4,
+        17,
+        71,
+        86,
+        102,
+        132,
+        27,
+        120,
+        150,
+        71,
+        52
+      ]
+    },
+    "incidence": {
+      "term_id": 463,
+      "frequency": 39,
+      "positions": [
+        5,
+        14,
+        19,
+        28,
+        53,
+        71,
+        13,
+        36,
+        1,
+        335,
+        29,
+        19,
+        10,
+        26,
+        36,
+        50,
+        58,
+        6,
+        10,
+        73,
+        84,
+        10,
+        109,
+        5,
+        36,
+        50,
+        80,
+        132,
+        160,
+        201,
+        5,
+        29,
+        59,
+        76,
+        98,
+        16,
+        182,
+        41,
+        59
+      ]
+    },
+    "health-care": {
+      "term_id": 3001,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "methicillin": {
+      "term_id": 7877,
+      "frequency": 3,
+      "positions": [
+        12,
+        40,
+        140
+      ]
+    },
+    "resistant": {
+      "term_id": 780,
+      "frequency": 4,
+      "positions": [
+        13,
+        42,
+        33,
+        175
+      ]
+    },
+    "staphylococcus": {
+      "term_id": 1361,
+      "frequency": 3,
+      "positions": [
+        14,
+        22,
+        36
+      ]
+    },
+    "vancomycin-resistant": {
+      "term_id": 8607,
+      "frequency": 3,
+      "positions": [
+        17,
+        27,
+        88
+      ]
+    },
+    "enterococci": {
+      "term_id": 6646,
+      "frequency": 3,
+      "positions": [
+        18,
+        28,
+        89
+      ]
+    },
+    "university": {
+      "term_id": 220,
+      "frequency": 3,
+      "positions": [
+        21,
+        33,
+        3
+      ]
+    },
+    "hospital": {
+      "term_id": 60,
+      "frequency": 11,
+      "positions": [
+        22,
+        34,
+        62,
+        4,
+        29,
+        43,
+        30,
+        37,
+        183,
+        29,
+        71
+      ]
+    },
+    "taiwan": {
+      "term_id": 1659,
+      "frequency": 7,
+      "positions": [
+        24,
+        36,
+        103,
+        350,
+        2,
+        21,
+        20
+      ]
+    },
+    "investigate": {
+      "term_id": 64,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "antibiotic": {
+      "term_id": 83,
+      "frequency": 10,
+      "positions": [
+        10,
+        28,
+        117,
+        126,
+        150,
+        286,
+        40,
+        6,
+        12,
+        194
+      ]
+    },
+    "health-care-associated": {
+      "term_id": 26774,
+      "frequency": 2,
+      "positions": [
+        16,
+        3
+      ]
+    },
+    "hcais": {
+      "term_id": 71018,
+      "frequency": 2,
+      "positions": [
+        18,
+        123
+      ]
+    },
+    "methicillin-resistant": {
+      "term_id": 4109,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "mrsa": {
+      "term_id": 4009,
+      "frequency": 25,
+      "positions": [
+        24,
+        76,
+        38,
+        45,
+        53,
+        110,
+        195,
+        217,
+        256,
+        276,
+        312,
+        9,
+        5,
+        23,
+        49,
+        52,
+        112,
+        7,
+        55,
+        108,
+        203,
+        51,
+        146,
+        185,
+        85
+      ]
+    },
+    "vres": {
+      "term_id": 193109,
+      "frequency": 2,
+      "positions": [
+        29,
+        90
+      ]
+    },
+    "patient-days": {
+      "term_id": 25328,
+      "frequency": 3,
+      "positions": [
+        46,
+        53,
+        30
+      ]
+    },
+    "glycopeptides": {
+      "term_id": 11595,
+      "frequency": 8,
+      "positions": [
+        55,
+        181,
+        10,
+        26,
+        63,
+        20,
+        29,
+        123
+      ]
+    },
+    "vancomycin": {
+      "term_id": 4986,
+      "frequency": 15,
+      "positions": [
+        56,
+        325,
+        174,
+        194,
+        11,
+        25,
+        28,
+        18,
+        62,
+        64,
+        19,
+        22,
+        47,
+        122,
+        125
+      ]
+    },
+    "teicoplanin": {
+      "term_id": 19277,
+      "frequency": 24,
+      "positions": [
+        58,
+        5,
+        47,
+        66,
+        326,
+        13,
+        16,
+        30,
+        19,
+        43,
+        66,
+        91,
+        6,
+        24,
+        43,
+        55,
+        75,
+        96,
+        127,
+        22,
+        56,
+        17,
+        36,
+        54
+      ]
+    },
+    "linezolid": {
+      "term_id": 10507,
+      "frequency": 18,
+      "positions": [
+        59,
+        7,
+        49,
+        209,
+        327,
+        35,
+        14,
+        18,
+        20,
+        41,
+        8,
+        45,
+        57,
+        30,
+        77,
+        98,
+        19,
+        38
+      ]
+    },
+    "fusidic": {
+      "term_id": 55751,
+      "frequency": 11,
+      "positions": [
+        60,
+        211,
+        329,
+        37,
+        15,
+        33,
+        21,
+        69,
+        26,
+        32,
+        129
+      ]
+    },
+    "tigecycline": {
+      "term_id": 24657,
+      "frequency": 20,
+      "positions": [
+        62,
+        68,
+        228,
+        328,
+        46,
+        17,
+        31,
+        23,
+        67,
+        93,
+        60,
+        73,
+        89,
+        134,
+        152,
+        177,
+        73,
+        80,
+        104,
+        56
+      ]
+    },
+    "daptomycin": {
+      "term_id": 22297,
+      "frequency": 11,
+      "positions": [
+        64,
+        283,
+        332,
+        48,
+        19,
+        25,
+        62,
+        91,
+        136,
+        154,
+        179
+      ]
+    },
+    "nonduplicate": {
+      "term_id": 139512,
+      "frequency": 4,
+      "positions": [
+        74,
+        93,
+        7,
+        7
+      ]
+    },
+    "clinical": {
+      "term_id": 107,
+      "frequency": 3,
+      "positions": [
+        75,
+        121,
+        8
+      ]
+    },
+    "vre": {
+      "term_id": 10246,
+      "frequency": 11,
+      "positions": [
+        78,
+        40,
+        108,
+        197,
+        219,
+        258,
+        278,
+        11,
+        7,
+        46,
+        100
+      ]
+    },
+    "hcai": {
+      "term_id": 54771,
+      "frequency": 7,
+      "positions": [
+        81,
+        5,
+        27,
+        14,
+        17,
+        2,
+        15
+      ]
+    },
+    "microbiology": {
+      "term_id": 867,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "immunology": {
+      "term_id": 1042,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "infection": {
+      "term_id": 4,
+      "frequency": 8,
+      "positions": [
+        5,
+        4,
+        54,
+        91,
+        25,
+        38,
+        82,
+        186
+      ]
+    },
+    "significantly": {
+      "term_id": 237,
+      "frequency": 7,
+      "positions": [
+        8,
+        93,
+        19,
+        9,
+        56,
+        8,
+        20
+      ]
+    },
+    "significant": {
+      "term_id": 138,
+      "frequency": 12,
+      "positions": [
+        15,
+        24,
+        38,
+        52,
+        32,
+        54,
+        32,
+        53,
+        81,
+        98,
+        116,
+        9
+      ]
+    },
+    "decrease": {
+      "term_id": 26,
+      "frequency": 4,
+      "positions": [
+        16,
+        33,
+        119,
+        80
+      ]
+    },
+    "increase": {
+      "term_id": 6,
+      "frequency": 3,
+      "positions": [
+        25,
+        18,
+        27
+      ]
+    },
+    "contrast": {
+      "term_id": 262,
+      "frequency": 3,
+      "positions": [
+        57,
+        51,
+        43
+      ]
+    },
+    "positive": {
+      "term_id": 140,
+      "frequency": 5,
+      "positions": [
+        58,
+        80,
+        67,
+        91,
+        49
+      ]
+    },
+    "conclusion": {
+      "term_id": 49,
+      "frequency": 2,
+      "positions": [
+        0,
+        1
+      ]
+    },
+    "implementation": {
+      "term_id": 1013,
+      "frequency": 2,
+      "positions": [
+        19,
+        64
+      ]
+    },
+    "infection-control": {
+      "term_id": 9859,
+      "frequency": 3,
+      "positions": [
+        21,
+        61,
+        66
+      ]
+    },
+    "reinforcement": {
+      "term_id": 10028,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "appropriate": {
+      "term_id": 389,
+      "frequency": 4,
+      "positions": [
+        27,
+        46,
+        235,
+        71
+      ]
+    },
+    "multidrug-resistant": {
+      "term_id": 4195,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "bacteria": {
+      "term_id": 495,
+      "frequency": 6,
+      "positions": [
+        9,
+        35,
+        34,
+        42,
+        26,
+        176
+      ]
+    },
+    "gradually": {
+      "term_id": 1649,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "especially": {
+      "term_id": 316,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "immunocompromised": {
+      "term_id": 1359,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "causative": {
+      "term_id": 997,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "gram-positive": {
+      "term_id": 5459,
+      "frequency": 3,
+      "positions": [
+        34,
+        250,
+        41
+      ]
+    },
+    "enterococcus": {
+      "term_id": 4648,
+      "frequency": 4,
+      "positions": [
+        39,
+        101,
+        117,
+        177
+      ]
+    },
+    "oxacillin": {
+      "term_id": 18612,
+      "frequency": 3,
+      "positions": [
+        41,
+        82,
+        154
+      ]
+    },
+    "particular": {
+      "term_id": 352,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "mortality": {
+      "term_id": 320,
+      "frequency": 2,
+      "positions": [
+        59,
+        83
+      ]
+    },
+    "health-careassociated": {
+      "term_id": 109021,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "methicillin-susceptible": {
+      "term_id": 21451,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "addition": {
+      "term_id": 131,
+      "frequency": 7,
+      "positions": [
+        76,
+        221,
+        53,
+        69,
+        65,
+        148,
+        151
+      ]
+    },
+    "diazgranados": {
+      "term_id": 67106,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "et": {
+      "term_id": 191,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "vancomycin-susceptible": {
+      "term_id": 115183,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "exception": {
+      "term_id": 856,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "infectious": {
+      "term_id": 124,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "resistance": {
+      "term_id": 481,
+      "frequency": 7,
+      "positions": [
+        127,
+        151,
+        161,
+        141,
+        175,
+        45,
+        37
+      ]
+    },
+    "bacterial": {
+      "term_id": 388,
+      "frequency": 2,
+      "positions": [
+        129,
+        72
+      ]
+    },
+    "relationship": {
+      "term_id": 114,
+      "frequency": 6,
+      "positions": [
+        136,
+        145,
+        204,
+        37,
+        65,
+        2
+      ]
+    },
+    "although": {
+      "term_id": 116,
+      "frequency": 6,
+      "positions": [
+        139,
+        84,
+        0,
+        83,
+        79,
+        5
+      ]
+    },
+    "findings": {
+      "term_id": 701251,
+      "frequency": 3,
+      "positions": [
+        153,
+        83,
+        93
+      ]
+    },
+    "inconsistent": {
+      "term_id": 2816,
+      "frequency": 1,
+      "positions": [
+        155
+      ]
+    },
+    "possibly": {
+      "term_id": 680,
+      "frequency": 1,
+      "positions": [
+        156
+      ]
+    },
+    "antibiotic-prescribing": {
+      "term_id": 204172,
+      "frequency": 1,
+      "positions": [
+        170
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 1,
+      "positions": [
+        173
+      ]
+    },
+    "extended-spectrum": {
+      "term_id": 10850,
+      "frequency": 1,
+      "positions": [
+        182
+      ]
+    },
+    "fluoroquinolones": {
+      "term_id": 6251,
+      "frequency": 2,
+      "positions": [
+        185,
+        15
+      ]
+    },
+    "prevalence": {
+      "term_id": 473,
+      "frequency": 6,
+      "positions": [
+        193,
+        215,
+        254,
+        274,
+        47,
+        49
+      ]
+    },
+    "association": {
+      "term_id": 134,
+      "frequency": 6,
+      "positions": [
+        223,
+        271,
+        4,
+        99,
+        25,
+        91
+      ]
+    },
+    "anti-Gram-positive": {
+      "term_id": 261136,
+      "frequency": 1,
+      "positions": [
+        231
+      ]
+    },
+    "minocycline": {
+      "term_id": 14839,
+      "frequency": 1,
+      "positions": [
+        235
+      ]
+    },
+    "effective": {
+      "term_id": 243,
+      "frequency": 1,
+      "positions": [
+        242
+      ]
+    },
+    "gram-negative": {
+      "term_id": 3775,
+      "frequency": 1,
+      "positions": [
+        245
+      ]
+    },
+    "similarly": {
+      "term_id": 522,
+      "frequency": 1,
+      "positions": [
+        263
+      ]
+    },
+    "anti-MRSA": {
+      "term_id": 59965,
+      "frequency": 1,
+      "positions": [
+        285
+      ]
+    },
+    "administration": {
+      "term_id": 532,
+      "frequency": 2,
+      "positions": [
+        298,
+        69
+      ]
+    },
+    "treatment": {
+      "term_id": 66,
+      "frequency": 2,
+      "positions": [
+        301,
+        50
+      ]
+    },
+    "skin-structure": {
+      "term_id": 194571,
+      "frequency": 1,
+      "positions": [
+        306
+      ]
+    },
+    "bacteremia": {
+      "term_id": 3207,
+      "frequency": 1,
+      "positions": [
+        309
+      ]
+    },
+    "national": {
+      "term_id": 288,
+      "frequency": 2,
+      "positions": [
+        1,
+        23
+      ]
+    },
+    "ntuh": {
+      "term_id": 92598,
+      "frequency": 4,
+      "positions": [
+        5,
+        54,
+        89,
+        129
+      ]
+    },
+    "academically": {
+      "term_id": 48632,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "tertiary": {
+      "term_id": 1629,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "northern": {
+      "term_id": 1395,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "inpatient-days": {
+      "term_id": 280377,
+      "frequency": 6,
+      "positions": [
+        26,
+        48,
+        8,
+        77,
+        81,
+        62
+      ]
+    },
+    "formulary": {
+      "term_id": 14695,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "respectively": {
+      "term_id": 199,
+      "frequency": 2,
+      "positions": [
+        57,
+        46
+      ]
+    },
+    "previous": {
+      "term_id": 267,
+      "frequency": 3,
+      "positions": [
+        70,
+        145,
+        40
+      ]
+    },
+    "patient": {
+      "term_id": 2,
+      "frequency": 3,
+      "positions": [
+        101,
+        230,
+        248
+      ]
+    },
+    "susceptibility": {
+      "term_id": 592,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "laboratory": {
+      "term_id": 70,
+      "frequency": 1,
+      "positions": [
+        123
+      ]
+    },
+    "institute": {
+      "term_id": 302,
+      "frequency": 1,
+      "positions": [
+        125
+      ]
+    },
+    "atcc": {
+      "term_id": 2608,
+      "frequency": 1,
+      "positions": [
+        129
+      ]
+    },
+    "routinely": {
+      "term_id": 1290,
+      "frequency": 1,
+      "positions": [
+        147
+      ]
+    },
+    "mg": {
+      "term_id": 500,
+      "frequency": 2,
+      "positions": [
+        155,
+        195
+      ]
+    },
+    "trypticase": {
+      "term_id": 39789,
+      "frequency": 1,
+      "positions": [
+        159
+      ]
+    },
+    "infusion": {
+      "term_id": 1670,
+      "frequency": 1,
+      "positions": [
+        190
+      ]
+    },
+    "nosocomial": {
+      "term_id": 1448,
+      "frequency": 3,
+      "positions": [
+        24,
+        111,
+        184
+      ]
+    },
+    "surveillance": {
+      "term_id": 528,
+      "frequency": 2,
+      "positions": [
+        26,
+        157
+      ]
+    },
+    "ddd": {
+      "term_id": 23760,
+      "frequency": 4,
+      "positions": [
+        7,
+        76,
+        80,
+        190
+      ]
+    },
+    "pharmacy": {
+      "term_id": 3254,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "department": {
+      "term_id": 405,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "regression": {
+      "term_id": 1127,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "analysis": {
+      "term_id": 90,
+      "frequency": 3,
+      "positions": [
+        2,
+        72,
+        223
+      ]
+    },
+    "pearson": {
+      "term_id": 2412,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "coefficient": {
+      "term_id": 1014,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "determine": {
+      "term_id": 18,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "statistically": {
+      "term_id": 907,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "enterococcal": {
+      "term_id": 21324,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "disease": {
+      "term_id": 8,
+      "frequency": 2,
+      "positions": [
+        27,
+        67
+      ]
+    },
+    "parameter": {
+      "term_id": 96,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "situation": {
+      "term_id": 332,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "available": {
+      "term_id": 164,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "prescribe": {
+      "term_id": 814,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "fewer": {
+      "term_id": 1147,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "toxicity": {
+      "term_id": 932,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "long-term": {
+      "term_id": 782,
+      "frequency": 1,
+      "positions": [
+        118
+      ]
+    },
+    "evaluate": {
+      "term_id": 42,
+      "frequency": 1,
+      "positions": [
+        123
+      ]
+    },
+    "b-lactam": {
+      "term_id": 23223,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "inpatientdays": {
+      "term_id": 800821,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "negative": {
+      "term_id": 234,
+      "frequency": 3,
+      "positions": [
+        69,
+        50,
+        26
+      ]
+    },
+    "research": {
+      "term_id": 130,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "protective": {
+      "term_id": 525,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "emergence": {
+      "term_id": 637,
+      "frequency": 3,
+      "positions": [
+        106,
+        23,
+        74
+      ]
+    },
+    "consistent": {
+      "term_id": 399,
+      "frequency": 2,
+      "positions": [
+        139,
+        35
+      ]
+    },
+    "duration": {
+      "term_id": 594,
+      "frequency": 2,
+      "positions": [
+        175,
+        166
+      ]
+    },
+    "positively": {
+      "term_id": 1459,
+      "frequency": 2,
+      "positions": [
+        23,
+        76
+      ]
+    },
+    "etiology": {
+      "term_id": 690,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "drug-resistant": {
+      "term_id": 3222,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "selective": {
+      "term_id": 799,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "pressure": {
+      "term_id": 502,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "widespread": {
+      "term_id": 848,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "multiple": {
+      "term_id": 180,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "operational": {
+      "term_id": 2815,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "acute": {
+      "term_id": 100,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "respiratory": {
+      "term_id": 91,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "syndrome": {
+      "term_id": 85,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "prevention": {
+      "term_id": 324,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "program": {
+      "term_id": 75,
+      "frequency": 2,
+      "positions": [
+        86,
+        104
+      ]
+    },
+    "intensive": {
+      "term_id": 744,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "project-based": {
+      "term_id": 139824,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "directly": {
+      "term_id": 341,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "bloodstream": {
+      "term_id": 3418,
+      "frequency": 1,
+      "positions": [
+        125
+      ]
+    },
+    "epidemiological": {
+      "term_id": 598,
+      "frequency": 1,
+      "positions": [
+        156
+      ]
+    },
+    "exposure": {
+      "term_id": 233,
+      "frequency": 1,
+      "positions": [
+        168
+      ]
+    },
+    "furthermore": {
+      "term_id": 328,
+      "frequency": 2,
+      "positions": [
+        187,
+        22
+      ]
+    },
+    "notoriously": {
+      "term_id": 10641,
+      "frequency": 1,
+      "positions": [
+        197
+      ]
+    },
+    "problematic": {
+      "term_id": 2459,
+      "frequency": 1,
+      "positions": [
+        198
+      ]
+    },
+    "denominator": {
+      "term_id": 6149,
+      "frequency": 1,
+      "positions": [
+        199
+      ]
+    },
+    "low-dose": {
+      "term_id": 5218,
+      "frequency": 1,
+      "positions": [
+        206
+      ]
+    },
+    "specific": {
+      "term_id": 118,
+      "frequency": 2,
+      "positions": [
+        209,
+        247
+      ]
+    },
+    "insufficiency": {
+      "term_id": 3887,
+      "frequency": 1,
+      "positions": [
+        220
+      ]
+    },
+    "therefore": {
+      "term_id": 162,
+      "frequency": 2,
+      "positions": [
+        221,
+        62
+      ]
+    },
+    "fraction": {
+      "term_id": 420,
+      "frequency": 1,
+      "positions": [
+        254
+      ]
+    },
+    "institution": {
+      "term_id": 515,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "individual": {
+      "term_id": 24,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "presence": {
+      "term_id": 195,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "financial": {
+      "term_id": 1168,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "nonfinancial": {
+      "term_id": 81980,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "interest": {
+      "term_id": 89,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "manuscript": {
+      "term_id": 982,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:29.352608",
+    "sections_count": 21
+  }
+}

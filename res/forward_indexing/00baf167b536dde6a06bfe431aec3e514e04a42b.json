@@ -1,0 +1,6395 @@
+{
+  "document_id": "00baf167b536dde6a06bfe431aec3e514e04a42b",
+  "source_type": "pdf_json",
+  "file_name": "00baf167b536dde6a06bfe431aec3e514e04a42b.json",
+  "total_terms": 2235,
+  "unique_terms": 608,
+  "sections": {
+    "title": {
+      "term_count": 11,
+      "char_length": 162,
+      "top_terms": {
+        "antiviral": 2,
+        "high-throughput": 1,
+        "genomics": 1,
+        "research": 1,
+        "activation": 1,
+        "inflammation": 1,
+        "fulminant": 1,
+        "rna": 1,
+        "virus": 1,
+        "infection": 1
+      }
+    },
+    "abstract": {
+      "term_count": 55,
+      "char_length": 1342,
+      "top_terms": {
+        "contribute": 3,
+        "viral": 3,
+        "genomics": 3,
+        "infection": 2,
+        "high-throughput": 2,
+        "identify": 2,
+        "acute": 2,
+        "cell": 2,
+        "understanding": 2,
+        "severity": 1,
+        "antiviral": 1,
+        "recognize": 1,
+        "restrict": 1,
+        "pathogen": 1,
+        "development": 1,
+        "systemic": 1,
+        "inflammation": 1,
+        "circulatory": 1,
+        "tissue": 1,
+        "exuberant": 1
+      }
+    },
+    "I. INTRODUCTION": {
+      "term_count": 244,
+      "char_length": 5285,
+      "top_terms": {
+        "et": 16,
+        "rna": 12,
+        "viral": 8,
+        "expression": 7,
+        "antiviral": 7,
+        "replication": 6,
+        "response": 6,
+        "immune": 5,
+        "genomics": 4,
+        "garcia-sastre": 4,
+        "ebola": 4,
+        "influenza": 4,
+        "development": 3,
+        "microarray": 3,
+        "disease": 3,
+        "inflammatory": 3,
+        "infection": 3,
+        "vitro": 3,
+        "vivo": 3,
+        "although": 2
+      }
+    },
+    "II. VIRAL INFECTION AND TYPE I INTERFERON RESPONSES": {
+      "term_count": 224,
+      "char_length": 4203,
+      "top_terms": {
+        "et": 17,
+        "ifn": 12,
+        "antiviral": 10,
+        "response": 8,
+        "viral": 7,
+        "activation": 7,
+        "pamp": 6,
+        "expression": 6,
+        "infection": 4,
+        "isgs": 4,
+        "replication": 3,
+        "rna": 3,
+        "isg": 3,
+        "influenza": 3,
+        "virus": 3,
+        "receptor": 3,
+        "biomolecules": 2,
+        "activate": 2,
+        "immune": 2,
+        "molecular": 2
+      }
+    },
+    "A. 1918 H1N1 INFLUENZA": {
+      "term_count": 121,
+      "char_length": 2825,
+      "top_terms": {
+        "et": 13,
+        "influenza": 12,
+        "virus": 10,
+        "pandemic": 4,
+        "taubenberger": 4,
+        "viral": 3,
+        "pneumonia": 3,
+        "replicate": 2,
+        "respiratory": 2,
+        "responsible": 2,
+        "approximately": 2,
+        "analysis": 2,
+        "severity": 2,
+        "inflammatory": 2,
+        "tumpey": 2,
+        "orthomyxoviridae": 1,
+        "negative": 1,
+        "rna": 1,
+        "primarily": 1,
+        "epithelial": 1
+      }
+    },
+    "Host responses and immunopathology during 1918 virus infection in mice-": {
+      "term_count": 305,
+      "char_length": 6875,
+      "top_terms": {
+        "infection": 16,
+        "expression": 16,
+        "virus": 15,
+        "r1918": 14,
+        "activation": 10,
+        "response": 9,
+        "Tx91": 8,
+        "influenza": 8,
+        "viral": 8,
+        "replication": 7,
+        "immune": 7,
+        "cell": 7,
+        "significant": 7,
+        "pathology": 6,
+        "tissue": 6,
+        "et": 5,
+        "alveolitis": 5,
+        "kash": 4,
+        "contrast": 3,
+        "analysis": 3
+      }
+    },
+    "Aberrant activation of host responses to 1918 virus infection in a nonhuman": {
+      "term_count": 152,
+      "char_length": 2999,
+      "top_terms": {
+        "expression": 11,
+        "virus": 10,
+        "K173": 8,
+        "influenza": 7,
+        "infection": 7,
+        "response": 6,
+        "significant": 6,
+        "r1918": 5,
+        "viral": 5,
+        "antiviral": 4,
+        "tissue": 4,
+        "microarray": 4,
+        "ifn": 4,
+        "activation": 3,
+        "bronchus": 3,
+        "analysis": 3,
+        "cell": 3,
+        "kobasa": 2,
+        "et": 2,
+        "pathology": 2
+      }
+    },
+    "B. H5N1 AVIAN INFLUENZA": {
+      "term_count": 74,
+      "char_length": 1610,
+      "top_terms": {
+        "et": 8,
+        "H5N1": 6,
+        "disease": 4,
+        "ifn": 4,
+        "genomics": 3,
+        "recently": 2,
+        "mortality": 2,
+        "influenza": 2,
+        "virus": 2,
+        "functional": 2,
+        "virulent": 2,
+        "CXCR3": 2,
+        "AMG487": 2,
+        "severity": 2,
+        "pathogenic": 1,
+        "southeast": 1,
+        "asia": 1,
+        "Abdel-Ghafar": 1,
+        "claas": 1,
+        "fouchier": 1
+      }
+    },
+    "C. THE NEED TO REDUCE THE CELLULAR COMPLEXITY OF TISSUE MODELS": {
+      "term_count": 30,
+      "char_length": 902,
+      "top_terms": {
+        "cell": 4,
+        "microarray": 2,
+        "expression": 2,
+        "opportunity": 1,
+        "characterize": 1,
+        "relationship": 1,
+        "activation": 1,
+        "inflammatory": 1,
+        "genomics": 1,
+        "heterogeneity": 1,
+        "immune": 1,
+        "infiltration": 1,
+        "infection": 1,
+        "temptation": 1,
+        "understand": 1,
+        "perspective": 1,
+        "fundamentally": 1,
+        "incorrect": 1,
+        "rna": 1,
+        "tissue": 1
+      }
+    },
+    "Which populations of genes are expressed in which populations of cells? What is the contribution of infected and uninfected individual immune cell types to pathogenesis? How are infected cells that surround infected cells (i.e. \"bystander\" cells) affected by high cytokine levels in the tissue? Are the observed necrotic and cell death phenotypes triggered by the viral cytopathic effect (CPE) and limited to end-stage infected cells? Or does excess killing of bystander cells by immune cells add to the effects of the viral CPE?": {
+      "term_count": 158,
+      "char_length": 3909,
+      "top_terms": {
+        "cell": 11,
+        "bystander": 7,
+        "infection": 6,
+        "virus": 5,
+        "inflammatory": 5,
+        "epithelial": 4,
+        "influenza": 4,
+        "alveolar": 3,
+        "heterogeneity": 3,
+        "respiratory": 3,
+        "viral": 3,
+        "important": 3,
+        "disease": 3,
+        "ifn": 3,
+        "et": 2,
+        "significant": 2,
+        "immune": 2,
+        "determine": 2,
+        "tissue": 2,
+        "understanding": 2
+      }
+    },
+    "C. FILOVIRAL HEMORRHAGIC FEVER": {
+      "term_count": 311,
+      "char_length": 6335,
+      "top_terms": {
+        "ifn": 18,
+        "et": 17,
+        "response": 13,
+        "expression": 12,
+        "zebov": 11,
+        "marv": 9,
+        "antiviral": 9,
+        "infection": 8,
+        "ebov": 7,
+        "cell": 7,
+        "VP35": 7,
+        "rebov": 6,
+        "disease": 5,
+        "antagonism": 5,
+        "hartman": 5,
+        "important": 3,
+        "hypothesis": 3,
+        "mock-infected": 3,
+        "exogenous": 3,
+        "significantly": 3
+      }
+    },
+    "Profiling responses of peripheral blood mononuclear cells-In": {
+      "term_count": 85,
+      "char_length": 1972,
+      "top_terms": {
+        "ifn": 5,
+        "cell": 5,
+        "activation": 4,
+        "infection": 4,
+        "immune": 4,
+        "antiviral": 3,
+        "inflammatory": 3,
+        "ebov": 3,
+        "virus": 3,
+        "genomics": 2,
+        "influenza": 2,
+        "relationship": 2,
+        "expression": 2,
+        "understanding": 2,
+        "functional": 1,
+        "viral": 1,
+        "replication": 1,
+        "activity": 1,
+        "vp24": 1,
+        "VP35": 1
+      }
+    },
+    "V. Identifying new drug targets Novel genes, pathways and targets": {
+      "term_count": 108,
+      "char_length": 2751,
+      "top_terms": {
+        "infection": 7,
+        "ifn": 6,
+        "antiviral": 5,
+        "et": 3,
+        "genomics": 3,
+        "response": 3,
+        "function": 3,
+        "virus": 3,
+        "microarray": 2,
+        "expression": 2,
+        "majority": 2,
+        "understanding": 2,
+        "functional": 2,
+        "unannotated": 2,
+        "kash": 2,
+        "moreover": 2,
+        "profiling": 1,
+        "virus-infected": 1,
+        "instrumental": 1,
+        "complexity": 1
+      }
+    },
+    "Using genomics for target selection and validation": {
+      "term_count": 163,
+      "char_length": 3582,
+      "top_terms": {
+        "expression": 9,
+        "et": 9,
+        "response": 8,
+        "microarray": 6,
+        "analysis": 5,
+        "treatment": 3,
+        "virus": 3,
+        "identification": 3,
+        "infection": 3,
+        "potential": 3,
+        "ifn": 3,
+        "approach": 3,
+        "antiviral": 3,
+        "determine": 2,
+        "therapy": 2,
+        "immune": 2,
+        "especially": 2,
+        "cao": 2,
+        "rapamycin": 2,
+        "molecular": 2
+      }
+    },
+    "V. CONCLUSION": {
+      "term_count": 81,
+      "char_length": 1909,
+      "top_terms": {
+        "development": 5,
+        "antiviral": 4,
+        "infection": 4,
+        "viral": 3,
+        "activation": 3,
+        "immune": 3,
+        "response": 3,
+        "understanding": 2,
+        "critical": 2,
+        "tissue": 2,
+        "characterize": 2,
+        "inflammatory": 2,
+        "pathology": 2,
+        "cell": 2,
+        "genomics": 2,
+        "discovery-based": 2,
+        "immunopathology": 2,
+        "molecular": 1,
+        "virulence": 1,
+        "pathogenesis": 1
+      }
+    },
+    "Fig. 1. Activation of inflammatory and type I IFN regulated genes in 1918 influenza virus infected mouse lung tissue": {
+      "term_count": 34,
+      "char_length": 937,
+      "top_terms": {
+        "expression": 4,
+        "virus": 3,
+        "equivalent": 1,
+        "r1918": 1,
+        "chimeric": 1,
+        "np": 1,
+        "contemporary": 1,
+        "H1N1": 1,
+        "influenza": 1,
+        "Tx91": 1,
+        "inflammatory": 1,
+        "cytokine": 1,
+        "ifn": 1,
+        "infection": 1,
+        "technical": 1,
+        "replicate": 1,
+        "individual": 1,
+        "up-regulated": 1,
+        "downregulated": 1,
+        "relative": 1
+      }
+    },
+    "Fig. 2. Expression IFN-alpha and type I IFN regulated genes in 1918 influenza virus infected macaque bronchus": {
+      "term_count": 26,
+      "char_length": 665,
+      "top_terms": {
+        "expression": 2,
+        "virus": 2,
+        "bronchus": 1,
+        "tissue": 1,
+        "equivalent": 1,
+        "r1918": 1,
+        "H1N1": 1,
+        "influenza": 1,
+        "kawasaki": 1,
+        "K173": 1,
+        "infection": 1,
+        "technical": 1,
+        "replicate": 1,
+        "individual": 1,
+        "upregulated": 1,
+        "down-regulated": 1,
+        "relative": 1,
+        "mockinfected": 1,
+        "kobasa": 1,
+        "et": 1
+      }
+    },
+    "Fig. 3. Expression of unannotated genes in lung tissue of 1918 influenza virus infected mice": {
+      "term_count": 21,
+      "char_length": 519,
+      "top_terms": {
+        "expression": 2,
+        "virus": 2,
+        "unannotated": 1,
+        "tissue": 1,
+        "equivalent": 1,
+        "r1918": 1,
+        "H1N1": 1,
+        "influenza": 1,
+        "Tx91": 1,
+        "infection": 1,
+        "technical": 1,
+        "replicate": 1,
+        "individual": 1,
+        "kash": 1,
+        "et": 1,
+        "available": 1,
+        "viromics": 1,
+        "washington": 1,
+        "edu": 1
+      }
+    },
+    "Fig. 4. Expression of genes with unknown or unannotated function during Ebola and Marburg virus infection and type I IFN treatment": {
+      "term_count": 23,
+      "char_length": 477,
+      "top_terms": {
+        "expression": 2,
+        "ebolavirus": 2,
+        "unannotated": 1,
+        "zaire": 1,
+        "zebov": 1,
+        "marv": 1,
+        "reston": 1,
+        "rebov": 1,
+        "huh7": 1,
+        "infection": 1,
+        "technical": 1,
+        "replicate": 1,
+        "rna": 1,
+        "independent": 1,
+        "kash": 1,
+        "et": 1,
+        "virol": 1,
+        "available": 1,
+        "viromics": 1,
+        "washington": 1
+      }
+    },
+    "back_matter": {
+      "term_count": 9,
+      "char_length": 200,
+      "top_terms": {
+        "nih": 2,
+        "niaid": 2,
+        "drs": 1,
+        "taubenberger": 1,
+        "intramural": 1,
+        "research": 1,
+        "program": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "high-throughput": {
+      "term_id": 2251,
+      "frequency": 6,
+      "positions": [
+        2,
+        44,
+        167,
+        7,
+        3,
+        64
+      ]
+    },
+    "genomics": {
+      "term_id": 1478,
+      "frequency": 24,
+      "positions": [
+        3,
+        45,
+        93,
+        168,
+        8,
+        65,
+        101,
+        140,
+        11,
+        44,
+        93,
+        146,
+        216,
+        19,
+        206,
+        2,
+        11,
+        8,
+        41,
+        62,
+        6,
+        70,
+        106,
+        114
+      ]
+    },
+    "antiviral": {
+      "term_id": 249,
+      "frequency": 52,
+      "positions": [
+        5,
+        9,
+        15,
+        70,
+        100,
+        1,
+        133,
+        124,
+        108,
+        178,
+        77,
+        88,
+        142,
+        211,
+        279,
+        54,
+        98,
+        131,
+        157,
+        102,
+        212,
+        45,
+        66,
+        142,
+        16,
+        60,
+        232,
+        33,
+        31,
+        91,
+        112,
+        13,
+        89,
+        38,
+        159,
+        327,
+        343,
+        15,
+        23,
+        114,
+        44,
+        71,
+        103,
+        20,
+        69,
+        62,
+        17,
+        97,
+        13,
+        36,
+        153,
+        162
+      ]
+    },
+    "research": {
+      "term_id": 130,
+      "frequency": 5,
+      "positions": [
+        6,
+        138,
+        126,
+        83,
+        26
+      ]
+    },
+    "activation": {
+      "term_id": 496,
+      "frequency": 38,
+      "positions": [
+        12,
+        104,
+        103,
+        18,
+        169,
+        59,
+        71,
+        114,
+        187,
+        62,
+        3,
+        96,
+        85,
+        41,
+        56,
+        106,
+        153,
+        182,
+        26,
+        119,
+        64,
+        90,
+        11,
+        97,
+        9,
+        69,
+        149,
+        87,
+        33,
+        8,
+        70,
+        48,
+        123,
+        54,
+        103,
+        57,
+        73,
+        179
+      ]
+    },
+    "inflammation": {
+      "term_id": 656,
+      "frequency": 3,
+      "positions": [
+        14,
+        28,
+        153
+      ]
+    },
+    "fulminant": {
+      "term_id": 3557,
+      "frequency": 4,
+      "positions": [
+        16,
+        99,
+        187,
+        40
+      ]
+    },
+    "rna": {
+      "term_id": 55,
+      "frequency": 24,
+      "positions": [
+        17,
+        68,
+        9,
+        34,
+        53,
+        90,
+        109,
+        165,
+        24,
+        15,
+        93,
+        146,
+        132,
+        70,
+        2,
+        105,
+        13,
+        102,
+        69,
+        14,
+        33,
+        188,
+        41,
+        43
+      ]
+    },
+    "virus": {
+      "term_id": 3,
+      "frequency": 66,
+      "positions": [
+        18,
+        91,
+        77,
+        225,
+        140,
+        20,
+        50,
+        76,
+        110,
+        115,
+        5,
+        15,
+        57,
+        66,
+        71,
+        84,
+        10,
+        22,
+        34,
+        4,
+        80,
+        113,
+        147,
+        198,
+        31,
+        83,
+        113,
+        203,
+        254,
+        298,
+        49,
+        16,
+        27,
+        69,
+        100,
+        12,
+        49,
+        68,
+        141,
+        23,
+        67,
+        81,
+        110,
+        52,
+        102,
+        36,
+        100,
+        26,
+        14,
+        165,
+        95,
+        130,
+        34,
+        10,
+        39,
+        101,
+        46,
+        55,
+        53,
+        14,
+        18,
+        43,
+        15,
+        24,
+        16,
+        25
+      ]
+    },
+    "infection": {
+      "term_id": 4,
+      "frequency": 72,
+      "positions": [
+        19,
+        9,
+        113,
+        78,
+        58,
+        65,
+        8,
+        153,
+        226,
+        21,
+        77,
+        11,
+        12,
+        29,
+        93,
+        90,
+        9,
+        81,
+        114,
+        148,
+        30,
+        32,
+        52,
+        110,
+        204,
+        232,
+        255,
+        20,
+        34,
+        70,
+        8,
+        80,
+        163,
+        88,
+        111,
+        38,
+        53,
+        103,
+        136,
+        22,
+        101,
+        27,
+        201,
+        104,
+        116,
+        109,
+        166,
+        203,
+        217,
+        307,
+        43,
+        115,
+        131,
+        135,
+        22,
+        44,
+        11,
+        40,
+        47,
+        102,
+        143,
+        110,
+        30,
+        11,
+        43,
+        143,
+        200,
+        241,
+        65,
+        30,
+        31,
+        23
+      ]
+    },
+    "contribute": {
+      "term_id": 86,
+      "frequency": 9,
+      "positions": [
+        3,
+        130,
+        170,
+        24,
+        13,
+        128,
+        198,
+        75,
+        128
+      ]
+    },
+    "severity": {
+      "term_id": 534,
+      "frequency": 9,
+      "positions": [
+        6,
+        107,
+        37,
+        73,
+        141,
+        293,
+        184,
+        205,
+        131
+      ]
+    },
+    "viral": {
+      "term_id": 92,
+      "frequency": 46,
+      "positions": [
+        8,
+        69,
+        179,
+        133,
+        150,
+        9,
+        17,
+        64,
+        78,
+        133,
+        149,
+        7,
+        14,
+        152,
+        65,
+        34,
+        38,
+        86,
+        136,
+        40,
+        92,
+        45,
+        38,
+        81,
+        29,
+        80,
+        189,
+        219,
+        42,
+        47,
+        36,
+        103,
+        2,
+        57,
+        109,
+        152,
+        56,
+        63,
+        29,
+        24,
+        189,
+        10,
+        31,
+        42,
+        142,
+        173
+      ]
+    },
+    "recognize": {
+      "term_id": 74,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "restrict": {
+      "term_id": 271,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "pathogen": {
+      "term_id": 14,
+      "frequency": 2,
+      "positions": [
+        22,
+        38
+      ]
+    },
+    "development": {
+      "term_id": 98,
+      "frequency": 13,
+      "positions": [
+        24,
+        1,
+        35,
+        105,
+        64,
+        99,
+        79,
+        100,
+        63,
+        150,
+        166,
+        187,
+        217
+      ]
+    },
+    "systemic": {
+      "term_id": 654,
+      "frequency": 3,
+      "positions": [
+        27,
+        21,
+        338
+      ]
+    },
+    "circulatory": {
+      "term_id": 4759,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "tissue": {
+      "term_id": 37,
+      "frequency": 21,
+      "positions": [
+        35,
+        20,
+        75,
+        316,
+        8,
+        26,
+        55,
+        61,
+        72,
+        125,
+        40,
+        64,
+        87,
+        131,
+        28,
+        49,
+        99,
+        47,
+        89,
+        5,
+        6
+      ]
+    },
+    "exuberant": {
+      "term_id": 17046,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "cell-mediated": {
+      "term_id": 1953,
+      "frequency": 2,
+      "positions": [
+        41,
+        69
+      ]
+    },
+    "immune": {
+      "term_id": 257,
+      "frequency": 32,
+      "positions": [
+        42,
+        84,
+        89,
+        34,
+        68,
+        113,
+        28,
+        60,
+        69,
+        75,
+        99,
+        108,
+        39,
+        276,
+        308,
+        32,
+        109,
+        34,
+        63,
+        105,
+        224,
+        261,
+        72,
+        63,
+        78,
+        136,
+        164,
+        65,
+        59,
+        71,
+        85,
+        182
+      ]
+    },
+    "identify": {
+      "term_id": 11,
+      "frequency": 8,
+      "positions": [
+        52,
+        182,
+        96,
+        218,
+        64,
+        122,
+        44,
+        250
+      ]
+    },
+    "biochemical": {
+      "term_id": 924,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "ineffective": {
+      "term_id": 2271,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "acute": {
+      "term_id": 100,
+      "frequency": 8,
+      "positions": [
+        66,
+        178,
+        148,
+        125,
+        130,
+        96,
+        205,
+        97
+      ]
+    },
+    "chronic": {
+      "term_id": 424,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "gene-expression": {
+      "term_id": 19706,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "H1N1": {
+      "term_id": 886,
+      "frequency": 7,
+      "positions": [
+        78,
+        13,
+        21,
+        25,
+        39,
+        20,
+        21
+      ]
+    },
+    "influenza": {
+      "term_id": 221,
+      "frequency": 49,
+      "positions": [
+        79,
+        172,
+        74,
+        86,
+        157,
+        224,
+        139,
+        17,
+        1,
+        48,
+        74,
+        81,
+        109,
+        135,
+        39,
+        75,
+        109,
+        4,
+        14,
+        70,
+        33,
+        106,
+        113,
+        197,
+        202,
+        253,
+        297,
+        48,
+        15,
+        26,
+        39,
+        99,
+        140,
+        22,
+        66,
+        80,
+        109,
+        51,
+        101,
+        108,
+        99,
+        94,
+        129,
+        9,
+        54,
+        52,
+        42,
+        23,
+        24
+      ]
+    },
+    "ebola": {
+      "term_id": 1023,
+      "frequency": 10,
+      "positions": [
+        81,
+        169,
+        76,
+        88,
+        159,
+        169,
+        19,
+        23,
+        164,
+        98
+      ]
+    },
+    "hemorrhagic": {
+      "term_id": 1316,
+      "frequency": 2,
+      "positions": [
+        82,
+        64
+      ]
+    },
+    "cell": {
+      "term_id": 1,
+      "frequency": 45,
+      "positions": [
+        85,
+        154,
+        80,
+        0,
+        178,
+        91,
+        43,
+        109,
+        156,
+        184,
+        12,
+        229,
+        74,
+        97,
+        110,
+        80,
+        31,
+        35,
+        56,
+        107,
+        12,
+        44,
+        9,
+        72,
+        81,
+        89,
+        106,
+        36,
+        54,
+        95,
+        109,
+        45,
+        112,
+        168,
+        184,
+        332,
+        354,
+        375,
+        59,
+        77,
+        112,
+        153,
+        92,
+        72,
+        103
+      ]
+    },
+    "increase": {
+      "term_id": 6,
+      "frequency": 2,
+      "positions": [
+        99,
+        73
+      ]
+    },
+    "understanding": {
+      "term_id": 8216,
+      "frequency": 13,
+      "positions": [
+        101,
+        175,
+        6,
+        145,
+        64,
+        151,
+        12,
+        132,
+        17,
+        94,
+        91,
+        0,
+        133
+      ]
+    },
+    "particular": {
+      "term_id": 352,
+      "frequency": 3,
+      "positions": [
+        114,
+        119,
+        183
+      ]
+    },
+    "attention": {
+      "term_id": 707,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "ifn": {
+      "term_id": 1154,
+      "frequency": 62,
+      "positions": [
+        124,
+        115,
+        141,
+        99,
+        103,
+        143,
+        180,
+        200,
+        258,
+        84,
+        103,
+        123,
+        179,
+        185,
+        32,
+        148,
+        165,
+        176,
+        24,
+        94,
+        154,
+        8,
+        101,
+        128,
+        172,
+        195,
+        17,
+        58,
+        73,
+        169,
+        0,
+        37,
+        72,
+        81,
+        129,
+        144,
+        188,
+        99,
+        122,
+        14,
+        89,
+        199,
+        286,
+        318,
+        339,
+        347,
+        372,
+        12,
+        54,
+        26,
+        116,
+        125,
+        17,
+        30,
+        84,
+        75,
+        90,
+        119,
+        56,
+        69,
+        109,
+        60
+      ]
+    },
+    "over-activation": {
+      "term_id": 53023,
+      "frequency": 2,
+      "positions": [
+        132,
+        284
+      ]
+    },
+    "inflammatory": {
+      "term_id": 603,
+      "frequency": 26,
+      "positions": [
+        134,
+        113,
+        105,
+        37,
+        48,
+        95,
+        89,
+        176,
+        286,
+        34,
+        11,
+        124,
+        139,
+        34,
+        19,
+        71,
+        246,
+        373,
+        17,
+        28,
+        102,
+        56,
+        71,
+        59,
+        209,
+        51
+      ]
+    },
+    "understand": {
+      "term_id": 56,
+      "frequency": 4,
+      "positions": [
+        148,
+        103,
+        38,
+        46
+      ]
+    },
+    "relationship": {
+      "term_id": 114,
+      "frequency": 9,
+      "positions": [
+        150,
+        63,
+        148,
+        86,
+        40,
+        7,
+        102,
+        110,
+        31
+      ]
+    },
+    "environment": {
+      "term_id": 217,
+      "frequency": 5,
+      "positions": [
+        157,
+        30,
+        44,
+        207,
+        215
+      ]
+    },
+    "complete": {
+      "term_id": 128,
+      "frequency": 1,
+      "positions": [
+        174
+      ]
+    },
+    "therapeutic": {
+      "term_id": 197,
+      "frequency": 4,
+      "positions": [
+        186,
+        116,
+        84,
+        268
+      ]
+    },
+    "intervention": {
+      "term_id": 139,
+      "frequency": 4,
+      "positions": [
+        187,
+        117,
+        85,
+        269
+      ]
+    },
+    "expression": {
+      "term_id": 227,
+      "frequency": 81,
+      "positions": [
+        3,
+        57,
+        69,
+        4,
+        43,
+        1,
+        135,
+        158,
+        172,
+        192,
+        88,
+        127,
+        42,
+        66,
+        91,
+        15,
+        87,
+        126,
+        6,
+        37,
+        57,
+        89,
+        105,
+        174,
+        215,
+        267,
+        12,
+        19,
+        70,
+        76,
+        113,
+        148,
+        20,
+        73,
+        97,
+        118,
+        147,
+        172,
+        14,
+        50,
+        125,
+        81,
+        118,
+        112,
+        61,
+        202,
+        45,
+        89,
+        110,
+        11,
+        60,
+        132,
+        96,
+        127,
+        243,
+        281,
+        298,
+        105,
+        138,
+        34,
+        127,
+        18,
+        98,
+        148,
+        12,
+        54,
+        102,
+        27,
+        49,
+        59,
+        22,
+        1,
+        49,
+        56,
+        74,
+        1,
+        39,
+        0,
+        40,
+        0,
+        32
+      ]
+    },
+    "microarrays": {
+      "term_id": 3318,
+      "frequency": 6,
+      "positions": [
+        4,
+        67,
+        203,
+        97,
+        177,
+        99
+      ]
+    },
+    "proteomics": {
+      "term_id": 2382,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "host-pathogen": {
+      "term_id": 5919,
+      "frequency": 2,
+      "positions": [
+        21,
+        89
+      ]
+    },
+    "fornek": {
+      "term_id": 30324,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "et": {
+      "term_id": 191,
+      "frequency": 96,
+      "positions": [
+        24,
+        27,
+        33,
+        36,
+        65,
+        178,
+        181,
+        20,
+        23,
+        27,
+        30,
+        34,
+        37,
+        40,
+        45,
+        48,
+        122,
+        165,
+        196,
+        228,
+        231,
+        234,
+        237,
+        240,
+        243,
+        164,
+        167,
+        195,
+        198,
+        201,
+        204,
+        207,
+        210,
+        42,
+        46,
+        71,
+        100,
+        28,
+        31,
+        34,
+        37,
+        40,
+        43,
+        46,
+        49,
+        103,
+        36,
+        127,
+        17,
+        20,
+        151,
+        32,
+        56,
+        28,
+        31,
+        61,
+        64,
+        67,
+        70,
+        73,
+        116,
+        41,
+        76,
+        26,
+        29,
+        32,
+        112,
+        115,
+        118,
+        121,
+        74,
+        38,
+        18,
+        46,
+        49,
+        52,
+        78,
+        99,
+        105,
+        237,
+        21,
+        28,
+        122,
+        31,
+        67,
+        86,
+        89,
+        95,
+        116,
+        121,
+        126,
+        55,
+        122,
+        76,
+        57,
+        53
+      ]
+    },
+    "geiss": {
+      "term_id": 23341,
+      "frequency": 2,
+      "positions": [
+        26,
+        150
+      ]
+    },
+    "jenner": {
+      "term_id": 8034,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "korth": {
+      "term_id": 15171,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "liu": {
+      "term_id": 361,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "although": {
+      "term_id": 116,
+      "frequency": 3,
+      "positions": [
+        38,
+        0,
+        47
+      ]
+    },
+    "cellular": {
+      "term_id": 349,
+      "frequency": 6,
+      "positions": [
+        46,
+        72,
+        136,
+        15,
+        126,
+        45
+      ]
+    },
+    "post-transcriptional": {
+      "term_id": 6739,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "regulation": {
+      "term_id": 285,
+      "frequency": 6,
+      "positions": [
+        53,
+        0,
+        28,
+        43,
+        12,
+        177
+      ]
+    },
+    "virus-host": {
+      "term_id": 3884,
+      "frequency": 2,
+      "positions": [
+        62,
+        147
+      ]
+    },
+    "kash": {
+      "term_id": 17179,
+      "frequency": 13,
+      "positions": [
+        64,
+        166,
+        35,
+        126,
+        16,
+        19,
+        73,
+        37,
+        27,
+        121,
+        121,
+        56,
+        52
+      ]
+    },
+    "messenger": {
+      "term_id": 2327,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "microarray": {
+      "term_id": 2233,
+      "frequency": 20,
+      "positions": [
+        70,
+        2,
+        129,
+        92,
+        4,
+        77,
+        120,
+        60,
+        51,
+        48,
+        64,
+        7,
+        0,
+        80,
+        2,
+        32,
+        128,
+        34,
+        69,
+        114
+      ]
+    },
+    "simultaneous": {
+      "term_id": 1227,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "measurement": {
+      "term_id": 235,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "document": {
+      "term_id": 186,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "characterize": {
+      "term_id": 65,
+      "frequency": 5,
+      "positions": [
+        90,
+        5,
+        195,
+        55,
+        236
+      ]
+    },
+    "especially": {
+      "term_id": 316,
+      "frequency": 4,
+      "positions": [
+        6,
+        160,
+        120,
+        59
+      ]
+    },
+    "important": {
+      "term_id": 106,
+      "frequency": 16,
+      "positions": [
+        7,
+        121,
+        208,
+        50,
+        63,
+        189,
+        53,
+        148,
+        119,
+        86,
+        127,
+        11,
+        172,
+        8,
+        74,
+        157
+      ]
+    },
+    "enzymatic": {
+      "term_id": 1413,
+      "frequency": 3,
+      "positions": [
+        18,
+        14,
+        174
+      ]
+    },
+    "therefore": {
+      "term_id": 162,
+      "frequency": 3,
+      "positions": [
+        25,
+        104,
+        356
+      ]
+    },
+    "facilitative": {
+      "term_id": 63879,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "efficient": {
+      "term_id": 518,
+      "frequency": 2,
+      "positions": [
+        32,
+        29
+      ]
+    },
+    "replication": {
+      "term_id": 331,
+      "frequency": 24,
+      "positions": [
+        33,
+        92,
+        151,
+        10,
+        65,
+        12,
+        24,
+        0,
+        35,
+        46,
+        39,
+        82,
+        30,
+        81,
+        190,
+        220,
+        101,
+        29,
+        110,
+        22,
+        128,
+        25,
+        32,
+        50
+      ]
+    },
+    "regulate": {
+      "term_id": 77,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "adequate": {
+      "term_id": 943,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "protein": {
+      "term_id": 5,
+      "frequency": 5,
+      "positions": [
+        54,
+        141,
+        138,
+        2,
+        123
+      ]
+    },
+    "lipid": {
+      "term_id": 449,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "biosynthesis": {
+      "term_id": 2451,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "production": {
+      "term_id": 275,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "response": {
+      "term_id": 12,
+      "frequency": 59,
+      "positions": [
+        74,
+        142,
+        103,
+        11,
+        26,
+        98,
+        29,
+        78,
+        100,
+        222,
+        104,
+        158,
+        186,
+        61,
+        7,
+        62,
+        16,
+        90,
+        40,
+        149,
+        166,
+        213,
+        265,
+        6,
+        87,
+        146,
+        17,
+        161,
+        9,
+        201,
+        106,
+        137,
+        170,
+        177,
+        199,
+        1,
+        38,
+        46,
+        113,
+        100,
+        123,
+        39,
+        225,
+        262,
+        340,
+        23,
+        95,
+        76,
+        66,
+        60,
+        20,
+        28,
+        50,
+        63,
+        72,
+        131,
+        122,
+        210,
+        253
+      ]
+    },
+    "detection": {
+      "term_id": 171,
+      "frequency": 2,
+      "positions": [
+        79,
+        12
+      ]
+    },
+    "clearance": {
+      "term_id": 1095,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "importance": {
+      "term_id": 339,
+      "frequency": 2,
+      "positions": [
+        88,
+        69
+      ]
+    },
+    "antagonism": {
+      "term_id": 4065,
+      "frequency": 11,
+      "positions": [
+        94,
+        134,
+        148,
+        3,
+        2,
+        28,
+        184,
+        124,
+        85,
+        132,
+        33
+      ]
+    },
+    "spectrum": {
+      "term_id": 793,
+      "frequency": 2,
+      "positions": [
+        98,
+        86
+      ]
+    },
+    "dsrna": {
+      "term_id": 2964,
+      "frequency": 4,
+      "positions": [
+        110,
+        140,
+        155,
+        9
+      ]
+    },
+    "interferon": {
+      "term_id": 400,
+      "frequency": 6,
+      "positions": [
+        114,
+        160,
+        40,
+        129,
+        134,
+        50
+      ]
+    },
+    "garcia-sastre": {
+      "term_id": 413570,
+      "frequency": 5,
+      "positions": [
+        119,
+        174,
+        175,
+        176,
+        133
+      ]
+    },
+    "goodbourn": {
+      "term_id": 13512,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "sadler": {
+      "term_id": 10911,
+      "frequency": 1,
+      "positions": [
+        128
+      ]
+    },
+    "williams": {
+      "term_id": 961,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "significant": {
+      "term_id": 138,
+      "frequency": 21,
+      "positions": [
+        152,
+        111,
+        119,
+        84,
+        23,
+        36,
+        118,
+        159,
+        260,
+        272,
+        108,
+        134,
+        15,
+        19,
+        1,
+        31,
+        58,
+        68,
+        182,
+        7,
+        69
+      ]
+    },
+    "disease": {
+      "term_id": 8,
+      "frequency": 20,
+      "positions": [
+        156,
+        16,
+        55,
+        39,
+        106,
+        105,
+        19,
+        51,
+        183,
+        204,
+        153,
+        19,
+        130,
+        61,
+        71,
+        102,
+        150,
+        206,
+        80,
+        220
+      ]
+    },
+    "pathology": {
+      "term_id": 608,
+      "frequency": 15,
+      "positions": [
+        157,
+        67,
+        103,
+        52,
+        90,
+        32,
+        144,
+        66,
+        17,
+        58,
+        39,
+        81,
+        66,
+        221,
+        115
+      ]
+    },
+    "virulent": {
+      "term_id": 1248,
+      "frequency": 5,
+      "positions": [
+        164,
+        86,
+        107,
+        227,
+        32
+      ]
+    },
+    "pandemic": {
+      "term_id": 291,
+      "frequency": 7,
+      "positions": [
+        171,
+        117,
+        75,
+        57,
+        26,
+        56,
+        107
+      ]
+    },
+    "harcourt": {
+      "term_id": 8541,
+      "frequency": 1,
+      "positions": [
+        177
+      ]
+    },
+    "villinger": {
+      "term_id": 27971,
+      "frequency": 1,
+      "positions": [
+        180
+      ]
+    },
+    "conventional": {
+      "term_id": 742,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "typically": {
+      "term_id": 701,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "directly": {
+      "term_id": 341,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "resistance": {
+      "term_id": 481,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "approach": {
+      "term_id": 46,
+      "frequency": 8,
+      "positions": [
+        40,
+        165,
+        2,
+        2,
+        65,
+        3,
+        3,
+        34
+      ]
+    },
+    "mitigate": {
+      "term_id": 1363,
+      "frequency": 2,
+      "positions": [
+        43,
+        68
+      ]
+    },
+    "additional": {
+      "term_id": 270,
+      "frequency": 4,
+      "positions": [
+        51,
+        102,
+        151,
+        213
+      ]
+    },
+    "pathogenesis": {
+      "term_id": 434,
+      "frequency": 7,
+      "positions": [
+        58,
+        36,
+        78,
+        122,
+        56,
+        45,
+        7
+      ]
+    },
+    "multi-target": {
+      "term_id": 35517,
+      "frequency": 3,
+      "positions": [
+        59,
+        177,
+        168
+      ]
+    },
+    "immunopathology": {
+      "term_id": 2766,
+      "frequency": 8,
+      "positions": [
+        69,
+        193,
+        17,
+        106,
+        59,
+        81,
+        126,
+        189
+      ]
+    },
+    "capacity": {
+      "term_id": 442,
+      "frequency": 2,
+      "positions": [
+        75,
+        157
+      ]
+    },
+    "dysregulate": {
+      "term_id": 36677,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "treatment": {
+      "term_id": 66,
+      "frequency": 9,
+      "positions": [
+        95,
+        86,
+        175,
+        146,
+        158,
+        91,
+        22,
+        152,
+        15
+      ]
+    },
+    "moreover": {
+      "term_id": 461,
+      "frequency": 7,
+      "positions": [
+        109,
+        107,
+        66,
+        100,
+        132,
+        30,
+        124
+      ]
+    },
+    "modulate": {
+      "term_id": 357,
+      "frequency": 1,
+      "positions": [
+        112
+      ]
+    },
+    "critical": {
+      "term_id": 286,
+      "frequency": 7,
+      "positions": [
+        121,
+        4,
+        19,
+        9,
+        90,
+        9,
+        147
+      ]
+    },
+    "accurate": {
+      "term_id": 857,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "diagnosis": {
+      "term_id": 325,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "virus-specific": {
+      "term_id": 1895,
+      "frequency": 1,
+      "positions": [
+        132
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 5,
+      "positions": [
+        14,
+        69,
+        85,
+        9,
+        74
+      ]
+    },
+    "sars-cov": {
+      "term_id": 201196,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "baas": {
+      "term_id": 288937,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "cameron": {
+      "term_id": 2980,
+      "frequency": 2,
+      "positions": [
+        22,
+        115
+      ]
+    },
+    "lang": {
+      "term_id": 2905,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "reghunathan": {
+      "term_id": 47229,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "ubol": {
+      "term_id": 29178,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "warke": {
+      "term_id": 82737,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "fredericksen": {
+      "term_id": 36261,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "hepatitis": {
+      "term_id": 466,
+      "frequency": 2,
+      "positions": [
+        51,
+        44
+      ]
+    },
+    "katze": {
+      "term_id": 6218,
+      "frequency": 2,
+      "positions": [
+        56,
+        55
+      ]
+    },
+    "application": {
+      "term_id": 72,
+      "frequency": 3,
+      "positions": [
+        63,
+        8,
+        5
+      ]
+    },
+    "technology": {
+      "term_id": 108,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "pathogenic": {
+      "term_id": 529,
+      "frequency": 5,
+      "positions": [
+        73,
+        16,
+        2,
+        296,
+        1
+      ]
+    },
+    "progressive": {
+      "term_id": 1179,
+      "frequency": 1,
+      "positions": [
+        98
+      ]
+    },
+    "epidemic": {
+      "term_id": 109,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "characterization": {
+      "term_id": 293,
+      "frequency": 3,
+      "positions": [
+        128,
+        80,
+        86
+      ]
+    },
+    "vitro": {
+      "term_id": 340,
+      "frequency": 4,
+      "positions": [
+        137,
+        83,
+        152,
+        29
+      ]
+    },
+    "vivo": {
+      "term_id": 464,
+      "frequency": 5,
+      "positions": [
+        140,
+        92,
+        155,
+        69,
+        37
+      ]
+    },
+    "complementary": {
+      "term_id": 1261,
+      "frequency": 3,
+      "positions": [
+        142,
+        3,
+        1
+      ]
+    },
+    "component": {
+      "term_id": 59,
+      "frequency": 5,
+      "positions": [
+        13,
+        56,
+        209,
+        140,
+        20
+      ]
+    },
+    "infectious": {
+      "term_id": 124,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "opportunity": {
+      "term_id": 417,
+      "frequency": 2,
+      "positions": [
+        21,
+        3
+      ]
+    },
+    "contrast": {
+      "term_id": 262,
+      "frequency": 8,
+      "positions": [
+        40,
+        22,
+        69,
+        78,
+        59,
+        50,
+        92,
+        1
+      ]
+    },
+    "investigate": {
+      "term_id": 64,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "experimental": {
+      "term_id": 353,
+      "frequency": 5,
+      "positions": [
+        80,
+        92,
+        1,
+        139,
+        3
+      ]
+    },
+    "biological": {
+      "term_id": 378,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "relevance": {
+      "term_id": 1068,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "complexity": {
+      "term_id": 1067,
+      "frequency": 5,
+      "positions": [
+        89,
+        81,
+        127,
+        13,
+        10
+      ]
+    },
+    "functional": {
+      "term_id": 386,
+      "frequency": 12,
+      "positions": [
+        100,
+        139,
+        10,
+        43,
+        92,
+        215,
+        205,
+        1,
+        7,
+        61,
+        5,
+        69
+      ]
+    },
+    "comprehensive": {
+      "term_id": 728,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "describe": {
+      "term_id": 13,
+      "frequency": 2,
+      "positions": [
+        137,
+        211
+      ]
+    },
+    "identification": {
+      "term_id": 216,
+      "frequency": 4,
+      "positions": [
+        173,
+        72,
+        103,
+        93
+      ]
+    },
+    "requirement": {
+      "term_id": 254,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "successful": {
+      "term_id": 628,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "protection": {
+      "term_id": 422,
+      "frequency": 2,
+      "positions": [
+        5,
+        214
+      ]
+    },
+    "biomolecules": {
+      "term_id": 5889,
+      "frequency": 2,
+      "positions": [
+        15,
+        65
+      ]
+    },
+    "activate": {
+      "term_id": 57,
+      "frequency": 2,
+      "positions": [
+        26,
+        190
+      ]
+    },
+    "molecular": {
+      "term_id": 189,
+      "frequency": 6,
+      "positions": [
+        40,
+        75,
+        106,
+        78,
+        127,
+        2
+      ]
+    },
+    "pamp": {
+      "term_id": 10771,
+      "frequency": 6,
+      "positions": [
+        42,
+        92,
+        16,
+        34,
+        62,
+        116
+      ]
+    },
+    "saito": {
+      "term_id": 3214,
+      "frequency": 2,
+      "positions": [
+        44,
+        91
+      ]
+    },
+    "multiple": {
+      "term_id": 180,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "extracellular": {
+      "term_id": 1153,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "intracellular": {
+      "term_id": 705,
+      "frequency": 2,
+      "positions": [
+        59,
+        43
+      ]
+    },
+    "diversity": {
+      "term_id": 696,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "dna": {
+      "term_id": 277,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "cornerstone": {
+      "term_id": 5490,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "effective": {
+      "term_id": 243,
+      "frequency": 2,
+      "positions": [
+        76,
+        13
+      ]
+    },
+    "distinct": {
+      "term_id": 432,
+      "frequency": 4,
+      "positions": [
+        117,
+        129,
+        23,
+        141
+      ]
+    },
+    "pestka": {
+      "term_id": 20099,
+      "frequency": 1,
+      "positions": [
+        121
+      ]
+    },
+    "ifns": {
+      "term_id": 3689,
+      "frequency": 2,
+      "positions": [
+        132,
+        31
+      ]
+    },
+    "dominant": {
+      "term_id": 1355,
+      "frequency": 1,
+      "positions": [
+        141
+      ]
+    },
+    "isgs": {
+      "term_id": 6015,
+      "frequency": 7,
+      "positions": [
+        163,
+        174,
+        250,
+        90,
+        130,
+        67,
+        112
+      ]
+    },
+    "borden": {
+      "term_id": 17711,
+      "frequency": 1,
+      "positions": [
+        164
+      ]
+    },
+    "alternate": {
+      "term_id": 1810,
+      "frequency": 2,
+      "positions": [
+        168,
+        102
+      ]
+    },
+    "iii": {
+      "term_id": 577,
+      "frequency": 4,
+      "positions": [
+        179,
+        199,
+        257,
+        108
+      ]
+    },
+    "IFN-l": {
+      "term_id": 49507,
+      "frequency": 1,
+      "positions": [
+        182
+      ]
+    },
+    "heterodimeric": {
+      "term_id": 8583,
+      "frequency": 1,
+      "positions": [
+        186
+      ]
+    },
+    "il": {
+      "term_id": 879,
+      "frequency": 2,
+      "positions": [
+        187,
+        188
+      ]
+    },
+    "isg": {
+      "term_id": 7707,
+      "frequency": 3,
+      "positions": [
+        191,
+        126,
+        130
+      ]
+    },
+    "ank": {
+      "term_id": 27248,
+      "frequency": 2,
+      "positions": [
+        195,
+        227
+      ]
+    },
+    "recently": {
+      "term_id": 236,
+      "frequency": 7,
+      "positions": [
+        202,
+        30,
+        0,
+        8,
+        90,
+        92,
+        36
+      ]
+    },
+    "epithelial": {
+      "term_id": 716,
+      "frequency": 7,
+      "positions": [
+        214,
+        20,
+        90,
+        27,
+        29,
+        92,
+        94
+      ]
+    },
+    "participate": {
+      "term_id": 475,
+      "frequency": 1,
+      "positions": [
+        218
+      ]
+    },
+    "kotenko": {
+      "term_id": 23275,
+      "frequency": 1,
+      "positions": [
+        230
+      ]
+    },
+    "mordstein": {
+      "term_id": 41590,
+      "frequency": 1,
+      "positions": [
+        233
+      ]
+    },
+    "onoguchi": {
+      "term_id": 63395,
+      "frequency": 1,
+      "positions": [
+        236
+      ]
+    },
+    "osterlund": {
+      "term_id": 38282,
+      "frequency": 1,
+      "positions": [
+        239
+      ]
+    },
+    "sommereyns": {
+      "term_id": 55588,
+      "frequency": 1,
+      "positions": [
+        242
+      ]
+    },
+    "stimulation": {
+      "term_id": 1031,
+      "frequency": 3,
+      "positions": [
+        253,
+        120,
+        110
+      ]
+    },
+    "receptor": {
+      "term_id": 33,
+      "frequency": 9,
+      "positions": [
+        259,
+        35,
+        124,
+        164,
+        122,
+        125,
+        135,
+        145,
+        94
+      ]
+    },
+    "approximately": {
+      "term_id": 367,
+      "frequency": 8,
+      "positions": [
+        264,
+        54,
+        92,
+        106,
+        84,
+        151,
+        168,
+        15
+      ]
+    },
+    "interestingly": {
+      "term_id": 653,
+      "frequency": 4,
+      "positions": [
+        267,
+        33,
+        111,
+        297
+      ]
+    },
+    "currently": {
+      "term_id": 380,
+      "frequency": 1,
+      "positions": [
+        282
+      ]
+    },
+    "understood": {
+      "term_id": 921,
+      "frequency": 1,
+      "positions": [
+        283
+      ]
+    },
+    "synthesis": {
+      "term_id": 479,
+      "frequency": 2,
+      "positions": [
+        7,
+        80
+      ]
+    },
+    "tlr3": {
+      "term_id": 866565,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "mda5": {
+      "term_id": 167947,
+      "frequency": 2,
+      "positions": [
+        20,
+        151
+      ]
+    },
+    "rig-i": {
+      "term_id": 456906,
+      "frequency": 3,
+      "positions": [
+        21,
+        150,
+        132
+      ]
+    },
+    "pkr": {
+      "term_id": 5203,
+      "frequency": 3,
+      "positions": [
+        23,
+        153,
+        44
+      ]
+    },
+    "balachandran": {
+      "term_id": 19235,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "takeuchi": {
+      "term_id": 3863,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "akira": {
+      "term_id": 4263,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "ER-associated": {
+      "term_id": 17667,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "trans-membrane": {
+      "term_id": 16470,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "stimulator": {
+      "term_id": 6605,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "ishikawa": {
+      "term_id": 4915,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "transcription": {
+      "term_id": 526,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "IRF1": {
+      "term_id": 18981,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "irf3": {
+      "term_id": 362611,
+      "frequency": 3,
+      "positions": [
+        77,
+        42,
+        72
+      ]
+    },
+    "irf7": {
+      "term_id": 362612,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "subsequent": {
+      "term_id": 384,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "signaling": {
+      "term_id": 103667,
+      "frequency": 2,
+      "positions": [
+        120,
+        31
+      ]
+    },
+    "activity": {
+      "term_id": 28,
+      "frequency": 5,
+      "positions": [
+        132,
+        74,
+        48,
+        72,
+        78
+      ]
+    },
+    "ns1": {
+      "term_id": 177271,
+      "frequency": 2,
+      "positions": [
+        142,
+        137
+      ]
+    },
+    "inhibition": {
+      "term_id": 492,
+      "frequency": 6,
+      "positions": [
+        155,
+        183,
+        54,
+        112,
+        39,
+        205
+      ]
+    },
+    "pre-mRNA": {
+      "term_id": 10657,
+      "frequency": 1,
+      "positions": [
+        159
+      ]
+    },
+    "processing": {
+      "term_id": 325559,
+      "frequency": 1,
+      "positions": [
+        160
+      ]
+    },
+    "translation": {
+      "term_id": 1043,
+      "frequency": 1,
+      "positions": [
+        162
+      ]
+    },
+    "similarly": {
+      "term_id": 522,
+      "frequency": 6,
+      "positions": [
+        171,
+        46,
+        40,
+        92,
+        71,
+        60
+      ]
+    },
+    "VP35": {
+      "term_id": 11971,
+      "frequency": 9,
+      "positions": [
+        190,
+        1,
+        31,
+        63,
+        76,
+        122,
+        152,
+        322,
+        53
+      ]
+    },
+    "vp24": {
+      "term_id": 515595,
+      "frequency": 3,
+      "positions": [
+        192,
+        320,
+        51
+      ]
+    },
+    "basler": {
+      "term_id": 7732,
+      "frequency": 5,
+      "positions": [
+        194,
+        197,
+        27,
+        17,
+        45
+      ]
+    },
+    "enterlein": {
+      "term_id": 46288,
+      "frequency": 1,
+      "positions": [
+        200
+      ]
+    },
+    "hartman": {
+      "term_id": 7563,
+      "frequency": 7,
+      "positions": [
+        203,
+        206,
+        48,
+        51,
+        77,
+        98,
+        104
+      ]
+    },
+    "following": {
+      "term_id": 37934,
+      "frequency": 2,
+      "positions": [
+        1,
+        2
+      ]
+    },
+    "knowledge": {
+      "term_id": 423,
+      "frequency": 2,
+      "positions": [
+        54,
+        100
+      ]
+    },
+    "contribution": {
+      "term_id": 436,
+      "frequency": 4,
+      "positions": [
+        57,
+        66,
+        106,
+        89
+      ]
+    },
+    "aberrant": {
+      "term_id": 2589,
+      "frequency": 3,
+      "positions": [
+        59,
+        47,
+        53
+      ]
+    },
+    "broad-spectrum": {
+      "term_id": 2309,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "orthomyxoviridae": {
+      "term_id": 5755,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "negative": {
+      "term_id": 234,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "replicate": {
+      "term_id": 290,
+      "frequency": 7,
+      "positions": [
+        16,
+        35,
+        159,
+        80,
+        45,
+        46,
+        36
+      ]
+    },
+    "primarily": {
+      "term_id": 617,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "respiratory": {
+      "term_id": 91,
+      "frequency": 6,
+      "positions": [
+        27,
+        150,
+        45,
+        91,
+        113,
+        93
+      ]
+    },
+    "alveolar": {
+      "term_id": 1436,
+      "frequency": 6,
+      "positions": [
+        37,
+        108,
+        143,
+        26,
+        37,
+        95
+      ]
+    },
+    "suarez": {
+      "term_id": 6726,
+      "frequency": 2,
+      "positions": [
+        41,
+        69
+      ]
+    },
+    "campen": {
+      "term_id": 51921,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "responsible": {
+      "term_id": 392,
+      "frequency": 4,
+      "positions": [
+        52,
+        83,
+        139,
+        104
+      ]
+    },
+    "annually": {
+      "term_id": 1983,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "periodic": {
+      "term_id": 2755,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "significantly": {
+      "term_id": 237,
+      "frequency": 7,
+      "positions": [
+        67,
+        79,
+        116,
+        145,
+        106,
+        27,
+        115
+      ]
+    },
+    "thompson": {
+      "term_id": 1442,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "worldwide": {
+      "term_id": 541,
+      "frequency": 1,
+      "positions": [
+        90
+      ]
+    },
+    "taubenberger": {
+      "term_id": 5813,
+      "frequency": 5,
+      "positions": [
+        98,
+        99,
+        42,
+        45,
+        10
+      ]
+    },
+    "histologic": {
+      "term_id": 3516,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "analysis": {
+      "term_id": 90,
+      "frequency": 18,
+      "positions": [
+        103,
+        52,
+        93,
+        1,
+        102,
+        78,
+        121,
+        61,
+        8,
+        83,
+        150,
+        37,
+        0,
+        35,
+        70,
+        103,
+        115,
+        107
+      ]
+    },
+    "bronchitis": {
+      "term_id": 1330,
+      "frequency": 3,
+      "positions": [
+        127,
+        61,
+        100
+      ]
+    },
+    "alveolitis": {
+      "term_id": 11955,
+      "frequency": 6,
+      "positions": [
+        129,
+        11,
+        65,
+        106,
+        114,
+        135
+      ]
+    },
+    "pneumonia": {
+      "term_id": 342,
+      "frequency": 4,
+      "positions": [
+        137,
+        166,
+        41,
+        48
+      ]
+    },
+    "pulmonary": {
+      "term_id": 664,
+      "frequency": 2,
+      "positions": [
+        143,
+        56
+      ]
+    },
+    "hemorrhage": {
+      "term_id": 1647,
+      "frequency": 1,
+      "positions": [
+        145
+      ]
+    },
+    "destruction": {
+      "term_id": 1506,
+      "frequency": 3,
+      "positions": [
+        147,
+        317,
+        50
+      ]
+    },
+    "epithelium": {
+      "term_id": 1291,
+      "frequency": 2,
+      "positions": [
+        151,
+        114
+      ]
+    },
+    "majority": {
+      "term_id": 523,
+      "frequency": 4,
+      "positions": [
+        155,
+        49,
+        52,
+        130
+      ]
+    },
+    "secondary": {
+      "term_id": 381,
+      "frequency": 2,
+      "positions": [
+        164,
+        146
+      ]
+    },
+    "bacterial": {
+      "term_id": 388,
+      "frequency": 1,
+      "positions": [
+        165
+      ]
+    },
+    "H5N1": {
+      "term_id": 1266,
+      "frequency": 8,
+      "positions": [
+        3,
+        2,
+        44,
+        108,
+        177,
+        189,
+        203,
+        53
+      ]
+    },
+    "fatality": {
+      "term_id": 1199,
+      "frequency": 2,
+      "positions": [
+        14,
+        85
+      ]
+    },
+    "evidence": {
+      "term_id": 127,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "cytokine": {
+      "term_id": 69,
+      "frequency": 6,
+      "positions": [
+        21,
+        9,
+        125,
+        97,
+        91,
+        52
+      ]
+    },
+    "lethality": {
+      "term_id": 3728,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "catastrophic": {
+      "term_id": 4354,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "economic": {
+      "term_id": 785,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "essential": {
+      "term_id": 317,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "prognostic": {
+      "term_id": 2268,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "reconstruction": {
+      "term_id": 2352,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "tumpey": {
+      "term_id": 6117,
+      "frequency": 2,
+      "positions": [
+        48,
+        102
+      ]
+    },
+    "sequence": {
+      "term_id": 9,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "introduction": {
+      "term_id": 155,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "genetics": {
+      "term_id": 1006,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "r1918": {
+      "term_id": 183915,
+      "frequency": 23,
+      "positions": [
+        85,
+        9,
+        26,
+        112,
+        79,
+        112,
+        146,
+        196,
+        57,
+        90,
+        126,
+        29,
+        34,
+        82,
+        112,
+        14,
+        38,
+        128,
+        67,
+        102,
+        15,
+        16,
+        17
+      ]
+    },
+    "embryonated": {
+      "term_id": 4466,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "balb": {
+      "term_id": 2095,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "seasonal": {
+      "term_id": 999,
+      "frequency": 2,
+      "positions": [
+        19,
+        23
+      ]
+    },
+    "Tx91": {
+      "term_id": 328955,
+      "frequency": 11,
+      "positions": [
+        25,
+        3,
+        73,
+        110,
+        8,
+        36,
+        29,
+        51,
+        46,
+        46,
+        28
+      ]
+    },
+    "hematoxylin": {
+      "term_id": 3891,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "staining": {
+      "term_id": 17123,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "quantitative": {
+      "term_id": 550,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "real-time": {
+      "term_id": 811,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "pcr": {
+      "term_id": 377,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "elisa": {
+      "term_id": 757,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "determine": {
+      "term_id": 18,
+      "frequency": 5,
+      "positions": [
+        84,
+        127,
+        109,
+        26,
+        20
+      ]
+    },
+    "histiocytic": {
+      "term_id": 11383,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "post-infection": {
+      "term_id": 2774,
+      "frequency": 2,
+      "positions": [
+        47,
+        118
+      ]
+    },
+    "necrotizing": {
+      "term_id": 3162,
+      "frequency": 2,
+      "positions": [
+        60,
+        99
+      ]
+    },
+    "masses": {
+      "term_id": 214237,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "reference": {
+      "term_id": 322,
+      "frequency": 1,
+      "positions": [
+        118
+      ]
+    },
+    "mock-infected": {
+      "term_id": 5318,
+      "frequency": 5,
+      "positions": [
+        124,
+        61,
+        160,
+        55,
+        106
+      ]
+    },
+    "bioinformatic": {
+      "term_id": 5298,
+      "frequency": 2,
+      "positions": [
+        0,
+        82
+      ]
+    },
+    "intensity": {
+      "term_id": 813,
+      "frequency": 4,
+      "positions": [
+        21,
+        130,
+        63,
+        138
+      ]
+    },
+    "duration": {
+      "term_id": 594,
+      "frequency": 3,
+      "positions": [
+        23,
+        65,
+        140
+      ]
+    },
+    "kinetics": {
+      "term_id": 1216,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "glutathione": {
+      "term_id": 3959,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "metabolism": {
+      "term_id": 1253,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "atp": {
+      "term_id": 2709,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "generation": {
+      "term_id": 459,
+      "frequency": 2,
+      "positions": [
+        49,
+        180
+      ]
+    },
+    "observation": {
+      "term_id": 126,
+      "frequency": 2,
+      "positions": [
+        53,
+        143
+      ]
+    },
+    "metabolic": {
+      "term_id": 1258,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "reactive": {
+      "term_id": 1163,
+      "frequency": 3,
+      "positions": [
+        69,
+        177,
+        153
+      ]
+    },
+    "il6": {
+      "term_id": 389176,
+      "frequency": 3,
+      "positions": [
+        94,
+        125,
+        251
+      ]
+    },
+    "IL12": {
+      "term_id": 24630,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "IFN-gamma": {
+      "term_id": 4955,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "tnf-alpha": {
+      "term_id": 656984,
+      "frequency": 1,
+      "positions": [
+        97
+      ]
+    },
+    "cxcl1": {
+      "term_id": 654521,
+      "frequency": 2,
+      "positions": [
+        98,
+        131
+      ]
+    },
+    "CXCl10": {
+      "term_id": 853608,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "h1": {
+      "term_id": 77865,
+      "frequency": 1,
+      "positions": [
+        117
+      ]
+    },
+    "nk": {
+      "term_id": 2337,
+      "frequency": 2,
+      "positions": [
+        119,
+        68
+      ]
+    },
+    "additionally": {
+      "term_id": 706,
+      "frequency": 2,
+      "positions": [
+        145,
+        26
+      ]
+    },
+    "death-related": {
+      "term_id": 84105,
+      "frequency": 1,
+      "positions": [
+        157
+      ]
+    },
+    "particularly": {
+      "term_id": 362,
+      "frequency": 3,
+      "positions": [
+        159,
+        18,
+        33
+      ]
+    },
+    "fas": {
+      "term_id": 16730,
+      "frequency": 1,
+      "positions": [
+        168
+      ]
+    },
+    "caspase-8": {
+      "term_id": 13762,
+      "frequency": 1,
+      "positions": [
+        169
+      ]
+    },
+    "caspase-9": {
+      "term_id": 16584,
+      "frequency": 1,
+      "positions": [
+        171
+      ]
+    },
+    "virulence": {
+      "term_id": 899,
+      "frequency": 10,
+      "positions": [
+        15,
+        79,
+        50,
+        24,
+        92,
+        130,
+        9,
+        54,
+        155,
+        5
+      ]
+    },
+    "chimeric": {
+      "term_id": 2050,
+      "frequency": 3,
+      "positions": [
+        30,
+        119,
+        17
+      ]
+    },
+    "np": {
+      "term_id": 816,
+      "frequency": 2,
+      "positions": [
+        43,
+        31
+      ]
+    },
+    "earliest": {
+      "term_id": 2541,
+      "frequency": 3,
+      "positions": [
+        69,
+        25,
+        88
+      ]
+    },
+    "continuum": {
+      "term_id": 5322,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "moderate": {
+      "term_id": 826,
+      "frequency": 2,
+      "positions": [
+        103,
+        131
+      ]
+    },
+    "character": {
+      "term_id": 1913,
+      "frequency": 2,
+      "positions": [
+        111,
+        15
+      ]
+    },
+    "prominent": {
+      "term_id": 1255,
+      "frequency": 2,
+      "positions": [
+        138,
+        79
+      ]
+    },
+    "neutrophilic": {
+      "term_id": 4998,
+      "frequency": 2,
+      "positions": [
+        139,
+        174
+      ]
+    },
+    "chemokine": {
+      "term_id": 1989,
+      "frequency": 3,
+      "positions": [
+        10,
+        13,
+        93
+      ]
+    },
+    "deathrelated": {
+      "term_id": 286559,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "findings": {
+      "term_id": 701251,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "appearance": {
+      "term_id": 951,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "magnitude": {
+      "term_id": 1228,
+      "frequency": 2,
+      "positions": [
+        70,
+        95
+      ]
+    },
+    "up-regulated": {
+      "term_id": 4293,
+      "frequency": 2,
+      "positions": [
+        72,
+        94
+      ]
+    },
+    "immune-related": {
+      "term_id": 11781,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "occurrence": {
+      "term_id": 685,
+      "frequency": 1,
+      "positions": [
+        97
+      ]
+    },
+    "interleukin-6": {
+      "term_id": 4719,
+      "frequency": 1,
+      "positions": [
+        123
+      ]
+    },
+    "toll-like": {
+      "term_id": 5432,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "previous": {
+      "term_id": 267,
+      "frequency": 1,
+      "positions": [
+        131
+      ]
+    },
+    "antagonist": {
+      "term_id": 981,
+      "frequency": 3,
+      "positions": [
+        143,
+        161,
+        12
+      ]
+    },
+    "induction": {
+      "term_id": 582,
+      "frequency": 1,
+      "positions": [
+        160
+      ]
+    },
+    "heterogeneity": {
+      "term_id": 1311,
+      "frequency": 7,
+      "positions": [
+        227,
+        75,
+        81,
+        33,
+        46,
+        137,
+        73
+      ]
+    },
+    "ii": {
+      "term_id": 310,
+      "frequency": 2,
+      "positions": [
+        240,
+        25
+      ]
+    },
+    "percentage": {
+      "term_id": 517,
+      "frequency": 1,
+      "positions": [
+        245
+      ]
+    },
+    "susceptible": {
+      "term_id": 580,
+      "frequency": 2,
+      "positions": [
+        250,
+        98
+      ]
+    },
+    "infiltration": {
+      "term_id": 1443,
+      "frequency": 3,
+      "positions": [
+        273,
+        36,
+        59
+      ]
+    },
+    "together": {
+      "term_id": 365,
+      "frequency": 1,
+      "positions": [
+        279
+      ]
+    },
+    "hypercytokinemia": {
+      "term_id": 12877,
+      "frequency": 2,
+      "positions": [
+        310,
+        15
+      ]
+    },
+    "facilitate": {
+      "term_id": 183,
+      "frequency": 1,
+      "positions": [
+        319
+      ]
+    },
+    "representative": {
+      "term_id": 719,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "dissection": {
+      "term_id": 3436,
+      "frequency": 2,
+      "positions": [
+        62,
+        20
+      ]
+    },
+    "deconvolute": {
+      "term_id": 87117,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "cynomolgus": {
+      "term_id": 5017,
+      "frequency": 2,
+      "positions": [
+        8,
+        273
+      ]
+    },
+    "fascicularis": {
+      "term_id": 12859,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "human-adapted": {
+      "term_id": 28566,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "kawasaki": {
+      "term_id": 4945,
+      "frequency": 2,
+      "positions": [
+        29,
+        26
+      ]
+    },
+    "K173": {
+      "term_id": 286945,
+      "frequency": 9,
+      "positions": [
+        30,
+        50,
+        130,
+        11,
+        48,
+        79,
+        110,
+        167,
+        27
+      ]
+    },
+    "kobasa": {
+      "term_id": 11904,
+      "frequency": 3,
+      "positions": [
+        31,
+        55,
+        75
+      ]
+    },
+    "uniformly": {
+      "term_id": 3473,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "bronchus": {
+      "term_id": 8847,
+      "frequency": 4,
+      "positions": [
+        71,
+        124,
+        63,
+        4
+      ]
+    },
+    "comparison": {
+      "term_id": 135,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "bronchial": {
+      "term_id": 1803,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "pfu": {
+      "term_id": 2356,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "subsequently": {
+      "term_id": 501,
+      "frequency": 2,
+      "positions": [
+        45,
+        66
+      ]
+    },
+    "pro-inflammatory": {
+      "term_id": 2556,
+      "frequency": 2,
+      "positions": [
+        120,
+        93
+      ]
+    },
+    "chemokines": {
+      "term_id": 2006,
+      "frequency": 3,
+      "positions": [
+        123,
+        175,
+        76
+      ]
+    },
+    "IL8": {
+      "term_id": 17694,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "neutrophil": {
+      "term_id": 268,
+      "frequency": 1,
+      "positions": [
+        129
+      ]
+    },
+    "chemoattractants": {
+      "term_id": 12408,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "CXCL2": {
+      "term_id": 22601,
+      "frequency": 1,
+      "positions": [
+        132
+      ]
+    },
+    "CXCL6": {
+      "term_id": 85233,
+      "frequency": 1,
+      "positions": [
+        134
+      ]
+    },
+    "suppress": {
+      "term_id": 319,
+      "frequency": 1,
+      "positions": [
+        146
+      ]
+    },
+    "protective": {
+      "term_id": 525,
+      "frequency": 2,
+      "positions": [
+        159,
+        66
+      ]
+    },
+    "recruitment": {
+      "term_id": 1308,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "parenchymal": {
+      "term_id": 3893,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "IFN-related": {
+      "term_id": 62064,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "minimize": {
+      "term_id": 697,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "southeast": {
+      "term_id": 2167,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "asia": {
+      "term_id": 977,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "mortality": {
+      "term_id": 320,
+      "frequency": 2,
+      "positions": [
+        23,
+        187
+      ]
+    },
+    "Abdel-Ghafar": {
+      "term_id": 52658,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "claas": {
+      "term_id": 6518,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "fouchier": {
+      "term_id": 1987,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "gao": {
+      "term_id": 986,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "gubareva": {
+      "term_id": 10064,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "subbarao": {
+      "term_id": 3923,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "CXCL10": {
+      "term_id": 6255,
+      "frequency": 1,
+      "positions": [
+        131
+      ]
+    },
+    "CXCR3": {
+      "term_id": 10249,
+      "frequency": 2,
+      "positions": [
+        136,
+        160
+      ]
+    },
+    "amgen": {
+      "term_id": 27722,
+      "frequency": 1,
+      "positions": [
+        162
+      ]
+    },
+    "AMG487": {
+      "term_id": 243589,
+      "frequency": 2,
+      "positions": [
+        163,
+        181
+      ]
+    },
+    "quantify": {
+      "term_id": 458,
+      "frequency": 1,
+      "positions": [
+        165
+      ]
+    },
+    "unregulated": {
+      "term_id": 11284,
+      "frequency": 1,
+      "positions": [
+        194
+      ]
+    },
+    "partially": {
+      "term_id": 894,
+      "frequency": 1,
+      "positions": [
+        200
+      ]
+    },
+    "potential": {
+      "term_id": 102,
+      "frequency": 4,
+      "positions": [
+        213,
+        124,
+        110,
+        14
+      ]
+    },
+    "over-activated": {
+      "term_id": 151325,
+      "frequency": 1,
+      "positions": [
+        224
+      ]
+    },
+    "temptation": {
+      "term_id": 24991,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "perspective": {
+      "term_id": 407,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "fundamentally": {
+      "term_id": 5251,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "incorrect": {
+      "term_id": 4390,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "individual": {
+      "term_id": 24,
+      "frequency": 7,
+      "positions": [
+        106,
+        79,
+        152,
+        66,
+        85,
+        49,
+        50
+      ]
+    },
+    "uninfected": {
+      "term_id": 1606,
+      "frequency": 4,
+      "positions": [
+        112,
+        12,
+        58,
+        357
+      ]
+    },
+    "aggregate": {
+      "term_id": 784,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "fundamental": {
+      "term_id": 1190,
+      "frequency": 2,
+      "positions": [
+        131,
+        191
+      ]
+    },
+    "parenchyma": {
+      "term_id": 3138,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "capillary": {
+      "term_id": 1465,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "interstitial": {
+      "term_id": 1908,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "crapo": {
+      "term_id": 33012,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "numerous": {
+      "term_id": 670,
+      "frequency": 2,
+      "positions": [
+        61,
+        31
+      ]
+    },
+    "perrone": {
+      "term_id": 14778,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "transcriptional": {
+      "term_id": 1429,
+      "frequency": 1,
+      "positions": [
+        118
+      ]
+    },
+    "impossible": {
+      "term_id": 1830,
+      "frequency": 1,
+      "positions": [
+        125
+      ]
+    },
+    "biologically": {
+      "term_id": 2003,
+      "frequency": 1,
+      "positions": [
+        156
+      ]
+    },
+    "relevant": {
+      "term_id": 520,
+      "frequency": 1,
+      "positions": [
+        157
+      ]
+    },
+    "bystander": {
+      "term_id": 4075,
+      "frequency": 8,
+      "positions": [
+        13,
+        62,
+        142,
+        6,
+        59,
+        108,
+        143,
+        358
+      ]
+    },
+    "traditional": {
+      "term_id": 861,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "surgical": {
+      "term_id": 1331,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "organ": {
+      "term_id": 192,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "difficult": {
+      "term_id": 439,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "discrimination": {
+      "term_id": 2663,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "cytometry": {
+      "term_id": 2051,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "fluorescent": {
+      "term_id": 1103,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "facs": {
+      "term_id": 4633,
+      "frequency": 2,
+      "positions": [
+        91,
+        94
+      ]
+    },
+    "microdissection": {
+      "term_id": 22461,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "lcm": {
+      "term_id": 16081,
+      "frequency": 2,
+      "positions": [
+        96,
+        96
+      ]
+    },
+    "specific": {
+      "term_id": 118,
+      "frequency": 3,
+      "positions": [
+        105,
+        18,
+        102
+      ]
+    },
+    "adjacent": {
+      "term_id": 1307,
+      "frequency": 1,
+      "positions": [
+        119
+      ]
+    },
+    "isolation": {
+      "term_id": 295,
+      "frequency": 2,
+      "positions": [
+        127,
+        80
+      ]
+    },
+    "microenvironment": {
+      "term_id": 3957,
+      "frequency": 2,
+      "positions": [
+        31,
+        98
+      ]
+    },
+    "reasonable": {
+      "term_id": 1458,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "hypothesize": {
+      "term_id": 828,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "necrosis": {
+      "term_id": 958,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "marburg": {
+      "term_id": 2828,
+      "frequency": 2,
+      "positions": [
+        25,
+        100
+      ]
+    },
+    "peripheral": {
+      "term_id": 772,
+      "frequency": 3,
+      "positions": [
+        39,
+        77,
+        144
+      ]
+    },
+    "blood": {
+      "term_id": 276,
+      "frequency": 4,
+      "positions": [
+        40,
+        78,
+        145,
+        91
+      ]
+    },
+    "mononuclear": {
+      "term_id": 1488,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "ebolavirus": {
+      "term_id": 5597,
+      "frequency": 3,
+      "positions": [
+        0,
+        7,
+        13
+      ]
+    },
+    "ebov": {
+      "term_id": 6331,
+      "frequency": 10,
+      "positions": [
+        1,
+        55,
+        77,
+        95,
+        144,
+        11,
+        346,
+        42,
+        84,
+        134
+      ]
+    },
+    "marburgvirus": {
+      "term_id": 15873,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "marv": {
+      "term_id": 15850,
+      "frequency": 11,
+      "positions": [
+        4,
+        57,
+        81,
+        146,
+        13,
+        57,
+        103,
+        126,
+        163,
+        139,
+        10
+      ]
+    },
+    "filoviridae": {
+      "term_id": 7726,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "non-segmented": {
+      "term_id": 9616,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "negative-strand": {
+      "term_id": 4824,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "gonzalez": {
+      "term_id": 2508,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "hoenen": {
+      "term_id": 19960,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "mohamadzadeh": {
+      "term_id": 41866,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "filovirus": {
+      "term_id": 1678,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "viremia": {
+      "term_id": 2243,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "endothelial": {
+      "term_id": 1357,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "permeability": {
+      "term_id": 2069,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "lymphopenia": {
+      "term_id": 3142,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "coagulopathy": {
+      "term_id": 6256,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "nonhuman": {
+      "term_id": 2443,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "zaire": {
+      "term_id": 4993,
+      "frequency": 2,
+      "positions": [
+        76,
+        6
+      ]
+    },
+    "zebov": {
+      "term_id": 29508,
+      "frequency": 13,
+      "positions": [
+        78,
+        55,
+        101,
+        124,
+        135,
+        21,
+        4,
+        117,
+        145,
+        151,
+        317,
+        137,
+        8
+      ]
+    },
+    "reston": {
+      "term_id": 12053,
+      "frequency": 2,
+      "positions": [
+        94,
+        12
+      ]
+    },
+    "rebov": {
+      "term_id": 74259,
+      "frequency": 8,
+      "positions": [
+        96,
+        179,
+        5,
+        25,
+        79,
+        112,
+        142,
+        14
+      ]
+    },
+    "non-human": {
+      "term_id": 3112,
+      "frequency": 1,
+      "positions": [
+        109
+      ]
+    },
+    "groseth": {
+      "term_id": 26180,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "hutchinson": {
+      "term_id": 6535,
+      "frequency": 1,
+      "positions": [
+        114
+      ]
+    },
+    "jahrling": {
+      "term_id": 5906,
+      "frequency": 1,
+      "positions": [
+        117
+      ]
+    },
+    "morikawa": {
+      "term_id": 6086,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "question": {
+      "term_id": 160,
+      "frequency": 2,
+      "positions": [
+        128,
+        65
+      ]
+    },
+    "attenuation": {
+      "term_id": 2088,
+      "frequency": 1,
+      "positions": [
+        188
+      ]
+    },
+    "hypothesis": {
+      "term_id": 536,
+      "frequency": 3,
+      "positions": [
+        5,
+        42,
+        110
+      ]
+    },
+    "huh7": {
+      "term_id": 309317,
+      "frequency": 2,
+      "positions": [
+        51,
+        16
+      ]
+    },
+    "presence": {
+      "term_id": 195,
+      "frequency": 4,
+      "positions": [
+        65,
+        119,
+        96,
+        6
+      ]
+    },
+    "exogenous": {
+      "term_id": 1707,
+      "frequency": 3,
+      "positions": [
+        69,
+        80,
+        121
+      ]
+    },
+    "coagulation": {
+      "term_id": 2492,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "examination": {
+      "term_id": 460,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "strongly": {
+      "term_id": 634,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "inhibitor": {
+      "term_id": 30,
+      "frequency": 1,
+      "positions": [
+        140
+      ]
+    },
+    "identical": {
+      "term_id": 797,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "response-related": {
+      "term_id": 54740,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "dramatically": {
+      "term_id": 1434,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "mhc": {
+      "term_id": 1963,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "PSME1": {
+      "term_id": 267227,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "b2m": {
+      "term_id": 160525,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "HLA-C": {
+      "term_id": 33991,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "hla-a": {
+      "term_id": 422794,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "hla-b": {
+      "term_id": 770105,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "slower": {
+      "term_id": 2583,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "antigen": {
+      "term_id": 40,
+      "frequency": 1,
+      "positions": [
+        134
+      ]
+    },
+    "presentation": {
+      "term_id": 152,
+      "frequency": 1,
+      "positions": [
+        135
+      ]
+    },
+    "addition": {
+      "term_id": 131,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "functioning": {
+      "term_id": 288171,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "cofactor": {
+      "term_id": 2377,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "polymerase": {
+      "term_id": 289,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "mutation": {
+      "term_id": 47,
+      "frequency": 2,
+      "positions": [
+        54,
+        149
+      ]
+    },
+    "carboxy-terminus": {
+      "term_id": 31852,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "R312": {
+      "term_id": 165245,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "inhibitory": {
+      "term_id": 990,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "VP35-mediated": {
+      "term_id": 146046,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "HepG2": {
+      "term_id": 6630,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "recombinant": {
+      "term_id": 412,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "R312A": {
+      "term_id": 279732,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "ISG15": {
+      "term_id": 8686,
+      "frequency": 2,
+      "positions": [
+        133,
+        291
+      ]
+    },
+    "IFIT1": {
+      "term_id": 20181,
+      "frequency": 1,
+      "positions": [
+        134
+      ]
+    },
+    "mx1": {
+      "term_id": 459958,
+      "frequency": 2,
+      "positions": [
+        136,
+        293
+      ]
+    },
+    "oas": {
+      "term_id": 9067,
+      "frequency": 1,
+      "positions": [
+        138
+      ]
+    },
+    "wild-type": {
+      "term_id": 1232,
+      "frequency": 2,
+      "positions": [
+        144,
+        163
+      ]
+    },
+    "suppression": {
+      "term_id": 1070,
+      "frequency": 1,
+      "positions": [
+        157
+      ]
+    },
+    "limitation": {
+      "term_id": 264,
+      "frequency": 1,
+      "positions": [
+        173
+      ]
+    },
+    "artificial": {
+      "term_id": 1695,
+      "frequency": 1,
+      "positions": [
+        206
+      ]
+    },
+    "rubins": {
+      "term_id": 43010,
+      "frequency": 1,
+      "positions": [
+        236
+      ]
+    },
+    "IL1R": {
+      "term_id": 173354,
+      "frequency": 1,
+      "positions": [
+        249
+      ]
+    },
+    "apoptosis": {
+      "term_id": 1064,
+      "frequency": 1,
+      "positions": [
+        252
+      ]
+    },
+    "tnf": {
+      "term_id": 1646,
+      "frequency": 1,
+      "positions": [
+        256
+      ]
+    },
+    "TLR1": {
+      "term_id": 17498,
+      "frequency": 1,
+      "positions": [
+        265
+      ]
+    },
+    "tlr4": {
+      "term_id": 432016,
+      "frequency": 1,
+      "positions": [
+        267
+      ]
+    },
+    "INFAR1": {
+      "term_id": 324617,
+      "frequency": 1,
+      "positions": [
+        290
+      ]
+    },
+    "IP10": {
+      "term_id": 31915,
+      "frequency": 1,
+      "positions": [
+        292
+      ]
+    },
+    "OAS1": {
+      "term_id": 17703,
+      "frequency": 1,
+      "positions": [
+        294
+      ]
+    },
+    "stat1": {
+      "term_id": 161880,
+      "frequency": 1,
+      "positions": [
+        296
+      ]
+    },
+    "IFN-regulated": {
+      "term_id": 44745,
+      "frequency": 1,
+      "positions": [
+        300
+      ]
+    },
+    "throughout": {
+      "term_id": 538,
+      "frequency": 1,
+      "positions": [
+        303
+      ]
+    },
+    "influence": {
+      "term_id": 103,
+      "frequency": 1,
+      "positions": [
+        325
+      ]
+    },
+    "marb": {
+      "term_id": 215194,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "analogous": {
+      "term_id": 2326,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "discussion": {
+      "term_id": 174,
+      "frequency": 1,
+      "positions": [
+        123
+      ]
+    },
+    "separation": {
+      "term_id": 1347,
+      "frequency": 1,
+      "positions": [
+        148
+      ]
+    },
+    "highlight": {
+      "term_id": 261,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "persistent": {
+      "term_id": 818,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "unanswered": {
+      "term_id": 5215,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "by-stander": {
+      "term_id": 95402,
+      "frequency": 1,
+      "positions": [
+        91
+      ]
+    },
+    "stressful": {
+      "term_id": 5484,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "organismal": {
+      "term_id": 15860,
+      "frequency": 1,
+      "positions": [
+        122
+      ]
+    },
+    "profiling": {
+      "term_id": 292015,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "virus-infected": {
+      "term_id": 1605,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "instrumental": {
+      "term_id": 4289,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "collectively": {
+      "term_id": 1906,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "establish": {
+      "term_id": 54,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "responsive": {
+      "term_id": 2702,
+      "frequency": 2,
+      "positions": [
+        85,
+        111
+      ]
+    },
+    "broad-ranging": {
+      "term_id": 137279,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "discovery-based": {
+      "term_id": 109622,
+      "frequency": 3,
+      "positions": [
+        5,
+        113,
+        247
+      ]
+    },
+    "repertoire": {
+      "term_id": 1846,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "indentifying": {
+      "term_id": 251256,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "unfortunately": {
+      "term_id": 1251,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "pathway-directed": {
+      "term_id": 523181,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "investigation": {
+      "term_id": 148,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "function": {
+      "term_id": 31,
+      "frequency": 3,
+      "positions": [
+        66,
+        22,
+        111
+      ]
+    },
+    "annotation": {
+      "term_id": 2561,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "underutilized": {
+      "term_id": 22657,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "unannotated": {
+      "term_id": 32576,
+      "frequency": 4,
+      "positions": [
+        21,
+        107,
+        2,
+        2
+      ]
+    },
+    "up-or": {
+      "term_id": 28787,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "down-regulated": {
+      "term_id": 5772,
+      "frequency": 2,
+      "positions": [
+        26,
+        65
+      ]
+    },
+    "tx": {
+      "term_id": 2883,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "identity": {
+      "term_id": 760,
+      "frequency": 1,
+      "positions": [
+        110
+      ]
+    },
+    "abundance": {
+      "term_id": 1463,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "IFN-induced": {
+      "term_id": 8765,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "demonstrate": {
+      "term_id": 17,
+      "frequency": 1,
+      "positions": [
+        161
+      ]
+    },
+    "indicate": {
+      "term_id": 16,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "efficacy": {
+      "term_id": 498,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "responsiveness": {
+      "term_id": 2629,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "therapy": {
+      "term_id": 122,
+      "frequency": 2,
+      "positions": [
+        48,
+        18
+      ]
+    },
+    "ribavirin": {
+      "term_id": 2019,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "rate-limiting": {
+      "term_id": 8650,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "deleterious": {
+      "term_id": 2908,
+      "frequency": 2,
+      "positions": [
+        90,
+        181
+      ]
+    },
+    "throughput": {
+      "term_id": 2557,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "selection": {
+      "term_id": 556,
+      "frequency": 1,
+      "positions": [
+        135
+      ]
+    },
+    "down-stream": {
+      "term_id": 41127,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "cao": {
+      "term_id": 1376,
+      "frequency": 2,
+      "positions": [
+        30,
+        66
+      ]
+    },
+    "mammalian": {
+      "term_id": 725,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "rapamycin": {
+      "term_id": 7428,
+      "frequency": 2,
+      "positions": [
+        45,
+        52
+      ]
+    },
+    "mtor": {
+      "term_id": 7320,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "immunosuppressive": {
+      "term_id": 1869,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "plasmacytoid": {
+      "term_id": 5105,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "dendritic": {
+      "term_id": 1303,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "antiretroviral": {
+      "term_id": 3097,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "pacenti": {
+      "term_id": 81476,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "tradition": {
+      "term_id": 5073,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "Pan-Hammarstrom": {
+      "term_id": 156442,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "flexibility": {
+      "term_id": 2210,
+      "frequency": 1,
+      "positions": [
+        98
+      ]
+    },
+    "toxicity": {
+      "term_id": 932,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "mendrick": {
+      "term_id": 209726,
+      "frequency": 1,
+      "positions": [
+        114
+      ]
+    },
+    "nuwaysir": {
+      "term_id": 136368,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "vaccine": {
+      "term_id": 15,
+      "frequency": 1,
+      "positions": [
+        118
+      ]
+    },
+    "mizukami": {
+      "term_id": 26736,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "mosca": {
+      "term_id": 22527,
+      "frequency": 1,
+      "positions": [
+        125
+      ]
+    },
+    "discovery": {
+      "term_id": 586,
+      "frequency": 2,
+      "positions": [
+        1,
+        65
+      ]
+    },
+    "genetically": {
+      "term_id": 1062,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "knock-out": {
+      "term_id": 10109,
+      "frequency": 2,
+      "positions": [
+        35,
+        117
+      ]
+    },
+    "Tnfr1": {
+      "term_id": 420551,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "redundant": {
+      "term_id": 4174,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "genome-wide": {
+      "term_id": 4260,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "rnai": {
+      "term_id": 3913,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "kawaoka": {
+      "term_id": 3770,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "necessary": {
+      "term_id": 368,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "selective": {
+      "term_id": 799,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "sampling": {
+      "term_id": 10408,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "counter-intuitive": {
+      "term_id": 45185,
+      "frequency": 1,
+      "positions": [
+        194
+      ]
+    },
+    "temporary": {
+      "term_id": 2726,
+      "frequency": 1,
+      "positions": [
+        204
+      ]
+    },
+    "clinical": {
+      "term_id": 107,
+      "frequency": 1,
+      "positions": [
+        224
+      ]
+    },
+    "strength": {
+      "term_id": 1083,
+      "frequency": 1,
+      "positions": [
+        227
+      ]
+    },
+    "genomics-based": {
+      "term_id": 58663,
+      "frequency": 1,
+      "positions": [
+        229
+      ]
+    },
+    "ultimately": {
+      "term_id": 1135,
+      "frequency": 1,
+      "positions": [
+        262
+      ]
+    },
+    "equivalent": {
+      "term_id": 937,
+      "frequency": 3,
+      "positions": [
+        10,
+        11,
+        12
+      ]
+    },
+    "contemporary": {
+      "term_id": 2602,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "technical": {
+      "term_id": 891,
+      "frequency": 4,
+      "positions": [
+        79,
+        44,
+        45,
+        35
+      ]
+    },
+    "downregulated": {
+      "term_id": 3834,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "relative": {
+      "term_id": 333,
+      "frequency": 2,
+      "positions": [
+        104,
+        68
+      ]
+    },
+    "available": {
+      "term_id": 164,
+      "frequency": 4,
+      "positions": [
+        126,
+        80,
+        61,
+        58
+      ]
+    },
+    "viromics": {
+      "term_id": 74212,
+      "frequency": 4,
+      "positions": [
+        129,
+        83,
+        64,
+        61
+      ]
+    },
+    "washington": {
+      "term_id": 2362,
+      "frequency": 4,
+      "positions": [
+        130,
+        84,
+        65,
+        62
+      ]
+    },
+    "edu": {
+      "term_id": 1238,
+      "frequency": 4,
+      "positions": [
+        131,
+        85,
+        66,
+        63
+      ]
+    },
+    "upregulated": {
+      "term_id": 2414,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "mockinfected": {
+      "term_id": 18205,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "independent": {
+      "term_id": 480,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "virol": {
+      "term_id": 273,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "drs": {
+      "term_id": 4951,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "nih": {
+      "term_id": 1427,
+      "frequency": 2,
+      "positions": [
+        12,
+        30
+      ]
+    },
+    "niaid": {
+      "term_id": 5319,
+      "frequency": 2,
+      "positions": [
+        13,
+        33
+      ]
+    },
+    "intramural": {
+      "term_id": 9340,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "program": {
+      "term_id": 75,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.542672",
+    "sections_count": 47
+  }
+}

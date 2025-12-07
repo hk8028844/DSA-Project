@@ -1,0 +1,5405 @@
+{
+  "document_id": "00c71f72eb837e2342dbda8761664e221e2a03df",
+  "source_type": "pdf_json",
+  "file_name": "00c71f72eb837e2342dbda8761664e221e2a03df.json",
+  "total_terms": 1439,
+  "unique_terms": 561,
+  "sections": {
+    "title": {
+      "term_count": 5,
+      "char_length": 96,
+      "top_terms": {
+        "intensive": 1,
+        "management": 1,
+        "coronavirus": 1,
+        "disease": 1,
+        "covid-19": 1
+      }
+    },
+    "abstract": {
+      "term_count": 46,
+      "char_length": 1114,
+      "top_terms": {
+        "icu": 3,
+        "management": 3,
+        "covid-19": 2,
+        "respiratory": 2,
+        "critical": 2,
+        "coronavirus": 1,
+        "disease": 1,
+        "intensive": 1,
+        "community": 1,
+        "pandemic": 1,
+        "diagnosis": 1,
+        "isolation": 1,
+        "clinical": 1,
+        "infection": 1,
+        "prevention": 1,
+        "health-care": 1,
+        "nosocomial": 1,
+        "transmission": 1,
+        "acute": 1,
+        "haemodynamics": 1
+      }
+    },
+    "Introduction": {
+      "term_count": 38,
+      "char_length": 934,
+      "top_terms": {
+        "covid-19": 3,
+        "icu": 3,
+        "coronavirus": 2,
+        "respiratory": 2,
+        "syndrome": 2,
+        "sars": 2,
+        "mers": 2,
+        "critically": 2,
+        "experience": 2,
+        "disease": 1,
+        "infection": 1,
+        "originally": 1,
+        "asia": 1,
+        "acute": 1,
+        "pandemic": 1,
+        "worldwide": 1,
+        "intensive": 1,
+        "hospital": 1,
+        "ments": 1,
+        "cumulative": 1
+      }
+    },
+    "Epidemiology and clinical features of critically ill patients": {
+      "term_count": 54,
+      "char_length": 1579,
+      "top_terms": {
+        "fatality": 4,
+        "icu": 4,
+        "covid-19": 3,
+        "november": 2,
+        "health-care": 2,
+        "critical": 2,
+        "respiratory": 2,
+        "worldwide": 1,
+        "comparison": 1,
+        "sars": 1,
+        "epidemic": 1,
+        "mers": 1,
+        "outbreak": 1,
+        "undiagnosed": 1,
+        "disease": 1,
+        "contribute": 1,
+        "denominator": 1,
+        "WHO-China": 1,
+        "laboratory-confirmed": 1,
+        "classified": 1
+      }
+    },
+    "Key messages": {
+      "term_count": 172,
+      "char_length": 4474,
+      "top_terms": {
+        "icu": 8,
+        "respiratory": 7,
+        "covid-19": 6,
+        "symptom": 6,
+        "acute": 6,
+        "clinical": 5,
+        "disease": 3,
+        "non-specific": 3,
+        "pneumonia": 3,
+        "intensive": 3,
+        "transmission": 3,
+        "mortality": 3,
+        "distinguish": 2,
+        "community-acquired": 2,
+        "pandemic": 2,
+        "increasingly": 2,
+        "suspicion": 2,
+        "threshold": 2,
+        "diagnostic": 2,
+        "myocardial": 2
+      }
+    },
+    "Diagnosis": {
+      "term_count": 35,
+      "char_length": 862,
+      "top_terms": {
+        "rt-pcr": 3,
+        "respiratory": 3,
+        "negative": 2,
+        "although": 2,
+        "sampling": 2,
+        "diagnosis": 1,
+        "acute": 1,
+        "syndrome": 1,
+        "coronavirus": 1,
+        "sars-cov-2": 1,
+        "pneumonia": 1,
+        "endotracheal": 1,
+        "potentially": 1,
+        "generate": 1,
+        "airborne": 1,
+        "diagnostic": 1,
+        "bronchoalveolar": 1,
+        "covid-19": 1,
+        "sensitivity": 1,
+        "critically": 1
+      }
+    },
+    "Management of acute respiratory failure": {
+      "term_count": 101,
+      "char_length": 2831,
+      "top_terms": {
+        "intubation": 6,
+        "niv": 5,
+        "mortality": 5,
+        "covid-19": 4,
+        "ventilation": 4,
+        "ards": 4,
+        "viral": 3,
+        "although": 3,
+        "evidence": 2,
+        "respiratory": 2,
+        "transmission": 2,
+        "sars": 2,
+        "available": 2,
+        "specific": 1,
+        "supportive": 1,
+        "icu": 1,
+        "intensive": 1,
+        "management": 1,
+        "non-invasive": 1,
+        "high-flow": 1
+      }
+    },
+    "Infection prevention": {
+      "term_count": 95,
+      "char_length": 2772,
+      "top_terms": {
+        "ppe": 6,
+        "health-care": 5,
+        "N95": 3,
+        "covid-19": 3,
+        "available": 3,
+        "shortage": 2,
+        "manufacturer-designated": 2,
+        "protection": 2,
+        "self-contamination": 2,
+        "although": 2,
+        "paprs": 2,
+        "ebola": 2,
+        "virus": 2,
+        "disease": 2,
+        "mers-cov": 2,
+        "sars-cov-2": 2,
+        "remdesivir": 2,
+        "transmission": 1,
+        "consider": 1,
+        "necessary": 1
+      }
+    },
+    "ICU capacity": {
+      "term_count": 132,
+      "char_length": 3837,
+      "top_terms": {
+        "covid-19": 8,
+        "icu": 8,
+        "intensive": 7,
+        "capacity": 5,
+        "critical": 5,
+        "outbreak": 4,
+        "equipment": 4,
+        "population": 4,
+        "critically": 3,
+        "low-income": 3,
+        "increase": 3,
+        "eg": 3,
+        "national": 2,
+        "regional": 2,
+        "highincome": 2,
+        "consider": 2,
+        "provision": 2,
+        "consumables": 2,
+        "elective": 2,
+        "transport": 2
+      }
+    },
+    "ICU staffing": {
+      "term_count": 112,
+      "char_length": 3542,
+      "top_terms": {
+        "covid-19": 6,
+        "exposure": 5,
+        "infection": 4,
+        "icu": 3,
+        "unprotected": 3,
+        "ecmo": 3,
+        "health-care": 3,
+        "workload": 2,
+        "mortality": 2,
+        "augmentation": 2,
+        "non-ICU": 2,
+        "provision": 2,
+        "training": 2,
+        "quarantine": 2,
+        "potentially": 2,
+        "consider": 2,
+        "segregation": 2,
+        "physical": 2,
+        "sars-cov-2": 2,
+        "hospital": 2
+      }
+    },
+    "Other intensive care management": {
+      "term_count": 152,
+      "char_length": 3708,
+      "top_terms": {
+        "covid-19": 11,
+        "viral": 6,
+        "mortality": 4,
+        "observational": 4,
+        "incidence": 3,
+        "respiratory": 3,
+        "myocardial": 2,
+        "empirical": 2,
+        "diagnosis": 2,
+        "influenza": 2,
+        "clinical": 2,
+        "possible": 2,
+        "immunosuppression": 2,
+        "systematic": 2,
+        "clearance": 2,
+        "acute": 2,
+        "icu": 2,
+        "transmission": 2,
+        "hypovolaemia": 1,
+        "anorexia": 1
+      }
+    },
+    "Review": {
+      "term_count": 66,
+      "char_length": 2036,
+      "top_terms": {
+        "sars-cov-2": 4,
+        "covid-19": 4,
+        "icu": 3,
+        "viral": 2,
+        "transmission": 2,
+        "health-care": 2,
+        "spreading": 1,
+        "point-of-care": 1,
+        "ultrasound": 1,
+        "evidence": 1,
+        "interstitial": 1,
+        "consolidation": 1,
+        "ultrasonography": 1,
+        "larger": 1,
+        "understand": 1,
+        "admission": 1,
+        "de-isolation": 1,
+        "clinical": 1,
+        "recovery": 1,
+        "negative": 1
+      }
+    },
+    "Repurposed and experimental therapies": {
+      "term_count": 39,
+      "char_length": 1215,
+      "top_terms": {
+        "covid-19": 2,
+        "efficacy": 2,
+        "sars": 2,
+        "clinical": 2,
+        "outbreak": 2,
+        "therapy": 1,
+        "previously": 1,
+        "sars-cov": 1,
+        "MERS-CoV-have": 1,
+        "empirically": 1,
+        "investigation": 1,
+        "traditional": 1,
+        "admittedly": 1,
+        "MERS-are": 1,
+        "parallel": 1,
+        "enthusiasm": 1,
+        "scientific": 1,
+        "ebola": 1,
+        "exceptional": 1,
+        "ethically": 1
+      }
+    },
+    "Lopinavir-ritonavir (protease inhibitor)": {
+      "term_count": 6,
+      "char_length": 130,
+      "top_terms": {
+        "candidate": 1,
+        "implementation": 1,
+        "clinical": 1,
+        "combination": 1,
+        "interferon": 1,
+        "beta": 1
+      }
+    },
+    "Chloroquine (antimalarial)": {
+      "term_count": 26,
+      "char_length": 601,
+      "top_terms": {
+        "sars-cov-2": 4,
+        "covid-19": 2,
+        "chloroquine": 2,
+        "sars-cov": 2,
+        "peer-reviewed": 2,
+        "vitro": 1,
+        "briefing": 1,
+        "progression": 1,
+        "pneumonia": 1,
+        "clearance": 1,
+        "recovery": 1,
+        "literature": 1,
+        "findings": 1,
+        "in-vitro": 1,
+        "antiviral": 1,
+        "available": 1,
+        "possibility": 1,
+        "qt": 1,
+        "prolongation": 1
+      }
+    },
+    "Hydroxychloroquine (antimalarial)": {
+      "term_count": 22,
+      "char_length": 478,
+      "top_terms": {
+        "sars-cov-2": 4,
+        "covid-19": 2,
+        "non-randomised": 1,
+        "endpoint": 1,
+        "presence": 1,
+        "virus": 1,
+        "in-vitro": 1,
+        "hydroxychloroquine": 1,
+        "nasopharynx": 1,
+        "especially": 1,
+        "azithromycin": 1,
+        "chloroquine": 1,
+        "vitro": 1,
+        "peer-reviewed": 1,
+        "available": 1,
+        "possibility": 1,
+        "qt": 1,
+        "prolongation": 1
+      }
+    },
+    "Intravenous immunoglobulin (immunotherapy)": {
+      "term_count": 20,
+      "char_length": 531,
+      "top_terms": {
+        "sars-cov": 2,
+        "polyclonal": 1,
+        "immunoglobulin": 1,
+        "SAB-301": 1,
+        "mortality": 1,
+        "acute": 1,
+        "respiratory": 1,
+        "influenza": 1,
+        "reduction": 1,
+        "viral": 1,
+        "improvement": 1,
+        "oxygenation": 1,
+        "imaging": 1,
+        "multiple": 1,
+        "possible": 1,
+        "confounders": 1,
+        "peer-reviewed": 1,
+        "available": 1,
+        "sars-cov-2": 1
+      }
+    },
+    "Tocilizumab (monoclonal antibody against interleukin-6)": {
+      "term_count": 13,
+      "char_length": 286,
+      "top_terms": {
+        "sars-cov-2": 3,
+        "cytokine": 2,
+        "peer-reviewed": 2,
+        "available": 2,
+        "syndrome": 1,
+        "ferritin": 1,
+        "interleukin-6": 1,
+        "efficacy": 1
+      }
+    },
+    "Favipiravir (RNA-dependent RNA polymerase inhibitor)": {
+      "term_count": 25,
+      "char_length": 609,
+      "top_terms": {
+        "sars-cov-2": 4,
+        "antiviral": 2,
+        "peer-reviewed": 2,
+        "available": 2,
+        "preliminary": 2,
+        "unpublished": 2,
+        "favipiravir": 2,
+        "lopinavir-ritonavir": 2,
+        "rna": 1,
+        "virus": 1,
+        "multiple": 1,
+        "clinical": 1,
+        "underway": 1,
+        "efficacy": 1,
+        "fewer": 1
+      }
+    },
+    "ICU infrastructure": {
+      "term_count": 49,
+      "char_length": 1470,
+      "top_terms": {
+        "aiirs": 4,
+        "icu": 3,
+        "covid-19": 2,
+        "airborne": 2,
+        "negative": 2,
+        "pressure": 2,
+        "especially": 2,
+        "aerosol-generating": 2,
+        "unavailable": 2,
+        "transmission": 2,
+        "health-care": 1,
+        "critically": 1,
+        "infection": 1,
+        "isolation": 1,
+        "aiir": 1,
+        "relative": 1,
+        "accessible": 1,
+        "sars": 1,
+        "outbreak": 1,
+        "singapore": 1
+      }
+    },
+    "ICU triage": {
+      "term_count": 37,
+      "char_length": 1352,
+      "top_terms": {
+        "icu": 4,
+        "covid-19": 3,
+        "critical": 2,
+        "intensive": 1,
+        "ethically": 1,
+        "emotionally": 1,
+        "regional": 1,
+        "national": 1,
+        "health-care": 1,
+        "clinical": 1,
+        "decision": 1,
+        "identify": 1,
+        "probability": 1,
+        "survival": 1,
+        "unlikely": 1,
+        "although": 1,
+        "physiological": 1,
+        "prediction": 1,
+        "accurately": 1,
+        "comorbidities": 1
+      }
+    },
+    "Research questions and methodology": {
+      "term_count": 111,
+      "char_length": 3240,
+      "top_terms": {
+        "research": 5,
+        "covid-19": 4,
+        "international": 3,
+        "platform": 3,
+        "although": 3,
+        "preprints": 3,
+        "clinical": 2,
+        "experimental": 2,
+        "potential": 2,
+        "transmission": 2,
+        "icu": 2,
+        "protocol": 2,
+        "pre-approved": 2,
+        "sars-cov-2": 2,
+        "community-acquired": 2,
+        "pneumonia": 2,
+        "acute": 2,
+        "ebola": 2,
+        "registry": 1,
+        "repurposed": 1
+      }
+    },
+    "Conclusion": {
+      "term_count": 44,
+      "char_length": 1269,
+      "top_terms": {
+        "icu": 3,
+        "covid-19": 1,
+        "possibility": 1,
+        "containment": 1,
+        "mitigation": 1,
+        "sars-cov-2": 1,
+        "proportion": 1,
+        "critically": 1,
+        "community": 1,
+        "potentially": 1,
+        "optimise": 1,
+        "diagnosis": 1,
+        "isolation": 1,
+        "clinical": 1,
+        "management": 1,
+        "infection": 1,
+        "prevention": 1,
+        "hospital": 1,
+        "substantial": 1,
+        "increase": 1
+      }
+    },
+    "Contributors": {
+      "term_count": 6,
+      "char_length": 215,
+      "top_terms": {
+        "manuscript": 3,
+        "literature": 1,
+        "jp": 1,
+        "subsequently": 1
+      }
+    },
+    "Search strategy and selection criteria": {
+      "term_count": 33,
+      "char_length": 1010,
+      "top_terms": {
+        "covid-19": 3,
+        "respiratory": 3,
+        "syndrome": 3,
+        "acute": 2,
+        "intensive": 2,
+        "management": 2,
+        "pubmed": 1,
+        "coronavirus": 1,
+        "sars-cov-2": 1,
+        "ncov": 1,
+        "sars": 1,
+        "mers": 1,
+        "outbreak": 1,
+        "epidemic": 1,
+        "pandemic": 1,
+        "distress": 1,
+        "disease": 1,
+        "prevention": 1,
+        "personal": 1,
+        "relevant": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "intensive": {
+      "term_id": 744,
+      "frequency": 19,
+      "positions": [
+        0,
+        9,
+        34,
+        25,
+        115,
+        122,
+        25,
+        20,
+        3,
+        23,
+        31,
+        20,
+        25,
+        232,
+        35,
+        16,
+        131,
+        45,
+        121
+      ]
+    },
+    "management": {
+      "term_id": 385,
+      "frequency": 11,
+      "positions": [
+        2,
+        32,
+        59,
+        100,
+        97,
+        51,
+        27,
+        37,
+        75,
+        52,
+        128
+      ]
+    },
+    "coronavirus": {
+      "term_id": 93,
+      "frequency": 8,
+      "positions": [
+        4,
+        1,
+        0,
+        5,
+        3,
+        11,
+        105,
+        23
+      ]
+    },
+    "disease": {
+      "term_id": 8,
+      "frequency": 13,
+      "positions": [
+        5,
+        2,
+        1,
+        91,
+        4,
+        370,
+        373,
+        137,
+        250,
+        315,
+        179,
+        144,
+        63
+      ]
+    },
+    "covid-19": {
+      "term_id": 52480,
+      "frequency": 71,
+      "positions": [
+        6,
+        3,
+        43,
+        30,
+        71,
+        103,
+        6,
+        196,
+        212,
+        46,
+        273,
+        470,
+        481,
+        492,
+        521,
+        63,
+        7,
+        52,
+        7,
+        7,
+        8,
+        23,
+        15,
+        51,
+        140,
+        2,
+        40,
+        116,
+        131,
+        152,
+        15,
+        30,
+        58,
+        108,
+        191,
+        283,
+        39,
+        48,
+        66,
+        104,
+        4,
+        38,
+        0,
+        27,
+        43,
+        5,
+        35,
+        7,
+        9,
+        14,
+        34,
+        5,
+        102,
+        150,
+        167,
+        180,
+        81,
+        40,
+        101,
+        128,
+        5,
+        33,
+        77,
+        16,
+        5,
+        81,
+        124,
+        12,
+        24,
+        54,
+        130
+      ]
+    },
+    "icu": {
+      "term_id": 1399,
+      "frequency": 47,
+      "positions": [
+        12,
+        68,
+        110,
+        37,
+        86,
+        114,
+        166,
+        168,
+        179,
+        206,
+        28,
+        76,
+        112,
+        206,
+        253,
+        305,
+        459,
+        575,
+        4,
+        6,
+        1,
+        1,
+        211,
+        248,
+        43,
+        71,
+        136,
+        62,
+        116,
+        2,
+        16,
+        35,
+        185,
+        211,
+        4,
+        78,
+        1,
+        176,
+        43,
+        89,
+        114,
+        160,
+        90,
+        164,
+        49,
+        52,
+        88
+      ]
+    },
+    "community": {
+      "term_id": 200,
+      "frequency": 8,
+      "positions": [
+        13,
+        115,
+        512,
+        560,
+        274,
+        2,
+        53,
+        123
+      ]
+    },
+    "pandemic": {
+      "term_id": 291,
+      "frequency": 7,
+      "positions": [
+        22,
+        31,
+        23,
+        101,
+        84,
+        125,
+        39
+      ]
+    },
+    "diagnosis": {
+      "term_id": 325,
+      "frequency": 6,
+      "positions": [
+        28,
+        543,
+        0,
+        129,
+        288,
+        71
+      ]
+    },
+    "isolation": {
+      "term_id": 295,
+      "frequency": 7,
+      "positions": [
+        30,
+        114,
+        23,
+        43,
+        86,
+        116,
+        73
+      ]
+    },
+    "clinical": {
+      "term_id": 107,
+      "frequency": 18,
+      "positions": [
+        31,
+        0,
+        50,
+        430,
+        474,
+        548,
+        91,
+        204,
+        293,
+        79,
+        59,
+        169,
+        7,
+        11,
+        93,
+        6,
+        199,
+        74
+      ]
+    },
+    "infection": {
+      "term_id": 4,
+      "frequency": 12,
+      "positions": [
+        34,
+        6,
+        471,
+        599,
+        28,
+        25,
+        22,
+        21,
+        42,
+        166,
+        39,
+        77
+      ]
+    },
+    "prevention": {
+      "term_id": 324,
+      "frequency": 6,
+      "positions": [
+        35,
+        125,
+        26,
+        167,
+        78,
+        66
+      ]
+    },
+    "health-care": {
+      "term_id": 3001,
+      "frequency": 17,
+      "positions": [
+        47,
+        80,
+        183,
+        240,
+        19,
+        35,
+        102,
+        122,
+        204,
+        48,
+        173,
+        5,
+        70,
+        10,
+        110,
+        66,
+        104
+      ]
+    },
+    "nosocomial": {
+      "term_id": 1448,
+      "frequency": 8,
+      "positions": [
+        57,
+        157,
+        81,
+        16,
+        37,
+        219,
+        86,
+        107
+      ]
+    },
+    "transmission": {
+      "term_id": 240,
+      "frequency": 17,
+      "positions": [
+        58,
+        158,
+        513,
+        561,
+        82,
+        14,
+        12,
+        238,
+        275,
+        18,
+        145,
+        32,
+        38,
+        220,
+        80,
+        87,
+        108
+      ]
+    },
+    "acute": {
+      "term_id": 100,
+      "frequency": 17,
+      "positions": [
+        61,
+        18,
+        230,
+        237,
+        260,
+        498,
+        534,
+        597,
+        8,
+        183,
+        187,
+        257,
+        16,
+        35,
+        47,
+        28,
+        40
+      ]
+    },
+    "respiratory": {
+      "term_id": 91,
+      "frequency": 27,
+      "positions": [
+        62,
+        3,
+        19,
+        25,
+        116,
+        129,
+        232,
+        238,
+        345,
+        382,
+        499,
+        535,
+        598,
+        9,
+        21,
+        29,
+        21,
+        185,
+        175,
+        188,
+        258,
+        94,
+        17,
+        36,
+        29,
+        34,
+        41
+      ]
+    },
+    "haemodynamics": {
+      "term_id": 45920,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "hospital": {
+      "term_id": 60,
+      "frequency": 7,
+      "positions": [
+        70,
+        39,
+        78,
+        187,
+        92,
+        174,
+        79
+      ]
+    },
+    "substantial": {
+      "term_id": 776,
+      "frequency": 7,
+      "positions": [
+        80,
+        89,
+        565,
+        214,
+        199,
+        1,
+        94
+      ]
+    },
+    "increase": {
+      "term_id": 6,
+      "frequency": 10,
+      "positions": [
+        81,
+        152,
+        90,
+        196,
+        18,
+        167,
+        200,
+        2,
+        8,
+        95
+      ]
+    },
+    "critical": {
+      "term_id": 286,
+      "frequency": 15,
+      "positions": [
+        83,
+        101,
+        115,
+        160,
+        92,
+        129,
+        19,
+        51,
+        91,
+        108,
+        129,
+        202,
+        9,
+        45,
+        97
+      ]
+    },
+    "capacity": {
+      "term_id": 442,
+      "frequency": 10,
+      "positions": [
+        86,
+        180,
+        94,
+        20,
+        2,
+        212,
+        17,
+        205,
+        5,
+        100
+      ]
+    },
+    "infrastructure": {
+      "term_id": 1722,
+      "frequency": 2,
+      "positions": [
+        93,
+        147
+      ]
+    },
+    "unanswered": {
+      "term_id": 5215,
+      "frequency": 2,
+      "positions": [
+        118,
+        53
+      ]
+    },
+    "repurposed": {
+      "term_id": 13007,
+      "frequency": 3,
+      "positions": [
+        124,
+        72,
+        22
+      ]
+    },
+    "experimental": {
+      "term_id": 353,
+      "frequency": 5,
+      "positions": [
+        126,
+        74,
+        162,
+        24,
+        78
+      ]
+    },
+    "collaboration": {
+      "term_id": 1318,
+      "frequency": 3,
+      "positions": [
+        128,
+        28,
+        145
+      ]
+    },
+    "regional": {
+      "term_id": 1001,
+      "frequency": 5,
+      "positions": [
+        132,
+        15,
+        20,
+        63,
+        149
+      ]
+    },
+    "national": {
+      "term_id": 288,
+      "frequency": 5,
+      "positions": [
+        133,
+        13,
+        18,
+        65,
+        150
+      ]
+    },
+    "international": {
+      "term_id": 401,
+      "frequency": 6,
+      "positions": [
+        135,
+        157,
+        5,
+        33,
+        44,
+        152
+      ]
+    },
+    "survival": {
+      "term_id": 588,
+      "frequency": 3,
+      "positions": [
+        142,
+        108,
+        106
+      ]
+    },
+    "critically": {
+      "term_id": 1242,
+      "frequency": 13,
+      "positions": [
+        145,
+        53,
+        99,
+        208,
+        269,
+        74,
+        48,
+        4,
+        7,
+        146,
+        176,
+        59,
+        45
+      ]
+    },
+    "www": {
+      "term_id": 777,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "thelancet": {
+      "term_id": 26592,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "com": {
+      "term_id": 1024,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "online": {
+      "term_id": 873,
+      "frequency": 2,
+      "positions": [
+        5,
+        138
+      ]
+    },
+    "doi": {
+      "term_id": 1462,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "originally": {
+      "term_id": 1382,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "asia": {
+      "term_id": 977,
+      "frequency": 2,
+      "positions": [
+        15,
+        73
+      ]
+    },
+    "syndrome": {
+      "term_id": 85,
+      "frequency": 8,
+      "positions": [
+        20,
+        26,
+        240,
+        10,
+        4,
+        30,
+        35,
+        43
+      ]
+    },
+    "sars": {
+      "term_id": 292,
+      "frequency": 13,
+      "positions": [
+        21,
+        72,
+        27,
+        84,
+        2,
+        120,
+        43,
+        128,
+        105,
+        17,
+        74,
+        146,
+        31
+      ]
+    },
+    "mers": {
+      "term_id": 1415,
+      "frequency": 8,
+      "positions": [
+        27,
+        74,
+        46,
+        165,
+        111,
+        146,
+        99,
+        36
+      ]
+    },
+    "worldwide": {
+      "term_id": 541,
+      "frequency": 4,
+      "positions": [
+        33,
+        7,
+        562,
+        109
+      ]
+    },
+    "ments": {
+      "term_id": 19743,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "cumulative": {
+      "term_id": 1844,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "experience": {
+      "term_id": 132,
+      "frequency": 2,
+      "positions": [
+        64,
+        83
+      ]
+    },
+    "settings-and": {
+      "term_id": 461426,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "available": {
+      "term_id": 164,
+      "frequency": 16,
+      "positions": [
+        93,
+        601,
+        104,
+        214,
+        27,
+        178,
+        111,
+        244,
+        278,
+        68,
+        5,
+        61,
+        25,
+        33,
+        5,
+        5
+      ]
+    },
+    "literature": {
+      "term_id": 562,
+      "frequency": 3,
+      "positions": [
+        94,
+        45,
+        4
+      ]
+    },
+    "overview": {
+      "term_id": 938,
+      "frequency": 1,
+      "positions": [
+        109
+      ]
+    },
+    "ities": {
+      "term_id": 118978,
+      "frequency": 1,
+      "positions": [
+        123
+      ]
+    },
+    "fatality": {
+      "term_id": 1199,
+      "frequency": 4,
+      "positions": [
+        17,
+        41,
+        60,
+        64
+      ]
+    },
+    "comparison": {
+      "term_id": 135,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "epidemic": {
+      "term_id": 109,
+      "frequency": 2,
+      "positions": [
+        28,
+        38
+      ]
+    },
+    "november": {
+      "term_id": 1517,
+      "frequency": 2,
+      "positions": [
+        34,
+        55
+      ]
+    },
+    "outbreak": {
+      "term_id": 29,
+      "frequency": 14,
+      "positions": [
+        47,
+        323,
+        574,
+        21,
+        80,
+        129,
+        100,
+        75,
+        118,
+        168,
+        303,
+        179,
+        208,
+        37
+      ]
+    },
+    "undiagnosed": {
+      "term_id": 5258,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "contribute": {
+      "term_id": 86,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "denominator": {
+      "term_id": 6149,
+      "frequency": 1,
+      "positions": [
+        98
+      ]
+    },
+    "WHO-China": {
+      "term_id": 37627,
+      "frequency": 2,
+      "positions": [
+        104,
+        15
+      ]
+    },
+    "laboratory-confirmed": {
+      "term_id": 3064,
+      "frequency": 2,
+      "positions": [
+        108,
+        26
+      ]
+    },
+    "classified": {
+      "term_id": 804712,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "multiple": {
+      "term_id": 180,
+      "frequency": 7,
+      "positions": [
+        120,
+        156,
+        41,
+        49,
+        10,
+        168,
+        118
+      ]
+    },
+    "organ": {
+      "term_id": 192,
+      "frequency": 1,
+      "positions": [
+        121
+      ]
+    },
+    "dysfunction": {
+      "term_id": 1144,
+      "frequency": 5,
+      "positions": [
+        122,
+        59,
+        258,
+        38,
+        102
+      ]
+    },
+    "dyspnoea": {
+      "term_id": 6582,
+      "frequency": 2,
+      "positions": [
+        128,
+        180
+      ]
+    },
+    "saturation": {
+      "term_id": 2280,
+      "frequency": 1,
+      "positions": [
+        135
+      ]
+    },
+    "pressure": {
+      "term_id": 502,
+      "frequency": 3,
+      "positions": [
+        137,
+        30,
+        79
+      ]
+    },
+    "arterial": {
+      "term_id": 2593,
+      "frequency": 1,
+      "positions": [
+        139
+      ]
+    },
+    "fraction": {
+      "term_id": 420,
+      "frequency": 1,
+      "positions": [
+        142
+      ]
+    },
+    "pao": {
+      "term_id": 7807,
+      "frequency": 1,
+      "positions": [
+        146
+      ]
+    },
+    "fio": {
+      "term_id": 10000,
+      "frequency": 1,
+      "positions": [
+        147
+      ]
+    },
+    "mm": {
+      "term_id": 516,
+      "frequency": 1,
+      "positions": [
+        149
+      ]
+    },
+    "hg": {
+      "term_id": 3602,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    },
+    "dependent": {
+      "term_id": 531,
+      "frequency": 1,
+      "positions": [
+        171
+      ]
+    },
+    "severity": {
+      "term_id": 534,
+      "frequency": 2,
+      "positions": [
+        174,
+        377
+      ]
+    },
+    "italy": {
+      "term_id": 1372,
+      "frequency": 2,
+      "positions": [
+        186,
+        103
+      ]
+    },
+    "positive": {
+      "term_id": 140,
+      "frequency": 2,
+      "positions": [
+        203,
+        79
+      ]
+    },
+    "admission": {
+      "term_id": 574,
+      "frequency": 3,
+      "positions": [
+        207,
+        207,
+        68
+      ]
+    },
+    "comorbidities": {
+      "term_id": 2582,
+      "frequency": 3,
+      "positions": [
+        218,
+        365,
+        133
+      ]
+    },
+    "hypertension": {
+      "term_id": 1990,
+      "frequency": 2,
+      "positions": [
+        220,
+        367
+      ]
+    },
+    "non-specific": {
+      "term_id": 2240,
+      "frequency": 3,
+      "positions": [
+        7,
+        175,
+        473
+      ]
+    },
+    "distinguish": {
+      "term_id": 491,
+      "frequency": 2,
+      "positions": [
+        12,
+        479
+      ]
+    },
+    "community-acquired": {
+      "term_id": 2116,
+      "frequency": 4,
+      "positions": [
+        19,
+        487,
+        229,
+        238
+      ]
+    },
+    "pneumonia": {
+      "term_id": 342,
+      "frequency": 8,
+      "positions": [
+        20,
+        191,
+        488,
+        15,
+        207,
+        25,
+        230,
+        239
+      ]
+    },
+    "increasingly": {
+      "term_id": 1018,
+      "frequency": 3,
+      "positions": [
+        31,
+        578,
+        97
+      ]
+    },
+    "suspicion": {
+      "term_id": 2425,
+      "frequency": 2,
+      "positions": [
+        37,
+        584
+      ]
+    },
+    "threshold": {
+      "term_id": 850,
+      "frequency": 2,
+      "positions": [
+        41,
+        588
+      ]
+    },
+    "diagnostic": {
+      "term_id": 430,
+      "frequency": 3,
+      "positions": [
+        43,
+        590,
+        57
+      ]
+    },
+    "significance": {
+      "term_id": 552,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "myocardial": {
+      "term_id": 2679,
+      "frequency": 5,
+      "positions": [
+        58,
+        257,
+        37,
+        90,
+        101
+      ]
+    },
+    "non-invasive": {
+      "term_id": 4736,
+      "frequency": 2,
+      "positions": [
+        64,
+        32
+      ]
+    },
+    "ventilation": {
+      "term_id": 1243,
+      "frequency": 10,
+      "positions": [
+        65,
+        312,
+        33,
+        56,
+        5,
+        21,
+        200,
+        68,
+        80,
+        184
+      ]
+    },
+    "high-flow": {
+      "term_id": 16485,
+      "frequency": 2,
+      "positions": [
+        66,
+        36
+      ]
+    },
+    "addition": {
+      "term_id": 131,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "pre-existing": {
+      "term_id": 2911,
+      "frequency": 2,
+      "positions": [
+        111,
+        210
+      ]
+    },
+    "provision": {
+      "term_id": 1653,
+      "frequency": 5,
+      "positions": [
+        113,
+        5,
+        13,
+        230,
+        183
+      ]
+    },
+    "centralisation": {
+      "term_id": 79268,
+      "frequency": 2,
+      "positions": [
+        120,
+        268
+      ]
+    },
+    "insufficient": {
+      "term_id": 1388,
+      "frequency": 2,
+      "positions": [
+        140,
+        5
+      ]
+    },
+    "protection": {
+      "term_id": 422,
+      "frequency": 4,
+      "positions": [
+        155,
+        37,
+        52,
+        67
+      ]
+    },
+    "promotion": {
+      "term_id": 2249,
+      "frequency": 1,
+      "positions": [
+        160
+      ]
+    },
+    "wellbeing": {
+      "term_id": 7507,
+      "frequency": 1,
+      "positions": [
+        163
+      ]
+    },
+    "diabetes": {
+      "term_id": 1229,
+      "frequency": 3,
+      "positions": [
+        164,
+        368,
+        133
+      ]
+    },
+    "non-critically": {
+      "term_id": 125466,
+      "frequency": 1,
+      "positions": [
+        167
+      ]
+    },
+    "symptom": {
+      "term_id": 19,
+      "frequency": 7,
+      "positions": [
+        185,
+        200,
+        416,
+        427,
+        441,
+        527,
+        100
+      ]
+    },
+    "development": {
+      "term_id": 98,
+      "frequency": 1,
+      "positions": [
+        189
+      ]
+    },
+    "approximately": {
+      "term_id": 367,
+      "frequency": 3,
+      "positions": [
+        193,
+        209,
+        10
+      ]
+    },
+    "hypoxaemia": {
+      "term_id": 15211,
+      "frequency": 1,
+      "positions": [
+        204
+      ]
+    },
+    "bilateral": {
+      "term_id": 1970,
+      "frequency": 1,
+      "positions": [
+        214
+      ]
+    },
+    "radiograph": {
+      "term_id": 978,
+      "frequency": 1,
+      "positions": [
+        218
+      ]
+    },
+    "ct": {
+      "term_id": 1055,
+      "frequency": 3,
+      "positions": [
+        220,
+        222,
+        253
+      ]
+    },
+    "findings": {
+      "term_id": 701251,
+      "frequency": 3,
+      "positions": [
+        223,
+        41,
+        53
+      ]
+    },
+    "consolidation": {
+      "term_id": 2225,
+      "frequency": 2,
+      "positions": [
+        229,
+        30
+      ]
+    },
+    "hypoxaemic": {
+      "term_id": 39000,
+      "frequency": 2,
+      "positions": [
+        231,
+        184
+      ]
+    },
+    "distress": {
+      "term_id": 1039,
+      "frequency": 2,
+      "positions": [
+        239,
+        42
+      ]
+    },
+    "ards": {
+      "term_id": 2801,
+      "frequency": 8,
+      "positions": [
+        241,
+        145,
+        154,
+        209,
+        39,
+        98,
+        27,
+        141
+      ]
+    },
+    "complication": {
+      "term_id": 117,
+      "frequency": 1,
+      "positions": [
+        246
+      ]
+    },
+    "mortality": {
+      "term_id": 320,
+      "frequency": 16,
+      "positions": [
+        281,
+        324,
+        359,
+        142,
+        151,
+        178,
+        197,
+        33,
+        13,
+        33,
+        125,
+        150,
+        168,
+        13,
+        11,
+        151
+      ]
+    },
+    "wuhan": {
+      "term_id": 1692,
+      "frequency": 6,
+      "positions": [
+        285,
+        322,
+        97,
+        170,
+        80,
+        178
+      ]
+    },
+    "washington": {
+      "term_id": 2362,
+      "frequency": 1,
+      "positions": [
+        289
+      ]
+    },
+    "dc": {
+      "term_id": 398,
+      "frequency": 1,
+      "positions": [
+        290
+      ]
+    },
+    "usa": {
+      "term_id": 311,
+      "frequency": 1,
+      "positions": [
+        291
+      ]
+    },
+    "although": {
+      "term_id": 116,
+      "frequency": 18,
+      "positions": [
+        306,
+        396,
+        24,
+        55,
+        136,
+        166,
+        40,
+        95,
+        148,
+        86,
+        203,
+        22,
+        266,
+        23,
+        116,
+        17,
+        126,
+        158
+      ]
+    },
+    "invasive": {
+      "term_id": 1294,
+      "frequency": 3,
+      "positions": [
+        310,
+        198,
+        183
+      ]
+    },
+    "mechanical": {
+      "term_id": 1214,
+      "frequency": 3,
+      "positions": [
+        311,
+        4,
+        199
+      ]
+    },
+    "multicentre": {
+      "term_id": 3672,
+      "frequency": 1,
+      "positions": [
+        316
+      ]
+    },
+    "larger": {
+      "term_id": 583,
+      "frequency": 2,
+      "positions": [
+        331,
+        56
+      ]
+    },
+    "presumably": {
+      "term_id": 1447,
+      "frequency": 1,
+      "positions": [
+        349
+      ]
+    },
+    "fulminant": {
+      "term_id": 3557,
+      "frequency": 2,
+      "positions": [
+        351,
+        312
+      ]
+    },
+    "myocarditis": {
+      "term_id": 3493,
+      "frequency": 1,
+      "positions": [
+        352
+      ]
+    },
+    "cardiovascular": {
+      "term_id": 1527,
+      "frequency": 1,
+      "positions": [
+        369
+      ]
+    },
+    "chronic": {
+      "term_id": 424,
+      "frequency": 1,
+      "positions": [
+        371
+      ]
+    },
+    "d-dimer": {
+      "term_id": 48485,
+      "frequency": 2,
+      "positions": [
+        385,
+        135
+      ]
+    },
+    "c-reactive": {
+      "term_id": 68125,
+      "frequency": 2,
+      "positions": [
+        387,
+        137
+      ]
+    },
+    "protein": {
+      "term_id": 5,
+      "frequency": 3,
+      "positions": [
+        388,
+        54,
+        138
+      ]
+    },
+    "lymphocyte": {
+      "term_id": 80,
+      "frequency": 2,
+      "positions": [
+        391,
+        142
+      ]
+    },
+    "secondary": {
+      "term_id": 381,
+      "frequency": 3,
+      "positions": [
+        394,
+        170,
+        11
+      ]
+    },
+    "recovery": {
+      "term_id": 714,
+      "frequency": 3,
+      "positions": [
+        431,
+        80,
+        31
+      ]
+    },
+    "prediction": {
+      "term_id": 553,
+      "frequency": 2,
+      "positions": [
+        434,
+        120
+      ]
+    },
+    "trajectory": {
+      "term_id": 2502,
+      "frequency": 1,
+      "positions": [
+        437
+      ]
+    },
+    "difficult": {
+      "term_id": 439,
+      "frequency": 5,
+      "positions": [
+        444,
+        43,
+        146,
+        7,
+        125
+      ]
+    },
+    "prognostic": {
+      "term_id": 2268,
+      "frequency": 1,
+      "positions": [
+        446
+      ]
+    },
+    "biomarkers": {
+      "term_id": 2339,
+      "frequency": 1,
+      "positions": [
+        449
+      ]
+    },
+    "urgently": {
+      "term_id": 3093,
+      "frequency": 2,
+      "positions": [
+        451,
+        18
+      ]
+    },
+    "approach": {
+      "term_id": 46,
+      "frequency": 2,
+      "positions": [
+        457,
+        79
+      ]
+    },
+    "patient": {
+      "term_id": 2,
+      "frequency": 4,
+      "positions": [
+        467,
+        594,
+        90,
+        10
+      ]
+    },
+    "residence": {
+      "term_id": 3375,
+      "frequency": 2,
+      "positions": [
+        507,
+        269
+      ]
+    },
+    "location": {
+      "term_id": 337,
+      "frequency": 2,
+      "positions": [
+        510,
+        272
+      ]
+    },
+    "probable": {
+      "term_id": 1158,
+      "frequency": 2,
+      "positions": [
+        520,
+        282
+      ]
+    },
+    "hospitalisation": {
+      "term_id": 3467,
+      "frequency": 1,
+      "positions": [
+        539
+      ]
+    },
+    "alternative": {
+      "term_id": 413,
+      "frequency": 3,
+      "positions": [
+        542,
+        287,
+        17
+      ]
+    },
+    "presentation": {
+      "term_id": 152,
+      "frequency": 2,
+      "positions": [
+        549,
+        294
+      ]
+    },
+    "exponential": {
+      "term_id": 3048,
+      "frequency": 1,
+      "positions": [
+        552
+      ]
+    },
+    "rt-pcr": {
+      "term_id": 338541,
+      "frequency": 4,
+      "positions": [
+        4,
+        70,
+        94,
+        84
+      ]
+    },
+    "sars-cov-2": {
+      "term_id": 508202,
+      "frequency": 30,
+      "positions": [
+        12,
+        62,
+        52,
+        1,
+        267,
+        280,
+        14,
+        28,
+        62,
+        70,
+        21,
+        1,
+        21,
+        7,
+        63,
+        19,
+        27,
+        35,
+        7,
+        15,
+        7,
+        7,
+        28,
+        81,
+        128,
+        16,
+        216,
+        105,
+        29,
+        25
+      ]
+    },
+    "negative": {
+      "term_id": 234,
+      "frequency": 5,
+      "positions": [
+        19,
+        88,
+        83,
+        29,
+        78
+      ]
+    },
+    "sampling": {
+      "term_id": 10408,
+      "frequency": 2,
+      "positions": [
+        25,
+        80
+      ]
+    },
+    "endotracheal": {
+      "term_id": 3980,
+      "frequency": 2,
+      "positions": [
+        40,
+        102
+      ]
+    },
+    "potentially": {
+      "term_id": 444,
+      "frequency": 5,
+      "positions": [
+        44,
+        18,
+        293,
+        37,
+        59
+      ]
+    },
+    "generate": {
+      "term_id": 44,
+      "frequency": 2,
+      "positions": [
+        45,
+        94
+      ]
+    },
+    "airborne": {
+      "term_id": 1765,
+      "frequency": 4,
+      "positions": [
+        53,
+        218,
+        21,
+        31
+      ]
+    },
+    "bronchoalveolar": {
+      "term_id": 2099,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "sensitivity": {
+      "term_id": 414,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "currently": {
+      "term_id": 380,
+      "frequency": 2,
+      "positions": [
+        77,
+        57
+      ]
+    },
+    "suspicious": {
+      "term_id": 6035,
+      "frequency": 1,
+      "positions": [
+        90
+      ]
+    },
+    "importantly": {
+      "term_id": 955,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "unavailable": {
+      "term_id": 3587,
+      "frequency": 3,
+      "positions": [
+        98,
+        91,
+        5
+      ]
+    },
+    "meanwhile": {
+      "term_id": 2421,
+      "frequency": 1,
+      "positions": [
+        110
+      ]
+    },
+    "serological": {
+      "term_id": 1075,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "specific": {
+      "term_id": 118,
+      "frequency": 3,
+      "positions": [
+        0,
+        224,
+        39
+      ]
+    },
+    "supportive": {
+      "term_id": 1788,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "evidence": {
+      "term_id": 127,
+      "frequency": 6,
+      "positions": [
+        17,
+        168,
+        103,
+        21,
+        114,
+        25
+      ]
+    },
+    "viral": {
+      "term_id": 92,
+      "frequency": 13,
+      "positions": [
+        20,
+        13,
+        67,
+        142,
+        71,
+        136,
+        154,
+        185,
+        237,
+        89,
+        28,
+        57,
+        79
+      ]
+    },
+    "niv": {
+      "term_id": 8278,
+      "frequency": 8,
+      "positions": [
+        34,
+        77,
+        91,
+        137,
+        199,
+        226,
+        63,
+        71
+      ]
+    },
+    "one-third": {
+      "term_id": 3006,
+      "frequency": 2,
+      "positions": [
+        44,
+        46
+      ]
+    },
+    "two-thirds": {
+      "term_id": 3804,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "generation": {
+      "term_id": 459,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "epidemiological": {
+      "term_id": 598,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "laboratory": {
+      "term_id": 70,
+      "frequency": 3,
+      "positions": [
+        87,
+        128,
+        104
+      ]
+    },
+    "questionable": {
+      "term_id": 4441,
+      "frequency": 1,
+      "positions": [
+        103
+      ]
+    },
+    "moreover": {
+      "term_id": 461,
+      "frequency": 1,
+      "positions": [
+        135
+      ]
+    },
+    "intubation": {
+      "term_id": 2521,
+      "frequency": 7,
+      "positions": [
+        140,
+        174,
+        188,
+        228,
+        3,
+        19,
+        62
+      ]
+    },
+    "moderateto-severe": {
+      "term_id": 101621,
+      "frequency": 1,
+      "positions": [
+        153
+      ]
+    },
+    "unselected": {
+      "term_id": 11932,
+      "frequency": 1,
+      "positions": [
+        180
+      ]
+    },
+    "consequence": {
+      "term_id": 248,
+      "frequency": 1,
+      "positions": [
+        191
+      ]
+    },
+    "monitoring": {
+      "term_id": 339815,
+      "frequency": 1,
+      "positions": [
+        217
+      ]
+    },
+    "preferably": {
+      "term_id": 3724,
+      "frequency": 3,
+      "positions": [
+        221,
+        42,
+        19
+      ]
+    },
+    "deterioration": {
+      "term_id": 2642,
+      "frequency": 1,
+      "positions": [
+        233
+      ]
+    },
+    "healthcare": {
+      "term_id": 736,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "operator": {
+      "term_id": 2194,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "personal": {
+      "term_id": 829,
+      "frequency": 2,
+      "positions": [
+        34,
+        75
+      ]
+    },
+    "protective": {
+      "term_id": 525,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "equipment": {
+      "term_id": 1056,
+      "frequency": 6,
+      "positions": [
+        36,
+        5,
+        87,
+        16,
+        34,
+        38
+      ]
+    },
+    "ppe": {
+      "term_id": 3926,
+      "frequency": 8,
+      "positions": [
+        37,
+        51,
+        33,
+        137,
+        210,
+        220,
+        230,
+        50
+      ]
+    },
+    "necessary": {
+      "term_id": 368,
+      "frequency": 3,
+      "positions": [
+        40,
+        36,
+        33
+      ]
+    },
+    "preparation": {
+      "term_id": 304,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "exposure": {
+      "term_id": 233,
+      "frequency": 6,
+      "positions": [
+        54,
+        13,
+        39,
+        49,
+        63,
+        99
+      ]
+    },
+    "bagmask": {
+      "term_id": 513186,
+      "frequency": 2,
+      "positions": [
+        55,
+        67
+      ]
+    },
+    "pre-oxygenation": {
+      "term_id": 224389,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "exhalation": {
+      "term_id": 10942,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "sequence": {
+      "term_id": 9,
+      "frequency": 1,
+      "positions": [
+        80
+      ]
+    },
+    "induction": {
+      "term_id": 582,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "end-tidal": {
+      "term_id": 48662,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "detection": {
+      "term_id": 171,
+      "frequency": 2,
+      "positions": [
+        91,
+        88
+      ]
+    },
+    "observation": {
+      "term_id": 126,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "placement": {
+      "term_id": 2936,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "post-intubation": {
+      "term_id": 168804,
+      "frequency": 1,
+      "positions": [
+        111
+      ]
+    },
+    "aerosolisation": {
+      "term_id": 42217,
+      "frequency": 1,
+      "positions": [
+        114
+      ]
+    },
+    "avoidance": {
+      "term_id": 3223,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "ventilator-induced": {
+      "term_id": 24882,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "exchange": {
+      "term_id": 852,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "lung-protective": {
+      "term_id": 36675,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "association": {
+      "term_id": 134,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "shortage": {
+      "term_id": 2232,
+      "frequency": 2,
+      "positions": [
+        2,
+        149
+      ]
+    },
+    "consider": {
+      "term_id": 21,
+      "frequency": 5,
+      "positions": [
+        13,
+        0,
+        5,
+        29,
+        56
+      ]
+    },
+    "manufacturer-designated": {
+      "term_id": 436024,
+      "frequency": 2,
+      "positions": [
+        21,
+        162
+      ]
+    },
+    "N95": {
+      "term_id": 4299,
+      "frequency": 3,
+      "positions": [
+        24,
+        74,
+        108
+      ]
+    },
+    "self-contamination": {
+      "term_id": 47355,
+      "frequency": 2,
+      "positions": [
+        45,
+        217
+      ]
+    },
+    "implement": {
+      "term_id": 278,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "low-income": {
+      "term_id": 5908,
+      "frequency": 4,
+      "positions": [
+        0,
+        139,
+        59,
+        122
+      ]
+    },
+    "middle-income": {
+      "term_id": 6886,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "highincome": {
+      "term_id": 39001,
+      "frequency": 2,
+      "positions": [
+        12,
+        79
+      ]
+    },
+    "appropriate": {
+      "term_id": 389,
+      "frequency": 2,
+      "positions": [
+        8,
+        15
+      ]
+    },
+    "eg": {
+      "term_id": 2082,
+      "frequency": 4,
+      "positions": [
+        6,
+        22,
+        17,
+        17
+      ]
+    },
+    "consumables": {
+      "term_id": 19169,
+      "frequency": 2,
+      "positions": [
+        8,
+        19
+      ]
+    },
+    "attention": {
+      "term_id": 707,
+      "frequency": 2,
+      "positions": [
+        2,
+        139
+      ]
+    },
+    "logistical": {
+      "term_id": 6002,
+      "frequency": 2,
+      "positions": [
+        4,
+        129
+      ]
+    },
+    "elective": {
+      "term_id": 4497,
+      "frequency": 2,
+      "positions": [
+        25,
+        60
+      ]
+    },
+    "transport": {
+      "term_id": 363,
+      "frequency": 2,
+      "positions": [
+        6,
+        46
+      ]
+    },
+    "theatre": {
+      "term_id": 9677,
+      "frequency": 2,
+      "positions": [
+        8,
+        48
+      ]
+    },
+    "military": {
+      "term_id": 2315,
+      "frequency": 2,
+      "positions": [
+        10,
+        50
+      ]
+    },
+    "workload": {
+      "term_id": 5714,
+      "frequency": 2,
+      "positions": [
+        5,
+        140
+      ]
+    },
+    "augmentation": {
+      "term_id": 4650,
+      "frequency": 2,
+      "positions": [
+        3,
+        12
+      ]
+    },
+    "non-ICU": {
+      "term_id": 19426,
+      "frequency": 2,
+      "positions": [
+        10,
+        22
+      ]
+    },
+    "training": {
+      "term_id": 15879,
+      "frequency": 3,
+      "positions": [
+        16,
+        221,
+        27
+      ]
+    },
+    "quarantine": {
+      "term_id": 940,
+      "frequency": 2,
+      "positions": [
+        10,
+        84
+      ]
+    },
+    "unprotected": {
+      "term_id": 6465,
+      "frequency": 3,
+      "positions": [
+        12,
+        38,
+        62
+      ]
+    },
+    "minimise": {
+      "term_id": 3899,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "segregation": {
+      "term_id": 4968,
+      "frequency": 2,
+      "positions": [
+        30,
+        57
+      ]
+    },
+    "physical": {
+      "term_id": 657,
+      "frequency": 3,
+      "positions": [
+        34,
+        85,
+        109
+      ]
+    },
+    "tendency": {
+      "term_id": 1862,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "peripheral": {
+      "term_id": 772,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "oxygenation": {
+      "term_id": 3610,
+      "frequency": 2,
+      "positions": [
+        80,
+        34
+      ]
+    },
+    "response": {
+      "term_id": 12,
+      "frequency": 2,
+      "positions": [
+        81,
+        205
+      ]
+    },
+    "veno-venous": {
+      "term_id": 54935,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "extracorporeal": {
+      "term_id": 5565,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "membrane": {
+      "term_id": 62,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "ation": {
+      "term_id": 14598,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "ecmo": {
+      "term_id": 8465,
+      "frequency": 4,
+      "positions": [
+        90,
+        152,
+        158,
+        108
+      ]
+    },
+    "decision": {
+      "term_id": 455,
+      "frequency": 2,
+      "positions": [
+        114,
+        94
+      ]
+    },
+    "fewer": {
+      "term_id": 1147,
+      "frequency": 2,
+      "positions": [
+        121,
+        13
+      ]
+    },
+    "requirement": {
+      "term_id": 254,
+      "frequency": 1,
+      "positions": [
+        128
+      ]
+    },
+    "preliminary": {
+      "term_id": 871,
+      "frequency": 3,
+      "positions": [
+        137,
+        8,
+        8
+      ]
+    },
+    "successfully": {
+      "term_id": 755,
+      "frequency": 1,
+      "positions": [
+        163
+      ]
+    },
+    "hypovolaemia": {
+      "term_id": 60148,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "anorexia": {
+      "term_id": 2861,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "vomiting": {
+      "term_id": 382537,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "diarrhoea": {
+      "term_id": 1690,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "nevertheless": {
+      "term_id": 802,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "cautiously": {
+      "term_id": 7930,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "pre-load": {
+      "term_id": 501704,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "responsiveness": {
+      "term_id": 2629,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "incidence": {
+      "term_id": 463,
+      "frequency": 3,
+      "positions": [
+        35,
+        42,
+        204
+      ]
+    },
+    "affinity": {
+      "term_id": 741,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "angiotensin": {
+      "term_id": 3127,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "enzyme": {
+      "term_id": 79,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "ace2": {
+      "term_id": 245299,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "membrane-bound": {
+      "term_id": 3637,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "receptor": {
+      "term_id": 33,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "cell": {
+      "term_id": 1,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "conservative": {
+      "term_id": 3114,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "strategy": {
+      "term_id": 41,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "involvement": {
+      "term_id": 709,
+      "frequency": 2,
+      "positions": [
+        91,
+        99
+      ]
+    },
+    "measurement": {
+      "term_id": 235,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "troponin": {
+      "term_id": 9141,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "echocardiography": {
+      "term_id": 7220,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "inotropes": {
+      "term_id": 30521,
+      "frequency": 1,
+      "positions": [
+        109
+      ]
+    },
+    "empirical": {
+      "term_id": 1733,
+      "frequency": 2,
+      "positions": [
+        121,
+        189
+      ]
+    },
+    "broad-spectrum": {
+      "term_id": 2309,
+      "frequency": 1,
+      "positions": [
+        122
+      ]
+    },
+    "oseltamivir": {
+      "term_id": 2698,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "bacterial": {
+      "term_id": 388,
+      "frequency": 1,
+      "positions": [
+        140
+      ]
+    },
+    "co-infection": {
+      "term_id": 2792,
+      "frequency": 1,
+      "positions": [
+        156
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 2,
+      "positions": [
+        159,
+        122
+      ]
+    },
+    "virus": {
+      "term_id": 3,
+      "frequency": 6,
+      "positions": [
+        160,
+        249,
+        314,
+        13,
+        9,
+        122
+      ]
+    },
+    "bacteria": {
+      "term_id": 495,
+      "frequency": 1,
+      "positions": [
+        164
+      ]
+    },
+    "coinfections": {
+      "term_id": 3767,
+      "frequency": 1,
+      "positions": [
+        171
+      ]
+    },
+    "co-infections": {
+      "term_id": 3946,
+      "frequency": 1,
+      "positions": [
+        185
+      ]
+    },
+    "influenza": {
+      "term_id": 221,
+      "frequency": 3,
+      "positions": [
+        187,
+        173,
+        23
+      ]
+    },
+    "antibiotic": {
+      "term_id": 83,
+      "frequency": 1,
+      "positions": [
+        190
+      ]
+    },
+    "anti-influenza": {
+      "term_id": 5455,
+      "frequency": 1,
+      "positions": [
+        192
+      ]
+    },
+    "therapy": {
+      "term_id": 122,
+      "frequency": 2,
+      "positions": [
+        193,
+        2
+      ]
+    },
+    "de-escalated": {
+      "term_id": 94440,
+      "frequency": 1,
+      "positions": [
+        197
+      ]
+    },
+    "microbiology": {
+      "term_id": 867,
+      "frequency": 1,
+      "positions": [
+        200
+      ]
+    },
+    "systemic": {
+      "term_id": 654,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "retrospective": {
+      "term_id": 969,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "methylprednisolone": {
+      "term_id": 4659,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "observational": {
+      "term_id": 1762,
+      "frequency": 4,
+      "positions": [
+        46,
+        115,
+        140,
+        160
+      ]
+    },
+    "possible": {
+      "term_id": 136,
+      "frequency": 6,
+      "positions": [
+        55,
+        127,
+        172,
+        50,
+        9,
+        51
+      ]
+    },
+    "confounders": {
+      "term_id": 7557,
+      "frequency": 2,
+      "positions": [
+        56,
+        51
+      ]
+    },
+    "cytokine": {
+      "term_id": 69,
+      "frequency": 3,
+      "positions": [
+        64,
+        2,
+        9
+      ]
+    },
+    "immunosuppression": {
+      "term_id": 1776,
+      "frequency": 2,
+      "positions": [
+        73,
+        99
+      ]
+    },
+    "beneficial": {
+      "term_id": 1085,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "hyperinflammation": {
+      "term_id": 37221,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "ferritin": {
+      "term_id": 7904,
+      "frequency": 2,
+      "positions": [
+        93,
+        13
+      ]
+    },
+    "unproven": {
+      "term_id": 8536,
+      "frequency": 2,
+      "positions": [
+        101,
+        95
+      ]
+    },
+    "systematic": {
+      "term_id": 674,
+      "frequency": 3,
+      "positions": [
+        112,
+        157,
+        184
+      ]
+    },
+    "avascular": {
+      "term_id": 13180,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "necrosis": {
+      "term_id": 958,
+      "frequency": 1,
+      "positions": [
+        131
+      ]
+    },
+    "psychosis": {
+      "term_id": 10776,
+      "frequency": 1,
+      "positions": [
+        132
+      ]
+    },
+    "clearance": {
+      "term_id": 1095,
+      "frequency": 3,
+      "positions": [
+        137,
+        155,
+        29
+      ]
+    },
+    "similarly": {
+      "term_id": 522,
+      "frequency": 1,
+      "positions": [
+        138
+      ]
+    },
+    "cortico": {
+      "term_id": 122769,
+      "frequency": 1,
+      "positions": [
+        164
+      ]
+    },
+    "liberation": {
+      "term_id": 9781,
+      "frequency": 1,
+      "positions": [
+        196
+      ]
+    },
+    "ventilator-associated": {
+      "term_id": 7775,
+      "frequency": 1,
+      "positions": [
+        206
+      ]
+    },
+    "premature": {
+      "term_id": 2148,
+      "frequency": 1,
+      "positions": [
+        220
+      ]
+    },
+    "extubation": {
+      "term_id": 11510,
+      "frequency": 1,
+      "positions": [
+        221
+      ]
+    },
+    "especially": {
+      "term_id": 316,
+      "frequency": 5,
+      "positions": [
+        222,
+        10,
+        44,
+        43,
+        115
+      ]
+    },
+    "facilitative": {
+      "term_id": 63879,
+      "frequency": 1,
+      "positions": [
+        224
+      ]
+    },
+    "post-extubation": {
+      "term_id": 82906,
+      "frequency": 1,
+      "positions": [
+        225
+      ]
+    },
+    "subsequent": {
+      "term_id": 384,
+      "frequency": 1,
+      "positions": [
+        230
+      ]
+    },
+    "re-intubation": {
+      "term_id": 93277,
+      "frequency": 1,
+      "positions": [
+        231
+      ]
+    },
+    "attendant": {
+      "term_id": 5353,
+      "frequency": 1,
+      "positions": [
+        234
+      ]
+    },
+    "transfer": {
+      "term_id": 179,
+      "frequency": 3,
+      "positions": [
+        242,
+        258,
+        288
+      ]
+    },
+    "following": {
+      "term_id": 37934,
+      "frequency": 1,
+      "positions": [
+        264
+      ]
+    },
+    "spreading": {
+      "term_id": 851431,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "point-of-care": {
+      "term_id": 4881,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "ultrasound": {
+      "term_id": 3257,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "interstitial": {
+      "term_id": 1908,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "ultrasonography": {
+      "term_id": 6325,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "understand": {
+      "term_id": 56,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "de-isolation": {
+      "term_id": 149009,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "shedding": {
+      "term_id": 356967,
+      "frequency": 1,
+      "positions": [
+        90
+      ]
+    },
+    "significant": {
+      "term_id": 138,
+      "frequency": 3,
+      "positions": [
+        108,
+        128,
+        12
+      ]
+    },
+    "previously": {
+      "term_id": 201,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "sars-cov": {
+      "term_id": 201196,
+      "frequency": 6,
+      "positions": [
+        12,
+        270,
+        12,
+        60,
+        21,
+        67
+      ]
+    },
+    "MERS-CoV-have": {
+      "term_id": 412174,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "empirically": {
+      "term_id": 3746,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "investigation": {
+      "term_id": 148,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "traditional": {
+      "term_id": 861,
+      "frequency": 2,
+      "positions": [
+        23,
+        183
+      ]
+    },
+    "admittedly": {
+      "term_id": 16264,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "efficacy": {
+      "term_id": 498,
+      "frequency": 4,
+      "positions": [
+        30,
+        118,
+        23,
+        3
+      ]
+    },
+    "MERS-are": {
+      "term_id": 807304,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "parallel": {
+      "term_id": 804,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "enthusiasm": {
+      "term_id": 9195,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "scientific": {
+      "term_id": 681,
+      "frequency": 2,
+      "positions": [
+        75,
+        94
+      ]
+    },
+    "ebola": {
+      "term_id": 1023,
+      "frequency": 5,
+      "positions": [
+        79,
+        248,
+        313,
+        144,
+        191
+      ]
+    },
+    "exceptional": {
+      "term_id": 4456,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "ethically": {
+      "term_id": 11080,
+      "frequency": 3,
+      "positions": [
+        91,
+        49,
+        124
+      ]
+    },
+    "acceptable": {
+      "term_id": 1888,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "potential": {
+      "term_id": 102,
+      "frequency": 3,
+      "positions": [
+        122,
+        48,
+        171
+      ]
+    },
+    "treatment": {
+      "term_id": 66,
+      "frequency": 1,
+      "positions": [
+        123
+      ]
+    },
+    "ribavirin": {
+      "term_id": 2019,
+      "frequency": 1,
+      "positions": [
+        131
+      ]
+    },
+    "subsequently": {
+      "term_id": 501,
+      "frequency": 2,
+      "positions": [
+        137,
+        27
+      ]
+    },
+    "ineffective": {
+      "term_id": 2271,
+      "frequency": 1,
+      "positions": [
+        143
+      ]
+    },
+    "guidance": {
+      "term_id": 1326,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    },
+    "extremely": {
+      "term_id": 923,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "transmissible": {
+      "term_id": 1239,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "aerosol-generating": {
+      "term_id": 9293,
+      "frequency": 3,
+      "positions": [
+        59,
+        46,
+        45
+      ]
+    },
+    "tracheal": {
+      "term_id": 2354,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "tracheostomy": {
+      "term_id": 8436,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "cardiopulmonary": {
+      "term_id": 4144,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "resuscitation": {
+      "term_id": 4277,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "bronchoscopy": {
+      "term_id": 4366,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "resistant": {
+      "term_id": 780,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "additional": {
+      "term_id": 270,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "air-purifying": {
+      "term_id": 15477,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "paprs": {
+      "term_id": 28888,
+      "frequency": 2,
+      "positions": [
+        98,
+        116
+      ]
+    },
+    "contamination": {
+      "term_id": 965,
+      "frequency": 2,
+      "positions": [
+        120,
+        79
+      ]
+    },
+    "regularly": {
+      "term_id": 1977,
+      "frequency": 2,
+      "positions": [
+        177,
+        63
+      ]
+    },
+    "reusable": {
+      "term_id": 9458,
+      "frequency": 1,
+      "positions": [
+        186
+      ]
+    },
+    "high-efficiency": {
+      "term_id": 8959,
+      "frequency": 1,
+      "positions": [
+        189
+      ]
+    },
+    "particulate": {
+      "term_id": 2482,
+      "frequency": 1,
+      "positions": [
+        190
+      ]
+    },
+    "hepa": {
+      "term_id": 7579,
+      "frequency": 2,
+      "positions": [
+        192,
+        62
+      ]
+    },
+    "together": {
+      "term_id": 365,
+      "frequency": 1,
+      "positions": [
+        231
+      ]
+    },
+    "cleansing": {
+      "term_id": 398236,
+      "frequency": 1,
+      "positions": [
+        234
+      ]
+    },
+    "efficacious": {
+      "term_id": 2596,
+      "frequency": 1,
+      "positions": [
+        246
+      ]
+    },
+    "investigational": {
+      "term_id": 5023,
+      "frequency": 1,
+      "positions": [
+        254
+      ]
+    },
+    "superior": {
+      "term_id": 1539,
+      "frequency": 1,
+      "positions": [
+        256
+      ]
+    },
+    "activity": {
+      "term_id": 28,
+      "frequency": 1,
+      "positions": [
+        257
+      ]
+    },
+    "lopinavirritonavir": {
+      "term_id": 83416,
+      "frequency": 1,
+      "positions": [
+        260
+      ]
+    },
+    "mers-cov": {
+      "term_id": 260633,
+      "frequency": 2,
+      "positions": [
+        264,
+        268
+      ]
+    },
+    "effectively": {
+      "term_id": 756,
+      "frequency": 1,
+      "positions": [
+        265
+      ]
+    },
+    "vitro": {
+      "term_id": 340,
+      "frequency": 3,
+      "positions": [
+        272,
+        7,
+        23
+      ]
+    },
+    "peer-reviewed": {
+      "term_id": 7180,
+      "frequency": 10,
+      "positions": [
+        274,
+        44,
+        64,
+        1,
+        57,
+        21,
+        29,
+        1,
+        1,
+        154
+      ]
+    },
+    "remdesivir": {
+      "term_id": 9229,
+      "frequency": 2,
+      "positions": [
+        290,
+        309
+      ]
+    },
+    "hypotension": {
+      "term_id": 4568,
+      "frequency": 1,
+      "positions": [
+        297
+      ]
+    },
+    "possibly": {
+      "term_id": 680,
+      "frequency": 1,
+      "positions": [
+        306
+      ]
+    },
+    "candidate": {
+      "term_id": 315,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "implementation": {
+      "term_id": 1013,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "combination": {
+      "term_id": 226,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "interferon": {
+      "term_id": 400,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "beta": {
+      "term_id": 1265,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "chloroquine": {
+      "term_id": 4347,
+      "frequency": 3,
+      "positions": [
+        10,
+        20,
+        18
+      ]
+    },
+    "briefing": {
+      "term_id": 16618,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "progression": {
+      "term_id": 783,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "in-vitro": {
+      "term_id": 7458,
+      "frequency": 2,
+      "positions": [
+        54,
+        16
+      ]
+    },
+    "antiviral": {
+      "term_id": 249,
+      "frequency": 3,
+      "positions": [
+        55,
+        4,
+        16
+      ]
+    },
+    "possibility": {
+      "term_id": 396,
+      "frequency": 4,
+      "positions": [
+        75,
+        12,
+        214,
+        19
+      ]
+    },
+    "qt": {
+      "term_id": 11096,
+      "frequency": 2,
+      "positions": [
+        77,
+        14
+      ]
+    },
+    "prolongation": {
+      "term_id": 7257,
+      "frequency": 2,
+      "positions": [
+        78,
+        15
+      ]
+    },
+    "non-randomised": {
+      "term_id": 42199,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "endpoint": {
+      "term_id": 1716,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "presence": {
+      "term_id": 195,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "hydroxychloroquine": {
+      "term_id": 8086,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "nasopharynx": {
+      "term_id": 3691,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "azithromycin": {
+      "term_id": 4320,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "polyclonal": {
+      "term_id": 1585,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "immunoglobulin": {
+      "term_id": 585,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "SAB-301": {
+      "term_id": 139419,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "reduction": {
+      "term_id": 321,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "improvement": {
+      "term_id": 469,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "imaging": {
+      "term_id": 156432,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "interleukin-6": {
+      "term_id": 4719,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "rna": {
+      "term_id": 55,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "underway": {
+      "term_id": 3591,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "unpublished": {
+      "term_id": 1651,
+      "frequency": 2,
+      "positions": [
+        9,
+        9
+      ]
+    },
+    "favipiravir": {
+      "term_id": 11108,
+      "frequency": 2,
+      "positions": [
+        19,
+        17
+      ]
+    },
+    "lopinavir-ritonavir": {
+      "term_id": 23478,
+      "frequency": 2,
+      "positions": [
+        22,
+        20
+      ]
+    },
+    "building": {
+      "term_id": 1060,
+      "frequency": 2,
+      "positions": [
+        0,
+        160
+      ]
+    },
+    "protocol": {
+      "term_id": 211,
+      "frequency": 3,
+      "positions": [
+        10,
+        188,
+        74
+      ]
+    },
+    "decontamination": {
+      "term_id": 4450,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "inanimate": {
+      "term_id": 8052,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "stainless": {
+      "term_id": 8176,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "specimen": {
+      "term_id": 58,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "environmental": {
+      "term_id": 597,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "furniture": {
+      "term_id": 14622,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "singapore": {
+      "term_id": 1761,
+      "frequency": 2,
+      "positions": [
+        96,
+        77
+      ]
+    },
+    "korea": {
+      "term_id": 1271,
+      "frequency": 1,
+      "positions": [
+        103
+      ]
+    },
+    "immediate": {
+      "term_id": 1126,
+      "frequency": 2,
+      "positions": [
+        117,
+        111
+      ]
+    },
+    "disposal": {
+      "term_id": 3846,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "faecally": {
+      "term_id": 75297,
+      "frequency": 1,
+      "positions": [
+        132
+      ]
+    },
+    "imminently": {
+      "term_id": 72615,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    },
+    "feasible": {
+      "term_id": 1542,
+      "frequency": 2,
+      "positions": [
+        153,
+        188
+      ]
+    },
+    "conferencing": {
+      "term_id": 33522,
+      "frequency": 1,
+      "positions": [
+        155
+      ]
+    },
+    "communication": {
+      "term_id": 626,
+      "frequency": 2,
+      "positions": [
+        166,
+        172
+      ]
+    },
+    "aiir": {
+      "term_id": 54673,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "relative": {
+      "term_id": 333,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "accessible": {
+      "term_id": 1717,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "aiirs": {
+      "term_id": 70846,
+      "frequency": 4,
+      "positions": [
+        65,
+        71,
+        89,
+        134
+      ]
+    },
+    "mounting": {
+      "term_id": 761915,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "industrial": {
+      "term_id": 2163,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "adequately": {
+      "term_id": 2310,
+      "frequency": 1,
+      "positions": [
+        97
+      ]
+    },
+    "generally": {
+      "term_id": 429,
+      "frequency": 1,
+      "positions": [
+        136
+      ]
+    },
+    "lowest": {
+      "term_id": 1377,
+      "frequency": 1,
+      "positions": [
+        137
+      ]
+    },
+    "cohorting": {
+      "term_id": 9437,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "non-intubated": {
+      "term_id": 51520,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "preservation": {
+      "term_id": 3300,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "population": {
+      "term_id": 35,
+      "frequency": 4,
+      "positions": [
+        55,
+        95,
+        112,
+        133
+      ]
+    },
+    "lower-middle-income": {
+      "term_id": 126521,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "high-income": {
+      "term_id": 8598,
+      "frequency": 2,
+      "positions": [
+        70,
+        105
+      ]
+    },
+    "analysis": {
+      "term_id": 90,
+      "frequency": 2,
+      "positions": [
+        76,
+        137
+      ]
+    },
+    "europe": {
+      "term_id": 812,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "upper-middle-income": {
+      "term_id": 163271,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "initially": {
+      "term_id": 618,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "struggle": {
+      "term_id": 3569,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "contrast": {
+      "term_id": 262,
+      "frequency": 1,
+      "positions": [
+        120
+      ]
+    },
+    "uganda": {
+      "term_id": 4426,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "resource-limited": {
+      "term_id": 8627,
+      "frequency": 1,
+      "positions": [
+        142
+      ]
+    },
+    "high-dependency": {
+      "term_id": 80158,
+      "frequency": 1,
+      "positions": [
+        239
+      ]
+    },
+    "remodelled": {
+      "term_id": 81752,
+      "frequency": 1,
+      "positions": [
+        241
+      ]
+    },
+    "post-anaesthesia": {
+      "term_id": 466643,
+      "frequency": 1,
+      "positions": [
+        244
+      ]
+    },
+    "emergency": {
+      "term_id": 453,
+      "frequency": 1,
+      "positions": [
+        247
+      ]
+    },
+    "deployable": {
+      "term_id": 26024,
+      "frequency": 1,
+      "positions": [
+        250
+      ]
+    },
+    "expertise": {
+      "term_id": 2198,
+      "frequency": 1,
+      "positions": [
+        270
+      ]
+    },
+    "efficiency": {
+      "term_id": 547,
+      "frequency": 1,
+      "positions": [
+        277
+      ]
+    },
+    "inter-hospital": {
+      "term_id": 41005,
+      "frequency": 1,
+      "positions": [
+        287
+      ]
+    },
+    "sustainability": {
+      "term_id": 4885,
+      "frequency": 1,
+      "positions": [
+        290
+      ]
+    },
+    "scarcity": {
+      "term_id": 6798,
+      "frequency": 1,
+      "positions": [
+        298
+      ]
+    },
+    "availability": {
+      "term_id": 821,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "lower-acuity": {
+      "term_id": 294505,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "deescalation": {
+      "term_id": 50677,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "external": {
+      "term_id": 1143,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "app": {
+      "term_id": 6235,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "material": {
+      "term_id": 36,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "incredibly": {
+      "term_id": 17734,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "essential": {
+      "term_id": 317,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "manpower": {
+      "term_id": 10377,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "absenteeism": {
+      "term_id": 8544,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "rostering": {
+      "term_id": 132446,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "resultant": {
+      "term_id": 2555,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "separately": {
+      "term_id": 1487,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "important": {
+      "term_id": 106,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "vulnerable": {
+      "term_id": 1619,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "depression": {
+      "term_id": 2029,
+      "frequency": 1,
+      "positions": [
+        122
+      ]
+    },
+    "constant": {
+      "term_id": 749,
+      "frequency": 1,
+      "positions": [
+        132
+      ]
+    },
+    "high-risk": {
+      "term_id": 1557,
+      "frequency": 1,
+      "positions": [
+        145
+      ]
+    },
+    "post-traumatic": {
+      "term_id": 12949,
+      "frequency": 1,
+      "positions": [
+        152
+      ]
+    },
+    "disorder": {
+      "term_id": 88,
+      "frequency": 1,
+      "positions": [
+        154
+      ]
+    },
+    "reassure": {
+      "term_id": 6052,
+      "frequency": 1,
+      "positions": [
+        169
+      ]
+    },
+    "leadership": {
+      "term_id": 3545,
+      "frequency": 1,
+      "positions": [
+        177
+      ]
+    },
+    "limitation": {
+      "term_id": 264,
+      "frequency": 1,
+      "positions": [
+        178
+      ]
+    },
+    "multidisciplinary": {
+      "term_id": 3291,
+      "frequency": 1,
+      "positions": [
+        194
+      ]
+    },
+    "emotionally": {
+      "term_id": 16437,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "identify": {
+      "term_id": 11,
+      "frequency": 1,
+      "positions": [
+        98
+      ]
+    },
+    "probability": {
+      "term_id": 798,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "unlikely": {
+      "term_id": 1059,
+      "frequency": 1,
+      "positions": [
+        110
+      ]
+    },
+    "physiological": {
+      "term_id": 1121,
+      "frequency": 1,
+      "positions": [
+        118
+      ]
+    },
+    "accurately": {
+      "term_id": 1614,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "withdrawal": {
+      "term_id": 3868,
+      "frequency": 1,
+      "positions": [
+        154
+      ]
+    },
+    "life-sustaining": {
+      "term_id": 36754,
+      "frequency": 1,
+      "positions": [
+        156
+      ]
+    },
+    "noteworthy": {
+      "term_id": 2671,
+      "frequency": 1,
+      "positions": [
+        167
+      ]
+    },
+    "registry": {
+      "term_id": 2735,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "platform": {
+      "term_id": 537,
+      "frequency": 3,
+      "positions": [
+        9,
+        226,
+        234
+      ]
+    },
+    "therapeutic": {
+      "term_id": 197,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "research": {
+      "term_id": 130,
+      "frequency": 6,
+      "positions": [
+        39,
+        171,
+        186,
+        57,
+        86,
+        158
+      ]
+    },
+    "short-term": {
+      "term_id": 2092,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "long-term": {
+      "term_id": 782,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "effectiveness": {
+      "term_id": 796,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "baseline": {
+      "term_id": 1288,
+      "frequency": 1,
+      "positions": [
+        133
+      ]
+    },
+    "post-hoc": {
+      "term_id": 15017,
+      "frequency": 1,
+      "positions": [
+        136
+      ]
+    },
+    "non-COVID-19": {
+      "term_id": 38052,
+      "frequency": 1,
+      "positions": [
+        140
+      ]
+    },
+    "beta-interferon": {
+      "term_id": 102785,
+      "frequency": 1,
+      "positions": [
+        145
+      ]
+    },
+    "funding": {
+      "term_id": 193972,
+      "frequency": 1,
+      "positions": [
+        192
+      ]
+    },
+    "approval": {
+      "term_id": 1416,
+      "frequency": 1,
+      "positions": [
+        195
+      ]
+    },
+    "pre-approved": {
+      "term_id": 92183,
+      "frequency": 2,
+      "positions": [
+        201,
+        233
+      ]
+    },
+    "adaptable": {
+      "term_id": 7490,
+      "frequency": 1,
+      "positions": [
+        202
+      ]
+    },
+    "multi-factorial": {
+      "term_id": 23191,
+      "frequency": 1,
+      "positions": [
+        224
+      ]
+    },
+    "adaptive": {
+      "term_id": 1138,
+      "frequency": 1,
+      "positions": [
+        225
+      ]
+    },
+    "REMAP-CAP": {
+      "term_id": 326039,
+      "frequency": 1,
+      "positions": [
+        231
+      ]
+    },
+    "singlecentre": {
+      "term_id": 115873,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "underpowered": {
+      "term_id": 19853,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "meaningful": {
+      "term_id": 2808,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "opportunity": {
+      "term_id": 417,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "consortium": {
+      "term_id": 3296,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "isaric": {
+      "term_id": 54019,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "trialists": {
+      "term_id": 44899,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "infact": {
+      "term_id": 103550,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "H1N1": {
+      "term_id": 886,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "standardise": {
+      "term_id": 3666,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "collection": {
+      "term_id": 445,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "globally": {
+      "term_id": 1456,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "integrity": {
+      "term_id": 1479,
+      "frequency": 2,
+      "positions": [
+        98,
+        168
+      ]
+    },
+    "genetic": {
+      "term_id": 336,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "identification": {
+      "term_id": 216,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "preprints": {
+      "term_id": 30481,
+      "frequency": 3,
+      "positions": [
+        134,
+        152,
+        159
+      ]
+    },
+    "zika": {
+      "term_id": 2922,
+      "frequency": 1,
+      "positions": [
+        146
+      ]
+    },
+    "publication": {
+      "term_id": 655,
+      "frequency": 1,
+      "positions": [
+        155
+      ]
+    },
+    "knowledge": {
+      "term_id": 423,
+      "frequency": 1,
+      "positions": [
+        163
+      ]
+    },
+    "compromise": {
+      "term_id": 845,
+      "frequency": 1,
+      "positions": [
+        172
+      ]
+    },
+    "conventional": {
+      "term_id": 742,
+      "frequency": 1,
+      "positions": [
+        178
+      ]
+    },
+    "peerreview": {
+      "term_id": 109973,
+      "frequency": 1,
+      "positions": [
+        179
+      ]
+    },
+    "intervention": {
+      "term_id": 139,
+      "frequency": 1,
+      "positions": [
+        192
+      ]
+    },
+    "containment": {
+      "term_id": 1936,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "mitigation": {
+      "term_id": 3336,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "proportion": {
+      "term_id": 474,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "optimise": {
+      "term_id": 4433,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "exhaustion": {
+      "term_id": 6349,
+      "frequency": 1,
+      "positions": [
+        110
+      ]
+    },
+    "understood": {
+      "term_id": 921,
+      "frequency": 1,
+      "positions": [
+        143
+      ]
+    },
+    "highquality": {
+      "term_id": 21807,
+      "frequency": 1,
+      "positions": [
+        157
+      ]
+    },
+    "evidence-based": {
+      "term_id": 3075,
+      "frequency": 1,
+      "positions": [
+        159
+      ]
+    },
+    "practice": {
+      "term_id": 99,
+      "frequency": 1,
+      "positions": [
+        160
+      ]
+    },
+    "unprecedented": {
+      "term_id": 2518,
+      "frequency": 1,
+      "positions": [
+        173
+      ]
+    },
+    "manuscript": {
+      "term_id": 982,
+      "frequency": 3,
+      "positions": [
+        11,
+        24,
+        30
+      ]
+    },
+    "jp": {
+      "term_id": 2108,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "pubmed": {
+      "term_id": 3220,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "ncov": {
+      "term_id": 2517,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "relevant": {
+      "term_id": 520,
+      "frequency": 1,
+      "positions": [
+        80
+      ]
+    },
+    "reference": {
+      "term_id": 322,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "relevance": {
+      "term_id": 1068,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.640994",
+    "sections_count": 48
+  }
+}

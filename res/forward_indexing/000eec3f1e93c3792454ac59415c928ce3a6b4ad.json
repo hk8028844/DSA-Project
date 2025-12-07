@@ -1,0 +1,8641 @@
+{
+  "document_id": "000eec3f1e93c3792454ac59415c928ce3a6b4ad",
+  "source_type": "pdf_json",
+  "file_name": "000eec3f1e93c3792454ac59415c928ce3a6b4ad.json",
+  "total_terms": 2890,
+  "unique_terms": 832,
+  "sections": {
+    "title": {
+      "term_count": 5,
+      "char_length": 88,
+      "top_terms": {
+        "pneumonie": 1,
+        "virale": 1,
+        "viral": 1,
+        "pneumonia": 1,
+        "immunocompetent": 1
+      }
+    },
+    "abstract": {
+      "term_count": 176,
+      "char_length": 2958,
+      "top_terms": {
+        "le": 10,
+        "virus": 10,
+        "et": 4,
+        "coronavirus": 4,
+        "responsable": 4,
+        "diagnostic": 4,
+        "est": 4,
+        "respiratory": 4,
+        "sont": 3,
+        "influenza": 3,
+        "viral": 3,
+        "respiratoires": 2,
+        "comme": 2,
+        "respiratoire": 2,
+        "syncitial": 2,
+        "rhinovirus": 2,
+        "peuvent": 2,
+        "chez": 2,
+        "cmv": 2,
+        "difficile": 2
+      }
+    },
+    "Introduction": {
+      "term_count": 105,
+      "char_length": 1415,
+      "top_terms": {
+        "et": 7,
+        "sont": 5,
+        "virus": 5,
+        "est": 5,
+        "dans": 4,
+        "le": 4,
+        "ou": 3,
+        "diagnostic": 3,
+        "une": 3,
+        "infection": 3,
+        "parmi": 2,
+        "rhinovirus": 2,
+        "que": 2,
+        "prise": 2,
+        "relativement": 2,
+        "cette": 2,
+        "difficile": 2,
+        "pneumonies": 2,
+        "chez": 2,
+        "infectieuses": 1
+      }
+    },
+    "Épidémiologie": {
+      "term_count": 311,
+      "char_length": 4340,
+      "top_terms": {
+        "le": 23,
+        "est": 13,
+        "virus": 13,
+        "et": 11,
+        "dans": 9,
+        "du": 8,
+        "cmv": 7,
+        "infection": 6,
+        "une": 6,
+        "chez": 6,
+        "au": 6,
+        "ont": 5,
+        "adulte": 4,
+        "autres": 4,
+        "qui": 3,
+        "fait": 3,
+        "population": 3,
+        "avec": 3,
+        "origine": 3,
+        "pas": 3
+      }
+    },
+    "CMV et réanimation": {
+      "term_count": 137,
+      "char_length": 2068,
+      "top_terms": {
+        "une": 12,
+        "et": 7,
+        "le": 6,
+        "cmv": 6,
+        "ont": 4,
+        "infection": 4,
+        "comme": 3,
+        "dans": 3,
+        "existence": 3,
+        "totalement": 2,
+        "au": 2,
+        "sous-groupe": 2,
+        "ou": 2,
+        "avec": 2,
+        "leur": 2,
+        "sanguins": 2,
+        "respiratoires": 2,
+        "entre": 2,
+        "facteur": 2,
+        "autres": 2
+      }
+    },
+    "Signes cliniques et diagnostic positif": {
+      "term_count": 363,
+      "char_length": 5386,
+      "top_terms": {
+        "une": 20,
+        "le": 20,
+        "et": 20,
+        "est": 14,
+        "pneumonie": 8,
+        "virus": 7,
+        "dans": 7,
+        "du": 7,
+        "diagnostic": 7,
+        "HSV1": 7,
+        "virale": 6,
+        "cmv": 5,
+        "clinique": 5,
+        "pas": 5,
+        "peut": 5,
+        "heures": 5,
+        "ou": 4,
+        "que": 4,
+        "infiltrat": 4,
+        "avec": 4
+      }
+    },
+    "L'histologie.": {
+      "term_count": 56,
+      "char_length": 777,
+      "top_terms": {
+        "une": 4,
+        "du": 3,
+        "cette": 3,
+        "ou": 2,
+        "limite": 2,
+        "peut": 2,
+        "dans": 2,
+        "chez": 2,
+        "sont": 1,
+        "pathognomoniques": 1,
+        "infection": 1,
+        "cmv": 1,
+        "elles": 1,
+        "peuvent": 1,
+        "au": 1,
+        "niveau": 1,
+        "poumon": 1,
+        "oesophage": 1,
+        "foie": 1,
+        "le": 1
+      }
+    },
+    "Traitement": {
+      "term_count": 440,
+      "char_length": 6503,
+      "top_terms": {
+        "le": 24,
+        "est": 18,
+        "une": 16,
+        "il": 13,
+        "et": 12,
+        "traitement": 8,
+        "chez": 7,
+        "ont": 6,
+        "utilisation": 5,
+        "mg": 5,
+        "kg": 5,
+        "heures": 5,
+        "pas": 5,
+        "cette": 5,
+        "aciclovir": 5,
+        "sont": 4,
+        "ganciclovir": 4,
+        "dna": 4,
+        "administration": 4,
+        "dans": 4
+      }
+    },
+    "Prévention": {
+      "term_count": 35,
+      "char_length": 496,
+      "top_terms": {
+        "il": 2,
+        "et": 2,
+        "ou": 2,
+        "au": 2,
+        "existe": 1,
+        "pas": 1,
+        "mesure": 1,
+        "chez": 1,
+        "sujets": 1,
+        "revanche": 1,
+        "est": 1,
+        "importante": 1,
+        "certains": 1,
+        "notamment": 1,
+        "porteurs": 1,
+        "une": 1,
+        "maladie": 1,
+        "aplasie": 1,
+        "leur": 1,
+        "statut": 1
+      }
+    },
+    "Épidémiologie, facteurs de risque": {
+      "term_count": 87,
+      "char_length": 1032,
+      "top_terms": {
+        "est": 6,
+        "le": 5,
+        "et": 5,
+        "chez": 5,
+        "du": 4,
+        "virus": 3,
+        "varicelle": 3,
+        "adulte": 3,
+        "une": 3,
+        "zona": 2,
+        "vzv": 2,
+        "responsable": 2,
+        "enfant": 2,
+        "sujets": 2,
+        "adultes": 2,
+        "varicelleuse": 2,
+        "ubiquitaire": 1,
+        "strictement": 1,
+        "humain": 1,
+        "famille": 1
+      }
+    },
+    "Historique": {
+      "term_count": 141,
+      "char_length": 2117,
+      "top_terms": {
+        "le": 10,
+        "virus": 6,
+        "et": 5,
+        "une": 5,
+        "sous-type": 4,
+        "nouveau": 4,
+        "influenza": 3,
+        "hongkong": 3,
+        "H5N1": 3,
+        "responsable": 2,
+        "deux": 2,
+        "cette": 2,
+        "qui": 2,
+        "H2N2": 2,
+        "H3N2": 2,
+        "chez": 2,
+        "au": 2,
+        "furent": 2,
+        "ainsi": 2,
+        "du": 2
+      }
+    },
+    "Virus": {
+      "term_count": 26,
+      "char_length": 457,
+      "top_terms": {
+        "le": 4,
+        "virus": 3,
+        "deux": 2,
+        "et": 2,
+        "influenza": 1,
+        "huit": 1,
+        "chacun": 1,
+        "une": 1,
+        "peuvent": 1,
+        "partir": 1,
+        "grippaux": 1,
+        "produire": 1,
+        "nouveau": 1,
+        "capside": 1,
+        "est": 1,
+        "ou": 1,
+        "neuraminidase": 1,
+        "sont": 1,
+        "enveloppe": 1
+      }
+    },
+    "Épidémiologie et mode de transmission": {
+      "term_count": 71,
+      "char_length": 1230,
+      "top_terms": {
+        "du": 3,
+        "que": 2,
+        "le": 2,
+        "virus": 2,
+        "pas": 2,
+        "interhumaine": 2,
+        "une": 2,
+        "et": 2,
+        "seule": 2,
+        "ou": 2,
+        "tous": 2,
+        "ans": 2,
+        "exemple": 1,
+        "focalise": 1,
+        "ont": 1,
+        "responsables": 1,
+        "avec": 1,
+        "taux": 1,
+        "infection": 1,
+        "proche": 1
+      }
+    },
+    "Signes cliniques": {
+      "term_count": 124,
+      "char_length": 1679,
+      "top_terms": {
+        "une": 12,
+        "chez": 9,
+        "le": 8,
+        "et": 6,
+        "entre": 3,
+        "eux": 3,
+        "peut": 3,
+        "syndrome": 2,
+        "pneumonie": 2,
+        "avec": 2,
+        "vers": 2,
+        "ou": 2,
+        "du": 2,
+        "symptomatologie": 2,
+        "respiratoires": 2,
+        "affection": 2,
+        "toux": 2,
+        "reviendrons": 1,
+        "pas": 1,
+        "habituel": 1
+      }
+    },
+    "Métapneumovirus": {
+      "term_count": 48,
+      "char_length": 713,
+      "top_terms": {
+        "dans": 3,
+        "virus": 3,
+        "est": 2,
+        "respiratoire": 2,
+        "responsable": 2,
+        "le": 2,
+        "chez": 2,
+        "ensemble": 1,
+        "pneumonies": 1,
+        "communautaires": 1,
+        "adulte": 1,
+        "pathologie": 1,
+        "seulement": 1,
+        "deux": 1,
+        "couramment": 1,
+        "sont": 1,
+        "syncitial": 1,
+        "vrs": 1,
+        "parainfluenza": 1,
+        "et": 1
+      }
+    },
+    "Le virus": {
+      "term_count": 48,
+      "char_length": 591,
+      "top_terms": {
+        "du": 5,
+        "et": 3,
+        "ont": 3,
+        "le": 2,
+        "est": 2,
+        "coronavirus": 2,
+        "virus": 1,
+        "uniquement": 1,
+        "biologie": 1,
+        "appartient": 1,
+        "aux": 1,
+        "paramyxovirus": 1,
+        "comme": 1,
+        "vrs": 1,
+        "parainfluenza": 1,
+        "proche": 1,
+        "pneumovirus": 1,
+        "origine": 1,
+        "aviaire": 1,
+        "humain": 1
+      }
+    },
+    "Transmission": {
+      "term_count": 106,
+      "char_length": 1509,
+      "top_terms": {
+        "le": 6,
+        "que": 6,
+        "dans": 6,
+        "une": 6,
+        "ont": 4,
+        "et": 4,
+        "est": 3,
+        "du": 3,
+        "sars-cov": 2,
+        "voie": 2,
+        "sars": 2,
+        "avec": 2,
+        "ainsi": 2,
+        "proportion": 2,
+        "transmission": 2,
+        "kong": 2,
+        "transmet": 1,
+        "respiratoire": 1,
+        "gouttelettes": 1,
+        "patient": 1
+      }
+    },
+    "Clinique": {
+      "term_count": 80,
+      "char_length": 1247,
+      "top_terms": {
+        "une": 5,
+        "est": 5,
+        "le": 4,
+        "dans": 4,
+        "et": 4,
+        "peut": 3,
+        "chez": 3,
+        "semaine": 3,
+        "maladie": 2,
+        "du": 2,
+        "ont": 2,
+        "augmentation": 2,
+        "incubation": 1,
+        "avec": 1,
+        "signe": 1,
+        "clinique": 1,
+        "ensemble": 1,
+        "cependant": 1,
+        "absente": 1,
+        "symptomatologie": 1
+      }
+    },
+    "5.5.1.2.": {
+      "term_count": 14,
+      "char_length": 230,
+      "top_terms": {
+        "une": 2,
+        "radiologie": 1,
+        "radiographie": 1,
+        "est": 1,
+        "anormale": 1,
+        "dans": 1,
+        "typiquement": 1,
+        "radiologique": 1,
+        "qui": 1,
+        "deux": 1,
+        "progresse": 1,
+        "vers": 1,
+        "atteinte": 1
+      }
+    },
+    "Facteurs de gravité et pronostic": {
+      "term_count": 11,
+      "char_length": 186,
+      "top_terms": {
+        "taux": 2,
+        "kong": 1,
+        "sars": 1,
+        "permis": 1,
+        "individualiser": 1,
+        "trois": 1,
+        "facteurs": 1,
+        "pronostic": 1,
+        "ldh": 1,
+        "admission": 1
+      }
+    },
+    "Diagnostic": {
+      "term_count": 8,
+      "char_length": 141,
+      "top_terms": {
+        "du": 1,
+        "sars": 1,
+        "le": 1,
+        "juillet": 1,
+        "trois": 1,
+        "cliniques": 1,
+        "et": 1,
+        "biologiques": 1
+      }
+    },
+    "Critères cliniques": {
+      "term_count": 40,
+      "char_length": 543,
+      "top_terms": {
+        "respiratoire": 8,
+        "ou": 4,
+        "symptomatologie": 3,
+        "et": 3,
+        "plusieurs": 2,
+        "atteinte": 2,
+        "basse": 2,
+        "toux": 2,
+        "hypoxie": 2,
+        "pneumonie": 2,
+        "patient": 1,
+        "asymptomatique": 1,
+        "minime": 1,
+        "radiologique": 1,
+        "autopsiques": 1,
+        "confirmant": 1,
+        "une": 1,
+        "ards": 1,
+        "autre": 1,
+        "identifiable": 1
+      }
+    },
+    "Critères épidémiologiques": {
+      "term_count": 16,
+      "char_length": 193,
+      "top_terms": {
+        "dans": 3,
+        "dix": 2,
+        "sars": 2,
+        "le": 1,
+        "une": 1,
+        "transmission": 1,
+        "actuelle": 1,
+        "ou": 1,
+        "du": 1,
+        "avec": 1,
+        "patient": 1,
+        "atteint": 1
+      }
+    },
+    "SRAS et réanimation": {
+      "term_count": 16,
+      "char_length": 246,
+      "top_terms": {
+        "hospitalisation": 1,
+        "patient": 1,
+        "porteur": 1,
+        "sras": 1,
+        "conduire": 1,
+        "limitation": 1,
+        "nombre": 1,
+        "gestes": 1,
+        "et": 1,
+        "liste": 1,
+        "suivante": 1,
+        "constitue": 1,
+        "une": 1,
+        "recommandations": 1,
+        "qui": 1,
+        "que": 1
+      }
+    },
+    "Délivrance d'oxygène": {
+      "term_count": 14,
+      "char_length": 192,
+      "top_terms": {
+        "le": 2,
+        "utilisation": 1,
+        "une": 1,
+        "sonde": 1,
+        "pas": 1,
+        "humification": 1,
+        "limitant": 1,
+        "ainsi": 1,
+        "patient": 1,
+        "fio": 1,
+        "effet": 1,
+        "venturi": 1,
+        "peut": 1
+      }
+    },
+    "Ventilation non invasive": {
+      "term_count": 9,
+      "char_length": 91,
+      "top_terms": {
+        "toute": 1,
+        "ventilation": 1,
+        "invasive": 1,
+        "cpap": 1,
+        "ou": 1,
+        "bipap": 1,
+        "est": 1,
+        "proscrire": 1,
+        "formellement": 1
+      }
+    },
+    "Aérosolisation": {
+      "term_count": 18,
+      "char_length": 256,
+      "top_terms": {
+        "une": 2,
+        "toute": 1,
+        "impliquant": 1,
+        "est": 1,
+        "strictement": 1,
+        "contre": 1,
+        "doivent": 1,
+        "dans": 1,
+        "mesure": 1,
+        "du": 1,
+        "possible": 1,
+        "dispositifs": 1,
+        "turbuhaler": 1,
+        "ou": 1,
+        "utilisant": 1,
+        "chambre": 1,
+        "inhalation": 1
+      }
+    },
+    "Ventilation invasive": {
+      "term_count": 34,
+      "char_length": 629,
+      "top_terms": {
+        "le": 4,
+        "utilisation": 2,
+        "et": 2,
+        "ventilateur": 2,
+        "du": 2,
+        "est": 2,
+        "proscrire": 1,
+        "ventilation": 1,
+        "haute": 1,
+        "filtre": 1,
+        "entre": 1,
+        "pratique": 1,
+        "reste": 1,
+        "une": 1,
+        "solution": 1,
+        "deux": 1,
+        "filtres": 1,
+        "expiratoire": 1,
+        "connexion": 1,
+        "respirateur": 1
+      }
+    },
+    "Procédures d'urgence": {
+      "term_count": 42,
+      "char_length": 580,
+      "top_terms": {
+        "au": 6,
+        "ballon": 4,
+        "le": 4,
+        "est": 4,
+        "ventilation": 3,
+        "intubation": 3,
+        "transport": 1,
+        "patient": 1,
+        "proscrire": 1,
+        "souhaitable": 1,
+        "accompagner": 1,
+        "administration": 1,
+        "fuites": 1,
+        "filtre": 1,
+        "niveau": 1,
+        "expiratoire": 1,
+        "cardiorespiratoire": 1,
+        "strictement": 1,
+        "contre": 1,
+        "cardiaque": 1
+      }
+    },
+    "Environnement": {
+      "term_count": 18,
+      "char_length": 244,
+      "top_terms": {
+        "aucun": 1,
+        "avec": 1,
+        "autres": 1,
+        "radiologie": 1,
+        "portable": 1,
+        "rien": 1,
+        "ou": 1,
+        "du": 1,
+        "poste": 1,
+        "surveillance": 1,
+        "infirmier": 1,
+        "papiers": 1,
+        "doivent": 1,
+        "pas": 1,
+        "sortis": 1,
+        "chambre": 1,
+        "une": 1,
+        "fois": 1
+      }
+    },
+    "Autres procédures à risque devant être réalisées avec précaution": {
+      "term_count": 5,
+      "char_length": 124,
+      "top_terms": {
+        "ou": 1,
+        "respiratoire": 1,
+        "du": 1,
+        "patient": 1,
+        "extubation": 1
+      }
+    },
+    "Virus respiratoire syncitial": {
+      "term_count": 40,
+      "char_length": 518,
+      "top_terms": {
+        "est": 2,
+        "et": 2,
+        "pouvant": 2,
+        "cette": 2,
+        "dans": 2,
+        "le": 1,
+        "virus": 1,
+        "respiratoire": 1,
+        "syncitial": 1,
+        "vrs": 1,
+        "responsable": 1,
+        "une": 1,
+        "grande": 1,
+        "respiratoires": 1,
+        "incluant": 1,
+        "peu": 1,
+        "chez": 1,
+        "certains": 1,
+        "sujets": 1,
+        "induire": 1
+      }
+    },
+    "La rougeole": {
+      "term_count": 38,
+      "char_length": 536,
+      "top_terms": {
+        "une": 3,
+        "rougeole": 2,
+        "pneumonie": 2,
+        "pouvant": 2,
+        "soit": 2,
+        "paramyxovirus": 1,
+        "morbilivirus": 1,
+        "complique": 1,
+        "rarement": 1,
+        "cette": 1,
+        "complication": 1,
+        "est": 1,
+        "cependant": 1,
+        "atteindre": 1,
+        "surinfection": 1,
+        "atteintes": 1,
+        "respiratoires": 1,
+        "correspondent": 1,
+        "interstitielle": 1,
+        "cellules": 1
+      }
+    },
+    "Le parvovirus B19": {
+      "term_count": 39,
+      "char_length": 491,
+      "top_terms": {
+        "est": 4,
+        "le": 3,
+        "infection": 3,
+        "parvovirus": 2,
+        "b19": 2,
+        "dans": 2,
+        "sujet": 2,
+        "virus": 1,
+        "adn": 1,
+        "donneurs": 1,
+        "asymptomatiques": 1,
+        "cette": 1,
+        "courante": 1,
+        "avec": 1,
+        "taux": 1,
+        "population": 1,
+        "qui": 1,
+        "ans": 1,
+        "et": 1,
+        "chez": 1
+      }
+    },
+    "Les rhinovirus": {
+      "term_count": 73,
+      "char_length": 1146,
+      "top_terms": {
+        "une": 6,
+        "dans": 5,
+        "le": 4,
+        "sont": 3,
+        "respiratoires": 3,
+        "et": 3,
+        "rhinovirus": 2,
+        "voies": 2,
+        "est": 2,
+        "ont": 2,
+        "tous": 2,
+        "avaient": 2,
+        "habituellement": 1,
+        "responsables": 1,
+        "peu": 1,
+        "plusieurs": 1,
+        "toutefois": 1,
+        "leur": 1,
+        "implication": 1,
+        "aigus": 1
+      }
+    },
+    "Conclusion": {
+      "term_count": 96,
+      "char_length": 1343,
+      "top_terms": {
+        "une": 7,
+        "est": 5,
+        "et": 5,
+        "le": 4,
+        "sont": 3,
+        "dans": 3,
+        "soit": 3,
+        "avec": 3,
+        "pneumonies": 2,
+        "traitement": 2,
+        "que": 2,
+        "pathologie": 2,
+        "secteur": 1,
+        "enjeu": 1,
+        "diagnostique": 1,
+        "majeur": 1,
+        "probablement": 1,
+        "incidence": 1,
+        "directement": 1,
+        "virus": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "pneumonie": {
+      "term_id": 12178,
+      "frequency": 25,
+      "positions": [
+        0,
+        41,
+        131,
+        194,
+        48,
+        21,
+        27,
+        9,
+        17,
+        27,
+        108,
+        109,
+        29,
+        54,
+        7,
+        1,
+        33,
+        18,
+        24,
+        22,
+        16,
+        4,
+        10,
+        30,
+        89
+      ]
+    },
+    "virale": {
+      "term_id": 7932,
+      "frequency": 12,
+      "positions": [
+        1,
+        88,
+        127,
+        8,
+        31,
+        131,
+        7,
+        26,
+        75,
+        13,
+        88,
+        90
+      ]
+    },
+    "viral": {
+      "term_id": 92,
+      "frequency": 5,
+      "positions": [
+        4,
+        61,
+        108,
+        133,
+        21
+      ]
+    },
+    "pneumonia": {
+      "term_id": 342,
+      "frequency": 3,
+      "positions": [
+        5,
+        54,
+        134
+      ]
+    },
+    "immunocompetent": {
+      "term_id": 2341,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "et": {
+      "term_id": 191,
+      "frequency": 115,
+      "positions": [
+        0,
+        6,
+        26,
+        57,
+        7,
+        28,
+        38,
+        89,
+        109,
+        128,
+        167,
+        44,
+        90,
+        146,
+        174,
+        27,
+        35,
+        69,
+        97,
+        125,
+        131,
+        187,
+        35,
+        47,
+        54,
+        24,
+        43,
+        39,
+        18,
+        37,
+        30,
+        13,
+        37,
+        44,
+        51,
+        95,
+        137,
+        12,
+        53,
+        70,
+        75,
+        79,
+        30,
+        18,
+        60,
+        5,
+        12,
+        37,
+        72,
+        121,
+        3,
+        43,
+        30,
+        46,
+        18,
+        14,
+        7,
+        61,
+        50,
+        9,
+        103,
+        7,
+        15,
+        28,
+        53,
+        64,
+        19,
+        62,
+        8,
+        10,
+        84,
+        47,
+        15,
+        9,
+        37,
+        57,
+        80,
+        16,
+        52,
+        23,
+        25,
+        62,
+        76,
+        84,
+        117,
+        26,
+        47,
+        69,
+        49,
+        56,
+        18,
+        30,
+        13,
+        9,
+        3,
+        15,
+        19,
+        34,
+        47,
+        83
+      ]
+    },
+    "le": {
+      "term_id": 922,
+      "frequency": 155,
+      "positions": [
+        1,
+        7,
+        19,
+        36,
+        44,
+        82,
+        98,
+        119,
+        132,
+        151,
+        30,
+        61,
+        120,
+        147,
+        0,
+        19,
+        48,
+        63,
+        69,
+        98,
+        100,
+        136,
+        150,
+        152,
+        162,
+        175,
+        179,
+        0,
+        86,
+        144,
+        149,
+        171,
+        188,
+        31,
+        2,
+        12,
+        38,
+        22,
+        25,
+        30,
+        20,
+        0,
+        23,
+        0,
+        31,
+        35,
+        63,
+        78,
+        69,
+        39,
+        47,
+        50,
+        25,
+        56,
+        15,
+        1,
+        11,
+        15,
+        44,
+        0,
+        28,
+        31,
+        8,
+        27,
+        41,
+        0,
+        27,
+        96,
+        131,
+        145,
+        0,
+        16,
+        61,
+        70,
+        37,
+        16,
+        34,
+        3,
+        30,
+        56,
+        58,
+        9,
+        57,
+        76,
+        111,
+        114,
+        125,
+        2,
+        0,
+        37,
+        41,
+        54,
+        29,
+        92,
+        5,
+        43,
+        71,
+        77,
+        80,
+        0
+      ]
+    },
+    "respiratoires": {
+      "term_id": 10948,
+      "frequency": 16,
+      "positions": [
+        3,
+        107,
+        3,
+        183,
+        132,
+        148,
+        30,
+        7,
+        18,
+        2,
+        17,
+        12,
+        26,
+        10,
+        28,
+        49
+      ]
+    },
+    "communautaires": {
+      "term_id": 33863,
+      "frequency": 2,
+      "positions": [
+        4,
+        5
+      ]
+    },
+    "sont": {
+      "term_id": 7626,
+      "frequency": 29,
+      "positions": [
+        5,
+        55,
+        111,
+        4,
+        13,
+        43,
+        54,
+        68,
+        47,
+        2,
+        16,
+        22,
+        68,
+        37,
+        60,
+        18,
+        11,
+        38,
+        57,
+        17,
+        38,
+        53,
+        9,
+        2,
+        83,
+        96,
+        25,
+        71,
+        138
+      ]
+    },
+    "souvent": {
+      "term_id": 12089,
+      "frequency": 6,
+      "positions": [
+        9,
+        164,
+        17,
+        29,
+        8,
+        139
+      ]
+    },
+    "beaucoup": {
+      "term_id": 18158,
+      "frequency": 2,
+      "positions": [
+        10,
+        126
+      ]
+    },
+    "comme": {
+      "term_id": 8826,
+      "frequency": 11,
+      "positions": [
+        13,
+        142,
+        63,
+        126,
+        9,
+        173,
+        221,
+        26,
+        58,
+        12,
+        103
+      ]
+    },
+    "virus": {
+      "term_id": 3,
+      "frequency": 61,
+      "positions": [
+        15,
+        20,
+        28,
+        35,
+        61,
+        83,
+        91,
+        25,
+        28,
+        34,
+        26,
+        31,
+        41,
+        137,
+        149,
+        9,
+        11,
+        23,
+        131,
+        176,
+        145,
+        9,
+        3,
+        27,
+        8,
+        12,
+        40,
+        51,
+        59,
+        16,
+        1,
+        10,
+        19,
+        23,
+        33,
+        59,
+        10,
+        49,
+        3,
+        19,
+        30,
+        1,
+        24,
+        31,
+        30,
+        6,
+        14,
+        15,
+        40,
+        45,
+        64,
+        1,
+        23,
+        56,
+        2,
+        60,
+        103,
+        32,
+        1,
+        6,
+        17
+      ]
+    },
+    "influenza": {
+      "term_id": 221,
+      "frequency": 9,
+      "positions": [
+        16,
+        22,
+        83,
+        27,
+        60,
+        11,
+        4,
+        2,
+        48
+      ]
+    },
+    "ou": {
+      "term_id": 3435,
+      "frequency": 37,
+      "positions": [
+        17,
+        9,
+        115,
+        140,
+        120,
+        44,
+        227,
+        10,
+        21,
+        31,
+        17,
+        21,
+        16,
+        30,
+        17,
+        26,
+        44,
+        25,
+        40,
+        102,
+        8,
+        34,
+        20,
+        42,
+        2,
+        11,
+        5,
+        5,
+        14,
+        7,
+        13,
+        4,
+        3,
+        27,
+        52,
+        90,
+        119
+      ]
+    },
+    "para-influenza": {
+      "term_id": 25833,
+      "frequency": 2,
+      "positions": [
+        18,
+        29
+      ]
+    },
+    "respiratoire": {
+      "term_id": 9082,
+      "frequency": 21,
+      "positions": [
+        21,
+        88,
+        32,
+        46,
+        5,
+        37,
+        14,
+        22,
+        41,
+        77,
+        7,
+        4,
+        7,
+        16,
+        19,
+        1,
+        10,
+        13,
+        0,
+        1,
+        2
+      ]
+    },
+    "syncitial": {
+      "term_id": 14262,
+      "frequency": 4,
+      "positions": [
+        22,
+        27,
+        42,
+        3
+      ]
+    },
+    "rhinovirus": {
+      "term_id": 485,
+      "frequency": 6,
+      "positions": [
+        24,
+        29,
+        35,
+        139,
+        1,
+        67
+      ]
+    },
+    "coronavirus": {
+      "term_id": 93,
+      "frequency": 9,
+      "positions": [
+        25,
+        97,
+        30,
+        118,
+        37,
+        29,
+        8,
+        44,
+        75
+      ]
+    },
+    "peuvent": {
+      "term_id": 10973,
+      "frequency": 7,
+      "positions": [
+        29,
+        77,
+        11,
+        8,
+        50,
+        33,
+        20
+      ]
+    },
+    "chez": {
+      "term_id": 6389,
+      "frequency": 50,
+      "positions": [
+        30,
+        115,
+        107,
+        145,
+        68,
+        140,
+        185,
+        51,
+        19,
+        26,
+        30,
+        47,
+        59,
+        24,
+        71,
+        6,
+        34,
+        40,
+        79,
+        99,
+        140,
+        51,
+        56,
+        29,
+        6,
+        28,
+        14,
+        50,
+        11,
+        26,
+        38,
+        70,
+        9,
+        55,
+        70,
+        30,
+        41,
+        50,
+        61,
+        67,
+        84,
+        107,
+        107,
+        12,
+        18,
+        66,
+        19,
+        33,
+        21,
+        93
+      ]
+    },
+    "parmi": {
+      "term_id": 14086,
+      "frequency": 6,
+      "positions": [
+        33,
+        23,
+        49,
+        60,
+        27,
+        26
+      ]
+    },
+    "cmv": {
+      "term_id": 2160,
+      "frequency": 25,
+      "positions": [
+        37,
+        45,
+        1,
+        26,
+        83,
+        111,
+        137,
+        184,
+        195,
+        18,
+        49,
+        91,
+        122,
+        181,
+        195,
+        4,
+        22,
+        39,
+        6,
+        7,
+        82,
+        10,
+        12,
+        45,
+        61
+      ]
+    },
+    "peut": {
+      "term_id": 9846,
+      "frequency": 18,
+      "positions": [
+        38,
+        59,
+        4,
+        14,
+        17,
+        110,
+        4,
+        66,
+        34,
+        36,
+        67,
+        23,
+        71,
+        3,
+        25,
+        35,
+        22,
+        29
+      ]
+    },
+    "responsable": {
+      "term_id": 10568,
+      "frequency": 17,
+      "positions": [
+        39,
+        62,
+        85,
+        102,
+        189,
+        71,
+        30,
+        126,
+        3,
+        57,
+        26,
+        82,
+        73,
+        2,
+        80,
+        6,
+        93
+      ]
+    },
+    "nosocomiale": {
+      "term_id": 36415,
+      "frequency": 2,
+      "positions": [
+        42,
+        28
+      ]
+    },
+    "diagnostic": {
+      "term_id": 430,
+      "frequency": 17,
+      "positions": [
+        45,
+        120,
+        133,
+        198,
+        62,
+        78,
+        121,
+        87,
+        39,
+        2,
+        18,
+        5,
+        38,
+        14,
+        35,
+        1,
+        102
+      ]
+    },
+    "est": {
+      "term_id": 4461,
+      "frequency": 98,
+      "positions": [
+        49,
+        71,
+        89,
+        121,
+        73,
+        83,
+        122,
+        142,
+        154,
+        2,
+        27,
+        42,
+        74,
+        112,
+        157,
+        18,
+        19,
+        2,
+        11,
+        25,
+        32,
+        2,
+        66,
+        3,
+        14,
+        35,
+        55,
+        68,
+        1,
+        10,
+        27,
+        7,
+        82,
+        133,
+        3,
+        14,
+        37,
+        46,
+        3,
+        12,
+        8,
+        29,
+        86,
+        102,
+        125,
+        144,
+        2,
+        12,
+        9,
+        16,
+        2,
+        16,
+        34,
+        3,
+        35,
+        10,
+        27,
+        24,
+        35,
+        82,
+        5,
+        28,
+        46,
+        70,
+        31,
+        62,
+        22,
+        36,
+        11,
+        17,
+        58,
+        5,
+        5,
+        24,
+        44,
+        73,
+        9,
+        3,
+        17,
+        43,
+        14,
+        18,
+        7,
+        13,
+        5,
+        54,
+        13,
+        3,
+        18,
+        28,
+        55,
+        41,
+        113,
+        18,
+        45,
+        91,
+        103,
+        125
+      ]
+    },
+    "difficile": {
+      "term_id": 3484,
+      "frequency": 6,
+      "positions": [
+        50,
+        63,
+        94,
+        156,
+        58,
+        10
+      ]
+    },
+    "cliniques": {
+      "term_id": 11589,
+      "frequency": 5,
+      "positions": [
+        54,
+        170,
+        43,
+        10,
+        12
+      ]
+    },
+    "isolement": {
+      "term_id": 19189,
+      "frequency": 5,
+      "positions": [
+        59,
+        25,
+        12,
+        12,
+        18
+      ]
+    },
+    "du": {
+      "term_id": 1149,
+      "frequency": 56,
+      "positions": [
+        60,
+        211,
+        26,
+        11,
+        13,
+        18,
+        81,
+        32,
+        58,
+        2,
+        6,
+        38,
+        46,
+        93,
+        17,
+        40,
+        4,
+        22,
+        45,
+        66,
+        29,
+        27,
+        37,
+        61,
+        56,
+        13,
+        74,
+        18,
+        28,
+        18,
+        90,
+        3,
+        24,
+        43,
+        52,
+        85,
+        108,
+        12,
+        34,
+        77,
+        97,
+        116,
+        6,
+        26,
+        1,
+        15,
+        100,
+        5,
+        5,
+        40,
+        5,
+        2,
+        45,
+        53,
+        107,
+        86
+      ]
+    },
+    "cependant": {
+      "term_id": 13449,
+      "frequency": 7,
+      "positions": [
+        64,
+        118,
+        93,
+        39,
+        13,
+        26,
+        14
+      ]
+    },
+    "une": {
+      "term_id": 4941,
+      "frequency": 128,
+      "positions": [
+        65,
+        104,
+        80,
+        113,
+        133,
+        55,
+        166,
+        201,
+        33,
+        45,
+        67,
+        70,
+        100,
+        115,
+        136,
+        177,
+        193,
+        207,
+        225,
+        229,
+        13,
+        26,
+        43,
+        15,
+        48,
+        6,
+        17,
+        25,
+        5,
+        13,
+        13,
+        52,
+        15,
+        8,
+        26,
+        60,
+        87,
+        104,
+        138,
+        8,
+        24,
+        9,
+        25,
+        74,
+        76,
+        7,
+        34,
+        11,
+        30,
+        24,
+        45,
+        59,
+        91,
+        36,
+        38,
+        73,
+        21,
+        20,
+        25,
+        23,
+        39,
+        86,
+        119,
+        21,
+        24,
+        15,
+        55,
+        68,
+        23,
+        48,
+        50,
+        54,
+        55,
+        63,
+        65,
+        20,
+        44,
+        62,
+        80,
+        79,
+        6,
+        40,
+        59,
+        75,
+        48,
+        62,
+        87,
+        32,
+        66,
+        98,
+        8,
+        30,
+        1,
+        33,
+        8,
+        15,
+        63,
+        10,
+        24,
+        16
+      ]
+    },
+    "symptomatologie": {
+      "term_id": 24411,
+      "frequency": 10,
+      "positions": [
+        66,
+        54,
+        16,
+        6,
+        76,
+        67,
+        35,
+        3,
+        6,
+        0
+      ]
+    },
+    "clinique": {
+      "term_id": 9327,
+      "frequency": 12,
+      "positions": [
+        67,
+        55,
+        14,
+        17,
+        65,
+        74,
+        34,
+        14,
+        128,
+        1,
+        7,
+        14
+      ]
+    },
+    "associant": {
+      "term_id": 38507,
+      "frequency": 2,
+      "positions": [
+        68,
+        78
+      ]
+    },
+    "myalgies": {
+      "term_id": 65653,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "pharyngite": {
+      "term_id": 97762,
+      "frequency": 2,
+      "positions": [
+        70,
+        69
+      ]
+    },
+    "dans": {
+      "term_id": 5520,
+      "frequency": 61,
+      "positions": [
+        72,
+        5,
+        14,
+        46,
+        150,
+        28,
+        50,
+        115,
+        149,
+        188,
+        197,
+        58,
+        85,
+        99,
+        30,
+        11,
+        8,
+        16,
+        34,
+        55,
+        93,
+        35,
+        0,
+        58,
+        14,
+        19,
+        9,
+        11,
+        19,
+        28,
+        39,
+        91,
+        31,
+        49,
+        3,
+        23,
+        32,
+        0,
+        120,
+        18,
+        28,
+        37,
+        3,
+        7,
+        1,
+        8,
+        18,
+        37,
+        2,
+        38,
+        59,
+        9,
+        24,
+        16,
+        30,
+        34,
+        42,
+        70,
+        30,
+        129,
+        152
+      ]
+    },
+    "inflenza": {
+      "term_id": 207897,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "qui": {
+      "term_id": 6909,
+      "frequency": 19,
+      "positions": [
+        76,
+        100,
+        16,
+        58,
+        230,
+        21,
+        33,
+        43,
+        68,
+        7,
+        26,
+        43,
+        63,
+        45,
+        54,
+        17,
+        27,
+        28,
+        27
+      ]
+    },
+    "aboutir": {
+      "term_id": 68645,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "enfin": {
+      "term_id": 16248,
+      "frequency": 3,
+      "positions": [
+        81,
+        22,
+        106
+      ]
+    },
+    "infection": {
+      "term_id": 4,
+      "frequency": 22,
+      "positions": [
+        87,
+        93,
+        81,
+        87,
+        134,
+        25,
+        81,
+        110,
+        124,
+        90,
+        137,
+        180,
+        194,
+        5,
+        6,
+        25,
+        24,
+        31,
+        99,
+        17,
+        45,
+        52
+      ]
+    },
+    "nouvellement": {
+      "term_id": 86253,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "famille": {
+      "term_id": 22721,
+      "frequency": 4,
+      "positions": [
+        95,
+        7,
+        6,
+        17
+      ]
+    },
+    "SRAS-CoV": {
+      "term_id": 81125,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "pneumonies": {
+      "term_id": 33864,
+      "frequency": 11,
+      "positions": [
+        109,
+        103,
+        152,
+        42,
+        75,
+        36,
+        4,
+        103,
+        29,
+        1,
+        14
+      ]
+    },
+    "mais": {
+      "term_id": 8379,
+      "frequency": 10,
+      "positions": [
+        112,
+        138,
+        161,
+        7,
+        13,
+        63,
+        9,
+        34,
+        72,
+        48
+      ]
+    },
+    "probablement": {
+      "term_id": 18223,
+      "frequency": 4,
+      "positions": [
+        113,
+        9,
+        40,
+        10
+      ]
+    },
+    "plupart": {
+      "term_id": 17384,
+      "frequency": 6,
+      "positions": [
+        125,
+        16,
+        60,
+        33,
+        41,
+        36
+      ]
+    },
+    "il": {
+      "term_id": 879,
+      "frequency": 26,
+      "positions": [
+        127,
+        72,
+        10,
+        31,
+        18,
+        2,
+        54,
+        6,
+        81,
+        0,
+        49,
+        20,
+        8,
+        20,
+        32,
+        15,
+        36,
+        52,
+        69,
+        39,
+        2,
+        0,
+        9,
+        110,
+        40,
+        101
+      ]
+    },
+    "existe": {
+      "term_id": 8602,
+      "frequency": 6,
+      "positions": [
+        128,
+        20,
+        2,
+        2,
+        112,
+        42
+      ]
+    },
+    "traitement": {
+      "term_id": 11072,
+      "frequency": 15,
+      "positions": [
+        130,
+        117,
+        20,
+        41,
+        67,
+        1,
+        42,
+        63,
+        4,
+        5,
+        1,
+        44,
+        92,
+        55,
+        121
+      ]
+    },
+    "efficace": {
+      "term_id": 20841,
+      "frequency": 3,
+      "positions": [
+        131,
+        4,
+        56
+      ]
+    },
+    "histologie": {
+      "term_id": 42335,
+      "frequency": 1,
+      "positions": [
+        137
+      ]
+    },
+    "nouvelles": {
+      "term_id": 17214,
+      "frequency": 1,
+      "positions": [
+        140
+      ]
+    },
+    "pcr": {
+      "term_id": 377,
+      "frequency": 8,
+      "positions": [
+        144,
+        183,
+        124,
+        16,
+        65,
+        6,
+        49,
+        70
+      ]
+    },
+    "doivent": {
+      "term_id": 16247,
+      "frequency": 4,
+      "positions": [
+        145,
+        110,
+        1,
+        4
+      ]
+    },
+    "devenir": {
+      "term_id": 36445,
+      "frequency": 1,
+      "positions": [
+        146
+      ]
+    },
+    "utilisation": {
+      "term_id": 6799,
+      "frequency": 11,
+      "positions": [
+        148,
+        82,
+        27,
+        11,
+        26,
+        42,
+        37,
+        37,
+        0,
+        4,
+        0
+      ]
+    },
+    "courante": {
+      "term_id": 31964,
+      "frequency": 4,
+      "positions": [
+        149,
+        14,
+        19,
+        79
+      ]
+    },
+    "rendement": {
+      "term_id": 88757,
+      "frequency": 2,
+      "positions": [
+        152,
+        18
+      ]
+    },
+    "diagnostique": {
+      "term_id": 23324,
+      "frequency": 2,
+      "positions": [
+        153,
+        8
+      ]
+    },
+    "langue": {
+      "term_id": 28187,
+      "frequency": 2,
+      "positions": [
+        156,
+        202
+      ]
+    },
+    "elsevier": {
+      "term_id": 2332,
+      "frequency": 2,
+      "positions": [
+        158,
+        204
+      ]
+    },
+    "sas": {
+      "term_id": 25358,
+      "frequency": 2,
+      "positions": [
+        159,
+        205
+      ]
+    },
+    "tous": {
+      "term_id": 10652,
+      "frequency": 7,
+      "positions": [
+        160,
+        206,
+        32,
+        46,
+        87,
+        72,
+        84
+      ]
+    },
+    "droits": {
+      "term_id": 29676,
+      "frequency": 2,
+      "positions": [
+        161,
+        207
+      ]
+    },
+    "respiratory": {
+      "term_id": 91,
+      "frequency": 4,
+      "positions": [
+        0,
+        26,
+        112,
+        131
+      ]
+    },
+    "frequently": {
+      "term_id": 511,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "community": {
+      "term_id": 200,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "parainfluenza": {
+      "term_id": 1045,
+      "frequency": 3,
+      "positions": [
+        24,
+        46,
+        16
+      ]
+    },
+    "adenovirus": {
+      "term_id": 369,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "immuno-competent": {
+      "term_id": 100507,
+      "frequency": 2,
+      "positions": [
+        39,
+        144
+      ]
+    },
+    "cytomegalovirus": {
+      "term_id": 1317,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "responsible": {
+      "term_id": 392,
+      "frequency": 2,
+      "positions": [
+        51,
+        123
+      ]
+    },
+    "nosocomial": {
+      "term_id": 1448,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "icu": {
+      "term_id": 1399,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "diagnosis": {
+      "term_id": 325,
+      "frequency": 2,
+      "positions": [
+        65,
+        153
+      ]
+    },
+    "isolation": {
+      "term_id": 295,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "pathogen": {
+      "term_id": 14,
+      "frequency": 2,
+      "positions": [
+        69,
+        109
+      ]
+    },
+    "difficult": {
+      "term_id": 439,
+      "frequency": 2,
+      "positions": [
+        72,
+        155
+      ]
+    },
+    "reliable": {
+      "term_id": 1038,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "specific": {
+      "term_id": 118,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "myalgia": {
+      "term_id": 2316,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "headache": {
+      "term_id": 1620,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "pharyngitis": {
+      "term_id": 4281,
+      "frequency": 1,
+      "positions": [
+        91
+      ]
+    },
+    "asymptomatic": {
+      "term_id": 844,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "moderate": {
+      "term_id": 826,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "disease": {
+      "term_id": 8,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "sars-cov": {
+      "term_id": 201196,
+      "frequency": 5,
+      "positions": [
+        120,
+        1,
+        7,
+        78,
+        43
+      ]
+    },
+    "worldwide": {
+      "term_id": 541,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "outbreak": {
+      "term_id": 29,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "acute": {
+      "term_id": 100,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "syndrome": {
+      "term_id": 85,
+      "frequency": 6,
+      "positions": [
+        132,
+        48,
+        12,
+        6,
+        36,
+        85
+      ]
+    },
+    "pathology": {
+      "term_id": 608,
+      "frequency": 1,
+      "positions": [
+        138
+      ]
+    },
+    "probably": {
+      "term_id": 571,
+      "frequency": 2,
+      "positions": [
+        141,
+        185
+      ]
+    },
+    "underdiagnosed": {
+      "term_id": 13235,
+      "frequency": 1,
+      "positions": [
+        142
+      ]
+    },
+    "effective": {
+      "term_id": 243,
+      "frequency": 1,
+      "positions": [
+        173
+      ]
+    },
+    "treatment": {
+      "term_id": 66,
+      "frequency": 1,
+      "positions": [
+        174
+      ]
+    },
+    "standard": {
+      "term_id": 115,
+      "frequency": 1,
+      "positions": [
+        177
+      ]
+    },
+    "histology": {
+      "term_id": 3172,
+      "frequency": 1,
+      "positions": [
+        179
+      ]
+    },
+    "difference": {
+      "term_id": 25,
+      "frequency": 1,
+      "positions": [
+        188
+      ]
+    },
+    "efficiency": {
+      "term_id": 547,
+      "frequency": 1,
+      "positions": [
+        199
+      ]
+    },
+    "infectieuses": {
+      "term_id": 11291,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "responsables": {
+      "term_id": 11480,
+      "frequency": 4,
+      "positions": [
+        12,
+        15,
+        58,
+        4
+      ]
+    },
+    "avec": {
+      "term_id": 7728,
+      "frequency": 28,
+      "positions": [
+        22,
+        31,
+        200,
+        94,
+        182,
+        91,
+        38,
+        24,
+        90,
+        38,
+        35,
+        30,
+        51,
+        33,
+        20,
+        25,
+        30,
+        39,
+        87,
+        63,
+        94,
+        7,
+        22,
+        3,
+        20,
+        47,
+        64,
+        132
+      ]
+    },
+    "eux": {
+      "term_id": 20966,
+      "frequency": 5,
+      "positions": [
+        24,
+        143,
+        42,
+        55,
+        66
+      ]
+    },
+    "syncytial": {
+      "term_id": 735,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "que": {
+      "term_id": 3874,
+      "frequency": 24,
+      "positions": [
+        44,
+        171,
+        7,
+        85,
+        96,
+        9,
+        49,
+        13,
+        34,
+        13,
+        77,
+        4,
+        21,
+        37,
+        24,
+        29,
+        47,
+        57,
+        79,
+        28,
+        2,
+        31,
+        113,
+        128
+      ]
+    },
+    "rarement": {
+      "term_id": 22860,
+      "frequency": 4,
+      "positions": [
+        45,
+        19,
+        48,
+        8
+      ]
+    },
+    "contexte": {
+      "term_id": 15582,
+      "frequency": 4,
+      "positions": [
+        48,
+        117,
+        10,
+        40
+      ]
+    },
+    "seuls": {
+      "term_id": 29433,
+      "frequency": 2,
+      "positions": [
+        51,
+        19
+      ]
+    },
+    "quelques": {
+      "term_id": 14144,
+      "frequency": 3,
+      "positions": [
+        52,
+        21,
+        36
+      ]
+    },
+    "capables": {
+      "term_id": 41312,
+      "frequency": 1,
+      "positions": [
+        55
+      ]
+    },
+    "induire": {
+      "term_id": 40822,
+      "frequency": 2,
+      "positions": [
+        57,
+        22
+      ]
+    },
+    "prise": {
+      "term_id": 7051,
+      "frequency": 5,
+      "positions": [
+        65,
+        96,
+        1,
+        31,
+        154
+      ]
+    },
+    "assez": {
+      "term_id": 28710,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "difficiles": {
+      "term_id": 36033,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "relativement": {
+      "term_id": 29681,
+      "frequency": 4,
+      "positions": [
+        74,
+        143,
+        13,
+        45
+      ]
+    },
+    "obtenir": {
+      "term_id": 27243,
+      "frequency": 2,
+      "positions": [
+        76,
+        56
+      ]
+    },
+    "cette": {
+      "term_id": 8756,
+      "frequency": 22,
+      "positions": [
+        82,
+        158,
+        107,
+        78,
+        23,
+        50,
+        38,
+        52,
+        12,
+        66,
+        68,
+        41,
+        28,
+        47,
+        39,
+        37,
+        60,
+        30,
+        48,
+        11,
+        16,
+        142
+      ]
+    },
+    "autant": {
+      "term_id": 18076,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "restent": {
+      "term_id": 24245,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "rares": {
+      "term_id": 23018,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "faire": {
+      "term_id": 12402,
+      "frequency": 2,
+      "positions": [
+        111,
+        20
+      ]
+    },
+    "rechercher": {
+      "term_id": 27430,
+      "frequency": 2,
+      "positions": [
+        112,
+        21
+      ]
+    },
+    "pathologie": {
+      "term_id": 10355,
+      "frequency": 11,
+      "positions": [
+        114,
+        114,
+        16,
+        6,
+        21,
+        61,
+        34,
+        31,
+        89,
+        117,
+        131
+      ]
+    },
+    "immunosuppresseur": {
+      "term_id": 104882,
+      "frequency": 2,
+      "positions": [
+        118,
+        111
+      ]
+    },
+    "autre": {
+      "term_id": 11830,
+      "frequency": 5,
+      "positions": [
+        141,
+        29,
+        98,
+        33,
+        9
+      ]
+    },
+    "exceptionnelle": {
+      "term_id": 56106,
+      "frequency": 2,
+      "positions": [
+        144,
+        28
+      ]
+    },
+    "toujours": {
+      "term_id": 16241,
+      "frequency": 3,
+      "positions": [
+        155,
+        29,
+        18
+      ]
+    },
+    "confirmer": {
+      "term_id": 37231,
+      "frequency": 3,
+      "positions": [
+        157,
+        41,
+        23
+      ]
+    },
+    "va": {
+      "term_id": 2363,
+      "frequency": 2,
+      "positions": [
+        160,
+        14
+      ]
+    },
+    "focaliser": {
+      "term_id": 195017,
+      "frequency": 1,
+      "positions": [
+        162
+      ]
+    },
+    "pouvant": {
+      "term_id": 17464,
+      "frequency": 10,
+      "positions": [
+        166,
+        142,
+        8,
+        9,
+        41,
+        33,
+        18,
+        57,
+        17,
+        37
+      ]
+    },
+    "tant": {
+      "term_id": 16026,
+      "frequency": 1,
+      "positions": [
+        169
+      ]
+    },
+    "biologiques": {
+      "term_id": 19227,
+      "frequency": 3,
+      "positions": [
+        172,
+        52,
+        14
+      ]
+    },
+    "permettant": {
+      "term_id": 16615,
+      "frequency": 1,
+      "positions": [
+        173
+      ]
+    },
+    "membre": {
+      "term_id": 62873,
+      "frequency": 2,
+      "positions": [
+        4,
+        3
+      ]
+    },
+    "adn": {
+      "term_id": 20351,
+      "frequency": 2,
+      "positions": [
+        12,
+        7
+      ]
+    },
+    "kb": {
+      "term_id": 1327,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "fait": {
+      "term_id": 10354,
+      "frequency": 7,
+      "positions": [
+        18,
+        84,
+        3,
+        43,
+        38,
+        70,
+        93
+      ]
+    },
+    "important": {
+      "term_id": 106,
+      "frequency": 7,
+      "positions": [
+        21,
+        102,
+        4,
+        54,
+        111,
+        89,
+        151
+      ]
+    },
+    "population": {
+      "term_id": 35,
+      "frequency": 4,
+      "positions": [
+        30,
+        28,
+        33,
+        26
+      ]
+    },
+    "niveau": {
+      "term_id": 11236,
+      "frequency": 3,
+      "positions": [
+        33,
+        10,
+        7
+      ]
+    },
+    "entre": {
+      "term_id": 5380,
+      "frequency": 8,
+      "positions": [
+        35,
+        170,
+        142,
+        186,
+        41,
+        54,
+        65,
+        10
+      ]
+    },
+    "distribution": {
+      "term_id": 219,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "fonction": {
+      "term_id": 14401,
+      "frequency": 2,
+      "positions": [
+        39,
+        41
+      ]
+    },
+    "bimodale": {
+      "term_id": 444855,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "deux": {
+      "term_id": 9245,
+      "frequency": 13,
+      "positions": [
+        45,
+        233,
+        100,
+        18,
+        18,
+        23,
+        45,
+        34,
+        30,
+        35,
+        20,
+        9,
+        23
+      ]
+    },
+    "enfance": {
+      "term_id": 48586,
+      "frequency": 2,
+      "positions": [
+        53,
+        21
+      ]
+    },
+    "transmission": {
+      "term_id": 240,
+      "frequency": 6,
+      "positions": [
+        56,
+        73,
+        49,
+        9,
+        17,
+        12
+      ]
+    },
+    "verticale": {
+      "term_id": 83840,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "allaitement": {
+      "term_id": 73613,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "maternel": {
+      "term_id": 56159,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "survient": {
+      "term_id": 32870,
+      "frequency": 5,
+      "positions": [
+        67,
+        196,
+        87,
+        78,
+        37
+      ]
+    },
+    "jeune": {
+      "term_id": 17601,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "adulte": {
+      "term_id": 16870,
+      "frequency": 9,
+      "positions": [
+        71,
+        187,
+        13,
+        23,
+        42,
+        101,
+        142,
+        8,
+        86
+      ]
+    },
+    "essentiellement": {
+      "term_id": 20368,
+      "frequency": 2,
+      "positions": [
+        75,
+        36
+      ]
+    },
+    "origine": {
+      "term_id": 10970,
+      "frequency": 5,
+      "positions": [
+        77,
+        144,
+        21,
+        42,
+        57
+      ]
+    },
+    "sexuelle": {
+      "term_id": 66854,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "au": {
+      "term_id": 2373,
+      "frequency": 26,
+      "positions": [
+        82,
+        132,
+        19,
+        110,
+        41,
+        9,
+        26,
+        31,
+        46,
+        42,
+        45,
+        73,
+        22,
+        3,
+        51,
+        8,
+        14,
+        17,
+        24,
+        1,
+        2,
+        5,
+        12,
+        2,
+        6,
+        20
+      ]
+    },
+    "intervenir": {
+      "term_id": 39803,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "fois": {
+      "term_id": 13056,
+      "frequency": 4,
+      "positions": [
+        87,
+        116,
+        139,
+        11
+      ]
+    },
+    "cellulaire": {
+      "term_id": 13342,
+      "frequency": 4,
+      "positions": [
+        89,
+        97,
+        24,
+        39
+      ]
+    },
+    "humorale": {
+      "term_id": 47194,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "facteur": {
+      "term_id": 19284,
+      "frequency": 7,
+      "positions": [
+        99,
+        151,
+        174,
+        25,
+        133,
+        89,
+        110
+      ]
+    },
+    "raison": {
+      "term_id": 13650,
+      "frequency": 3,
+      "positions": [
+        108,
+        44,
+        143
+      ]
+    },
+    "transplantation": {
+      "term_id": 1365,
+      "frequency": 2,
+      "positions": [
+        119,
+        97
+      ]
+    },
+    "vih": {
+      "term_id": 15834,
+      "frequency": 2,
+      "positions": [
+        125,
+        118
+      ]
+    },
+    "autres": {
+      "term_id": 9314,
+      "frequency": 10,
+      "positions": [
+        129,
+        167,
+        214,
+        68,
+        32,
+        55,
+        36,
+        45,
+        49,
+        5
+      ]
+    },
+    "primo-infection": {
+      "term_id": 81318,
+      "frequency": 3,
+      "positions": [
+        135,
+        10,
+        16
+      ]
+    },
+    "demeure": {
+      "term_id": 35227,
+      "frequency": 1,
+      "positions": [
+        138
+      ]
+    },
+    "successives": {
+      "term_id": 70184,
+      "frequency": 4,
+      "positions": [
+        148,
+        20,
+        22,
+        50
+      ]
+    },
+    "pas": {
+      "term_id": 37770,
+      "frequency": 20,
+      "positions": [
+        158,
+        36,
+        21,
+        88,
+        36,
+        21,
+        3,
+        13,
+        7,
+        28,
+        75,
+        43,
+        107,
+        3,
+        36,
+        3,
+        63,
+        4,
+        7,
+        5
+      ]
+    },
+    "totalement": {
+      "term_id": 39821,
+      "frequency": 4,
+      "positions": [
+        160,
+        10,
+        56,
+        55
+      ]
+    },
+    "expliquant": {
+      "term_id": 81519,
+      "frequency": 1,
+      "positions": [
+        178
+      ]
+    },
+    "exceptionnel": {
+      "term_id": 78993,
+      "frequency": 1,
+      "positions": [
+        180
+      ]
+    },
+    "greffe": {
+      "term_id": 49996,
+      "frequency": 1,
+      "positions": [
+        190
+      ]
+    },
+    "moelle": {
+      "term_id": 43008,
+      "frequency": 1,
+      "positions": [
+        192
+      ]
+    },
+    "patient": {
+      "term_id": 2,
+      "frequency": 10,
+      "positions": [
+        1,
+        32,
+        72,
+        14,
+        0,
+        24,
+        4,
+        14,
+        11,
+        3
+      ]
+    },
+    "particulier": {
+      "term_id": 13476,
+      "frequency": 6,
+      "positions": [
+        5,
+        2,
+        32,
+        69,
+        36,
+        56
+      ]
+    },
+    "ont": {
+      "term_id": 7039,
+      "frequency": 32,
+      "positions": [
+        11,
+        103,
+        135,
+        231,
+        70,
+        35,
+        35,
+        78,
+        3,
+        50,
+        18,
+        22,
+        12,
+        32,
+        104,
+        20,
+        26,
+        38,
+        20,
+        90,
+        13,
+        29,
+        21,
+        71,
+        81,
+        44,
+        23,
+        11,
+        47,
+        38,
+        58,
+        79
+      ]
+    },
+    "survenue": {
+      "term_id": 17995,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "sein": {
+      "term_id": 9329,
+      "frequency": 2,
+      "positions": [
+        20,
+        15
+      ]
+    },
+    "sous-groupe": {
+      "term_id": 134021,
+      "frequency": 2,
+      "positions": [
+        23,
+        64
+      ]
+    },
+    "papazian": {
+      "term_id": 22746,
+      "frequency": 3,
+      "positions": [
+        26,
+        34,
+        38
+      ]
+    },
+    "rapportent": {
+      "term_id": 59270,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "obtenus": {
+      "term_id": 39820,
+      "frequency": 2,
+      "positions": [
+        31,
+        94
+      ]
+    },
+    "pulmonaires": {
+      "term_id": 25200,
+      "frequency": 2,
+      "positions": [
+        37,
+        49
+      ]
+    },
+    "atteints": {
+      "term_id": 16507,
+      "frequency": 3,
+      "positions": [
+        40,
+        31,
+        73
+      ]
+    },
+    "nosocomiales": {
+      "term_id": 25182,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "atypique": {
+      "term_id": 49334,
+      "frequency": 2,
+      "positions": [
+        57,
+        56
+      ]
+    },
+    "atteinte": {
+      "term_id": 18635,
+      "frequency": 7,
+      "positions": [
+        71,
+        22,
+        4,
+        25,
+        15,
+        9,
+        25
+      ]
+    },
+    "radiologique": {
+      "term_id": 44615,
+      "frequency": 3,
+      "positions": [
+        72,
+        14,
+        17
+      ]
+    },
+    "importante": {
+      "term_id": 7616,
+      "frequency": 4,
+      "positions": [
+        74,
+        11,
+        13,
+        21
+      ]
+    },
+    "histologiques": {
+      "term_id": 68511,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "concordance": {
+      "term_id": 4770,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "heninger": {
+      "term_id": 140513,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "chirurgicale": {
+      "term_id": 34483,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "suivi": {
+      "term_id": 17509,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "porteurs": {
+      "term_id": 32557,
+      "frequency": 2,
+      "positions": [
+        106,
+        22
+      ]
+    },
+    "igg": {
+      "term_id": 789,
+      "frequency": 1,
+      "positions": [
+        108
+      ]
+    },
+    "anti-CMV": {
+      "term_id": 23392,
+      "frequency": 1,
+      "positions": [
+        109
+      ]
+    },
+    "leur": {
+      "term_id": 9385,
+      "frequency": 4,
+      "positions": [
+        113,
+        234,
+        31,
+        14
+      ]
+    },
+    "hospitalisation": {
+      "term_id": 3467,
+      "frequency": 2,
+      "positions": [
+        114,
+        1
+      ]
+    },
+    "semaine": {
+      "term_id": 26423,
+      "frequency": 5,
+      "positions": [
+        118,
+        84,
+        27,
+        33,
+        73
+      ]
+    },
+    "recherche": {
+      "term_id": 6276,
+      "frequency": 4,
+      "positions": [
+        120,
+        29,
+        1,
+        107
+      ]
+    },
+    "partir": {
+      "term_id": 8751,
+      "frequency": 6,
+      "positions": [
+        128,
+        28,
+        7,
+        21,
+        12,
+        83
+      ]
+    },
+    "sanguins": {
+      "term_id": 43437,
+      "frequency": 2,
+      "positions": [
+        130,
+        243
+      ]
+    },
+    "vingt": {
+      "term_id": 97190,
+      "frequency": 1,
+      "positions": [
+        133
+      ]
+    },
+    "seul": {
+      "term_id": 15719,
+      "frequency": 5,
+      "positions": [
+        150,
+        70,
+        132,
+        44,
+        97
+      ]
+    },
+    "existence": {
+      "term_id": 1213,
+      "frequency": 5,
+      "positions": [
+        160,
+        199,
+        223,
+        21,
+        40
+      ]
+    },
+    "avaient": {
+      "term_id": 20595,
+      "frequency": 3,
+      "positions": [
+        169,
+        73,
+        87
+      ]
+    },
+    "aussi": {
+      "term_id": 11105,
+      "frequency": 8,
+      "positions": [
+        170,
+        217,
+        15,
+        47,
+        72,
+        83,
+        9,
+        114
+      ]
+    },
+    "favorisant": {
+      "term_id": 51636,
+      "frequency": 1,
+      "positions": [
+        175
+      ]
+    },
+    "pourcentages": {
+      "term_id": 170070,
+      "frequency": 1,
+      "positions": [
+        184
+      ]
+    },
+    "latente": {
+      "term_id": 28478,
+      "frequency": 1,
+      "positions": [
+        196
+      ]
+    },
+    "impliquerait": {
+      "term_id": 341332,
+      "frequency": 1,
+      "positions": [
+        197
+      ]
+    },
+    "immune": {
+      "term_id": 257,
+      "frequency": 1,
+      "positions": [
+        204
+      ]
+    },
+    "induit": {
+      "term_id": 36436,
+      "frequency": 1,
+      "positions": [
+        205
+      ]
+    },
+    "augmentation": {
+      "term_id": 4650,
+      "frequency": 5,
+      "positions": [
+        208,
+        92,
+        39,
+        75,
+        11
+      ]
+    },
+    "production": {
+      "term_id": 275,
+      "frequency": 1,
+      "positions": [
+        210
+      ]
+    },
+    "TNF-a": {
+      "term_id": 5533,
+      "frequency": 1,
+      "positions": [
+        212
+      ]
+    },
+    "facteurs": {
+      "term_id": 13400,
+      "frequency": 5,
+      "positions": [
+        215,
+        33,
+        50,
+        27,
+        11
+      ]
+    },
+    "pourraient": {
+      "term_id": 22697,
+      "frequency": 1,
+      "positions": [
+        216
+      ]
+    },
+    "chirurgie": {
+      "term_id": 20357,
+      "frequency": 1,
+      "positions": [
+        226
+      ]
+    },
+    "immunitaire": {
+      "term_id": 21792,
+      "frequency": 1,
+      "positions": [
+        236
+      ]
+    },
+    "transfusion": {
+      "term_id": 936,
+      "frequency": 1,
+      "positions": [
+        240
+      ]
+    },
+    "produits": {
+      "term_id": 18390,
+      "frequency": 5,
+      "positions": [
+        242,
+        15,
+        84,
+        105,
+        10
+      ]
+    },
+    "contenant": {
+      "term_id": 38054,
+      "frequency": 1,
+      "positions": [
+        244
+      ]
+    },
+    "rendant": {
+      "term_id": 57192,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "difficilement": {
+      "term_id": 88929,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "discernable": {
+      "term_id": 16174,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "survenaient": {
+      "term_id": 290995,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "ventilation": {
+      "term_id": 1243,
+      "frequency": 9,
+      "positions": [
+        45,
+        119,
+        146,
+        24,
+        2,
+        2,
+        1,
+        1,
+        19
+      ]
+    },
+    "radiologiques": {
+      "term_id": 36444,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "associaient": {
+      "term_id": 826434,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "interstitielles": {
+      "term_id": 108703,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "classique": {
+      "term_id": 26797,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "tissulaire": {
+      "term_id": 65654,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "liquide": {
+      "term_id": 27830,
+      "frequency": 2,
+      "positions": [
+        9,
+        28
+      ]
+    },
+    "technique": {
+      "term_id": 71,
+      "frequency": 3,
+      "positions": [
+        16,
+        5,
+        39
+      ]
+    },
+    "histopathologie": {
+      "term_id": 112263,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "cytologie": {
+      "term_id": 91461,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "urinaire": {
+      "term_id": 48605,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "suffisant": {
+      "term_id": 64111,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "plusieurs": {
+      "term_id": 11165,
+      "frequency": 7,
+      "positions": [
+        0,
+        20,
+        8,
+        66,
+        12,
+        6,
+        11
+      ]
+    },
+    "constitue": {
+      "term_id": 26219,
+      "frequency": 3,
+      "positions": [
+        2,
+        25,
+        24
+      ]
+    },
+    "actuellement": {
+      "term_id": 16510,
+      "frequency": 9,
+      "positions": [
+        3,
+        17,
+        53,
+        69,
+        33,
+        113,
+        6,
+        74,
+        115
+      ]
+    },
+    "rapidement": {
+      "term_id": 16928,
+      "frequency": 5,
+      "positions": [
+        11,
+        68,
+        44,
+        59,
+        23
+      ]
+    },
+    "lcr": {
+      "term_id": 22186,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "initialement": {
+      "term_id": 28486,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "lba": {
+      "term_id": 40232,
+      "frequency": 3,
+      "positions": [
+        31,
+        39,
+        30
+      ]
+    },
+    "depuis": {
+      "term_id": 13322,
+      "frequency": 3,
+      "positions": [
+        33,
+        0,
+        0
+      ]
+    },
+    "baisse": {
+      "term_id": 37635,
+      "frequency": 3,
+      "positions": [
+        36,
+        60,
+        25
+      ]
+    },
+    "pathognomoniques": {
+      "term_id": 800146,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "elles": {
+      "term_id": 12403,
+      "frequency": 3,
+      "positions": [
+        7,
+        4,
+        17
+      ]
+    },
+    "poumon": {
+      "term_id": 46506,
+      "frequency": 2,
+      "positions": [
+        12,
+        5
+      ]
+    },
+    "oesophage": {
+      "term_id": 117973,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "foie": {
+      "term_id": 56123,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "invasif": {
+      "term_id": 86260,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "limite": {
+      "term_id": 33509,
+      "frequency": 3,
+      "positions": [
+        25,
+        34,
+        43
+      ]
+    },
+    "cellules": {
+      "term_id": 13321,
+      "frequency": 3,
+      "positions": [
+        35,
+        16,
+        32
+      ]
+    },
+    "obtenues": {
+      "term_id": 57152,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "cordonnier": {
+      "term_id": 23235,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "retrouvant": {
+      "term_id": 196769,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "biopsie": {
+      "term_id": 34213,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "pulmonaire": {
+      "term_id": 19476,
+      "frequency": 3,
+      "positions": [
+        54,
+        23,
+        68
+      ]
+    },
+    "trouver": {
+      "term_id": 45847,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "igm": {
+      "term_id": 1724,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "manquer": {
+      "term_id": 181797,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "persister": {
+      "term_id": 39302,
+      "frequency": 2,
+      "positions": [
+        23,
+        36
+      ]
+    },
+    "jusqu": {
+      "term_id": 15590,
+      "frequency": 3,
+      "positions": [
+        24,
+        67,
+        37
+      ]
+    },
+    "certains": {
+      "term_id": 12376,
+      "frequency": 8,
+      "positions": [
+        27,
+        33,
+        18,
+        15,
+        71,
+        29,
+        20,
+        45
+      ]
+    },
+    "ensemble": {
+      "term_id": 3582,
+      "frequency": 5,
+      "positions": [
+        30,
+        65,
+        2,
+        20,
+        47
+      ]
+    },
+    "donc": {
+      "term_id": 12780,
+      "frequency": 2,
+      "positions": [
+        35,
+        49
+      ]
+    },
+    "trois": {
+      "term_id": 11902,
+      "frequency": 6,
+      "positions": [
+        14,
+        28,
+        54,
+        35,
+        10,
+        10
+      ]
+    },
+    "disponibles": {
+      "term_id": 12375,
+      "frequency": 3,
+      "positions": [
+        18,
+        13,
+        24
+      ]
+    },
+    "ganciclovir": {
+      "term_id": 5896,
+      "frequency": 4,
+      "positions": [
+        1,
+        44,
+        77,
+        32
+      ]
+    },
+    "analogue": {
+      "term_id": 806,
+      "frequency": 2,
+      "positions": [
+        4,
+        4
+      ]
+    },
+    "inhibiteur": {
+      "term_id": 55149,
+      "frequency": 3,
+      "positions": [
+        5,
+        27,
+        111
+      ]
+    },
+    "dna": {
+      "term_id": 277,
+      "frequency": 4,
+      "positions": [
+        9,
+        30,
+        7,
+        22
+      ]
+    },
+    "mg": {
+      "term_id": 500,
+      "frequency": 5,
+      "positions": [
+        15,
+        36,
+        12,
+        18,
+        36
+      ]
+    },
+    "kg": {
+      "term_id": 1090,
+      "frequency": 5,
+      "positions": [
+        16,
+        37,
+        13,
+        19,
+        37
+      ]
+    },
+    "heures": {
+      "term_id": 19384,
+      "frequency": 10,
+      "positions": [
+        18,
+        39,
+        28,
+        60,
+        69,
+        17,
+        39,
+        40,
+        23,
+        41
+      ]
+    },
+    "attaque": {
+      "term_id": 68594,
+      "frequency": 2,
+      "positions": [
+        22,
+        43
+      ]
+    },
+    "foscarnet": {
+      "term_id": 10495,
+      "frequency": 2,
+      "positions": [
+        24,
+        47
+      ]
+    },
+    "intraveineux": {
+      "term_id": 104734,
+      "frequency": 2,
+      "positions": [
+        45,
+        6
+      ]
+    },
+    "cidofovir": {
+      "term_id": 7379,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "inhibant": {
+      "term_id": 135282,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "demi-vie": {
+      "term_id": 113282,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "permet": {
+      "term_id": 14145,
+      "frequency": 4,
+      "positions": [
+        12,
+        20,
+        54,
+        18
+      ]
+    },
+    "administration": {
+      "term_id": 532,
+      "frequency": 6,
+      "positions": [
+        14,
+        75,
+        26,
+        62,
+        10,
+        49
+      ]
+    },
+    "hebdomadaire": {
+      "term_id": 60024,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "recommandation": {
+      "term_id": 63886,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "respective": {
+      "term_id": 1189,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "permis": {
+      "term_id": 16871,
+      "frequency": 5,
+      "positions": [
+        46,
+        36,
+        39,
+        21,
+        7
+      ]
+    },
+    "huit": {
+      "term_id": 39369,
+      "frequency": 5,
+      "positions": [
+        50,
+        16,
+        22,
+        40,
+        9
+      ]
+    },
+    "cinq": {
+      "term_id": 21436,
+      "frequency": 5,
+      "positions": [
+        57,
+        21,
+        47,
+        70,
+        38
+      ]
+    },
+    "faible": {
+      "term_id": 13877,
+      "frequency": 3,
+      "positions": [
+        72,
+        85,
+        2
+      ]
+    },
+    "aux": {
+      "term_id": 7518,
+      "frequency": 8,
+      "positions": [
+        83,
+        70,
+        81,
+        53,
+        9,
+        43,
+        54,
+        63
+      ]
+    },
+    "habituellement": {
+      "term_id": 24246,
+      "frequency": 6,
+      "positions": [
+        85,
+        15,
+        3,
+        57,
+        35,
+        3
+      ]
+    },
+    "secteurs": {
+      "term_id": 93941,
+      "frequency": 1,
+      "positions": [
+        95
+      ]
+    },
+    "conclusion": {
+      "term_id": 49,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "souligner": {
+      "term_id": 49324,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "intention": {
+      "term_id": 2823,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "moins": {
+      "term_id": 10460,
+      "frequency": 4,
+      "positions": [
+        27,
+        117,
+        45,
+        127
+      ]
+    },
+    "transitoire": {
+      "term_id": 51612,
+      "frequency": 2,
+      "positions": [
+        28,
+        64
+      ]
+    },
+    "emploi": {
+      "term_id": 46075,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "pourrait": {
+      "term_id": 15494,
+      "frequency": 4,
+      "positions": [
+        47,
+        69,
+        8,
+        99
+      ]
+    },
+    "correspondre": {
+      "term_id": 91310,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "relative": {
+      "term_id": 333,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "effet": {
+      "term_id": 11997,
+      "frequency": 4,
+      "positions": [
+        57,
+        34,
+        25,
+        20
+      ]
+    },
+    "affirmer": {
+      "term_id": 47860,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "qu": {
+      "term_id": 2532,
+      "frequency": 4,
+      "positions": [
+        65,
+        48,
+        78,
+        66
+      ]
+    },
+    "HSV1": {
+      "term_id": 16697,
+      "frequency": 10,
+      "positions": [
+        0,
+        9,
+        18,
+        77,
+        109,
+        136,
+        7,
+        13,
+        31,
+        36
+      ]
+    },
+    "ubiquitaire": {
+      "term_id": 141895,
+      "frequency": 2,
+      "positions": [
+        13,
+        11
+      ]
+    },
+    "ans": {
+      "term_id": 22340,
+      "frequency": 9,
+      "positions": [
+        24,
+        44,
+        85,
+        36,
+        48,
+        48,
+        71,
+        30,
+        54
+      ]
+    },
+    "riche": {
+      "term_id": 39817,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "pauvre": {
+      "term_id": 97525,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "vers": {
+      "term_id": 14966,
+      "frequency": 7,
+      "positions": [
+        43,
+        10,
+        31,
+        47,
+        43,
+        23,
+        38
+      ]
+    },
+    "quasiment": {
+      "term_id": 77345,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "monde": {
+      "term_id": 18389,
+      "frequency": 2,
+      "positions": [
+        48,
+        35
+      ]
+    },
+    "contamination": {
+      "term_id": 965,
+      "frequency": 6,
+      "positions": [
+        1,
+        9,
+        2,
+        31,
+        9,
+        59
+      ]
+    },
+    "tropisme": {
+      "term_id": 42362,
+      "frequency": 2,
+      "positions": [
+        11,
+        57
+      ]
+    },
+    "neurotrope": {
+      "term_id": 128614,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "quiescent": {
+      "term_id": 6834,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "faisant": {
+      "term_id": 34913,
+      "frequency": 2,
+      "positions": [
+        19,
+        7
+      ]
+    },
+    "sujet": {
+      "term_id": 21082,
+      "frequency": 6,
+      "positions": [
+        26,
+        69,
+        96,
+        35,
+        54,
+        95
+      ]
+    },
+    "ordre": {
+      "term_id": 25034,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "discerner": {
+      "term_id": 506936,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "toutefois": {
+      "term_id": 19907,
+      "frequency": 5,
+      "positions": [
+        32,
+        10,
+        19,
+        15,
+        13
+      ]
+    },
+    "potentiellement": {
+      "term_id": 25388,
+      "frequency": 2,
+      "positions": [
+        40,
+        99
+      ]
+    },
+    "atteintes": {
+      "term_id": 27829,
+      "frequency": 2,
+      "positions": [
+        42,
+        25
+      ]
+    },
+    "muqueuses": {
+      "term_id": 45213,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "oesophagiennes": {
+      "term_id": 337154,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "neurologique": {
+      "term_id": 45241,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "expliquent": {
+      "term_id": 83649,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "facilement": {
+      "term_id": 40801,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "seule": {
+      "term_id": 19691,
+      "frequency": 3,
+      "positions": [
+        61,
+        78,
+        37
+      ]
+    },
+    "HSV-1": {
+      "term_id": 3359,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "distaux": {
+      "term_id": 260627,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "aucun": {
+      "term_id": 15320,
+      "frequency": 3,
+      "positions": [
+        89,
+        0,
+        43
+      ]
+    },
+    "co-infection": {
+      "term_id": 2792,
+      "frequency": 2,
+      "positions": [
+        105,
+        80
+      ]
+    },
+    "sevrage": {
+      "term_id": 86352,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "ceci": {
+      "term_id": 19065,
+      "frequency": 3,
+      "positions": [
+        120,
+        69,
+        57
+      ]
+    },
+    "positive": {
+      "term_id": 140,
+      "frequency": 2,
+      "positions": [
+        134,
+        50
+      ]
+    },
+    "patiente": {
+      "term_id": 88863,
+      "frequency": 1,
+      "positions": [
+        141
+      ]
+    },
+    "avait": {
+      "term_id": 19199,
+      "frequency": 1,
+      "positions": [
+        142
+      ]
+    },
+    "radiographie": {
+      "term_id": 35655,
+      "frequency": 2,
+      "positions": [
+        1,
+        2
+      ]
+    },
+    "infiltrat": {
+      "term_id": 64033,
+      "frequency": 4,
+      "positions": [
+        6,
+        19,
+        14,
+        41
+      ]
+    },
+    "voies": {
+      "term_id": 17381,
+      "frequency": 7,
+      "positions": [
+        12,
+        62,
+        16,
+        33,
+        101,
+        9,
+        27
+      ]
+    },
+    "montre": {
+      "term_id": 20070,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "interstitiel": {
+      "term_id": 108704,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "diffus": {
+      "term_id": 53331,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "reflet": {
+      "term_id": 81598,
+      "frequency": 2,
+      "positions": [
+        22,
+        71
+      ]
+    },
+    "voie": {
+      "term_id": 13876,
+      "frequency": 8,
+      "positions": [
+        27,
+        25,
+        42,
+        36,
+        24,
+        8,
+        6,
+        13
+      ]
+    },
+    "histologique": {
+      "term_id": 58241,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "comporte": {
+      "term_id": 41338,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "parenchymateuse": {
+      "term_id": 79377,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "inflammatoires": {
+      "term_id": 36011,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "classiquement": {
+      "term_id": 39845,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "obtenu": {
+      "term_id": 53330,
+      "frequency": 3,
+      "positions": [
+        4,
+        38,
+        11
+      ]
+    },
+    "telle": {
+      "term_id": 25848,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "ayant": {
+      "term_id": 12857,
+      "frequency": 2,
+      "positions": [
+        17,
+        73
+      ]
+    },
+    "grande": {
+      "term_id": 7959,
+      "frequency": 5,
+      "positions": [
+        20,
+        1,
+        73,
+        99,
+        9
+      ]
+    },
+    "vitesse": {
+      "term_id": 61656,
+      "frequency": 2,
+      "positions": [
+        21,
+        65
+      ]
+    },
+    "croissance": {
+      "term_id": 31057,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "produit": {
+      "term_id": 27643,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "identification": {
+      "term_id": 216,
+      "frequency": 2,
+      "positions": [
+        36,
+        2
+      ]
+    },
+    "immunofluorescence": {
+      "term_id": 1193,
+      "frequency": 2,
+      "positions": [
+        39,
+        32
+      ]
+    },
+    "centrifugation": {
+      "term_id": 1233,
+      "frequency": 2,
+      "positions": [
+        42,
+        33
+      ]
+    },
+    "sensible": {
+      "term_id": 6352,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "traditionnelle": {
+      "term_id": 234375,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "suivant": {
+      "term_id": 31975,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "inoculation": {
+      "term_id": 941,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "obtenue": {
+      "term_id": 45859,
+      "frequency": 3,
+      "positions": [
+        67,
+        24,
+        48
+      ]
+    },
+    "respectivement": {
+      "term_id": 30235,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "aciclovir": {
+      "term_id": 18797,
+      "frequency": 6,
+      "positions": [
+        5,
+        40,
+        2,
+        26,
+        41,
+        6
+      ]
+    },
+    "posologie": {
+      "term_id": 60455,
+      "frequency": 2,
+      "positions": [
+        8,
+        14
+      ]
+    },
+    "nouveaux": {
+      "term_id": 17132,
+      "frequency": 2,
+      "positions": [
+        19,
+        31
+      ]
+    },
+    "antiviraux": {
+      "term_id": 50102,
+      "frequency": 3,
+      "positions": [
+        20,
+        2,
+        83
+      ]
+    },
+    "orale": {
+      "term_id": 14383,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "tel": {
+      "term_id": 6894,
+      "frequency": 2,
+      "positions": [
+        27,
+        77
+      ]
+    },
+    "valaciclovir": {
+      "term_id": 28920,
+      "frequency": 2,
+      "positions": [
+        29,
+        43
+      ]
+    },
+    "famciclovir": {
+      "term_id": 18944,
+      "frequency": 2,
+      "positions": [
+        32,
+        46
+      ]
+    },
+    "alternative": {
+      "term_id": 413,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "intraveineuse": {
+      "term_id": 50083,
+      "frequency": 2,
+      "positions": [
+        43,
+        9
+      ]
+    },
+    "biais": {
+      "term_id": 45848,
+      "frequency": 2,
+      "positions": [
+        9,
+        39
+      ]
+    },
+    "mutation": {
+      "term_id": 47,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "thymidine": {
+      "term_id": 4550,
+      "frequency": 2,
+      "positions": [
+        15,
+        39
+      ]
+    },
+    "hsv": {
+      "term_id": 2806,
+      "frequency": 2,
+      "positions": [
+        24,
+        63
+      ]
+    },
+    "utilise": {
+      "term_id": 3152,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "alors": {
+      "term_id": 12698,
+      "frequency": 3,
+      "positions": [
+        44,
+        57,
+        79
+      ]
+    },
+    "appel": {
+      "term_id": 6728,
+      "frequency": 3,
+      "positions": [
+        45,
+        39,
+        29
+      ]
+    },
+    "mesure": {
+      "term_id": 19473,
+      "frequency": 2,
+      "positions": [
+        5,
+        4
+      ]
+    },
+    "sujets": {
+      "term_id": 17837,
+      "frequency": 6,
+      "positions": [
+        8,
+        51,
+        81,
+        66,
+        32,
+        21
+      ]
+    },
+    "revanche": {
+      "term_id": 25690,
+      "frequency": 3,
+      "positions": [
+        10,
+        22,
+        15
+      ]
+    },
+    "notamment": {
+      "term_id": 12890,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "maladie": {
+      "term_id": 10083,
+      "frequency": 6,
+      "positions": [
+        25,
+        5,
+        65,
+        53,
+        33,
+        55
+      ]
+    },
+    "aplasie": {
+      "term_id": 117892,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "statut": {
+      "term_id": 44002,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "recommandations": {
+      "term_id": 16805,
+      "frequency": 3,
+      "positions": [
+        55,
+        78,
+        27
+      ]
+    },
+    "terme": {
+      "term_id": 17361,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "varicelle": {
+      "term_id": 65592,
+      "frequency": 5,
+      "positions": [
+        4,
+        33,
+        130,
+        11,
+        24
+      ]
+    },
+    "zona": {
+      "term_id": 5840,
+      "frequency": 2,
+      "positions": [
+        7,
+        39
+      ]
+    },
+    "strictement": {
+      "term_id": 60422,
+      "frequency": 3,
+      "positions": [
+        13,
+        4,
+        8
+      ]
+    },
+    "humain": {
+      "term_id": 21147,
+      "frequency": 3,
+      "positions": [
+        14,
+        7,
+        27
+      ]
+    },
+    "transmet": {
+      "term_id": 112584,
+      "frequency": 3,
+      "positions": [
+        22,
+        13,
+        3
+      ]
+    },
+    "vzv": {
+      "term_id": 5074,
+      "frequency": 5,
+      "positions": [
+        28,
+        47,
+        8,
+        2,
+        34
+      ]
+    },
+    "enfant": {
+      "term_id": 13696,
+      "frequency": 5,
+      "positions": [
+        36,
+        107,
+        53,
+        16,
+        35
+      ]
+    },
+    "correspond": {
+      "term_id": 81,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "adultes": {
+      "term_id": 22585,
+      "frequency": 3,
+      "positions": [
+        52,
+        123,
+        96
+      ]
+    },
+    "anticorps": {
+      "term_id": 15140,
+      "frequency": 3,
+      "positions": [
+        54,
+        3,
+        78
+      ]
+    },
+    "anti-VZV": {
+      "term_id": 57947,
+      "frequency": 2,
+      "positions": [
+        55,
+        4
+      ]
+    },
+    "pourcentage": {
+      "term_id": 46501,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "jeunes": {
+      "term_id": 20848,
+      "frequency": 2,
+      "positions": [
+        66,
+        35
+      ]
+    },
+    "femmes": {
+      "term_id": 41339,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "unis": {
+      "term_id": 26596,
+      "frequency": 3,
+      "positions": [
+        71,
+        46,
+        44
+      ]
+    },
+    "Royaume-Uni": {
+      "term_id": 88872,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "proportion": {
+      "term_id": 474,
+      "frequency": 3,
+      "positions": [
+        76,
+        100,
+        3
+      ]
+    },
+    "taux": {
+      "term_id": 14074,
+      "frequency": 6,
+      "positions": [
+        94,
+        22,
+        46,
+        16,
+        20,
+        22
+      ]
+    },
+    "varicelleuse": {
+      "term_id": 486441,
+      "frequency": 5,
+      "positions": [
+        110,
+        139,
+        30,
+        20,
+        55
+      ]
+    },
+    "touche": {
+      "term_id": 44561,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "enfants": {
+      "term_id": 13699,
+      "frequency": 5,
+      "positions": [
+        115,
+        57,
+        43,
+        29,
+        47
+      ]
+    },
+    "mois": {
+      "term_id": 8969,
+      "frequency": 3,
+      "positions": [
+        120,
+        55,
+        13
+      ]
+    },
+    "pneumopathie": {
+      "term_id": 30503,
+      "frequency": 2,
+      "positions": [
+        138,
+        19
+      ]
+    },
+    "tabagisme": {
+      "term_id": 49322,
+      "frequency": 2,
+      "positions": [
+        146,
+        62
+      ]
+    },
+    "variable": {
+      "term_id": 104,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "toux": {
+      "term_id": 23024,
+      "frequency": 6,
+      "positions": [
+        5,
+        56,
+        79,
+        18,
+        12,
+        66
+      ]
+    },
+    "douleur": {
+      "term_id": 50874,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "thoracique": {
+      "term_id": 31979,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "orientation": {
+      "term_id": 1784,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "nouveau": {
+      "term_id": 13653,
+      "frequency": 9,
+      "positions": [
+        25,
+        31,
+        83,
+        7,
+        48,
+        106,
+        32,
+        50,
+        7
+      ]
+    },
+    "femme": {
+      "term_id": 41167,
+      "frequency": 4,
+      "positions": [
+        26,
+        5,
+        28,
+        58
+      ]
+    },
+    "enceinte": {
+      "term_id": 68470,
+      "frequency": 4,
+      "positions": [
+        27,
+        6,
+        29,
+        59
+      ]
+    },
+    "prend": {
+      "term_id": 68596,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "volontiers": {
+      "term_id": 53370,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "radiologiquement": {
+      "term_id": 159440,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "nodulaire": {
+      "term_id": 104765,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "pleuraux": {
+      "term_id": 122939,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "grossesse": {
+      "term_id": 46439,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "augmente": {
+      "term_id": 27428,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "soi": {
+      "term_id": 46223,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "nombre": {
+      "term_id": 6828,
+      "frequency": 5,
+      "positions": [
+        41,
+        65,
+        81,
+        16,
+        33
+      ]
+    },
+    "morts": {
+      "term_id": 58014,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "utero": {
+      "term_id": 5350,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "confirmation": {
+      "term_id": 1332,
+      "frequency": 2,
+      "positions": [
+        1,
+        21
+      ]
+    },
+    "virologique": {
+      "term_id": 35635,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "rapide": {
+      "term_id": 14864,
+      "frequency": 5,
+      "positions": [
+        3,
+        22,
+        26,
+        31,
+        52
+      ]
+    },
+    "fibroblaste": {
+      "term_id": 520854,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "contiennent": {
+      "term_id": 79215,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "permettre": {
+      "term_id": 20849,
+      "frequency": 2,
+      "positions": [
+        35,
+        34
+      ]
+    },
+    "puisque": {
+      "term_id": 29432,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "tardif": {
+      "term_id": 21012,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "apporter": {
+      "term_id": 43439,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "positif": {
+      "term_id": 28273,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "identifier": {
+      "term_id": 4938,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "ainsi": {
+      "term_id": 10436,
+      "frequency": 7,
+      "positions": [
+        37,
+        62,
+        117,
+        78,
+        27,
+        8,
+        44
+      ]
+    },
+    "aborderons": {
+      "term_id": 159455,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "uniquement": {
+      "term_id": 30775,
+      "frequency": 2,
+      "positions": [
+        2,
+        2
+      ]
+    },
+    "convient": {
+      "term_id": 36834,
+      "frequency": 2,
+      "positions": [
+        9,
+        33
+      ]
+    },
+    "rappeler": {
+      "term_id": 60424,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "mesures": {
+      "term_id": 16364,
+      "frequency": 4,
+      "positions": [
+        15,
+        26,
+        42,
+        3
+      ]
+    },
+    "faut": {
+      "term_id": 16366,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "mettre": {
+      "term_id": 19198,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "oeuvre": {
+      "term_id": 25149,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "surinfection": {
+      "term_id": 53369,
+      "frequency": 2,
+      "positions": [
+        30,
+        23
+      ]
+    },
+    "proscrire": {
+      "term_id": 196825,
+      "frequency": 4,
+      "positions": [
+        35,
+        10,
+        0,
+        15
+      ]
+    },
+    "aspirine": {
+      "term_id": 73568,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "reye": {
+      "term_id": 14886,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "compte": {
+      "term_id": 14811,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "tenu": {
+      "term_id": 31640,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "licite": {
+      "term_id": 196803,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "proposer": {
+      "term_id": 33195,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "surveillance": {
+      "term_id": 528,
+      "frequency": 5,
+      "positions": [
+        21,
+        78,
+        25,
+        8,
+        8
+      ]
+    },
+    "indication": {
+      "term_id": 715,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "hors": {
+      "term_id": 31362,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "amm": {
+      "term_id": 33366,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "dix": {
+      "term_id": 12958,
+      "frequency": 4,
+      "positions": [
+        27,
+        3,
+        20,
+        53
+      ]
+    },
+    "immunoglobulines": {
+      "term_id": 33524,
+      "frequency": 2,
+      "positions": [
+        1,
+        15
+      ]
+    },
+    "polyvalentes": {
+      "term_id": 159524,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "aucune": {
+      "term_id": 17213,
+      "frequency": 2,
+      "positions": [
+        19,
+        114
+      ]
+    },
+    "diminution": {
+      "term_id": 8827,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "agit": {
+      "term_id": 16312,
+      "frequency": 2,
+      "positions": [
+        38,
+        102
+      ]
+    },
+    "soit": {
+      "term_id": 11742,
+      "frequency": 8,
+      "positions": [
+        40,
+        44,
+        39,
+        28,
+        33,
+        36,
+        40,
+        115
+      ]
+    },
+    "observationnelles": {
+      "term_id": 213792,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "pouvoir": {
+      "term_id": 20022,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "quel": {
+      "term_id": 27025,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "groupe": {
+      "term_id": 11420,
+      "frequency": 2,
+      "positions": [
+        58,
+        30
+      ]
+    },
+    "quelle": {
+      "term_id": 21826,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "partie": {
+      "term_id": 18299,
+      "frequency": 2,
+      "positions": [
+        76,
+        2
+      ]
+    },
+    "consensus": {
+      "term_id": 898,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "guerre": {
+      "term_id": 81133,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "mondiale": {
+      "term_id": 23925,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "espagnole": {
+      "term_id": 86226,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "atteint": {
+      "term_id": 25035,
+      "frequency": 3,
+      "positions": [
+        14,
+        97,
+        25
+      ]
+    },
+    "france": {
+      "term_id": 1173,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "vagues": {
+      "term_id": 134742,
+      "frequency": 2,
+      "positions": [
+        19,
+        21
+      ]
+    },
+    "bordeaux": {
+      "term_id": 25760,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "avril": {
+      "term_id": 21193,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "brest": {
+      "term_id": 56229,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "estime": {
+      "term_id": 55093,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "personnes": {
+      "term_id": 15566,
+      "frequency": 4,
+      "positions": [
+        37,
+        12,
+        16,
+        23
+      ]
+    },
+    "mortes": {
+      "term_id": 150464,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "envahit": {
+      "term_id": 409308,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "traversa": {
+      "term_id": 49487,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "H1N1": {
+      "term_id": 886,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "continua": {
+      "term_id": 28706,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "circuler": {
+      "term_id": 156049,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "finalement": {
+      "term_id": 64102,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "sous-type": {
+      "term_id": 170079,
+      "frequency": 4,
+      "positions": [
+        74,
+        84,
+        8,
+        20
+      ]
+    },
+    "H2N2": {
+      "term_id": 8517,
+      "frequency": 2,
+      "positions": [
+        75,
+        8
+      ]
+    },
+    "avant": {
+      "term_id": 10862,
+      "frequency": 3,
+      "positions": [
+        76,
+        9,
+        12
+      ]
+    },
+    "H3N2": {
+      "term_id": 2246,
+      "frequency": 2,
+      "positions": [
+        85,
+        15
+      ]
+    },
+    "histoire": {
+      "term_id": 28010,
+      "frequency": 2,
+      "positions": [
+        1,
+        122
+      ]
+    },
+    "asiatique": {
+      "term_id": 79214,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "hongkong": {
+      "term_id": 22237,
+      "frequency": 3,
+      "positions": [
+        13,
+        5,
+        30
+      ]
+    },
+    "firent": {
+      "term_id": 530069,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "victimes": {
+      "term_id": 83646,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "proche": {
+      "term_id": 24859,
+      "frequency": 3,
+      "positions": [
+        1,
+        25,
+        17
+      ]
+    },
+    "H5N1": {
+      "term_id": 1266,
+      "frequency": 5,
+      "positions": [
+        13,
+        84,
+        105,
+        18,
+        16
+      ]
+    },
+    "auparavant": {
+      "term_id": 55092,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "aviaire": {
+      "term_id": 25846,
+      "frequency": 2,
+      "positions": [
+        24,
+        22
+      ]
+    },
+    "laissant": {
+      "term_id": 81465,
+      "frequency": 2,
+      "positions": [
+        35,
+        76
+      ]
+    },
+    "craindre": {
+      "term_id": 71764,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "nouvelle": {
+      "term_id": 16358,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "furent": {
+      "term_id": 75258,
+      "frequency": 2,
+      "positions": [
+        43,
+        61
+      ]
+    },
+    "vendus": {
+      "term_id": 526099,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "territoire": {
+      "term_id": 50100,
+      "frequency": 2,
+      "positions": [
+        67,
+        126
+      ]
+    },
+    "propagation": {
+      "term_id": 1500,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "potentielle": {
+      "term_id": 36035,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "cargaison": {
+      "term_id": 821835,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "oies": {
+      "term_id": 313385,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "provenance": {
+      "term_id": 15002,
+      "frequency": 1,
+      "positions": [
+        91
+      ]
+    },
+    "province": {
+      "term_id": 672,
+      "frequency": 2,
+      "positions": [
+        94,
+        36
+      ]
+    },
+    "guangdong": {
+      "term_id": 2500,
+      "frequency": 2,
+      "positions": [
+        96,
+        38
+      ]
+    },
+    "souche": {
+      "term_id": 23892,
+      "frequency": 2,
+      "positions": [
+        98,
+        38
+      ]
+    },
+    "similaire": {
+      "term_id": 50825,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "celle": {
+      "term_id": 15139,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "mai": {
+      "term_id": 6304,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "kong": {
+      "term_id": 778,
+      "frequency": 9,
+      "positions": [
+        113,
+        15,
+        11,
+        26,
+        8,
+        23,
+        68,
+        3,
+        96
+      ]
+    },
+    "gouvernement": {
+      "term_id": 100305,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "extermination": {
+      "term_id": 42723,
+      "frequency": 1,
+      "positions": [
+        121
+      ]
+    },
+    "historiques": {
+      "term_id": 149800,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "connaissances": {
+      "term_id": 30145,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "actuelles": {
+      "term_id": 37920,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "biologie": {
+      "term_id": 12317,
+      "frequency": 3,
+      "positions": [
+        13,
+        7,
+        63
+      ]
+    },
+    "laissent": {
+      "term_id": 97612,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "incitant": {
+      "term_id": 411571,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "chacun": {
+      "term_id": 42896,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "grippaux": {
+      "term_id": 61085,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "produire": {
+      "term_id": 49305,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "capside": {
+      "term_id": 48571,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "neuraminidase": {
+      "term_id": 2000,
+      "frequency": 1,
+      "positions": [
+        55
+      ]
+    },
+    "enveloppe": {
+      "term_id": 65619,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "exemple": {
+      "term_id": 16028,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "focalise": {
+      "term_id": 142218,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "parc": {
+      "term_id": 27297,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "provenant": {
+      "term_id": 42342,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "interhumaine": {
+      "term_id": 51639,
+      "frequency": 2,
+      "positions": [
+        50,
+        3
+      ]
+    },
+    "asymptomatique": {
+      "term_id": 42900,
+      "frequency": 2,
+      "positions": [
+        56,
+        1
+      ]
+    },
+    "personnel": {
+      "term_id": 1221,
+      "frequency": 2,
+      "positions": [
+        62,
+        109
+      ]
+    },
+    "soignant": {
+      "term_id": 46470,
+      "frequency": 2,
+      "positions": [
+        63,
+        110
+      ]
+    },
+    "comprenant": {
+      "term_id": 59907,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "ailleurs": {
+      "term_id": 15375,
+      "frequency": 3,
+      "positions": [
+        76,
+        67,
+        106
+      ]
+    },
+    "exposition": {
+      "term_id": 9063,
+      "frequency": 1,
+      "positions": [
+        80
+      ]
+    },
+    "installation": {
+      "term_id": 6686,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "concernant": {
+      "term_id": 18561,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "celui-ci": {
+      "term_id": 45216,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "microgouttelettes": {
+      "term_id": 832525,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "saison": {
+      "term_id": 34511,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "hivernale": {
+      "term_id": 59255,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "surviennent": {
+      "term_id": 40324,
+      "frequency": 2,
+      "positions": [
+        31,
+        29
+      ]
+    },
+    "reviendrons": {
+      "term_id": 638914,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "habituel": {
+      "term_id": 55094,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "sdra": {
+      "term_id": 38499,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "bilan": {
+      "term_id": 21396,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "coagulation": {
+      "term_id": 2492,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "insuffisance": {
+      "term_id": 27840,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "rhabdomyolyse": {
+      "term_id": 169052,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "retentissement": {
+      "term_id": 67086,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "apparent": {
+      "term_id": 788,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "pronostic": {
+      "term_id": 26420,
+      "frequency": 3,
+      "positions": [
+        78,
+        62,
+        13
+      ]
+    },
+    "reste": {
+      "term_id": 13611,
+      "frequency": 2,
+      "positions": [
+        84,
+        13
+      ]
+    },
+    "rt-pcr": {
+      "term_id": 338541,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "amantadine": {
+      "term_id": 4973,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "trop": {
+      "term_id": 1425,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "cet": {
+      "term_id": 12015,
+      "frequency": 3,
+      "positions": [
+        1,
+        25,
+        20
+      ]
+    },
+    "strictes": {
+      "term_id": 101206,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "venant": {
+      "term_id": 94629,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "obligatoire": {
+      "term_id": 50084,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "puis": {
+      "term_id": 11962,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "destruction": {
+      "term_id": 1506,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "enrayer": {
+      "term_id": 259622,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "principale": {
+      "term_id": 28947,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "poulet": {
+      "term_id": 27541,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "circule": {
+      "term_id": 100710,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "propre": {
+      "term_id": 40285,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "souches": {
+      "term_id": 18473,
+      "frequency": 3,
+      "positions": [
+        41,
+        73,
+        80
+      ]
+    },
+    "humaines": {
+      "term_id": 27033,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "voire": {
+      "term_id": 17687,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "adaptation": {
+      "term_id": 1116,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "progressive": {
+      "term_id": 1179,
+      "frequency": 2,
+      "positions": [
+        46,
+        16
+      ]
+    },
+    "interhumaines": {
+      "term_id": 293052,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "homme": {
+      "term_id": 11585,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "traduirait": {
+      "term_id": 411931,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "serait": {
+      "term_id": 19004,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "moyens": {
+      "term_id": 28271,
+      "frequency": 1,
+      "positions": [
+        69
+      ]
+    },
+    "communication": {
+      "term_id": 626,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "actuels": {
+      "term_id": 65593,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "seraient": {
+      "term_id": 36032,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "internationale": {
+      "term_id": 13355,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "vaccination": {
+      "term_id": 421,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "fabrication": {
+      "term_id": 6308,
+      "frequency": 1,
+      "positions": [
+        91
+      ]
+    },
+    "seulement": {
+      "term_id": 18905,
+      "frequency": 2,
+      "positions": [
+        29,
+        49
+      ]
+    },
+    "couramment": {
+      "term_id": 73422,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "vrs": {
+      "term_id": 15027,
+      "frequency": 4,
+      "positions": [
+        43,
+        14,
+        8,
+        4
+      ]
+    },
+    "Pays-Bas": {
+      "term_id": 104327,
+      "frequency": 3,
+      "positions": [
+        54,
+        4,
+        64
+      ]
+    },
+    "souffrant": {
+      "term_id": 45808,
+      "frequency": 2,
+      "positions": [
+        58,
+        97
+      ]
+    },
+    "sars": {
+      "term_id": 292,
+      "frequency": 11,
+      "positions": [
+        75,
+        5,
+        4,
+        53,
+        105,
+        2,
+        127,
+        5,
+        2,
+        16,
+        27
+      ]
+    },
+    "supposer": {
+      "term_id": 118053,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "puisse": {
+      "term_id": 41814,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "appartient": {
+      "term_id": 73423,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "paramyxovirus": {
+      "term_id": 1128,
+      "frequency": 2,
+      "positions": [
+        10,
+        2
+      ]
+    },
+    "pneumovirus": {
+      "term_id": 5125,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "miment": {
+      "term_id": 393022,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "ceux": {
+      "term_id": 16509,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "affection": {
+      "term_id": 8042,
+      "frequency": 2,
+      "positions": [
+        7,
+        14
+      ]
+    },
+    "vont": {
+      "term_id": 36029,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "bronchiolite": {
+      "term_id": 35636,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "esper": {
+      "term_id": 9011,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "retrouvaient": {
+      "term_id": 207209,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "hypoxie": {
+      "term_id": 36027,
+      "frequency": 3,
+      "positions": [
+        60,
+        20,
+        14
+      ]
+    },
+    "europe": {
+      "term_id": 812,
+      "frequency": 2,
+      "positions": [
+        11,
+        41
+      ]
+    },
+    "australie": {
+      "term_id": 91308,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "asie": {
+      "term_id": 38947,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "nord": {
+      "term_id": 10669,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "incidence": {
+      "term_id": 463,
+      "frequency": 2,
+      "positions": [
+        26,
+        12
+      ]
+    },
+    "individus": {
+      "term_id": 40799,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "porteuse": {
+      "term_id": 167108,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "contre": {
+      "term_id": 8692,
+      "frequency": 5,
+      "positions": [
+        79,
+        31,
+        30,
+        5,
+        9
+      ]
+    },
+    "nasaux": {
+      "term_id": 169922,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "jour": {
+      "term_id": 12198,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "collectif": {
+      "term_id": 86044,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "aspirats": {
+      "term_id": 516055,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "travaux": {
+      "term_id": 25968,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "gouttelettes": {
+      "term_id": 58166,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "singapour": {
+      "term_id": 117162,
+      "frequency": 2,
+      "positions": [
+        19,
+        27
+      ]
+    },
+    "transmissible": {
+      "term_id": 1239,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "superspreader": {
+      "term_id": 29111,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "montrent": {
+      "term_id": 22433,
+      "frequency": 2,
+      "positions": [
+        56,
+        97
+      ]
+    },
+    "malade": {
+      "term_id": 32559,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "poutanen": {
+      "term_id": 5511,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "tsang": {
+      "term_id": 2453,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "celles": {
+      "term_id": 18904,
+      "frequency": 1,
+      "positions": [
+        80
+      ]
+    },
+    "oms": {
+      "term_id": 12886,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "cdc": {
+      "term_id": 1052,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "initiaux": {
+      "term_id": 104732,
+      "frequency": 1,
+      "positions": [
+        103
+      ]
+    },
+    "survenait": {
+      "term_id": 181794,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "faveur": {
+      "term_id": 28482,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "immeuble": {
+      "term_id": 278138,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "propager": {
+      "term_id": 133985,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "permettrait": {
+      "term_id": 64191,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "expliquer": {
+      "term_id": 28959,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "nosocomiaux": {
+      "term_id": 373812,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "secondaires": {
+      "term_id": 26422,
+      "frequency": 3,
+      "positions": [
+        32,
+        54,
+        137
+      ]
+    },
+    "vietnam": {
+      "term_id": 2445,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "poursuivie": {
+      "term_id": 108901,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "autour": {
+      "term_id": 37208,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "internationaux": {
+      "term_id": 60459,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "villes": {
+      "term_id": 94504,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "clairement": {
+      "term_id": 33194,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "shenzhen": {
+      "term_id": 7917,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "proches": {
+      "term_id": 36212,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "recueillies": {
+      "term_id": 77202,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "animaux": {
+      "term_id": 18384,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "sauvages": {
+      "term_id": 56441,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "revendus": {
+      "term_id": 821836,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "consommation": {
+      "term_id": 34232,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "humaine": {
+      "term_id": 17309,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    },
+    "civette": {
+      "term_id": 91311,
+      "frequency": 2,
+      "positions": [
+        107,
+        119
+      ]
+    },
+    "larvata": {
+      "term_id": 16156,
+      "frequency": 1,
+      "positions": [
+        109
+      ]
+    },
+    "preuve": {
+      "term_id": 35262,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "naturelle": {
+      "term_id": 33096,
+      "frequency": 1,
+      "positions": [
+        123
+      ]
+    },
+    "incubation": {
+      "term_id": 589,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "signe": {
+      "term_id": 29919,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "absente": {
+      "term_id": 97765,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "notera": {
+      "term_id": 260343,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "atteignant": {
+      "term_id": 86049,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "amorce": {
+      "term_id": 234816,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "semaines": {
+      "term_id": 16085,
+      "frequency": 1,
+      "positions": [
+        39
+      ]
+    },
+    "cd4": {
+      "term_id": 474447,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "cd8": {
+      "term_id": 548396,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "mauvais": {
+      "term_id": 41713,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "ensuite": {
+      "term_id": 23326,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "possiblement": {
+      "term_id": 83614,
+      "frequency": 1,
+      "positions": [
+        80
+      ]
+    },
+    "biologique": {
+      "term_id": 19639,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "ldh": {
+      "term_id": 5546,
+      "frequency": 2,
+      "positions": [
+        13,
+        18
+      ]
+    },
+    "asat": {
+      "term_id": 88681,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "alat": {
+      "term_id": 43692,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "cpk": {
+      "term_id": 20228,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "phosphore": {
+      "term_id": 416532,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "potassium": {
+      "term_id": 2721,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "radiologie": {
+      "term_id": 61665,
+      "frequency": 4,
+      "positions": [
+        0,
+        7,
+        51,
+        75
+      ]
+    },
+    "anormale": {
+      "term_id": 62867,
+      "frequency": 2,
+      "positions": [
+        6,
+        78
+      ]
+    },
+    "typiquement": {
+      "term_id": 108695,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "progresse": {
+      "term_id": 128813,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "individualiser": {
+      "term_id": 260631,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "admission": {
+      "term_id": 574,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "juillet": {
+      "term_id": 51626,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "minime": {
+      "term_id": 85788,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "basse": {
+      "term_id": 24851,
+      "frequency": 2,
+      "positions": [
+        17,
+        11
+      ]
+    },
+    "autopsiques": {
+      "term_id": 182033,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "confirmant": {
+      "term_id": 118110,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "ards": {
+      "term_id": 2801,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "identifiable": {
+      "term_id": 3983,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "actuelle": {
+      "term_id": 27832,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "ribavirine": {
+      "term_id": 42793,
+      "frequency": 2,
+      "positions": [
+        21,
+        23
+      ]
+    },
+    "anti-viral": {
+      "term_id": 2623,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "modeste": {
+      "term_id": 86052,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "effets": {
+      "term_id": 19385,
+      "frequency": 2,
+      "positions": [
+        53,
+        136
+      ]
+    },
+    "limitent": {
+      "term_id": 122936,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "myalgie": {
+      "term_id": 97045,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "rendue": {
+      "term_id": 117247,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "rebonds": {
+      "term_id": 831828,
+      "frequency": 1,
+      "positions": [
+        82
+      ]
+    },
+    "activation": {
+      "term_id": 496,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "lopinavir": {
+      "term_id": 5603,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "porteur": {
+      "term_id": 55128,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "sras": {
+      "term_id": 17641,
+      "frequency": 2,
+      "positions": [
+        7,
+        87
+      ]
+    },
+    "conduire": {
+      "term_id": 39819,
+      "frequency": 1,
+      "positions": [
+        10
+      ]
+    },
+    "limitation": {
+      "term_id": 264,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "gestes": {
+      "term_id": 66947,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "liste": {
+      "term_id": 29185,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "suivante": {
+      "term_id": 55148,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "sonde": {
+      "term_id": 36991,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "humification": {
+      "term_id": 403140,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "limitant": {
+      "term_id": 59355,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "fio": {
+      "term_id": 10000,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "venturi": {
+      "term_id": 21730,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "toute": {
+      "term_id": 17138,
+      "frequency": 2,
+      "positions": [
+        0,
+        0
+      ]
+    },
+    "invasive": {
+      "term_id": 1294,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "cpap": {
+      "term_id": 13399,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "bipap": {
+      "term_id": 24213,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "formellement": {
+      "term_id": 73420,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "impliquant": {
+      "term_id": 55091,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "possible": {
+      "term_id": 136,
+      "frequency": 2,
+      "positions": [
+        6,
+        32
+      ]
+    },
+    "dispositifs": {
+      "term_id": 73556,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "turbuhaler": {
+      "term_id": 116550,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "utilisant": {
+      "term_id": 25684,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "chambre": {
+      "term_id": 64104,
+      "frequency": 2,
+      "positions": [
+        20,
+        9
+      ]
+    },
+    "inhalation": {
+      "term_id": 2009,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "haute": {
+      "term_id": 27431,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "filtre": {
+      "term_id": 117739,
+      "frequency": 2,
+      "positions": [
+        7,
+        5
+      ]
+    },
+    "ventilateur": {
+      "term_id": 411920,
+      "frequency": 2,
+      "positions": [
+        15,
+        6
+      ]
+    },
+    "pratique": {
+      "term_id": 14051,
+      "frequency": 2,
+      "positions": [
+        7,
+        78
+      ]
+    },
+    "solution": {
+      "term_id": 205,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "filtres": {
+      "term_id": 142165,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "expiratoire": {
+      "term_id": 73566,
+      "frequency": 2,
+      "positions": [
+        29,
+        11
+      ]
+    },
+    "connexion": {
+      "term_id": 117506,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "respirateur": {
+      "term_id": 225964,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "clos": {
+      "term_id": 39919,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "instillation": {
+      "term_id": 6764,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "isotonique": {
+      "term_id": 234643,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "ballon": {
+      "term_id": 87331,
+      "frequency": 4,
+      "positions": [
+        3,
+        13,
+        3,
+        1
+      ]
+    },
+    "transport": {
+      "term_id": 363,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "intubation": {
+      "term_id": 2521,
+      "frequency": 3,
+      "positions": [
+        17,
+        4,
+        28
+      ]
+    },
+    "souhaitable": {
+      "term_id": 70204,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "accompagner": {
+      "term_id": 54156,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "fuites": {
+      "term_id": 149770,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "cardiorespiratoire": {
+      "term_id": 134998,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "cardiaque": {
+      "term_id": 33865,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "portable": {
+      "term_id": 4030,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "rien": {
+      "term_id": 51584,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "poste": {
+      "term_id": 39033,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "infirmier": {
+      "term_id": 142389,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "papiers": {
+      "term_id": 213799,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "sortis": {
+      "term_id": 212405,
+      "frequency": 1,
+      "positions": [
+        6
+      ]
+    },
+    "extubation": {
+      "term_id": 11510,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "incluant": {
+      "term_id": 34116,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "peu": {
+      "term_id": 11625,
+      "frequency": 2,
+      "positions": [
+        16,
+        7
+      ]
+    },
+    "bronchiolites": {
+      "term_id": 43446,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "affecte": {
+      "term_id": 113304,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "sortant": {
+      "term_id": 260334,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "normale": {
+      "term_id": 14967,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "morbilivirus": {
+      "term_id": 177286,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "rougeole": {
+      "term_id": 47120,
+      "frequency": 2,
+      "positions": [
+        5,
+        35
+      ]
+    },
+    "complique": {
+      "term_id": 97632,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "complication": {
+      "term_id": 117,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "atteindre": {
+      "term_id": 35638,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "correspondent": {
+      "term_id": 19799,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "interstitielle": {
+      "term_id": 57095,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "maligne": {
+      "term_id": 31335,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "vitamines": {
+      "term_id": 169248,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "parvovirus": {
+      "term_id": 1148,
+      "frequency": 2,
+      "positions": [
+        1,
+        46
+      ]
+    },
+    "b19": {
+      "term_id": 259,
+      "frequency": 2,
+      "positions": [
+        2,
+        47
+      ]
+    },
+    "donneurs": {
+      "term_id": 118111,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "asymptomatiques": {
+      "term_id": 31351,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "infectieux": {
+      "term_id": 15647,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "touchant": {
+      "term_id": 54212,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "implication": {
+      "term_id": 105,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "aigus": {
+      "term_id": 55656,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "sous-jacente": {
+      "term_id": 57172,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "portant": {
+      "term_id": 21795,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "admis": {
+      "term_id": 33751,
+      "frequency": 1,
+      "positions": [
+        80
+      ]
+    },
+    "AG7088": {
+      "term_id": 27321,
+      "frequency": 1,
+      "positions": [
+        117
+      ]
+    },
+    "secteur": {
+      "term_id": 56764,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "enjeu": {
+      "term_id": 101200,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "majeur": {
+      "term_id": 22173,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "directement": {
+      "term_id": 28485,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "vraisemblablement": {
+      "term_id": 73421,
+      "frequency": 1,
+      "positions": [
+        19
+      ]
+    },
+    "diagnostiques": {
+      "term_id": 27427,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "lourdes": {
+      "term_id": 30900,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "faisaient": {
+      "term_id": 339993,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "incompatible": {
+      "term_id": 7624,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "maintenant": {
+      "term_id": 34229,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "radicalement": {
+      "term_id": 340021,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "modifier": {
+      "term_id": 3345,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "notre": {
+      "term_id": 16500,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "initier": {
+      "term_id": 128939,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "sous-jacent": {
+      "term_id": 108881,
+      "frequency": 1,
+      "positions": [
+        112
+      ]
+    },
+    "antiviral": {
+      "term_id": 249,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "importants": {
+      "term_id": 31350,
+      "frequency": 1,
+      "positions": [
+        140
+      ]
+    },
+    "sensibles": {
+      "term_id": 21287,
+      "frequency": 1,
+      "positions": [
+        147
+      ]
+    },
+    "espoir": {
+      "term_id": 104323,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:29.391046",
+    "sections_count": 94
+  }
+}

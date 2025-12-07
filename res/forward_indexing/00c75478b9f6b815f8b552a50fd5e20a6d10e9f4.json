@@ -1,0 +1,562 @@
+{
+  "document_id": "00c75478b9f6b815f8b552a50fd5e20a6d10e9f4",
+  "source_type": "pdf_json",
+  "file_name": "00c75478b9f6b815f8b552a50fd5e20a6d10e9f4.json",
+  "total_terms": 116,
+  "unique_terms": 65,
+  "sections": {
+    "title": {
+      "term_count": 22,
+      "char_length": 554,
+      "top_terms": {
+        "covid-19": 3,
+        "hypoxia": 3,
+        "prohibition": 3,
+        "non-invasive": 3,
+        "positive": 3,
+        "end-expiratory": 3,
+        "pressure": 3,
+        "pre-proof": 1
+      }
+    },
+    "Dear Editor:": {
+      "term_count": 94,
+      "char_length": 3035,
+      "top_terms": {
+        "covid-19": 6,
+        "nippv": 6,
+        "ventilation": 5,
+        "eti": 5,
+        "cpap": 4,
+        "pandemic": 2,
+        "positive": 2,
+        "pressure": 2,
+        "patient": 2,
+        "transmission": 2,
+        "airflow": 2,
+        "therapy": 2,
+        "critical": 2,
+        "non-vented": 2,
+        "viral": 2,
+        "hypoxia": 1,
+        "non-invasive": 1,
+        "concentration": 1,
+        "anatomical": 1,
+        "rebreathing": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "pre-proof": {
+      "term_id": 806981,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "covid-19": {
+      "term_id": 52480,
+      "frequency": 9,
+      "positions": [
+        3,
+        28,
+        53,
+        1,
+        64,
+        67,
+        15,
+        63,
+        219
+      ]
+    },
+    "hypoxia": {
+      "term_id": 3013,
+      "frequency": 4,
+      "positions": [
+        4,
+        29,
+        54,
+        5
+      ]
+    },
+    "prohibition": {
+      "term_id": 12040,
+      "frequency": 3,
+      "positions": [
+        13,
+        38,
+        63
+      ]
+    },
+    "non-invasive": {
+      "term_id": 4736,
+      "frequency": 4,
+      "positions": [
+        19,
+        44,
+        69,
+        16
+      ]
+    },
+    "positive": {
+      "term_id": 140,
+      "frequency": 5,
+      "positions": [
+        20,
+        45,
+        70,
+        17,
+        52
+      ]
+    },
+    "end-expiratory": {
+      "term_id": 13019,
+      "frequency": 4,
+      "positions": [
+        21,
+        46,
+        71,
+        53
+      ]
+    },
+    "pressure": {
+      "term_id": 502,
+      "frequency": 5,
+      "positions": [
+        22,
+        47,
+        72,
+        18,
+        54
+      ]
+    },
+    "pandemic": {
+      "term_id": 291,
+      "frequency": 2,
+      "positions": [
+        2,
+        241
+      ]
+    },
+    "ventilation": {
+      "term_id": 1243,
+      "frequency": 5,
+      "positions": [
+        19,
+        74,
+        40,
+        48,
+        58
+      ]
+    },
+    "nippv": {
+      "term_id": 46168,
+      "frequency": 6,
+      "positions": [
+        20,
+        50,
+        10,
+        32,
+        53,
+        102
+      ]
+    },
+    "concentration": {
+      "term_id": 34,
+      "frequency": 1,
+      "positions": [
+        32
+      ]
+    },
+    "patient": {
+      "term_id": 2,
+      "frequency": 2,
+      "positions": [
+        39,
+        98
+      ]
+    },
+    "anatomical": {
+      "term_id": 3932,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "rebreathing": {
+      "term_id": 49362,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "emergency": {
+      "term_id": 453,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "medicine": {
+      "term_id": 238,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "began": {
+      "term_id": 1424,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "exposure": {
+      "term_id": 233,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "virus": {
+      "term_id": 3,
+      "frequency": 1,
+      "positions": [
+        84
+      ]
+    },
+    "aerosolization": {
+      "term_id": 7155,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "endotracheal": {
+      "term_id": 3980,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "intubation": {
+      "term_id": 2521,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "eti": {
+      "term_id": 78041,
+      "frequency": 5,
+      "positions": [
+        90,
+        11,
+        12,
+        40,
+        113
+      ]
+    },
+    "over-utilization": {
+      "term_id": 225532,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "extremely": {
+      "term_id": 923,
+      "frequency": 1,
+      "positions": [
+        15
+      ]
+    },
+    "systematic": {
+      "term_id": 674,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "transmission": {
+      "term_id": 240,
+      "frequency": 2,
+      "positions": [
+        31,
+        34
+      ]
+    },
+    "sars": {
+      "term_id": 292,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "icu": {
+      "term_id": 1399,
+      "frequency": 1,
+      "positions": [
+        63
+      ]
+    },
+    "mechanical": {
+      "term_id": 1214,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "vitro": {
+      "term_id": 340,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "airflow": {
+      "term_id": 3383,
+      "frequency": 2,
+      "positions": [
+        88,
+        122
+      ]
+    },
+    "dispersal": {
+      "term_id": 4545,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "cpap": {
+      "term_id": 13399,
+      "frequency": 4,
+      "positions": [
+        93,
+        172,
+        191,
+        200
+      ]
+    },
+    "furthermore": {
+      "term_id": 328,
+      "frequency": 1,
+      "positions": [
+        0
+      ]
+    },
+    "overseas": {
+      "term_id": 5648,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "important": {
+      "term_id": 106,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "retrospective": {
+      "term_id": 969,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "approximately": {
+      "term_id": 367,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "italy": {
+      "term_id": 1372,
+      "frequency": 1,
+      "positions": [
+        37
+      ]
+    },
+    "therapy": {
+      "term_id": 122,
+      "frequency": 2,
+      "positions": [
+        44,
+        89
+      ]
+    },
+    "invasive": {
+      "term_id": 1294,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "handbook": {
+      "term_id": 2697,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "prevention": {
+      "term_id": 324,
+      "frequency": 1,
+      "positions": [
+        64
+      ]
+    },
+    "management": {
+      "term_id": 385,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "hypoxic": {
+      "term_id": 5804,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "advocate": {
+      "term_id": 2013,
+      "frequency": 1,
+      "positions": [
+        80
+      ]
+    },
+    "critical": {
+      "term_id": 286,
+      "frequency": 2,
+      "positions": [
+        86,
+        110
+      ]
+    },
+    "respiratory": {
+      "term_id": 91,
+      "frequency": 1,
+      "positions": [
+        88
+      ]
+    },
+    "mitigate": {
+      "term_id": 1363,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "negative": {
+      "term_id": 234,
+      "frequency": 1,
+      "positions": [
+        121
+      ]
+    },
+    "isolation": {
+      "term_id": 295,
+      "frequency": 1,
+      "positions": [
+        143
+      ]
+    },
+    "airborne": {
+      "term_id": 1765,
+      "frequency": 1,
+      "positions": [
+        149
+      ]
+    },
+    "ppe": {
+      "term_id": 3926,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    },
+    "surgical": {
+      "term_id": 1331,
+      "frequency": 1,
+      "positions": [
+        156
+      ]
+    },
+    "non-vented": {
+      "term_id": 254170,
+      "frequency": 2,
+      "positions": [
+        170,
+        199
+      ]
+    },
+    "self-inflating": {
+      "term_id": 228598,
+      "frequency": 1,
+      "positions": [
+        176
+      ]
+    },
+    "viral": {
+      "term_id": 92,
+      "frequency": 2,
+      "positions": [
+        179,
+        203
+      ]
+    },
+    "org": {
+      "term_id": 859,
+      "frequency": 1,
+      "positions": [
+        188
+      ]
+    },
+    "helmeted": {
+      "term_id": 212522,
+      "frequency": 1,
+      "positions": [
+        196
+      ]
+    },
+    "set-up": {
+      "term_id": 10131,
+      "frequency": 1,
+      "positions": [
+        197
+      ]
+    },
+    "expiratory": {
+      "term_id": 3850,
+      "frequency": 1,
+      "positions": [
+        207
+      ]
+    },
+    "creative": {
+      "term_id": 5478,
+      "frequency": 1,
+      "positions": [
+        231
+      ]
+    },
+    "armamentarium": {
+      "term_id": 14204,
+      "frequency": 1,
+      "positions": [
+        238
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.661071",
+    "sections_count": 4
+  }
+}

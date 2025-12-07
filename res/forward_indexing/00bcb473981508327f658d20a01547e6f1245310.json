@@ -1,0 +1,1333 @@
+{
+  "document_id": "00bcb473981508327f658d20a01547e6f1245310",
+  "source_type": "pdf_json",
+  "file_name": "00bcb473981508327f658d20a01547e6f1245310.json",
+  "total_terms": 355,
+  "unique_terms": 140,
+  "sections": {
+    "title": {
+      "term_count": 3,
+      "char_length": 39,
+      "top_terms": {
+        "distance": 1,
+        "reverse-transcription": 1,
+        "pcr": 1
+      }
+    },
+    "": {
+      "term_count": 83,
+      "char_length": 1886,
+      "top_terms": {
+        "mm": 8,
+        "pcr": 6,
+        "amplification": 3,
+        "ph": 3,
+        "edta": 3,
+        "RT-primer": 2,
+        "transcription": 2,
+        "reaction": 2,
+        "cdna": 2,
+        "template": 2,
+        "oligonucleotide": 2,
+        "hcov": 2,
+        "rna": 2,
+        "rt-pcr": 2,
+        "Tris-HCl": 2,
+        "licl": 2,
+        "specific": 1,
+        "concentration": 1,
+        "experience": 1,
+        "stringent": 1
+      }
+    },
+    "The RNA Template: Preparation of Poly(A)-Containing RNA Using Oligo(dT) 25 -Dynabeads": {
+      "term_count": 66,
+      "char_length": 1374,
+      "top_terms": {
+        "ml": 5,
+        "oligo": 4,
+        "dt": 4,
+        "poly": 3,
+        "rna": 3,
+        "dynabeads": 3,
+        "magnetic": 3,
+        "ice-cold": 3,
+        "incubate": 3,
+        "appropriate": 2,
+        "dynal": 2,
+        "particle": 2,
+        "concentrator": 2,
+        "resuspend": 2,
+        "pbs": 2,
+        "cell": 2,
+        "supernatant": 2,
+        "protocol": 1,
+        "isolation": 1,
+        "confluent": 1
+      }
+    },
+    "The PCR Reaction": {
+      "term_count": 14,
+      "char_length": 421,
+      "top_terms": {
+        "pcr": 2,
+        "dna": 1,
+        "cdna": 1,
+        "technology": 1,
+        "applicable": 1,
+        "protocol": 1,
+        "reaction": 1,
+        "elongase": 1,
+        "enzyme": 1,
+        "addition": 1,
+        "oligonucleotide": 1,
+        "rt-pcr": 1,
+        "kbp": 1
+      }
+    },
+    "Notes": {
+      "term_count": 179,
+      "char_length": 4082,
+      "top_terms": {
+        "rna": 17,
+        "magnetic": 8,
+        "recommend": 6,
+        "oligo": 6,
+        "dt": 6,
+        "pcr": 6,
+        "poly": 5,
+        "hcov": 5,
+        "rt": 4,
+        "template": 4,
+        "rt-pcr": 4,
+        "kbp": 4,
+        "different": 3,
+        "dna": 3,
+        "cdna": 3,
+        "synthesis": 3,
+        "kb": 3,
+        "necessary": 3,
+        "amplification": 3,
+        "tissue": 2
+      }
+    },
+    "back_matter": {
+      "term_count": 10,
+      "char_length": 240,
+      "top_terms": {
+        "rashtchian": 1,
+        "superscript": 1,
+        "ii": 1,
+        "transcriptase": 1,
+        "elongase": 1,
+        "enzyme": 1,
+        "sfb": 1,
+        "b1": 1,
+        "research": 1,
+        "dfg": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "distance": {
+      "term_id": 512,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "reverse-transcription": {
+      "term_id": 4753,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "pcr": {
+      "term_id": 377,
+      "frequency": 15,
+      "positions": [
+        3,
+        59,
+        13,
+        21,
+        35,
+        182,
+        189,
+        13,
+        40,
+        62,
+        249,
+        288,
+        76,
+        90,
+        143
+      ]
+    },
+    "specific": {
+      "term_id": 118,
+      "frequency": 2,
+      "positions": [
+        5,
+        264
+      ]
+    },
+    "concentration": {
+      "term_id": 34,
+      "frequency": 3,
+      "positions": [
+        16,
+        272,
+        125
+      ]
+    },
+    "RT-primer": {
+      "term_id": 184621,
+      "frequency": 4,
+      "positions": [
+        19,
+        52,
+        265,
+        301
+      ]
+    },
+    "transcription": {
+      "term_id": 526,
+      "frequency": 4,
+      "positions": [
+        23,
+        50,
+        154,
+        200
+      ]
+    },
+    "reaction": {
+      "term_id": 67,
+      "frequency": 5,
+      "positions": [
+        24,
+        40,
+        25,
+        63,
+        234
+      ]
+    },
+    "experience": {
+      "term_id": 132,
+      "frequency": 1,
+      "positions": [
+        27
+      ]
+    },
+    "stringent": {
+      "term_id": 2903,
+      "frequency": 2,
+      "positions": [
+        35,
+        237
+      ]
+    },
+    "rt": {
+      "term_id": 1351,
+      "frequency": 5,
+      "positions": [
+        39,
+        47,
+        222,
+        233,
+        286
+      ]
+    },
+    "fortuitous": {
+      "term_id": 18161,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "responsible": {
+      "term_id": 392,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "background": {
+      "term_id": 468,
+      "frequency": 2,
+      "positions": [
+        66,
+        248
+      ]
+    },
+    "amplification": {
+      "term_id": 698,
+      "frequency": 6,
+      "positions": [
+        67,
+        36,
+        44,
+        16,
+        41,
+        74
+      ]
+    },
+    "cdna": {
+      "term_id": 682,
+      "frequency": 6,
+      "positions": [
+        8,
+        46,
+        6,
+        163,
+        316,
+        30
+      ]
+    },
+    "template": {
+      "term_id": 699,
+      "frequency": 6,
+      "positions": [
+        9,
+        100,
+        160,
+        151,
+        298,
+        88
+      ]
+    },
+    "dsdna": {
+      "term_id": 4882,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "applicable": {
+      "term_id": 1497,
+      "frequency": 2,
+      "positions": [
+        42,
+        16
+      ]
+    },
+    "material": {
+      "term_id": 36,
+      "frequency": 3,
+      "positions": [
+        52,
+        109,
+        123
+      ]
+    },
+    "oligo": {
+      "term_id": 4553,
+      "frequency": 11,
+      "positions": [
+        59,
+        1,
+        78,
+        101,
+        169,
+        78,
+        97,
+        108,
+        146,
+        113,
+        156
+      ]
+    },
+    "dt": {
+      "term_id": 3070,
+      "frequency": 11,
+      "positions": [
+        60,
+        2,
+        79,
+        102,
+        170,
+        79,
+        98,
+        109,
+        147,
+        114,
+        157
+      ]
+    },
+    "magnetic": {
+      "term_id": 1984,
+      "frequency": 12,
+      "positions": [
+        61,
+        12,
+        103,
+        113,
+        57,
+        80,
+        99,
+        110,
+        148,
+        115,
+        158,
+        182
+      ]
+    },
+    "subheading": {
+      "term_id": 16767,
+      "frequency": 2,
+      "positions": [
+        66,
+        192
+      ]
+    },
+    "poly": {
+      "term_id": 1778,
+      "frequency": 9,
+      "positions": [
+        68,
+        7,
+        146,
+        154,
+        40,
+        90,
+        9,
+        126,
+        140
+      ]
+    },
+    "electrophoresis": {
+      "term_id": 1169,
+      "frequency": 2,
+      "positions": [
+        76,
+        53
+      ]
+    },
+    "viral": {
+      "term_id": 92,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "oligonucleotide": {
+      "term_id": 1966,
+      "frequency": 3,
+      "positions": [
+        88,
+        101,
+        46
+      ]
+    },
+    "agaaacttctcacgcactgg": {
+      "term_id": 655821,
+      "frequency": 1,
+      "positions": [
+        89
+      ]
+    },
+    "relationship": {
+      "term_id": 114,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "hcov": {
+      "term_id": 3726,
+      "frequency": 7,
+      "positions": [
+        97,
+        120,
+        15,
+        35,
+        55,
+        43,
+        58
+      ]
+    },
+    "rna": {
+      "term_id": 55,
+      "frequency": 22,
+      "positions": [
+        99,
+        122,
+        10,
+        148,
+        156,
+        19,
+        43,
+        52,
+        75,
+        93,
+        134,
+        159,
+        12,
+        27,
+        37,
+        143,
+        195,
+        207,
+        297,
+        25,
+        45,
+        59
+      ]
+    },
+    "rt-pcr": {
+      "term_id": 338541,
+      "frequency": 7,
+      "positions": [
+        104,
+        128,
+        56,
+        56,
+        94,
+        130,
+        117
+      ]
+    },
+    "oligonucleotides": {
+      "term_id": 2355,
+      "frequency": 1,
+      "positions": [
+        107
+      ]
+    },
+    "orientation": {
+      "term_id": 1784,
+      "frequency": 1,
+      "positions": [
+        114
+      ]
+    },
+    "position": {
+      "term_id": 169,
+      "frequency": 1,
+      "positions": [
+        116
+      ]
+    },
+    "relative": {
+      "term_id": 333,
+      "frequency": 1,
+      "positions": [
+        117
+      ]
+    },
+    "mm": {
+      "term_id": 516,
+      "frequency": 10,
+      "positions": [
+        134,
+        139,
+        149,
+        152,
+        154,
+        156,
+        169,
+        171,
+        125,
+        127
+      ]
+    },
+    "Tris-HCl": {
+      "term_id": 3056,
+      "frequency": 2,
+      "positions": [
+        135,
+        150
+      ]
+    },
+    "ph": {
+      "term_id": 573,
+      "frequency": 4,
+      "positions": [
+        136,
+        151,
+        158,
+        127
+      ]
+    },
+    "licl": {
+      "term_id": 21262,
+      "frequency": 2,
+      "positions": [
+        138,
+        153
+      ]
+    },
+    "ethylenediamine": {
+      "term_id": 24690,
+      "frequency": 1,
+      "positions": [
+        140
+      ]
+    },
+    "tetraacetic": {
+      "term_id": 22678,
+      "frequency": 1,
+      "positions": [
+        141
+      ]
+    },
+    "edta": {
+      "term_id": 1949,
+      "frequency": 4,
+      "positions": [
+        143,
+        155,
+        157,
+        126
+      ]
+    },
+    "dodecylsulfate": {
+      "term_id": 67564,
+      "frequency": 1,
+      "positions": [
+        145
+      ]
+    },
+    "superscript": {
+      "term_id": 3708,
+      "frequency": 3,
+      "positions": [
+        159,
+        293,
+        13
+      ]
+    },
+    "ii": {
+      "term_id": 310,
+      "frequency": 3,
+      "positions": [
+        160,
+        294,
+        14
+      ]
+    },
+    "transcriptase": {
+      "term_id": 1241,
+      "frequency": 2,
+      "positions": [
+        162,
+        16
+      ]
+    },
+    "first-strand": {
+      "term_id": 12529,
+      "frequency": 1,
+      "positions": [
+        165
+      ]
+    },
+    "dithiothreitol": {
+      "term_id": 5824,
+      "frequency": 1,
+      "positions": [
+        176
+      ]
+    },
+    "dtt": {
+      "term_id": 4129,
+      "frequency": 1,
+      "positions": [
+        177
+      ]
+    },
+    "rnasin": {
+      "term_id": 14868,
+      "frequency": 2,
+      "positions": [
+        178,
+        158
+      ]
+    },
+    "pharmacia": {
+      "term_id": 4982,
+      "frequency": 1,
+      "positions": [
+        180
+      ]
+    },
+    "thin-wall": {
+      "term_id": 280714,
+      "frequency": 1,
+      "positions": [
+        181
+      ]
+    },
+    "elongase": {
+      "term_id": 129915,
+      "frequency": 3,
+      "positions": [
+        184,
+        28,
+        18
+      ]
+    },
+    "enzyme": {
+      "term_id": 79,
+      "frequency": 5,
+      "positions": [
+        185,
+        29,
+        295,
+        139,
+        19
+      ]
+    },
+    "protocol": {
+      "term_id": 211,
+      "frequency": 2,
+      "positions": [
+        1,
+        20
+      ]
+    },
+    "isolation": {
+      "term_id": 295,
+      "frequency": 1,
+      "positions": [
+        5
+      ]
+    },
+    "confluent": {
+      "term_id": 3072,
+      "frequency": 2,
+      "positions": [
+        13,
+        22
+      ]
+    },
+    "adherent": {
+      "term_id": 4137,
+      "frequency": 1,
+      "positions": [
+        16
+      ]
+    },
+    "cm": {
+      "term_id": 830,
+      "frequency": 2,
+      "positions": [
+        21,
+        29
+      ]
+    },
+    "tissue": {
+      "term_id": 37,
+      "frequency": 3,
+      "positions": [
+        22,
+        10,
+        30
+      ]
+    },
+    "dynabeads": {
+      "term_id": 21825,
+      "frequency": 3,
+      "positions": [
+        3,
+        80,
+        171
+      ]
+    },
+    "appropriate": {
+      "term_id": 389,
+      "frequency": 2,
+      "positions": [
+        10,
+        111
+      ]
+    },
+    "dynal": {
+      "term_id": 38076,
+      "frequency": 3,
+      "positions": [
+        11,
+        112,
+        169
+      ]
+    },
+    "particle": {
+      "term_id": 32,
+      "frequency": 3,
+      "positions": [
+        13,
+        114,
+        58
+      ]
+    },
+    "concentrator": {
+      "term_id": 19298,
+      "frequency": 2,
+      "positions": [
+        14,
+        115
+      ]
+    },
+    "resuspend": {
+      "term_id": 1004,
+      "frequency": 3,
+      "positions": [
+        18,
+        47,
+        118
+      ]
+    },
+    "ml": {
+      "term_id": 334,
+      "frequency": 7,
+      "positions": [
+        22,
+        36,
+        52,
+        83,
+        133,
+        84,
+        103
+      ]
+    },
+    "ice-cold": {
+      "term_id": 5488,
+      "frequency": 3,
+      "positions": [
+        30,
+        37,
+        53
+      ]
+    },
+    "pbs": {
+      "term_id": 117986,
+      "frequency": 2,
+      "positions": [
+        31,
+        38
+      ]
+    },
+    "cell": {
+      "term_id": 1,
+      "frequency": 4,
+      "positions": [
+        49,
+        64,
+        12,
+        23
+      ]
+    },
+    "lysis": {
+      "term_id": 1392,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "incubate": {
+      "term_id": 78,
+      "frequency": 3,
+      "positions": [
+        57,
+        88,
+        137
+      ]
+    },
+    "centrifuge": {
+      "term_id": 792,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "supernatant": {
+      "term_id": 410,
+      "frequency": 2,
+      "positions": [
+        76,
+        151
+      ]
+    },
+    "completely": {
+      "term_id": 665,
+      "frequency": 1,
+      "positions": [
+        118
+      ]
+    },
+    "transfer": {
+      "term_id": 179,
+      "frequency": 2,
+      "positions": [
+        128,
+        95
+      ]
+    },
+    "solution": {
+      "term_id": 205,
+      "frequency": 1,
+      "positions": [
+        130
+      ]
+    },
+    "eppendorf": {
+      "term_id": 7089,
+      "frequency": 2,
+      "positions": [
+        134,
+        104
+      ]
+    },
+    "regenerate": {
+      "term_id": 3505,
+      "frequency": 1,
+      "positions": [
+        167
+      ]
+    },
+    "manufacturer": {
+      "term_id": 607,
+      "frequency": 2,
+      "positions": [
+        175,
+        166
+      ]
+    },
+    "optional": {
+      "term_id": 8613,
+      "frequency": 2,
+      "positions": [
+        178,
+        128
+      ]
+    },
+    "dna": {
+      "term_id": 277,
+      "frequency": 4,
+      "positions": [
+        3,
+        123,
+        72,
+        78
+      ]
+    },
+    "technology": {
+      "term_id": 108,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "addition": {
+      "term_id": 131,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "kbp": {
+      "term_id": 11727,
+      "frequency": 5,
+      "positions": [
+        59,
+        71,
+        98,
+        135,
+        111
+      ]
+    },
+    "recommend": {
+      "term_id": 101,
+      "frequency": 6,
+      "positions": [
+        16,
+        156,
+        203,
+        278,
+        311,
+        97
+      ]
+    },
+    "preparation": {
+      "term_id": 304,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 3,
+      "positions": [
+        56,
+        21,
+        282
+      ]
+    },
+    "concentrators": {
+      "term_id": 35377,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "cellular": {
+      "term_id": 349,
+      "frequency": 1,
+      "positions": [
+        122
+      ]
+    },
+    "additional": {
+      "term_id": 270,
+      "frequency": 1,
+      "positions": [
+        141
+      ]
+    },
+    "strongly": {
+      "term_id": 634,
+      "frequency": 1,
+      "positions": [
+        155
+      ]
+    },
+    "integrity": {
+      "term_id": 1479,
+      "frequency": 1,
+      "positions": [
+        161
+      ]
+    },
+    "synthesis": {
+      "term_id": 479,
+      "frequency": 3,
+      "positions": [
+        164,
+        317,
+        31
+      ]
+    },
+    "routinely": {
+      "term_id": 1290,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "northern": {
+      "term_id": 1395,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "hybridization": {
+      "term_id": 1431,
+      "frequency": 2,
+      "positions": [
+        5,
+        104
+      ]
+    },
+    "analysis": {
+      "term_id": 90,
+      "frequency": 2,
+      "positions": [
+        6,
+        105
+      ]
+    },
+    "MRC-5": {
+      "term_id": 11338,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "possible": {
+      "term_id": 136,
+      "frequency": 2,
+      "positions": [
+        31,
+        138
+      ]
+    },
+    "identify": {
+      "term_id": 11,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "kb": {
+      "term_id": 1327,
+      "frequency": 3,
+      "positions": [
+        38,
+        45,
+        321
+      ]
+    },
+    "subgenomic": {
+      "term_id": 2652,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "kb-6": {
+      "term_id": 655822,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "characteristic": {
+      "term_id": 38,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "pulse-field": {
+      "term_id": 93212,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "microliters": {
+      "term_id": 6184,
+      "frequency": 1,
+      "positions": [
+        59
+      ]
+    },
+    "pfge": {
+      "term_id": 15867,
+      "frequency": 1,
+      "positions": [
+        67
+      ]
+    },
+    "together": {
+      "term_id": 365,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "highmolecular": {
+      "term_id": 142878,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "coronavirus": {
+      "term_id": 93,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "infection": {
+      "term_id": 4,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "sepharose": {
+      "term_id": 6619,
+      "frequency": 1,
+      "positions": [
+        128
+      ]
+    },
+    "necessary": {
+      "term_id": 368,
+      "frequency": 3,
+      "positions": [
+        219,
+        259,
+        39
+      ]
+    },
+    "therefore": {
+      "term_id": 162,
+      "frequency": 1,
+      "positions": [
+        255
+      ]
+    },
+    "absolutely": {
+      "term_id": 4101,
+      "frequency": 1,
+      "positions": [
+        258
+      ]
+    },
+    "RT-reaction": {
+      "term_id": 182303,
+      "frequency": 1,
+      "positions": [
+        275
+      ]
+    },
+    "furthermore": {
+      "term_id": 328,
+      "frequency": 1,
+      "positions": [
+        276
+      ]
+    },
+    "minimize": {
+      "term_id": 697,
+      "frequency": 1,
+      "positions": [
+        307
+      ]
+    },
+    "unspecific": {
+      "term_id": 7733,
+      "frequency": 1,
+      "positions": [
+        308
+      ]
+    },
+    "incubation": {
+      "term_id": 589,
+      "frequency": 2,
+      "positions": [
+        312,
+        2
+      ]
+    },
+    "temperature": {
+      "term_id": 232,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "beneficial": {
+      "term_id": 1085,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "digestion": {
+      "term_id": 1735,
+      "frequency": 1,
+      "positions": [
+        22
+      ]
+    },
+    "rnase": {
+      "term_id": 2040,
+      "frequency": 2,
+      "positions": [
+        27,
+        70
+      ]
+    },
+    "relatively": {
+      "term_id": 390,
+      "frequency": 1,
+      "positions": [
+        61
+      ]
+    },
+    "abundant": {
+      "term_id": 1346,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "dystrophin": {
+      "term_id": 16875,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "mrna": {
+      "term_id": 214,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "treatment": {
+      "term_id": 66,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "RT-PCRs": {
+      "term_id": 14851,
+      "frequency": 1,
+      "positions": [
+        105
+      ]
+    },
+    "synthesize": {
+      "term_id": 245,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "mg": {
+      "term_id": 500,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "rashtchian": {
+      "term_id": 120026,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "sfb": {
+      "term_id": 28409,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "b1": {
+      "term_id": 147,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "research": {
+      "term_id": 130,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "dfg": {
+      "term_id": 22356,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:31.572203",
+    "sections_count": 10
+  }
+}

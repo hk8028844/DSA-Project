@@ -1,0 +1,3437 @@
+{
+  "document_id": "000bc3d4637530496ac4cb798e10d95709eff92d",
+  "source_type": "pdf_json",
+  "file_name": "000bc3d4637530496ac4cb798e10d95709eff92d.json",
+  "total_terms": 1013,
+  "unique_terms": 342,
+  "sections": {
+    "title": {
+      "term_count": 4,
+      "char_length": 81,
+      "top_terms": {
+        "fda": 1,
+        "diagnostic": 1,
+        "clinical": 1,
+        "respiratory": 1
+      }
+    },
+    "": {
+      "term_count": 31,
+      "char_length": 899,
+      "top_terms": {
+        "fda": 3,
+        "clearance": 3,
+        "respiratory": 3,
+        "diagnostic": 2,
+        "premarket": 2,
+        "molecular-based": 2,
+        "submission": 1,
+        "application": 1,
+        "pma": 1,
+        "approval": 1,
+        "notification": 1,
+        "multiplex": 1,
+        "beginning": 1,
+        "diagnosis": 1,
+        "multiple": 1,
+        "simultaneously": 1,
+        "availability": 1,
+        "patient": 1,
+        "development": 1,
+        "epidemiology": 1
+      }
+    },
+    "DEFINITION OF IN VITRO DIAGNOSTIC DEVICES": {
+      "term_count": 99,
+      "char_length": 2820,
+      "top_terms": {
+        "fda": 12,
+        "microbiology": 4,
+        "vitro": 4,
+        "diagnostic": 4,
+        "cfr": 4,
+        "responsibility": 3,
+        "evaluation": 3,
+        "diagnosis": 3,
+        "regulatory": 2,
+        "research": 2,
+        "ivds": 2,
+        "respiratory": 2,
+        "specific": 2,
+        "overview": 2,
+        "disease": 2,
+        "ivd": 2,
+        "effectiveness": 2,
+        "eg": 2,
+        "administration": 1,
+        "oversight": 1
+      }
+    },
+    "THERAPEUTICS VERSUS DIAGNOSTICS": {
+      "term_count": 50,
+      "char_length": 1705,
+      "top_terms": {
+        "clinical": 3,
+        "fda": 2,
+        "approval": 2,
+        "prospective": 2,
+        "analytical": 2,
+        "familiar": 1,
+        "well-controlled": 1,
+        "establish": 1,
+        "efficacy": 1,
+        "cfr": 1,
+        "standard": 1,
+        "regulatory": 1,
+        "comparative": 1,
+        "contrast": 1,
+        "typically": 1,
+        "performance": 1,
+        "multicenter": 1,
+        "population": 1,
+        "extensive": 1,
+        "nonclinical": 1
+      }
+    },
+    "Intended Use": {
+      "term_count": 57,
+      "char_length": 1677,
+      "top_terms": {
+        "iu": 6,
+        "respiratory": 4,
+        "eg": 3,
+        "specific": 3,
+        "diagnostic": 2,
+        "analyte": 2,
+        "organism": 2,
+        "infection": 2,
+        "antigen": 2,
+        "critical": 2,
+        "performance": 2,
+        "strongly": 1,
+        "explicit": 1,
+        "statement": 1,
+        "biomarker": 1,
+        "clinical": 1,
+        "disease": 1,
+        "qualitative": 1,
+        "pathogen": 1,
+        "commonly": 1
+      }
+    },
+    "Reference Methods and Clinical Studies": {
+      "term_count": 146,
+      "char_length": 4167,
+      "top_terms": {
+        "clinical": 14,
+        "reference": 13,
+        "performance": 12,
+        "influenza": 5,
+        "diagnostic": 4,
+        "specific": 3,
+        "fda": 3,
+        "available": 3,
+        "analytical": 3,
+        "different": 3,
+        "appropriate": 3,
+        "multiplex": 3,
+        "comparator": 2,
+        "presence": 2,
+        "criteria": 2,
+        "identical": 2,
+        "streptococcus": 2,
+        "benchmark": 1,
+        "condition": 1,
+        "qualitative": 1
+      }
+    },
+    "Assay Interpretation": {
+      "term_count": 132,
+      "char_length": 3662,
+      "top_terms": {
+        "specificity": 10,
+        "reference": 10,
+        "clinical": 9,
+        "positive": 9,
+        "sensitivity": 8,
+        "negative": 7,
+        "analyte": 5,
+        "agreement": 4,
+        "criteria": 3,
+        "iu": 3,
+        "disease": 3,
+        "infection": 3,
+        "eg": 2,
+        "equivocal": 2,
+        "performance": 2,
+        "diagnostic": 2,
+        "probability": 2,
+        "fraction": 2,
+        "aspergillosis": 2,
+        "interpretation": 1
+      }
+    },
+    "Prevalence, Negative Predictive Values, and Positive Predictive Values": {
+      "term_count": 142,
+      "char_length": 3772,
+      "top_terms": {
+        "npv": 13,
+        "sensitivity": 11,
+        "ppv": 11,
+        "prevalence": 9,
+        "positive": 6,
+        "specificity": 6,
+        "negative": 6,
+        "condition": 5,
+        "interest": 5,
+        "confidence": 4,
+        "predictive": 4,
+        "diagnosis": 4,
+        "clinical": 3,
+        "reference": 3,
+        "tn": 3,
+        "disease": 2,
+        "pathogen": 2,
+        "performance": 2,
+        "patient": 2,
+        "percentage": 2
+      }
+    },
+    "Retrospective Versus Prospective Studies": {
+      "term_count": 62,
+      "char_length": 1600,
+      "top_terms": {
+        "prevalence": 5,
+        "performance": 3,
+        "clinical": 3,
+        "retrospective": 2,
+        "representative": 2,
+        "ppv": 2,
+        "npv": 2,
+        "disease": 2,
+        "sensitivity": 2,
+        "specificity": 2,
+        "prospective": 1,
+        "iu": 1,
+        "population": 1,
+        "estimate": 1,
+        "real-world": 1,
+        "diagnostic": 1,
+        "potential": 1,
+        "bioterrorism": 1,
+        "eg": 1,
+        "impossible": 1
+      }
+    },
+    "Reproducibility/Precision and Other Analytical Studies": {
+      "term_count": 64,
+      "char_length": 1742,
+      "top_terms": {
+        "analytical": 5,
+        "clinical": 4,
+        "multiple": 3,
+        "precision": 3,
+        "positive": 3,
+        "performance": 2,
+        "reproducibility": 2,
+        "variability": 2,
+        "negative": 2,
+        "quantitative": 2,
+        "possible": 2,
+        "necessary": 2,
+        "evaluate": 1,
+        "site-to-site": 1,
+        "variation": 1,
+        "different": 1,
+        "instrument-specific": 1,
+        "guidance": 1,
+        "vitro": 1,
+        "diagnostic": 1
+      }
+    },
+    "Evaluating Multiplex Assays": {
+      "term_count": 54,
+      "char_length": 1324,
+      "top_terms": {
+        "multiplex": 9,
+        "respiratory": 4,
+        "fda": 3,
+        "viral": 3,
+        "simultaneously": 2,
+        "pathogen": 2,
+        "guidance": 2,
+        "vitro": 1,
+        "diagnostic": 1,
+        "clearance": 1,
+        "multiple": 1,
+        "technical": 1,
+        "definition": 1,
+        "preparation": 1,
+        "amplification": 1,
+        "discrimination": 1,
+        "collective": 1,
+        "interpretation": 1,
+        "essentially": 1,
+        "eg": 1
+      }
+    },
+    "Clinical Laboratory Improvement Amendments Waivers": {
+      "term_count": 91,
+      "char_length": 3240,
+      "top_terms": {
+        "clia": 6,
+        "CLIA-waived": 6,
+        "clinical": 4,
+        "laboratory": 4,
+        "diagnostic": 4,
+        "application": 4,
+        "fda": 4,
+        "eg": 3,
+        "performance": 3,
+        "improvement": 2,
+        "point-of-care": 2,
+        "specific": 2,
+        "vitro": 2,
+        "regulatory": 2,
+        "adequate": 2,
+        "laboratorian": 2,
+        "CLIA-waiver": 2,
+        "categorization": 1,
+        "sufficiently": 1,
+        "different": 1
+      }
+    },
+    "PRE-INVESTIGATIONAL DEVICE EXEMPTION CONSULTATION (PRESUBMISSION ADVICE)": {
+      "term_count": 54,
+      "char_length": 1585,
+      "top_terms": {
+        "fda": 8,
+        "pre-IDE": 4,
+        "submission": 3,
+        "investigational": 2,
+        "diagnostic": 2,
+        "development": 2,
+        "ivds": 1,
+        "patient": 1,
+        "ivd": 1,
+        "exemption": 1,
+        "radiological": 1,
+        "division": 1,
+        "microbiology": 1,
+        "consultative": 1,
+        "extensive": 1,
+        "potential": 1,
+        "regulatory": 1,
+        "strongly": 1,
+        "consider": 1,
+        "especially": 1
+      }
+    },
+    "CONCLUSIONS": {
+      "term_count": 25,
+      "char_length": 759,
+      "top_terms": {
+        "diagnostic": 3,
+        "consider": 2,
+        "development": 2,
+        "previous": 1,
+        "discussion": 1,
+        "vitro": 1,
+        "extensive": 1,
+        "multiplex": 1,
+        "microbiology": 1,
+        "potential": 1,
+        "regulatory": 1,
+        "essential": 1,
+        "clinical": 1,
+        "analytical": 1,
+        "performance": 1,
+        "appropriate": 1,
+        "statistical": 1,
+        "interactive": 1,
+        "dialogue": 1,
+        "fda": 1
+      }
+    },
+    "back_matter": {
+      "term_count": 2,
+      "char_length": 59,
+      "top_terms": {
+        "potential": 1,
+        "interest": 1
+      }
+    }
+  },
+  "term_frequencies": {
+    "fda": {
+      "term_id": 2325,
+      "frequency": 40,
+      "positions": [
+        0,
+        7,
+        52,
+        114,
+        5,
+        28,
+        119,
+        153,
+        66,
+        8,
+        0,
+        10,
+        23,
+        37,
+        44,
+        90,
+        1,
+        145,
+        19,
+        97,
+        78,
+        100,
+        132,
+        25,
+        12,
+        1,
+        21,
+        94,
+        102,
+        107,
+        19,
+        38,
+        84,
+        113,
+        140,
+        9,
+        21,
+        27,
+        70,
+        95
+      ]
+    },
+    "diagnostic": {
+      "term_id": 430,
+      "frequency": 29,
+      "positions": [
+        3,
+        12,
+        25,
+        85,
+        96,
+        147,
+        21,
+        11,
+        1,
+        33,
+        27,
+        32,
+        107,
+        117,
+        72,
+        81,
+        71,
+        15,
+        64,
+        8,
+        30,
+        104,
+        17,
+        124,
+        75,
+        7,
+        16,
+        27,
+        50
+      ]
+    },
+    "clinical": {
+      "term_id": 107,
+      "frequency": 43,
+      "positions": [
+        5,
+        50,
+        63,
+        77,
+        52,
+        36,
+        57,
+        133,
+        176,
+        206,
+        227,
+        36,
+        87,
+        6,
+        71,
+        0,
+        34,
+        58,
+        101,
+        16,
+        17,
+        27,
+        48,
+        145,
+        173,
+        204,
+        133,
+        138,
+        43,
+        6,
+        2,
+        18,
+        12,
+        93,
+        32,
+        70,
+        59,
+        26,
+        1,
+        35,
+        125,
+        111,
+        59
+      ]
+    },
+    "respiratory": {
+      "term_id": 91,
+      "frequency": 17,
+      "positions": [
+        8,
+        69,
+        90,
+        119,
+        111,
+        162,
+        15,
+        88,
+        30,
+        45,
+        56,
+        136,
+        27,
+        5,
+        18,
+        41,
+        6
+      ]
+    },
+    "submission": {
+      "term_id": 3229,
+      "frequency": 6,
+      "positions": [
+        5,
+        11,
+        152,
+        67,
+        94,
+        162
+      ]
+    },
+    "clearance": {
+      "term_id": 1095,
+      "frequency": 6,
+      "positions": [
+        9,
+        35,
+        53,
+        34,
+        13,
+        90
+      ]
+    },
+    "premarket": {
+      "term_id": 53875,
+      "frequency": 4,
+      "positions": [
+        15,
+        29,
+        29,
+        55
+      ]
+    },
+    "application": {
+      "term_id": 72,
+      "frequency": 6,
+      "positions": [
+        16,
+        56,
+        90,
+        84,
+        4,
+        88
+      ]
+    },
+    "pma": {
+      "term_id": 9273,
+      "frequency": 3,
+      "positions": [
+        17,
+        57,
+        53
+      ]
+    },
+    "approval": {
+      "term_id": 1416,
+      "frequency": 6,
+      "positions": [
+        22,
+        3,
+        26,
+        36,
+        55,
+        91
+      ]
+    },
+    "notification": {
+      "term_id": 3426,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "molecular-based": {
+      "term_id": 17303,
+      "frequency": 2,
+      "positions": [
+        55,
+        85
+      ]
+    },
+    "multiplex": {
+      "term_id": 1323,
+      "frequency": 14,
+      "positions": [
+        56,
+        238,
+        133,
+        143,
+        15,
+        29,
+        56,
+        8,
+        17,
+        47,
+        67,
+        9,
+        41,
+        34
+      ]
+    },
+    "beginning": {
+      "term_id": 19517,
+      "frequency": 2,
+      "positions": [
+        60,
+        86
+      ]
+    },
+    "diagnosis": {
+      "term_id": 325,
+      "frequency": 8,
+      "positions": [
+        67,
+        69,
+        104,
+        13,
+        57,
+        77,
+        84,
+        48
+      ]
+    },
+    "multiple": {
+      "term_id": 180,
+      "frequency": 6,
+      "positions": [
+        76,
+        243,
+        8,
+        26,
+        29,
+        21
+      ]
+    },
+    "simultaneously": {
+      "term_id": 976,
+      "frequency": 3,
+      "positions": [
+        78,
+        23,
+        36
+      ]
+    },
+    "availability": {
+      "term_id": 821,
+      "frequency": 2,
+      "positions": [
+        83,
+        130
+      ]
+    },
+    "patient": {
+      "term_id": 2,
+      "frequency": 5,
+      "positions": [
+        99,
+        68,
+        39,
+        23,
+        10
+      ]
+    },
+    "development": {
+      "term_id": 98,
+      "frequency": 7,
+      "positions": [
+        102,
+        14,
+        30,
+        100,
+        64,
+        22,
+        99
+      ]
+    },
+    "epidemiology": {
+      "term_id": 447,
+      "frequency": 1,
+      "positions": [
+        106
+      ]
+    },
+    "overview": {
+      "term_id": 938,
+      "frequency": 3,
+      "positions": [
+        111,
+        133,
+        5
+      ]
+    },
+    "diagnostics": {
+      "term_id": 1084,
+      "frequency": 2,
+      "positions": [
+        117,
+        80
+      ]
+    },
+    "administration": {
+      "term_id": 532,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "regulatory": {
+      "term_id": 765,
+      "frequency": 8,
+      "positions": [
+        7,
+        91,
+        25,
+        58,
+        13,
+        23,
+        82,
+        40
+      ]
+    },
+    "responsibility": {
+      "term_id": 1220,
+      "frequency": 3,
+      "positions": [
+        8,
+        66,
+        92
+      ]
+    },
+    "oversight": {
+      "term_id": 6396,
+      "frequency": 2,
+      "positions": [
+        16,
+        56
+      ]
+    },
+    "backbone": {
+      "term_id": 2172,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "practice": {
+      "term_id": 99,
+      "frequency": 2,
+      "positions": [
+        27,
+        35
+      ]
+    },
+    "postmarket": {
+      "term_id": 143907,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "administratively": {
+      "term_id": 42948,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "evaluation": {
+      "term_id": 258,
+      "frequency": 4,
+      "positions": [
+        43,
+        50,
+        87,
+        64
+      ]
+    },
+    "research": {
+      "term_id": 130,
+      "frequency": 2,
+      "positions": [
+        45,
+        52
+      ]
+    },
+    "cder": {
+      "term_id": 64337,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "biologics": {
+      "term_id": 6442,
+      "frequency": 1,
+      "positions": [
+        49
+      ]
+    },
+    "cber": {
+      "term_id": 27903,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "radiological": {
+      "term_id": 2768,
+      "frequency": 2,
+      "positions": [
+        59,
+        43
+      ]
+    },
+    "treatment": {
+      "term_id": 66,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "division": {
+      "term_id": 1438,
+      "frequency": 2,
+      "positions": [
+        75,
+        47
+      ]
+    },
+    "microbiology": {
+      "term_id": 867,
+      "frequency": 6,
+      "positions": [
+        77,
+        146,
+        158,
+        20,
+        49,
+        37
+      ]
+    },
+    "vitro": {
+      "term_id": 340,
+      "frequency": 10,
+      "positions": [
+        84,
+        95,
+        145,
+        62,
+        10,
+        63,
+        7,
+        103,
+        123,
+        15
+      ]
+    },
+    "ivds": {
+      "term_id": 103468,
+      "frequency": 3,
+      "positions": [
+        98,
+        0,
+        4
+      ]
+    },
+    "infectious": {
+      "term_id": 124,
+      "frequency": 1,
+      "positions": [
+        108
+      ]
+    },
+    "specific": {
+      "term_id": 118,
+      "frequency": 13,
+      "positions": [
+        115,
+        164,
+        87,
+        42,
+        73,
+        70,
+        14,
+        47,
+        51,
+        245,
+        51,
+        87,
+        101
+      ]
+    },
+    "cfr": {
+      "term_id": 7349,
+      "frequency": 5,
+      "positions": [
+        130,
+        141,
+        53,
+        130,
+        18
+      ]
+    },
+    "highlight": {
+      "term_id": 261,
+      "frequency": 1,
+      "positions": [
+        135
+      ]
+    },
+    "relevant": {
+      "term_id": 520,
+      "frequency": 1,
+      "positions": [
+        142
+      ]
+    },
+    "disease": {
+      "term_id": 8,
+      "frequency": 11,
+      "positions": [
+        15,
+        35,
+        53,
+        78,
+        110,
+        134,
+        232,
+        18,
+        32,
+        98,
+        125
+      ]
+    },
+    "determination": {
+      "term_id": 684,
+      "frequency": 1,
+      "positions": [
+        21
+      ]
+    },
+    "mitigate": {
+      "term_id": 1363,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "collection": {
+      "term_id": 445,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "preparation": {
+      "term_id": 304,
+      "frequency": 2,
+      "positions": [
+        44,
+        44
+      ]
+    },
+    "examination": {
+      "term_id": 460,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "biological": {
+      "term_id": 378,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "ivd": {
+      "term_id": 26581,
+      "frequency": 4,
+      "positions": [
+        74,
+        96,
+        121,
+        20
+      ]
+    },
+    "effectiveness": {
+      "term_id": 796,
+      "frequency": 2,
+      "positions": [
+        78,
+        93
+      ]
+    },
+    "criteria": {
+      "term_id": 652,
+      "frequency": 8,
+      "positions": [
+        87,
+        108,
+        85,
+        25,
+        56,
+        116,
+        44,
+        93
+      ]
+    },
+    "regulation": {
+      "term_id": 285,
+      "frequency": 1,
+      "positions": [
+        101
+      ]
+    },
+    "performance": {
+      "term_id": 683,
+      "frequency": 30,
+      "positions": [
+        117,
+        51,
+        81,
+        54,
+        28,
+        120,
+        149,
+        190,
+        65,
+        93,
+        117,
+        39,
+        56,
+        70,
+        102,
+        113,
+        68,
+        82,
+        72,
+        149,
+        12,
+        19,
+        9,
+        3,
+        29,
+        24,
+        28,
+        46,
+        92,
+        67
+      ]
+    },
+    "appropriate": {
+      "term_id": 389,
+      "frequency": 7,
+      "positions": [
+        120,
+        168,
+        226,
+        9,
+        270,
+        122,
+        78
+      ]
+    },
+    "accuracy": {
+      "term_id": 1178,
+      "frequency": 1,
+      "positions": [
+        125
+      ]
+    },
+    "precision": {
+      "term_id": 2767,
+      "frequency": 4,
+      "positions": [
+        126,
+        10,
+        59,
+        7
+      ]
+    },
+    "specificity": {
+      "term_id": 376,
+      "frequency": 20,
+      "positions": [
+        127,
+        75,
+        135,
+        152,
+        178,
+        208,
+        226,
+        275,
+        25,
+        93,
+        135,
+        138,
+        2,
+        4,
+        44,
+        8,
+        104,
+        139,
+        148,
+        21
+      ]
+    },
+    "sensitivity": {
+      "term_id": 414,
+      "frequency": 24,
+      "positions": [
+        129,
+        57,
+        74,
+        133,
+        0,
+        94,
+        151,
+        23,
+        91,
+        134,
+        8,
+        29,
+        37,
+        60,
+        82,
+        136,
+        1,
+        3,
+        42,
+        6,
+        100,
+        137,
+        147,
+        1
+      ]
+    },
+    "following": {
+      "term_id": 37934,
+      "frequency": 2,
+      "positions": [
+        1,
+        21
+      ]
+    },
+    "discussion": {
+      "term_id": 174,
+      "frequency": 4,
+      "positions": [
+        2,
+        121,
+        158,
+        2
+      ]
+    },
+    "regularly": {
+      "term_id": 1977,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "consistent": {
+      "term_id": 399,
+      "frequency": 2,
+      "positions": [
+        16,
+        24
+      ]
+    },
+    "applicable": {
+      "term_id": 1497,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "eg": {
+      "term_id": 2082,
+      "frequency": 12,
+      "positions": [
+        38,
+        61,
+        40,
+        79,
+        95,
+        30,
+        93,
+        31,
+        69,
+        46,
+        60,
+        22
+      ]
+    },
+    "guidance": {
+      "term_id": 1326,
+      "frequency": 8,
+      "positions": [
+        60,
+        113,
+        101,
+        57,
+        4,
+        26,
+        103,
+        71
+      ]
+    },
+    "initially": {
+      "term_id": 618,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "opportunity": {
+      "term_id": 417,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "prespecified": {
+      "term_id": 23146,
+      "frequency": 2,
+      "positions": [
+        80,
+        41
+      ]
+    },
+    "familiar": {
+      "term_id": 3189,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "well-controlled": {
+      "term_id": 12101,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "establish": {
+      "term_id": 54,
+      "frequency": 2,
+      "positions": [
+        14,
+        25
+      ]
+    },
+    "efficacy": {
+      "term_id": 498,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "standard": {
+      "term_id": 115,
+      "frequency": 2,
+      "positions": [
+        23,
+        42
+      ]
+    },
+    "comparative": {
+      "term_id": 620,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "contrast": {
+      "term_id": 262,
+      "frequency": 2,
+      "positions": [
+        34,
+        202
+      ]
+    },
+    "typically": {
+      "term_id": 701,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "prospective": {
+      "term_id": 805,
+      "frequency": 4,
+      "positions": [
+        57,
+        76,
+        52,
+        0
+      ]
+    },
+    "multicenter": {
+      "term_id": 2113,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "population": {
+      "term_id": 35,
+      "frequency": 3,
+      "positions": [
+        64,
+        260,
+        5
+      ]
+    },
+    "extensive": {
+      "term_id": 615,
+      "frequency": 3,
+      "positions": [
+        67,
+        72,
+        24
+      ]
+    },
+    "nonclinical": {
+      "term_id": 13955,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "analytical": {
+      "term_id": 1545,
+      "frequency": 11,
+      "positions": [
+        69,
+        65,
+        131,
+        161,
+        204,
+        50,
+        0,
+        20,
+        28,
+        46,
+        61
+      ]
+    },
+    "prevalence": {
+      "term_id": 473,
+      "frequency": 15,
+      "positions": [
+        75,
+        15,
+        4,
+        5,
+        34,
+        12,
+        48,
+        20,
+        84,
+        111,
+        1,
+        24,
+        88,
+        99,
+        143
+      ]
+    },
+    "feasible": {
+      "term_id": 1542,
+      "frequency": 1,
+      "positions": [
+        81
+      ]
+    },
+    "difference": {
+      "term_id": 25,
+      "frequency": 1,
+      "positions": [
+        2
+      ]
+    },
+    "existence": {
+      "term_id": 1213,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "distinct": {
+      "term_id": 432,
+      "frequency": 1,
+      "positions": [
+        12
+      ]
+    },
+    "substantially": {
+      "term_id": 1272,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "equivalent": {
+      "term_id": 937,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "previously": {
+      "term_id": 201,
+      "frequency": 3,
+      "positions": [
+        39,
+        16,
+        9
+      ]
+    },
+    "entirely": {
+      "term_id": 1812,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "higher-risk": {
+      "term_id": 31239,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "important": {
+      "term_id": 106,
+      "frequency": 5,
+      "positions": [
+        61,
+        17,
+        218,
+        106,
+        33
+      ]
+    },
+    "technology": {
+      "term_id": 108,
+      "frequency": 2,
+      "positions": [
+        74,
+        56
+      ]
+    },
+    "moderate": {
+      "term_id": 826,
+      "frequency": 1,
+      "positions": [
+        104
+      ]
+    },
+    "potential": {
+      "term_id": 102,
+      "frequency": 5,
+      "positions": [
+        135,
+        28,
+        81,
+        39,
+        0
+      ]
+    },
+    "essential": {
+      "term_id": 317,
+      "frequency": 4,
+      "positions": [
+        0,
+        82,
+        31,
+        54
+      ]
+    },
+    "pathogen": {
+      "term_id": 14,
+      "frequency": 7,
+      "positions": [
+        16,
+        74,
+        52,
+        48,
+        8,
+        31,
+        36
+      ]
+    },
+    "strongly": {
+      "term_id": 634,
+      "frequency": 4,
+      "positions": [
+        6,
+        17,
+        85,
+        102
+      ]
+    },
+    "iu": {
+      "term_id": 3177,
+      "frequency": 12,
+      "positions": [
+        12,
+        22,
+        58,
+        21,
+        78,
+        17,
+        107,
+        119,
+        246,
+        259,
+        4,
+        126
+      ]
+    },
+    "explicit": {
+      "term_id": 4222,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "statement": {
+      "term_id": 952,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "analyte": {
+      "term_id": 7162,
+      "frequency": 9,
+      "positions": [
+        32,
+        67,
+        48,
+        33,
+        35,
+        94,
+        127,
+        137,
+        9
+      ]
+    },
+    "organism": {
+      "term_id": 97,
+      "frequency": 3,
+      "positions": [
+        43,
+        49,
+        77
+      ]
+    },
+    "biomarker": {
+      "term_id": 2996,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "infection": {
+      "term_id": 4,
+      "frequency": 7,
+      "positions": [
+        56,
+        32,
+        200,
+        45,
+        56,
+        69,
+        20
+      ]
+    },
+    "qualitative": {
+      "term_id": 1696,
+      "frequency": 4,
+      "positions": [
+        66,
+        31,
+        20,
+        1
+      ]
+    },
+    "antigen": {
+      "term_id": 40,
+      "frequency": 2,
+      "positions": [
+        83,
+        61
+      ]
+    },
+    "commonly": {
+      "term_id": 488,
+      "frequency": 1,
+      "positions": [
+        86
+      ]
+    },
+    "quantitative": {
+      "term_id": 550,
+      "frequency": 3,
+      "positions": [
+        94,
+        37,
+        2
+      ]
+    },
+    "viral": {
+      "term_id": 92,
+      "frequency": 5,
+      "positions": [
+        96,
+        137,
+        19,
+        30,
+        7
+      ]
+    },
+    "antibody": {
+      "term_id": 10,
+      "frequency": 1,
+      "positions": [
+        100
+      ]
+    },
+    "specimen": {
+      "term_id": 58,
+      "frequency": 2,
+      "positions": [
+        1,
+        12
+      ]
+    },
+    "component": {
+      "term_id": 59,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "nasopharyngeal": {
+      "term_id": 1201,
+      "frequency": 1,
+      "positions": [
+        38
+      ]
+    },
+    "bronchoalveolar": {
+      "term_id": 2099,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "critical": {
+      "term_id": 286,
+      "frequency": 3,
+      "positions": [
+        74,
+        51,
+        2
+      ]
+    },
+    "significantly": {
+      "term_id": 237,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "different": {
+      "term_id": 95,
+      "frequency": 7,
+      "positions": [
+        86,
+        144,
+        193,
+        4,
+        97,
+        51,
+        41
+      ]
+    },
+    "influenza": {
+      "term_id": 221,
+      "frequency": 8,
+      "positions": [
+        25,
+        210,
+        218,
+        76,
+        120,
+        146,
+        59,
+        75
+      ]
+    },
+    "point-ofcare": {
+      "term_id": 34458,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "laboratory": {
+      "term_id": 70,
+      "frequency": 6,
+      "positions": [
+        43,
+        72,
+        2,
+        36,
+        75,
+        112
+      ]
+    },
+    "professional": {
+      "term_id": 554,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "laboratorians": {
+      "term_id": 25355,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "dramatically": {
+      "term_id": 1434,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "benchmark": {
+      "term_id": 5154,
+      "frequency": 2,
+      "positions": [
+        7,
+        40
+      ]
+    },
+    "condition": {
+      "term_id": 20,
+      "frequency": 6,
+      "positions": [
+        16,
+        88,
+        46,
+        65,
+        88,
+        115
+      ]
+    },
+    "reference": {
+      "term_id": 322,
+      "frequency": 26,
+      "positions": [
+        37,
+        48,
+        58,
+        80,
+        111,
+        134,
+        162,
+        207,
+        228,
+        10,
+        37,
+        28,
+        72,
+        102,
+        130,
+        18,
+        49,
+        79,
+        90,
+        174,
+        205,
+        12,
+        41,
+        55,
+        130,
+        16
+      ]
+    },
+    "available": {
+      "term_id": 164,
+      "frequency": 7,
+      "positions": [
+        40,
+        66,
+        90,
+        140,
+        10,
+        67,
+        67
+      ]
+    },
+    "comparator": {
+      "term_id": 12681,
+      "frequency": 2,
+      "positions": [
+        44,
+        83
+      ]
+    },
+    "circumstance": {
+      "term_id": 815,
+      "frequency": 1,
+      "positions": [
+        55
+      ]
+    },
+    "presence": {
+      "term_id": 195,
+      "frequency": 2,
+      "positions": [
+        71,
+        216
+      ]
+    },
+    "incorporate": {
+      "term_id": 343,
+      "frequency": 1,
+      "positions": [
+        83
+      ]
+    },
+    "enzyme": {
+      "term_id": 79,
+      "frequency": 1,
+      "positions": [
+        94
+      ]
+    },
+    "immunosorbent": {
+      "term_id": 1541,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "elisa": {
+      "term_id": 757,
+      "frequency": 1,
+      "positions": [
+        98
+      ]
+    },
+    "evaluate": {
+      "term_id": 42,
+      "frequency": 3,
+      "positions": [
+        118,
+        1,
+        115
+      ]
+    },
+    "confusion": {
+      "term_id": 3028,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "sometimes": {
+      "term_id": 945,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "identical": {
+      "term_id": 797,
+      "frequency": 3,
+      "positions": [
+        140,
+        213,
+        70
+      ]
+    },
+    "separate": {
+      "term_id": 225,
+      "frequency": 1,
+      "positions": [
+        142
+      ]
+    },
+    "streptococcus": {
+      "term_id": 1349,
+      "frequency": 2,
+      "positions": [
+        158,
+        183
+      ]
+    },
+    "pharyngitis": {
+      "term_id": 4281,
+      "frequency": 1,
+      "positions": [
+        179
+      ]
+    },
+    "colonizer": {
+      "term_id": 9760,
+      "frequency": 1,
+      "positions": [
+        188
+      ]
+    },
+    "colonization": {
+      "term_id": 1903,
+      "frequency": 1,
+      "positions": [
+        198
+      ]
+    },
+    "abnormal": {
+      "term_id": 1305,
+      "frequency": 1,
+      "positions": [
+        223
+      ]
+    },
+    "particularly": {
+      "term_id": 362,
+      "frequency": 2,
+      "positions": [
+        232,
+        20
+      ]
+    },
+    "community-acquired": {
+      "term_id": 2116,
+      "frequency": 1,
+      "positions": [
+        247
+      ]
+    },
+    "pneumonia": {
+      "term_id": 342,
+      "frequency": 1,
+      "positions": [
+        248
+      ]
+    },
+    "possible": {
+      "term_id": 136,
+      "frequency": 3,
+      "positions": [
+        254,
+        26,
+        12
+      ]
+    },
+    "introduce": {
+      "term_id": 185,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "recently": {
+      "term_id": 236,
+      "frequency": 3,
+      "positions": [
+        15,
+        13,
+        43
+      ]
+    },
+    "metapneumovirus": {
+      "term_id": 1452,
+      "frequency": 1,
+      "positions": [
+        20
+      ]
+    },
+    "difficult": {
+      "term_id": 439,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "traditional": {
+      "term_id": 861,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "ascertainment": {
+      "term_id": 11032,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "polymerase": {
+      "term_id": 289,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "reaction": {
+      "term_id": 67,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "pcr": {
+      "term_id": 377,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "bidirectional": {
+      "term_id": 6291,
+      "frequency": 1,
+      "positions": [
+        56
+      ]
+    },
+    "dna": {
+      "term_id": 277,
+      "frequency": 1,
+      "positions": [
+        57
+      ]
+    },
+    "necessary": {
+      "term_id": 368,
+      "frequency": 3,
+      "positions": [
+        61,
+        7,
+        33
+      ]
+    },
+    "differentiate": {
+      "term_id": 443,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "subtypes": {
+      "term_id": 1338,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "relatively": {
+      "term_id": 390,
+      "frequency": 1,
+      "positions": [
+        85
+      ]
+    },
+    "comparators": {
+      "term_id": 31742,
+      "frequency": 1,
+      "positions": [
+        108
+      ]
+    },
+    "subtyping": {
+      "term_id": 6171,
+      "frequency": 1,
+      "positions": [
+        148
+      ]
+    },
+    "discordance": {
+      "term_id": 9952,
+      "frequency": 1,
+      "positions": [
+        13
+      ]
+    },
+    "objective": {
+      "term_id": 255,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "ascertain": {
+      "term_id": 2143,
+      "frequency": 2,
+      "positions": [
+        38,
+        37
+      ]
+    },
+    "retesting": {
+      "term_id": 17333,
+      "frequency": 2,
+      "positions": [
+        44,
+        62
+      ]
+    },
+    "discrepant": {
+      "term_id": 9743,
+      "frequency": 1,
+      "positions": [
+        45
+      ]
+    },
+    "optimistic": {
+      "term_id": 8624,
+      "frequency": 1,
+      "positions": [
+        53
+      ]
+    },
+    "consider": {
+      "term_id": 21,
+      "frequency": 5,
+      "positions": [
+        76,
+        44,
+        89,
+        19,
+        64
+      ]
+    },
+    "alternative": {
+      "term_id": 413,
+      "frequency": 3,
+      "positions": [
+        82,
+        24,
+        75
+      ]
+    },
+    "justification": {
+      "term_id": 5844,
+      "frequency": 1,
+      "positions": [
+        66
+      ]
+    },
+    "inclusion": {
+      "term_id": 679,
+      "frequency": 3,
+      "positions": [
+        82,
+        114,
+        42
+      ]
+    },
+    "exclusion": {
+      "term_id": 1595,
+      "frequency": 3,
+      "positions": [
+        84,
+        115,
+        43
+      ]
+    },
+    "sufficient": {
+      "term_id": 584,
+      "frequency": 1,
+      "positions": [
+        96
+      ]
+    },
+    "acceptable": {
+      "term_id": 1888,
+      "frequency": 2,
+      "positions": [
+        104,
+        94
+      ]
+    },
+    "interpretation": {
+      "term_id": 901,
+      "frequency": 2,
+      "positions": [
+        1,
+        53
+      ]
+    },
+    "investigational": {
+      "term_id": 5023,
+      "frequency": 3,
+      "positions": [
+        7,
+        17,
+        28
+      ]
+    },
+    "equivocal": {
+      "term_id": 7656,
+      "frequency": 3,
+      "positions": [
+        38,
+        58,
+        35
+      ]
+    },
+    "simplest": {
+      "term_id": 4547,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "approach": {
+      "term_id": 46,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "qualitatively": {
+      "term_id": 5101,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "prospectively": {
+      "term_id": 3397,
+      "frequency": 2,
+      "positions": [
+        107,
+        33
+      ]
+    },
+    "agreement": {
+      "term_id": 833,
+      "frequency": 5,
+      "positions": [
+        123,
+        88,
+        103,
+        118,
+        6
+      ]
+    },
+    "probability": {
+      "term_id": 798,
+      "frequency": 3,
+      "positions": [
+        3,
+        159,
+        36
+      ]
+    },
+    "positive": {
+      "term_id": 140,
+      "frequency": 18,
+      "positions": [
+        11,
+        21,
+        36,
+        45,
+        69,
+        76,
+        87,
+        214,
+        84,
+        48,
+        127,
+        10,
+        28,
+        73,
+        63,
+        15,
+        31,
+        17
+      ]
+    },
+    "fraction": {
+      "term_id": 420,
+      "frequency": 2,
+      "positions": [
+        31,
+        187
+      ]
+    },
+    "H1N1": {
+      "term_id": 886,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "security": {
+      "term_id": 1769,
+      "frequency": 1,
+      "positions": [
+        97
+      ]
+    },
+    "negative": {
+      "term_id": 234,
+      "frequency": 15,
+      "positions": [
+        103,
+        116,
+        167,
+        177,
+        192,
+        201,
+        86,
+        12,
+        30,
+        76,
+        95,
+        25,
+        72,
+        17,
+        33
+      ]
+    },
+    "fundamental": {
+      "term_id": 1190,
+      "frequency": 1,
+      "positions": [
+        122
+      ]
+    },
+    "consideration": {
+      "term_id": 371,
+      "frequency": 2,
+      "positions": [
+        123,
+        63
+      ]
+    },
+    "misinterpretation": {
+      "term_id": 12782,
+      "frequency": 1,
+      "positions": [
+        141
+      ]
+    },
+    "imperfect": {
+      "term_id": 6106,
+      "frequency": 1,
+      "positions": [
+        150
+      ]
+    },
+    "converse": {
+      "term_id": 12509,
+      "frequency": 1,
+      "positions": [
+        155
+      ]
+    },
+    "confidence": {
+      "term_id": 1177,
+      "frequency": 5,
+      "positions": [
+        211,
+        66,
+        143,
+        33,
+        38
+      ]
+    },
+    "recognize": {
+      "term_id": 74,
+      "frequency": 1,
+      "positions": [
+        220
+      ]
+    },
+    "although": {
+      "term_id": 116,
+      "frequency": 1,
+      "positions": [
+        222
+      ]
+    },
+    "interest": {
+      "term_id": 89,
+      "frequency": 7,
+      "positions": [
+        234,
+        90,
+        67,
+        90,
+        50,
+        117,
+        3
+      ]
+    },
+    "symptomatic": {
+      "term_id": 1123,
+      "frequency": 1,
+      "positions": [
+        241
+      ]
+    },
+    "asymptomatic": {
+      "term_id": 844,
+      "frequency": 1,
+      "positions": [
+        250
+      ]
+    },
+    "therefore": {
+      "term_id": 162,
+      "frequency": 1,
+      "positions": [
+        266
+      ]
+    },
+    "calculation": {
+      "term_id": 994,
+      "frequency": 1,
+      "positions": [
+        276
+      ]
+    },
+    "aspergillosis": {
+      "term_id": 4793,
+      "frequency": 2,
+      "positions": [
+        44,
+        55
+      ]
+    },
+    "galactomannan": {
+      "term_id": 12083,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "definition": {
+      "term_id": 472,
+      "frequency": 3,
+      "positions": [
+        53,
+        26,
+        66
+      ]
+    },
+    "invasive": {
+      "term_id": 1294,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "document": {
+      "term_id": 186,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "statistical": {
+      "term_id": 530,
+      "frequency": 2,
+      "positions": [
+        71,
+        79
+      ]
+    },
+    "unlikely": {
+      "term_id": 1059,
+      "frequency": 2,
+      "positions": [
+        125,
+        29
+      ]
+    },
+    "indicate": {
+      "term_id": 16,
+      "frequency": 1,
+      "positions": [
+        127
+      ]
+    },
+    "significant": {
+      "term_id": 138,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "dependent": {
+      "term_id": 531,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "uncertain": {
+      "term_id": 1878,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "uncommon": {
+      "term_id": 1807,
+      "frequency": 1,
+      "positions": [
+        115
+      ]
+    },
+    "respective": {
+      "term_id": 1189,
+      "frequency": 1,
+      "positions": [
+        141
+      ]
+    },
+    "calculate": {
+      "term_id": 94,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "predictive": {
+      "term_id": 1439,
+      "frequency": 4,
+      "positions": [
+        13,
+        77,
+        64,
+        73
+      ]
+    },
+    "ppv": {
+      "term_id": 7347,
+      "frequency": 13,
+      "positions": [
+        15,
+        19,
+        6,
+        17,
+        60,
+        6,
+        43,
+        23,
+        66,
+        126,
+        21,
+        77,
+        149
+      ]
+    },
+    "npv": {
+      "term_id": 12569,
+      "frequency": 15,
+      "positions": [
+        17,
+        21,
+        8,
+        19,
+        12,
+        18,
+        4,
+        41,
+        25,
+        75,
+        136,
+        140,
+        19,
+        79,
+        151
+      ]
+    },
+    "respectively": {
+      "term_id": 199,
+      "frequency": 1,
+      "positions": [
+        18
+      ]
+    },
+    "question": {
+      "term_id": 160,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "percentage": {
+      "term_id": 517,
+      "frequency": 2,
+      "positions": [
+        60,
+        83
+      ]
+    },
+    "similarly": {
+      "term_id": 522,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "relationship": {
+      "term_id": 114,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "importance": {
+      "term_id": 339,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "extremely": {
+      "term_id": 923,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "substantial": {
+      "term_id": 776,
+      "frequency": 3,
+      "positions": [
+        5,
+        118,
+        59
+      ]
+    },
+    "physician": {
+      "term_id": 300,
+      "frequency": 2,
+      "positions": [
+        37,
+        135
+      ]
+    },
+    "inappropriate": {
+      "term_id": 2489,
+      "frequency": 2,
+      "positions": [
+        10,
+        24
+      ]
+    },
+    "representative": {
+      "term_id": 719,
+      "frequency": 3,
+      "positions": [
+        18,
+        50,
+        67
+      ]
+    },
+    "pepe": {
+      "term_id": 31798,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "reasonable": {
+      "term_id": 1458,
+      "frequency": 1,
+      "positions": [
+        3
+      ]
+    },
+    "illustrate": {
+      "term_id": 415,
+      "frequency": 1,
+      "positions": [
+        17
+      ]
+    },
+    "two-sided": {
+      "term_id": 9913,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "interval": {
+      "term_id": 416,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "fn": {
+      "term_id": 10481,
+      "frequency": 2,
+      "positions": [
+        57,
+        80
+      ]
+    },
+    "tn": {
+      "term_id": 4958,
+      "frequency": 3,
+      "positions": [
+        58,
+        78,
+        79
+      ]
+    },
+    "fp": {
+      "term_id": 6093,
+      "frequency": 2,
+      "positions": [
+        59,
+        71
+      ]
+    },
+    "tp": {
+      "term_id": 3985,
+      "frequency": 2,
+      "positions": [
+        69,
+        70
+      ]
+    },
+    "negligibly": {
+      "term_id": 59275,
+      "frequency": 1,
+      "positions": [
+        142
+      ]
+    },
+    "estimate": {
+      "term_id": 43,
+      "frequency": 1,
+      "positions": [
+        9
+      ]
+    },
+    "real-world": {
+      "term_id": 7233,
+      "frequency": 1,
+      "positions": [
+        11
+      ]
+    },
+    "bioterrorism": {
+      "term_id": 3117,
+      "frequency": 1,
+      "positions": [
+        29
+      ]
+    },
+    "impossible": {
+      "term_id": 1830,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "retrospective": {
+      "term_id": 969,
+      "frequency": 2,
+      "positions": [
+        7,
+        29
+      ]
+    },
+    "repository": {
+      "term_id": 3219,
+      "frequency": 1,
+      "positions": [
+        62
+      ]
+    },
+    "separately": {
+      "term_id": 1487,
+      "frequency": 1,
+      "positions": [
+        72
+      ]
+    },
+    "plausible": {
+      "term_id": 2519,
+      "frequency": 1,
+      "positions": [
+        87
+      ]
+    },
+    "understood": {
+      "term_id": 921,
+      "frequency": 1,
+      "positions": [
+        102
+      ]
+    },
+    "appreciate": {
+      "term_id": 2017,
+      "frequency": 1,
+      "positions": [
+        108
+      ]
+    },
+    "nontrivial": {
+      "term_id": 33022,
+      "frequency": 1,
+      "positions": [
+        112
+      ]
+    },
+    "proportion": {
+      "term_id": 474,
+      "frequency": 1,
+      "positions": [
+        113
+      ]
+    },
+    "enrichment": {
+      "term_id": 2476,
+      "frequency": 1,
+      "positions": [
+        119
+      ]
+    },
+    "spectrum": {
+      "term_id": 793,
+      "frequency": 1,
+      "positions": [
+        126
+      ]
+    },
+    "situation": {
+      "term_id": 332,
+      "frequency": 1,
+      "positions": [
+        146
+      ]
+    },
+    "initiation": {
+      "term_id": 935,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "reproducibility": {
+      "term_id": 3322,
+      "frequency": 2,
+      "positions": [
+        18,
+        8
+      ]
+    },
+    "variability": {
+      "term_id": 1028,
+      "frequency": 2,
+      "positions": [
+        44,
+        55
+      ]
+    },
+    "site-to-site": {
+      "term_id": 119207,
+      "frequency": 1,
+      "positions": [
+        46
+      ]
+    },
+    "variation": {
+      "term_id": 239,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "instrument-specific": {
+      "term_id": 347036,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "institute": {
+      "term_id": 302,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "clsi": {
+      "term_id": 20469,
+      "frequency": 1,
+      "positions": [
+        75
+      ]
+    },
+    "guideline": {
+      "term_id": 87,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "EP5-2A": {
+      "term_id": 646824,
+      "frequency": 1,
+      "positions": [
+        77
+      ]
+    },
+    "measurement": {
+      "term_id": 235,
+      "frequency": 1,
+      "positions": [
+        51
+      ]
+    },
+    "decision": {
+      "term_id": 455,
+      "frequency": 1,
+      "positions": [
+        60
+      ]
+    },
+    "detection": {
+      "term_id": 171,
+      "frequency": 1,
+      "positions": [
+        4
+      ]
+    },
+    "crossreactivity": {
+      "term_id": 9039,
+      "frequency": 1,
+      "positions": [
+        23
+      ]
+    },
+    "interference": {
+      "term_id": 1287,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "blood": {
+      "term_id": 276,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "evidence": {
+      "term_id": 127,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "technical": {
+      "term_id": 891,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "amplification": {
+      "term_id": 698,
+      "frequency": 1,
+      "positions": [
+        48
+      ]
+    },
+    "discrimination": {
+      "term_id": 2663,
+      "frequency": 1,
+      "positions": [
+        50
+      ]
+    },
+    "collective": {
+      "term_id": 3255,
+      "frequency": 1,
+      "positions": [
+        52
+      ]
+    },
+    "essentially": {
+      "term_id": 1553,
+      "frequency": 1,
+      "positions": [
+        54
+      ]
+    },
+    "adenovirus": {
+      "term_id": 369,
+      "frequency": 1,
+      "positions": [
+        70
+      ]
+    },
+    "adequate": {
+      "term_id": 943,
+      "frequency": 3,
+      "positions": [
+        23,
+        27,
+        45
+      ]
+    },
+    "high-risk": {
+      "term_id": 1557,
+      "frequency": 1,
+      "positions": [
+        35
+      ]
+    },
+    "acute": {
+      "term_id": 100,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "syndrome": {
+      "term_id": 85,
+      "frequency": 1,
+      "positions": [
+        42
+      ]
+    },
+    "sars": {
+      "term_id": 292,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "coronavirus": {
+      "term_id": 93,
+      "frequency": 1,
+      "positions": [
+        44
+      ]
+    },
+    "standalone": {
+      "term_id": 17578,
+      "frequency": 1,
+      "positions": [
+        36
+      ]
+    },
+    "improvement": {
+      "term_id": 469,
+      "frequency": 2,
+      "positions": [
+        3,
+        113
+      ]
+    },
+    "clia": {
+      "term_id": 23296,
+      "frequency": 6,
+      "positions": [
+        6,
+        5,
+        82,
+        7,
+        86,
+        116
+      ]
+    },
+    "categorization": {
+      "term_id": 7483,
+      "frequency": 1,
+      "positions": [
+        8
+      ]
+    },
+    "sufficiently": {
+      "term_id": 1818,
+      "frequency": 1,
+      "positions": [
+        14
+      ]
+    },
+    "CLIA-waived": {
+      "term_id": 102641,
+      "frequency": 6,
+      "positions": [
+        20,
+        38,
+        83,
+        55,
+        97,
+        51
+      ]
+    },
+    "pregnancy": {
+      "term_id": 1383,
+      "frequency": 1,
+      "positions": [
+        47
+      ]
+    },
+    "point-of-care": {
+      "term_id": 4881,
+      "frequency": 2,
+      "positions": [
+        58,
+        76
+      ]
+    },
+    "emergency": {
+      "term_id": 453,
+      "frequency": 1,
+      "positions": [
+        65
+      ]
+    },
+    "hospital": {
+      "term_id": 60,
+      "frequency": 1,
+      "positions": [
+        74
+      ]
+    },
+    "authority": {
+      "term_id": 611,
+      "frequency": 1,
+      "positions": [
+        97
+      ]
+    },
+    "designate": {
+      "term_id": 605,
+      "frequency": 1,
+      "positions": [
+        99
+      ]
+    },
+    "streptococcal": {
+      "term_id": 4141,
+      "frequency": 1,
+      "positions": [
+        119
+      ]
+    },
+    "widespread": {
+      "term_id": 848,
+      "frequency": 1,
+      "positions": [
+        124
+      ]
+    },
+    "commercial": {
+      "term_id": 764,
+      "frequency": 1,
+      "positions": [
+        138
+      ]
+    },
+    "demonstrate": {
+      "term_id": 17,
+      "frequency": 1,
+      "positions": [
+        24
+      ]
+    },
+    "laboratorian": {
+      "term_id": 63242,
+      "frequency": 2,
+      "positions": [
+        36,
+        63
+      ]
+    },
+    "demonstration": {
+      "term_id": 1354,
+      "frequency": 1,
+      "positions": [
+        40
+      ]
+    },
+    "incubation": {
+      "term_id": 589,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "etc": {
+      "term_id": 1131,
+      "frequency": 1,
+      "positions": [
+        43
+      ]
+    },
+    "centrifugation": {
+      "term_id": 1233,
+      "frequency": 1,
+      "positions": [
+        71
+      ]
+    },
+    "processing": {
+      "term_id": 325559,
+      "frequency": 1,
+      "positions": [
+        73
+      ]
+    },
+    "eligible": {
+      "term_id": 2900,
+      "frequency": 1,
+      "positions": [
+        79
+      ]
+    },
+    "CLIA-waiver": {
+      "term_id": 646825,
+      "frequency": 2,
+      "positions": [
+        5,
+        37
+      ]
+    },
+    "represent": {
+      "term_id": 52,
+      "frequency": 1,
+      "positions": [
+        7
+      ]
+    },
+    "nonlaboratorians": {
+      "term_id": 375890,
+      "frequency": 1,
+      "positions": [
+        76
+      ]
+    },
+    "information": {
+      "term_id": 223,
+      "frequency": 1,
+      "positions": [
+        78
+      ]
+    },
+    "industry": {
+      "term_id": 710,
+      "frequency": 1,
+      "positions": [
+        105
+      ]
+    },
+    "especially": {
+      "term_id": 316,
+      "frequency": 2,
+      "positions": [
+        25,
+        103
+      ]
+    },
+    "stringent": {
+      "term_id": 2903,
+      "frequency": 1,
+      "positions": [
+        41
+      ]
+    },
+    "exemption": {
+      "term_id": 11209,
+      "frequency": 1,
+      "positions": [
+        30
+      ]
+    },
+    "pre-IDE": {
+      "term_id": 646826,
+      "frequency": 4,
+      "positions": [
+        66,
+        93,
+        110,
+        161
+      ]
+    },
+    "consultative": {
+      "term_id": 19357,
+      "frequency": 1,
+      "positions": [
+        68
+      ]
+    },
+    "instrumentation": {
+      "term_id": 5383,
+      "frequency": 1,
+      "positions": [
+        132
+      ]
+    },
+    "documentation": {
+      "term_id": 3141,
+      "frequency": 1,
+      "positions": [
+        141
+      ]
+    },
+    "hardware": {
+      "term_id": 8732,
+      "frequency": 1,
+      "positions": [
+        143
+      ]
+    },
+    "software": {
+      "term_id": 629,
+      "frequency": 1,
+      "positions": [
+        144
+      ]
+    },
+    "www": {
+      "term_id": 777,
+      "frequency": 1,
+      "positions": [
+        25
+      ]
+    },
+    "accessdata": {
+      "term_id": 132947,
+      "frequency": 1,
+      "positions": [
+        26
+      ]
+    },
+    "gov": {
+      "term_id": 1496,
+      "frequency": 1,
+      "positions": [
+        28
+      ]
+    },
+    "cfdocs": {
+      "term_id": 280269,
+      "frequency": 1,
+      "positions": [
+        31
+      ]
+    },
+    "pmn": {
+      "term_id": 11935,
+      "frequency": 1,
+      "positions": [
+        33
+      ]
+    },
+    "cfm": {
+      "term_id": 29957,
+      "frequency": 1,
+      "positions": [
+        34
+      ]
+    },
+    "addition": {
+      "term_id": 131,
+      "frequency": 1,
+      "positions": [
+        58
+      ]
+    },
+    "previous": {
+      "term_id": 267,
+      "frequency": 1,
+      "positions": [
+        1
+      ]
+    },
+    "interactive": {
+      "term_id": 3917,
+      "frequency": 1,
+      "positions": [
+        92
+      ]
+    },
+    "dialogue": {
+      "term_id": 7224,
+      "frequency": 1,
+      "positions": [
+        93
+      ]
+    }
+  },
+  "term_positions": {},
+  "metadata": {
+    "indexed_at": "2025-12-03T22:05:29.361247",
+    "sections_count": 45
+  }
+}
