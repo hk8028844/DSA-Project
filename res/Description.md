@@ -1,1 +1,0 @@
-Contains resource files
