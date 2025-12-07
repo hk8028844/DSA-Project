@@ -1,0 +1,218 @@
+{
+  "prefix": "myu",
+  "term_count": 6,
+  "total_documents": 24,
+  "terms": {
+    "myung": {
+      "0dbe4d649872b1ecd33637cf4bcdeca805d2b714": {
+        "frequency": 2,
+        "positions": [
+          130,
+          40
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "5d1d3f9a3b34b181feda136c814250aff7b46662": {
+        "frequency": 1,
+        "positions": [
+          6
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "5f643ea1bbd354f5ebfcbf96117d8bf8d9bd8de6": {
+        "frequency": 1,
+        "positions": [
+          12
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "5f94b5f7e914cb87d2f607a1b0ef03c135b0a2da": {
+        "frequency": 1,
+        "positions": [
+          23
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "64e656b48a08137d74a2e96d50f5b69c6a33ad38": {
+        "frequency": 1,
+        "positions": [
+          29
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "867ebb2be2d466bcb35e5a7319708eaff39c4799": {
+        "frequency": 1,
+        "positions": [
+          19
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "9835859ac79e1c8a90d901b165f29c457be5965e": {
+        "frequency": 1,
+        "positions": [
+          55
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "9dc23a08413da1f0a41e173128b0ceae440e921d": {
+        "frequency": 1,
+        "positions": [
+          75
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "a62b8baf3b2dfdb5f6812f208808599c06bab531": {
+        "frequency": 1,
+        "positions": [
+          28
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "b91b5695ffa97500f7fe0f880237dbce54ba4805": {
+        "frequency": 1,
+        "positions": [
+          27
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "c51a83b27c3ced74cf15ecdf79f47b217b1d9a9c": {
+        "frequency": 1,
+        "positions": [
+          15
+        ],
+        "source_type": "pdf_json",
+        "term_id": 29594
+      },
+      "PMC3713197.xml": {
+        "frequency": 3,
+        "positions": [
+          19,
+          17,
+          0
+        ],
+        "source_type": "pmc_json",
+        "term_id": 29594
+      },
+      "PMC4895366.xml": {
+        "frequency": 1,
+        "positions": [
+          11
+        ],
+        "source_type": "pmc_json",
+        "term_id": 29594
+      },
+      "PMC7121711.xml": {
+        "frequency": 1,
+        "positions": [
+          5
+        ],
+        "source_type": "pmc_json",
+        "term_id": 29594
+      }
+    },
+    "Myung-Heui": {
+      "14dd05a8a4501d8dd012a1763e8c75f6cebb3be1": {
+        "frequency": 1,
+        "positions": [
+          221
+        ],
+        "source_type": "pdf_json",
+        "term_id": 477701
+      },
+      "832ad82f7f5c6851fbe4729106c2e65a35f85c5e": {
+        "frequency": 1,
+        "positions": [
+          49
+        ],
+        "source_type": "pdf_json",
+        "term_id": 477701
+      }
+    },
+    "Myung-Joon": {
+      "33b1ca8ad6f8fd73da450615c130ad5577a77462": {
+        "frequency": 2,
+        "positions": [
+          32,
+          28
+        ],
+        "source_type": "pdf_json",
+        "term_id": 470454
+      },
+      "PMC7080092.xml": {
+        "frequency": 3,
+        "positions": [
+          12,
+          12,
+          14
+        ],
+        "source_type": "pmc_json",
+        "term_id": 470454
+      }
+    },
+    "Myung-Kon": {
+      "4d8c1c3a9883f12f8aaec7c909984bfbcdc0687c": {
+        "frequency": 1,
+        "positions": [
+          21
+        ],
+        "source_type": "pdf_json",
+        "term_id": 630283
+      },
+      "PMC7089404.xml": {
+        "frequency": 1,
+        "positions": [
+          21
+        ],
+        "source_type": "pmc_json",
+        "term_id": 630283
+      }
+    },
+    "myun": {
+      "7e44fbe01010454789c97dcd18dd3ce6f10598fe": {
+        "frequency": 1,
+        "positions": [
+          317
+        ],
+        "source_type": "pdf_json",
+        "term_id": 120436
+      },
+      "PMC7091910.xml": {
+        "frequency": 1,
+        "positions": [
+          143
+        ],
+        "source_type": "pmc_json",
+        "term_id": 120436
+      }
+    },
+    "Myung-bak": {
+      "a0675acbb108945b89ed1e65d832edb2425c0de3": {
+        "frequency": 1,
+        "positions": [
+          3
+        ],
+        "source_type": "pdf_json",
+        "term_id": 752036
+      },
+      "PMC7123650.xml": {
+        "frequency": 1,
+        "positions": [
+          3
+        ],
+        "source_type": "pmc_json",
+        "term_id": 752036
+      }
+    }
+  },
+  "created_at": "2025-12-04T02:31:40.964519"
+}

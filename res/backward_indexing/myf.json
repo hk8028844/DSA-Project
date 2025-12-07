@@ -1,0 +1,205 @@
+{
+  "prefix": "myf",
+  "term_count": 6,
+  "total_documents": 20,
+  "terms": {
+    "myfortic": {
+      "29f27a19ddf105e364f01948dc152bbd63398755": {
+        "frequency": 1,
+        "positions": [
+          6
+        ],
+        "source_type": "pdf_json",
+        "term_id": 512055
+      },
+      "5fa4a9f0afa22a21a215fb0129bd6c99b10ebc84": {
+        "frequency": 5,
+        "positions": [
+          46,
+          154,
+          5,
+          7,
+          7
+        ],
+        "source_type": "pdf_json",
+        "term_id": 512055
+      },
+      "a77e939ed3fe4cd91bc74ebd652da6ef763d4c1c": {
+        "frequency": 1,
+        "positions": [
+          73
+        ],
+        "source_type": "pdf_json",
+        "term_id": 512055
+      }
+    },
+    "myf5": {
+      "36ad3ea5e6380e9b6c4be753556f94d7355921fb": {
+        "frequency": 3,
+        "positions": [
+          221,
+          226,
+          459
+        ],
+        "source_type": "pdf_json",
+        "term_id": 399695
+      },
+      "a85bd6533482300d8a67cb7e91618935bbdc62ab": {
+        "frequency": 6,
+        "positions": [
+          35,
+          104,
+          27,
+          32,
+          40,
+          55
+        ],
+        "source_type": "pdf_json",
+        "term_id": 399695
+      },
+      "c4fe7ee15514db57bfebf7b2ff2fa8e43df0a1d5": {
+        "frequency": 1,
+        "positions": [
+          127
+        ],
+        "source_type": "pdf_json",
+        "term_id": 399695
+      },
+      "d2c7714f9582780b64e0a1568760a0a214a66812": {
+        "frequency": 1,
+        "positions": [
+          43
+        ],
+        "source_type": "pdf_json",
+        "term_id": 399695
+      },
+      "e6f248da2daf3a4bc18d187d792474c40850d150": {
+        "frequency": 5,
+        "positions": [
+          35,
+          27,
+          32,
+          40,
+          55
+        ],
+        "source_type": "pdf_json",
+        "term_id": 399695
+      },
+      "PMC3448880.xml": {
+        "frequency": 8,
+        "positions": [
+          82,
+          85,
+          34,
+          102,
+          28,
+          33,
+          41,
+          56
+        ],
+        "source_type": "pmc_json",
+        "term_id": 399695
+      },
+      "PMC7122595.xml": {
+        "frequency": 1,
+        "positions": [
+          141
+        ],
+        "source_type": "pmc_json",
+        "term_id": 399695
+      },
+      "PMC7122603.xml": {
+        "frequency": 1,
+        "positions": [
+          15
+        ],
+        "source_type": "pmc_json",
+        "term_id": 399695
+      }
+    },
+    "Myf4": {
+      "3d36ee73ea1b81bbb2fb18a85f71b6853c70a402": {
+        "frequency": 1,
+        "positions": [
+          17
+        ],
+        "source_type": "pdf_json",
+        "term_id": 470587
+      },
+      "44ac87e7fbae5580d1b1764b44a42e13526ea16a": {
+        "frequency": 1,
+        "positions": [
+          106
+        ],
+        "source_type": "pdf_json",
+        "term_id": 470587
+      },
+      "PMC7167840.xml": {
+        "frequency": 1,
+        "positions": [
+          47
+        ],
+        "source_type": "pmc_json",
+        "term_id": 470587
+      }
+    },
+    "myf": {
+      "7fa31ba02757720cdd1cb91fac7d5cf4b659f39f": {
+        "frequency": 1,
+        "positions": [
+          116
+        ],
+        "source_type": "pdf_json",
+        "term_id": 241305
+      }
+    },
+    "myfi": {
+      "91518c8dd2557ee864fc6cc0debcaf20899a457d": {
+        "frequency": 2,
+        "positions": [
+          4,
+          114
+        ],
+        "source_type": "pdf_json",
+        "term_id": 446810
+      },
+      "92ac464425e4747864fc47e14b52de8ee94692e5": {
+        "frequency": 2,
+        "positions": [
+          37,
+          49
+        ],
+        "source_type": "pdf_json",
+        "term_id": 446810
+      },
+      "PMC7079948.xml": {
+        "frequency": 2,
+        "positions": [
+          37,
+          49
+        ],
+        "source_type": "pmc_json",
+        "term_id": 446810
+      }
+    },
+    "Myfi-Polymerase": {
+      "92ac464425e4747864fc47e14b52de8ee94692e5": {
+        "frequency": 1,
+        "positions": [
+          17
+        ],
+        "source_type": "pdf_json",
+        "term_id": 611700
+      },
+      "PMC7079948.xml": {
+        "frequency": 1,
+        "positions": [
+          17
+        ],
+        "source_type": "pmc_json",
+        "term_id": 611700
+      }
+    }
+  },
+  "created_at": "2025-12-04T02:31:30.082462"
+}

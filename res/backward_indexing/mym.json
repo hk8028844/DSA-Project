@@ -1,0 +1,397 @@
+{
+  "prefix": "mym",
+  "term_count": 9,
+  "total_documents": 38,
+  "terms": {
+    "mymiv": {
+      "03169182dbf792f8d526793b82e8e0a2a4bf0f34": {
+        "frequency": 4,
+        "positions": [
+          35,
+          102,
+          14,
+          4
+        ],
+        "source_type": "pdf_json",
+        "term_id": 189233
+      },
+      "18a926203b0ee3fde40ee8bf38a472e427280d82": {
+        "frequency": 4,
+        "positions": [
+          104,
+          45,
+          104,
+          120
+        ],
+        "source_type": "pdf_json",
+        "term_id": 189233
+      },
+      "80dbdfbf10174a13cded449973fab8e6c12281c2": {
+        "frequency": 2,
+        "positions": [
+          70,
+          177
+        ],
+        "source_type": "pdf_json",
+        "term_id": 189233
+      },
+      "8990c147b5ff154d54aee565f9067a68045f2527": {
+        "frequency": 1,
+        "positions": [
+          55
+        ],
+        "source_type": "pdf_json",
+        "term_id": 189233
+      },
+      "b10c84f55b3e204b59d04fc46efcef39059d9d4b": {
+        "frequency": 9,
+        "positions": [
+          78,
+          72,
+          236,
+          19,
+          71,
+          9,
+          27,
+          199,
+          13
+        ],
+        "source_type": "pdf_json",
+        "term_id": 189233
+      },
+      "e87624d3eb855e75a0695201fd19f59a1e267e3f": {
+        "frequency": 2,
+        "positions": [
+          49,
+          61
+        ],
+        "source_type": "pdf_json",
+        "term_id": 189233
+      },
+      "PMC6638828.xml": {
+        "frequency": 2,
+        "positions": [
+          70,
+          186
+        ],
+        "source_type": "pmc_json",
+        "term_id": 189233
+      },
+      "PMC7089075.xml": {
+        "frequency": 2,
+        "positions": [
+          49,
+          61
+        ],
+        "source_type": "pmc_json",
+        "term_id": 189233
+      },
+      "PMC7120842.xml": {
+        "frequency": 4,
+        "positions": [
+          70,
+          137,
+          14,
+          4
+        ],
+        "source_type": "pmc_json",
+        "term_id": 189233
+      },
+      "PMC7164126.xml": {
+        "frequency": 14,
+        "positions": [
+          72,
+          239,
+          20,
+          71,
+          30,
+          40,
+          10,
+          30,
+          211,
+          160,
+          198,
+          57,
+          106,
+          13
+        ],
+        "source_type": "pmc_json",
+        "term_id": 189233
+      }
+    },
+    "MYMIV-AC2": {
+      "03169182dbf792f8d526793b82e8e0a2a4bf0f34": {
+        "frequency": 3,
+        "positions": [
+          16,
+          51,
+          69
+        ],
+        "source_type": "pdf_json",
+        "term_id": 378230
+      },
+      "b10c84f55b3e204b59d04fc46efcef39059d9d4b": {
+        "frequency": 4,
+        "positions": [
+          151,
+          186,
+          321,
+          366
+        ],
+        "source_type": "pdf_json",
+        "term_id": 378230
+      },
+      "PMC7120842.xml": {
+        "frequency": 4,
+        "positions": [
+          372,
+          1048,
+          1083,
+          1101
+        ],
+        "source_type": "pmc_json",
+        "term_id": 378230
+      }
+    },
+    "MYMIV-based": {
+      "03169182dbf792f8d526793b82e8e0a2a4bf0f34": {
+        "frequency": 1,
+        "positions": [
+          54
+        ],
+        "source_type": "pdf_json",
+        "term_id": 655928
+      },
+      "PMC7120842.xml": {
+        "frequency": 1,
+        "positions": [
+          54
+        ],
+        "source_type": "pmc_json",
+        "term_id": 655928
+      }
+    },
+    "mymonaviridae": {
+      "2a197ed4d48eae056f22353ce06e5702a6261ee6": {
+        "frequency": 1,
+        "positions": [
+          47
+        ],
+        "source_type": "pdf_json",
+        "term_id": 310058
+      },
+      "2de49a18d4fe289c409368654ee65465b9cb779c": {
+        "frequency": 1,
+        "positions": [
+          42
+        ],
+        "source_type": "pdf_json",
+        "term_id": 310058
+      },
+      "a2cce99039a3ce14630260424bdca8a3c4bf9258": {
+        "frequency": 1,
+        "positions": [
+          112
+        ],
+        "source_type": "pdf_json",
+        "term_id": 310058
+      }
+    },
+    "mymryk": {
+      "49bf586a2753b963b4ebdf53c3555b5fe445bffa": {
+        "frequency": 1,
+        "positions": [
+          103
+        ],
+        "source_type": "pdf_json",
+        "term_id": 95788
+      },
+      "efab201a9938f480d97e6eea1e91130b7e4194ba": {
+        "frequency": 1,
+        "positions": [
+          106
+        ],
+        "source_type": "pdf_json",
+        "term_id": 95788
+      }
+    },
+    "mymv": {
+      "80dbdfbf10174a13cded449973fab8e6c12281c2": {
+        "frequency": 2,
+        "positions": [
+          75,
+          113
+        ],
+        "source_type": "pdf_json",
+        "term_id": 363685
+      },
+      "PMC6638828.xml": {
+        "frequency": 2,
+        "positions": [
+          77,
+          113
+        ],
+        "source_type": "pmc_json",
+        "term_id": 363685
+      }
+    },
+    "mymensingh": {
+      "983df610328c1e73e3c12546d42a14d520844f9b": {
+        "frequency": 2,
+        "positions": [
+          19,
+          42
+        ],
+        "source_type": "pdf_json",
+        "term_id": 115253
+      },
+      "PMC6882717.xml": {
+        "frequency": 2,
+        "positions": [
+          19,
+          42
+        ],
+        "source_type": "pmc_json",
+        "term_id": 115253
+      }
+    },
+    "mymms": {
+      "cf5281e3103a892520ddf54dc83f5aaf973ae8ee": {
+        "frequency": 1,
+        "positions": [
+          13
+        ],
+        "source_type": "pdf_json",
+        "term_id": 127438
+      },
+      "PMC4857967.xml": {
+        "frequency": 2,
+        "positions": [
+          6,
+          4
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC4858066.xml": {
+        "frequency": 1,
+        "positions": [
+          4
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC4895366.xml": {
+        "frequency": 3,
+        "positions": [
+          4,
+          28,
+          15
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC4913562.xml": {
+        "frequency": 1,
+        "positions": [
+          9
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC4913621.xml": {
+        "frequency": 4,
+        "positions": [
+          4,
+          4,
+          4,
+          4
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC5259643.xml": {
+        "frequency": 2,
+        "positions": [
+          3,
+          4
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC5260423.xml": {
+        "frequency": 1,
+        "positions": [
+          4
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC5508335.xml": {
+        "frequency": 1,
+        "positions": [
+          4
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC5787188.xml": {
+        "frequency": 3,
+        "positions": [
+          3,
+          4,
+          13
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC5867002.xml": {
+        "frequency": 2,
+        "positions": [
+          15,
+          15
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC7167033.xml": {
+        "frequency": 5,
+        "positions": [
+          4,
+          4,
+          4,
+          3,
+          33
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      },
+      "PMC7169326.xml": {
+        "frequency": 7,
+        "positions": [
+          20,
+          20,
+          23,
+          22,
+          13,
+          16,
+          23
+        ],
+        "source_type": "pmc_json",
+        "term_id": 127438
+      }
+    },
+    "mym": {
+      "PMC7168573.xml": {
+        "frequency": 2,
+        "positions": [
+          28,
+          10
+        ],
+        "source_type": "pmc_json",
+        "term_id": 273389
+      }
+    }
+  },
+  "created_at": "2025-12-04T02:31:30.763735"
+}

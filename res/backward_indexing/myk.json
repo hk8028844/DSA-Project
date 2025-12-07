@@ -1,0 +1,1190 @@
+{
+  "prefix": "myk",
+  "term_count": 29,
+  "total_documents": 126,
+  "terms": {
+    "Mykoplasmen-Pneumonien": {
+      "0a133ddd02339b743ecd4b1c225384796198b202": {
+        "frequency": 1,
+        "positions": [
+          77
+        ],
+        "source_type": "pdf_json",
+        "term_id": 856860
+      },
+      "PMC7120272.xml": {
+        "frequency": 1,
+        "positions": [
+          12
+        ],
+        "source_type": "pmc_json",
+        "term_id": 856860
+      }
+    },
+    "mykobakteriellen": {
+      "0a133ddd02339b743ecd4b1c225384796198b202": {
+        "frequency": 1,
+        "positions": [
+          25
+        ],
+        "source_type": "pdf_json",
+        "term_id": 391101
+      },
+      "827663bcf4a0a4eb0b7ca97f3043879f3ad5cc0a": {
+        "frequency": 1,
+        "positions": [
+          21
+        ],
+        "source_type": "pdf_json",
+        "term_id": 391101
+      },
+      "PMC7088144.xml": {
+        "frequency": 1,
+        "positions": [
+          20
+        ],
+        "source_type": "pmc_json",
+        "term_id": 391101
+      },
+      "PMC7122779.xml": {
+        "frequency": 1,
+        "positions": [
+          6
+        ],
+        "source_type": "pmc_json",
+        "term_id": 391101
+      }
+    },
+    "mykietiuk": {
+      "0bb9b1d0f28df2bdca046ad7b28eaa1bbe1c9f39": {
+        "frequency": 1,
+        "positions": [
+          0
+        ],
+        "source_type": "pdf_json",
+        "term_id": 85656
+      }
+    },
+    "mykobakterium": {
+      "0eca669a25b98644804146024b206936b86cdfb7": {
+        "frequency": 1,
+        "positions": [
+          40
+        ],
+        "source_type": "pdf_json",
+        "term_id": 399201
+      },
+      "6556630324c5bea6b8ec79fbb977eb66ea02b24e": {
+        "frequency": 1,
+        "positions": [
+          7
+        ],
+        "source_type": "pdf_json",
+        "term_id": 399201
+      },
+      "PMC7122363.xml": {
+        "frequency": 1,
+        "positions": [
+          7
+        ],
+        "source_type": "pmc_json",
+        "term_id": 399201
+      },
+      "PMC7176185.xml": {
+        "frequency": 1,
+        "positions": [
+          36
+        ],
+        "source_type": "pmc_json",
+        "term_id": 399201
+      }
+    },
+    "mykobakterien": {
+      "0eca669a25b98644804146024b206936b86cdfb7": {
+        "frequency": 2,
+        "positions": [
+          55,
+          16
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "183905c3c7c7abba9e14caadab45f5eb16b08464": {
+        "frequency": 2,
+        "positions": [
+          4,
+          0
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "1df88af8dcc9e6e046f9e78ccf67be4bd72ef45d": {
+        "frequency": 5,
+        "positions": [
+          128,
+          75,
+          38,
+          415,
+          418
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "1e50575338a347311a2d04f7ac2f897c31174818": {
+        "frequency": 5,
+        "positions": [
+          7,
+          47,
+          17,
+          25,
+          26
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "2808434392b9a17ab6ffacd1644c8708f5bf83e5": {
+        "frequency": 1,
+        "positions": [
+          8
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "2fac709b122544d58f33dfa9eeed2addcfc50d49": {
+        "frequency": 8,
+        "positions": [
+          22,
+          42,
+          29,
+          69,
+          8,
+          17,
+          26,
+          29
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "3c93f868869de4c692094d51fa9cc1748a750e72": {
+        "frequency": 4,
+        "positions": [
+          0,
+          52,
+          37,
+          55
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "43aaf20ca5f5906d8b8f0476197a994ed72599b2": {
+        "frequency": 3,
+        "positions": [
+          29,
+          46,
+          8
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "4ca5d854d3f99440b507fd7dfae73c8ad6fc45d5": {
+        "frequency": 1,
+        "positions": [
+          14
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "5534334dbd5c0b7150ecd803ea4f3f17a3da6369": {
+        "frequency": 2,
+        "positions": [
+          18,
+          30
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "5c6c26e79c082464515c6e5dd0f45a9cae36f15a": {
+        "frequency": 3,
+        "positions": [
+          225,
+          21,
+          2
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "6556630324c5bea6b8ec79fbb977eb66ea02b24e": {
+        "frequency": 1,
+        "positions": [
+          62
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "6dc83f2c5ac88be771ae57478b5315320c1e016d": {
+        "frequency": 1,
+        "positions": [
+          12
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "7fa5f846b09fabcd2617a67ffecc71d65e6c4a11": {
+        "frequency": 2,
+        "positions": [
+          11,
+          90
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "9108ccf718d9c8f15fa33c9fb6b46c7c41bfae25": {
+        "frequency": 2,
+        "positions": [
+          122,
+          3
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "972482d15d5c9aaaa9e2eadabcaf3ce7f99d761f": {
+        "frequency": 2,
+        "positions": [
+          82,
+          42
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "e0ea1ef905ee29982a58399b858842a8e212116e": {
+        "frequency": 1,
+        "positions": [
+          13
+        ],
+        "source_type": "pdf_json",
+        "term_id": 83462
+      },
+      "PMC7079865.xml": {
+        "frequency": 1,
+        "positions": [
+          63
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7088144.xml": {
+        "frequency": 5,
+        "positions": [
+          38,
+          17,
+          83,
+          84,
+          79
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7088196.xml": {
+        "frequency": 1,
+        "positions": [
+          0
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7121782.xml": {
+        "frequency": 3,
+        "positions": [
+          13,
+          46,
+          56
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7122363.xml": {
+        "frequency": 3,
+        "positions": [
+          62,
+          178,
+          11
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7122779.xml": {
+        "frequency": 6,
+        "positions": [
+          0,
+          52,
+          14,
+          3,
+          21,
+          0
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7123071.xml": {
+        "frequency": 3,
+        "positions": [
+          12,
+          45,
+          51
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7123224.xml": {
+        "frequency": 3,
+        "positions": [
+          57,
+          94,
+          174
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7123702.xml": {
+        "frequency": 9,
+        "positions": [
+          5,
+          8,
+          17,
+          8,
+          76,
+          32,
+          10,
+          18,
+          42
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      },
+      "PMC7176185.xml": {
+        "frequency": 3,
+        "positions": [
+          58,
+          76,
+          19
+        ],
+        "source_type": "pmc_json",
+        "term_id": 83462
+      }
+    },
+    "myklebust": {
+      "119a2f1357346c9a9b83d328b28a1c61e000c2b8": {
+        "frequency": 1,
+        "positions": [
+          10
+        ],
+        "source_type": "pdf_json",
+        "term_id": 130401
+      },
+      "5b1d7a1a0d2a8549a8dcf87f4e0ca1decc312ef0": {
+        "frequency": 1,
+        "positions": [
+          3
+        ],
+        "source_type": "pdf_json",
+        "term_id": 130401
+      }
+    },
+    "mykosen": {
+      "15ea1dbf07f958d5dd39fe11fa050a3dedc4d4c6": {
+        "frequency": 2,
+        "positions": [
+          5,
+          10
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "29f27a19ddf105e364f01948dc152bbd63398755": {
+        "frequency": 2,
+        "positions": [
+          14,
+          6
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "3d1f4e54b1f842a90f21e0b17e6ab2436a3b8743": {
+        "frequency": 2,
+        "positions": [
+          3,
+          9
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "43aaf20ca5f5906d8b8f0476197a994ed72599b2": {
+        "frequency": 2,
+        "positions": [
+          19,
+          22
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "50aae4bb59a8580bf25f62a71704f9e45414b47d": {
+        "frequency": 1,
+        "positions": [
+          38
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "5c6c26e79c082464515c6e5dd0f45a9cae36f15a": {
+        "frequency": 2,
+        "positions": [
+          19,
+          3
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "7fa5f846b09fabcd2617a67ffecc71d65e6c4a11": {
+        "frequency": 1,
+        "positions": [
+          58
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "a8ca4beeb996098197a2590f60b4d23963a8516b": {
+        "frequency": 1,
+        "positions": [
+          42
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "b41f38c25e36fa3b0e0d6bb631b86ef0876a43b8": {
+        "frequency": 6,
+        "positions": [
+          45,
+          135,
+          147,
+          27,
+          13,
+          13
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "b8069299efef2b8cf2d672b0174f6f0a7ef0580e": {
+        "frequency": 2,
+        "positions": [
+          9,
+          1
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "ef5b824db9824fdffe49c4aa7d02afa99d9cf4d5": {
+        "frequency": 2,
+        "positions": [
+          5,
+          10
+        ],
+        "source_type": "pdf_json",
+        "term_id": 94572
+      },
+      "PMC7104614.xml": {
+        "frequency": 1,
+        "positions": [
+          17
+        ],
+        "source_type": "pmc_json",
+        "term_id": 94572
+      },
+      "PMC7123496.xml": {
+        "frequency": 1,
+        "positions": [
+          2
+        ],
+        "source_type": "pmc_json",
+        "term_id": 94572
+      },
+      "PMC7176255.xml": {
+        "frequency": 1,
+        "positions": [
+          9
+        ],
+        "source_type": "pmc_json",
+        "term_id": 94572
+      }
+    },
+    "mykhalovskiy": {
+      "1a8cf1b4f49a27fb25f23bf63172e9d0377224bd": {
+        "frequency": 2,
+        "positions": [
+          89,
+          42
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "246b5761cb2584d220e9f85121599854fb715989": {
+        "frequency": 1,
+        "positions": [
+          67
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "9345d02bbbcc222939213536cb4ddd2366ba67e8": {
+        "frequency": 4,
+        "positions": [
+          21,
+          81,
+          30,
+          80
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "c7051470d2c4d38201bdd2823a0c3d5d0937ac29": {
+        "frequency": 3,
+        "positions": [
+          20,
+          44,
+          89
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "e462bb228009b4abfd91c6812450905609e62c49": {
+        "frequency": 1,
+        "positions": [
+          87
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "e6801f7d4c115cecde50737230d73091b98fc204": {
+        "frequency": 2,
+        "positions": [
+          128,
+          157
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "e977ca94d7eb88b4b650c25c3543e9d48afd535b": {
+        "frequency": 1,
+        "positions": [
+          152
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "eca9a0fdf27c167dcf853a203fd612ab699e38b4": {
+        "frequency": 1,
+        "positions": [
+          79
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "fd77fb73da7f98358c0c031cd3fac6a8c27711a8": {
+        "frequency": 2,
+        "positions": [
+          102,
+          147
+        ],
+        "source_type": "pdf_json",
+        "term_id": 64402
+      },
+      "PMC7088430.xml": {
+        "frequency": 1,
+        "positions": [
+          152
+        ],
+        "source_type": "pmc_json",
+        "term_id": 64402
+      },
+      "PMC7089178.xml": {
+        "frequency": 2,
+        "positions": [
+          128,
+          157
+        ],
+        "source_type": "pmc_json",
+        "term_id": 64402
+      },
+      "PMC7123163.xml": {
+        "frequency": 1,
+        "positions": [
+          67
+        ],
+        "source_type": "pmc_json",
+        "term_id": 64402
+      },
+      "PMC7149467.xml": {
+        "frequency": 2,
+        "positions": [
+          44,
+          29
+        ],
+        "source_type": "pmc_json",
+        "term_id": 64402
+      }
+    },
+    "mykoplasmen": {
+      "1df88af8dcc9e6e046f9e78ccf67be4bd72ef45d": {
+        "frequency": 2,
+        "positions": [
+          12,
+          67
+        ],
+        "source_type": "pdf_json",
+        "term_id": 108303
+      },
+      "2226997fe1a6c46724574f0d81ed527c5bb5d548": {
+        "frequency": 2,
+        "positions": [
+          47,
+          20
+        ],
+        "source_type": "pdf_json",
+        "term_id": 108303
+      },
+      "2ba83df8a8836e261f2f16eade4973284ccadae5": {
+        "frequency": 1,
+        "positions": [
+          103
+        ],
+        "source_type": "pdf_json",
+        "term_id": 108303
+      },
+      "35e3e5fe8a33546858a0d9986b88f3d485e8327a": {
+        "frequency": 1,
+        "positions": [
+          129
+        ],
+        "source_type": "pdf_json",
+        "term_id": 108303
+      },
+      "43aaf20ca5f5906d8b8f0476197a994ed72599b2": {
+        "frequency": 3,
+        "positions": [
+          4,
+          4,
+          43
+        ],
+        "source_type": "pdf_json",
+        "term_id": 108303
+      },
+      "5c6c26e79c082464515c6e5dd0f45a9cae36f15a": {
+        "frequency": 1,
+        "positions": [
+          26
+        ],
+        "source_type": "pdf_json",
+        "term_id": 108303
+      },
+      "6ad969472638b075f5e05687e09d5bf78ee467c2": {
+        "frequency": 1,
+        "positions": [
+          92
+        ],
+        "source_type": "pdf_json",
+        "term_id": 108303
+      },
+      "ac2e3a3036041db05509182993f6ad37d30e3094": {
+        "frequency": 1,
+        "positions": [
+          11
+        ],
+        "source_type": "pdf_json",
+        "term_id": 108303
+      },
+      "PMC7079972.xml": {
+        "frequency": 1,
+        "positions": [
+          10
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      },
+      "PMC7080168.xml": {
+        "frequency": 2,
+        "positions": [
+          35,
+          21
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      },
+      "PMC7100306.xml": {
+        "frequency": 2,
+        "positions": [
+          46,
+          20
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      },
+      "PMC7111790.xml": {
+        "frequency": 4,
+        "positions": [
+          150,
+          47,
+          23,
+          3
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      },
+      "PMC7117072.xml": {
+        "frequency": 1,
+        "positions": [
+          5
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      },
+      "PMC7120272.xml": {
+        "frequency": 4,
+        "positions": [
+          15,
+          0,
+          12,
+          15
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      },
+      "PMC7120612.xml": {
+        "frequency": 6,
+        "positions": [
+          58,
+          30,
+          18,
+          2,
+          2,
+          69
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      },
+      "PMC7123224.xml": {
+        "frequency": 1,
+        "positions": [
+          39
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      },
+      "PMC7176185.xml": {
+        "frequency": 2,
+        "positions": [
+          2,
+          18
+        ],
+        "source_type": "pmc_json",
+        "term_id": 108303
+      }
+    },
+    "Mykoplasmen-Erkrankungen": {
+      "2226997fe1a6c46724574f0d81ed527c5bb5d548": {
+        "frequency": 1,
+        "positions": [
+          48
+        ],
+        "source_type": "pdf_json",
+        "term_id": 642449
+      },
+      "PMC7100306.xml": {
+        "frequency": 1,
+        "positions": [
+          46
+        ],
+        "source_type": "pmc_json",
+        "term_id": 642449
+      }
+    },
+    "Mykoplasmen-Pneumonie": {
+      "2ba83df8a8836e261f2f16eade4973284ccadae5": {
+        "frequency": 1,
+        "positions": [
+          1
+        ],
+        "source_type": "pdf_json",
+        "term_id": 717588
+      },
+      "PMC7120272.xml": {
+        "frequency": 4,
+        "positions": [
+          1,
+          19,
+          3,
+          5
+        ],
+        "source_type": "pmc_json",
+        "term_id": 717588
+      }
+    },
+    "Mykoplasmen-Infektionen": {
+      "2ba83df8a8836e261f2f16eade4973284ccadae5": {
+        "frequency": 1,
+        "positions": [
+          4
+        ],
+        "source_type": "pdf_json",
+        "term_id": 717590
+      },
+      "PMC7120272.xml": {
+        "frequency": 1,
+        "positions": [
+          3
+        ],
+        "source_type": "pmc_json",
+        "term_id": 717590
+      }
+    },
+    "mykose": {
+      "3bd5a55797feadf00fa91b1ed24c60752024013d": {
+        "frequency": 1,
+        "positions": [
+          40
+        ],
+        "source_type": "pdf_json",
+        "term_id": 792815
+      },
+      "b8069299efef2b8cf2d672b0174f6f0a7ef0580e": {
+        "frequency": 2,
+        "positions": [
+          3,
+          7
+        ],
+        "source_type": "pdf_json",
+        "term_id": 792815
+      }
+    },
+    "mykotoxine": {
+      "3bd5a55797feadf00fa91b1ed24c60752024013d": {
+        "frequency": 1,
+        "positions": [
+          154
+        ],
+        "source_type": "pdf_json",
+        "term_id": 402943
+      },
+      "PMC7122779.xml": {
+        "frequency": 1,
+        "positions": [
+          7
+        ],
+        "source_type": "pmc_json",
+        "term_id": 402943
+      }
+    },
+    "mykobakerien": {
+      "3c93f868869de4c692094d51fa9cc1748a750e72": {
+        "frequency": 1,
+        "positions": [
+          21
+        ],
+        "source_type": "pdf_json",
+        "term_id": 744054
+      },
+      "PMC7122779.xml": {
+        "frequency": 1,
+        "positions": [
+          21
+        ],
+        "source_type": "pmc_json",
+        "term_id": 744054
+      }
+    },
+    "mykobacterium": {
+      "3c93f868869de4c692094d51fa9cc1748a750e72": {
+        "frequency": 1,
+        "positions": [
+          10
+        ],
+        "source_type": "pdf_json",
+        "term_id": 744195
+      },
+      "PMC7122779.xml": {
+        "frequency": 1,
+        "positions": [
+          10
+        ],
+        "source_type": "pmc_json",
+        "term_id": 744195
+      }
+    },
+    "mykoplasmenpneumonie": {
+      "43aaf20ca5f5906d8b8f0476197a994ed72599b2": {
+        "frequency": 1,
+        "positions": [
+          3
+        ],
+        "source_type": "pdf_json",
+        "term_id": 524676
+      },
+      "PMC7176255.xml": {
+        "frequency": 1,
+        "positions": [
+          10
+        ],
+        "source_type": "pmc_json",
+        "term_id": 524676
+      }
+    },
+    "mykletun": {
+      "48b81081bbcbdbea648394d8bf2adf370b36e44c": {
+        "frequency": 1,
+        "positions": [
+          3839
+        ],
+        "source_type": "pdf_json",
+        "term_id": 236406
+      },
+      "a0c464060a220478a12604e6ee37141c9ca89d8f": {
+        "frequency": 1,
+        "positions": [
+          180
+        ],
+        "source_type": "pdf_json",
+        "term_id": 236406
+      },
+      "PMC2816237.xml": {
+        "frequency": 5,
+        "positions": [
+          7,
+          99,
+          1,
+          3,
+          17
+        ],
+        "source_type": "pmc_json",
+        "term_id": 236406
+      }
+    },
+    "myktowycz": {
+      "4e51e8090e4b81058b419f143ae364ed4ed6c856": {
+        "frequency": 1,
+        "positions": [
+          32
+        ],
+        "source_type": "pdf_json",
+        "term_id": 860298
+      }
+    },
+    "mykobakterieller": {
+      "5cafd054855602e3c43d1c348e2ccae22b576be3": {
+        "frequency": 1,
+        "positions": [
+          23
+        ],
+        "source_type": "pdf_json",
+        "term_id": 760652
+      },
+      "PMC7159557.xml": {
+        "frequency": 1,
+        "positions": [
+          23
+        ],
+        "source_type": "pmc_json",
+        "term_id": 760652
+      }
+    },
+    "mykologische": {
+      "9084e3535b8e57abd773a1c78a797b0b5acc60cf": {
+        "frequency": 1,
+        "positions": [
+          72
+        ],
+        "source_type": "pdf_json",
+        "term_id": 472752
+      },
+      "PMC7169289.xml": {
+        "frequency": 1,
+        "positions": [
+          72
+        ],
+        "source_type": "pmc_json",
+        "term_id": 472752
+      }
+    },
+    "mykobakterienwirksames": {
+      "972482d15d5c9aaaa9e2eadabcaf3ce7f99d761f": {
+        "frequency": 1,
+        "positions": [
+          27
+        ],
+        "source_type": "pdf_json",
+        "term_id": 753009
+      },
+      "PMC7123702.xml": {
+        "frequency": 2,
+        "positions": [
+          27,
+          38
+        ],
+        "source_type": "pmc_json",
+        "term_id": 753009
+      }
+    },
+    "mykobakteriosen": {
+      "a8ca4beeb996098197a2590f60b4d23963a8516b": {
+        "frequency": 1,
+        "positions": [
+          40
+        ],
+        "source_type": "pdf_json",
+        "term_id": 258204
+      },
+      "b8069299efef2b8cf2d672b0174f6f0a7ef0580e": {
+        "frequency": 1,
+        "positions": [
+          34
+        ],
+        "source_type": "pdf_json",
+        "term_id": 258204
+      },
+      "PMC7122779.xml": {
+        "frequency": 4,
+        "positions": [
+          6,
+          17,
+          8,
+          6
+        ],
+        "source_type": "pmc_json",
+        "term_id": 258204
+      },
+      "PMC7123224.xml": {
+        "frequency": 3,
+        "positions": [
+          3,
+          150,
+          207
+        ],
+        "source_type": "pmc_json",
+        "term_id": 258204
+      },
+      "PMC7176200.xml": {
+        "frequency": 1,
+        "positions": [
+          11
+        ],
+        "source_type": "pmc_json",
+        "term_id": 258204
+      }
+    },
+    "mykoplasma": {
+      "c349573e77d748f3ae09e3a3760bead4d11807ba": {
+        "frequency": 1,
+        "positions": [
+          15
+        ],
+        "source_type": "pdf_json",
+        "term_id": 384848
+      },
+      "PMC7169669.xml": {
+        "frequency": 1,
+        "positions": [
+          15
+        ],
+        "source_type": "pmc_json",
+        "term_id": 384848
+      },
+      "PMC7176185.xml": {
+        "frequency": 2,
+        "positions": [
+          34,
+          79
+        ],
+        "source_type": "pmc_json",
+        "term_id": 384848
+      }
+    },
+    "mykytowycz": {
+      "efa08372ef2da1d1c8292b9c63193b4a4ecb0e6f": {
+        "frequency": 4,
+        "positions": [
+          125,
+          159,
+          121,
+          156
+        ],
+        "source_type": "pdf_json",
+        "term_id": 532865
+      },
+      "efebeb407e55851323102cbcaa6c54e1aab959a3": {
+        "frequency": 4,
+        "positions": [
+          40,
+          101,
+          102,
+          155
+        ],
+        "source_type": "pdf_json",
+        "term_id": 532865
+      }
+    },
+    "mykes": {
+      "f7ac0a1029a6af87184b13f508c05eb01154fd05": {
+        "frequency": 1,
+        "positions": [
+          18
+        ],
+        "source_type": "pdf_json",
+        "term_id": 733489
+      },
+      "PMC7121861.xml": {
+        "frequency": 1,
+        "positions": [
+          18
+        ],
+        "source_type": "pmc_json",
+        "term_id": 733489
+      }
+    },
+    "myke": {
+      "PMC7080092.xml": {
+        "frequency": 1,
+        "positions": [
+          10
+        ],
+        "source_type": "pmc_json",
+        "term_id": 494018
+      }
+    },
+    "mykalea": {
+      "PMC7088179.xml": {
+        "frequency": 1,
+        "positions": [
+          44
+        ],
+        "source_type": "pmc_json",
+        "term_id": 624389
+      }
+    },
+    "mykoplasmeninfektionen": {
+      "PMC7120612.xml": {
+        "frequency": 1,
+        "positions": [
+          61
+        ],
+        "source_type": "pmc_json",
+        "term_id": 876535
+      },
+      "PMC7176185.xml": {
+        "frequency": 1,
+        "positions": [
+          9
+        ],
+        "source_type": "pmc_json",
+        "term_id": 876535
+      }
+    }
+  },
+  "created_at": "2025-12-04T02:31:30.324735"
+}

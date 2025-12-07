@@ -1,0 +1,598 @@
+{
+  "prefix": "myb",
+  "term_count": 11,
+  "total_documents": 66,
+  "terms": {
+    "mybp": {
+      "0155465f4cd388234ba3885135ff922462c83dca": {
+        "frequency": 8,
+        "positions": [
+          174,
+          93,
+          109,
+          182,
+          199,
+          12,
+          4,
+          116
+        ],
+        "source_type": "pdf_json",
+        "term_id": 345504
+      },
+      "4faf6d666003c405eec2f4dfd55ec0b6b427ad2f": {
+        "frequency": 9,
+        "positions": [
+          24,
+          36,
+          53,
+          79,
+          89,
+          108,
+          144,
+          158,
+          211
+        ],
+        "source_type": "pdf_json",
+        "term_id": 345504
+      },
+      "e61dc248ce523ab72ae25a6974c9e10cc1dcdea7": {
+        "frequency": 1,
+        "positions": [
+          81
+        ],
+        "source_type": "pdf_json",
+        "term_id": 345504
+      },
+      "PMC2600137.xml": {
+        "frequency": 1,
+        "positions": [
+          81
+        ],
+        "source_type": "pmc_json",
+        "term_id": 345504
+      }
+    },
+    "MYBBP1A": {
+      "02eb3dc5054c0dd2ce8faa06d6942484900d76c6": {
+        "frequency": 1,
+        "positions": [
+          91
+        ],
+        "source_type": "pdf_json",
+        "term_id": 579477
+      },
+      "PMC5389538.xml": {
+        "frequency": 1,
+        "positions": [
+          91
+        ],
+        "source_type": "pmc_json",
+        "term_id": 579477
+      }
+    },
+    "myb": {
+      "041e50456e5c62980ff8bb61d83283f58f09ef6d": {
+        "frequency": 4,
+        "positions": [
+          11,
+          72,
+          194,
+          870
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "0a17eac54e995f96411bd23dec19354ae1db3036": {
+        "frequency": 1,
+        "positions": [
+          70
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "0a788544235f577b667f0cc31a6934091ead8f76": {
+        "frequency": 1,
+        "positions": [
+          163
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "45dbbfd585b275d497552cf6a2f73e05f2b935f0": {
+        "frequency": 1,
+        "positions": [
+          106
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "4c3f0eec0a34f934c49541265580ca3c974abbda": {
+        "frequency": 1,
+        "positions": [
+          242
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "61dba7fd822da2dafe0258fc34677d5e6767267b": {
+        "frequency": 1,
+        "positions": [
+          171
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "77c0e2a22fd086a4f721d97d3fe957f8f17215fb": {
+        "frequency": 1,
+        "positions": [
+          163
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "878c083d8dba57f1ac98843585ab42fe5efd2980": {
+        "frequency": 1,
+        "positions": [
+          152
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "a7e523672c9e7d94acf3c1a63ac75a56e8e578f9": {
+        "frequency": 3,
+        "positions": [
+          169,
+          179,
+          199
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "aa4de506d8d6ff5c047675568e364f26be70a7ad": {
+        "frequency": 2,
+        "positions": [
+          188,
+          210
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "b5dd112f83f67d2df341d9cf1a1ce2035b9e2422": {
+        "frequency": 2,
+        "positions": [
+          255,
+          256
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "b62c6a01346d868ed05cf3f0edb9fc5b5907a2a8": {
+        "frequency": 1,
+        "positions": [
+          157
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "bc22d40436020c8faff28e7a8a8be96c6b5ff957": {
+        "frequency": 3,
+        "positions": [
+          147,
+          145,
+          32
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "ce1d0bec1ac18b0649fed13561542445a37233a2": {
+        "frequency": 1,
+        "positions": [
+          429
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "d2cefc5468800af66e3f98544df0070cb9ec4897": {
+        "frequency": 1,
+        "positions": [
+          153
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "ea3e67b627a3710625feb5cbada2ca4ee0e04c80": {
+        "frequency": 1,
+        "positions": [
+          73
+        ],
+        "source_type": "pdf_json",
+        "term_id": 53915
+      },
+      "PMC4279719.xml": {
+        "frequency": 1,
+        "positions": [
+          154
+        ],
+        "source_type": "pmc_json",
+        "term_id": 53915
+      },
+      "PMC6247239.xml": {
+        "frequency": 6,
+        "positions": [
+          21,
+          108,
+          126,
+          11,
+          73,
+          199
+        ],
+        "source_type": "pmc_json",
+        "term_id": 53915
+      },
+      "PMC6629734.xml": {
+        "frequency": 1,
+        "positions": [
+          208
+        ],
+        "source_type": "pmc_json",
+        "term_id": 53915
+      },
+      "PMC7162418.xml": {
+        "frequency": 1,
+        "positions": [
+          81
+        ],
+        "source_type": "pmc_json",
+        "term_id": 53915
+      },
+      "PMC7165556.xml": {
+        "frequency": 3,
+        "positions": [
+          148,
+          33,
+          70
+        ],
+        "source_type": "pmc_json",
+        "term_id": 53915
+      }
+    },
+    "mybiosource": {
+      "05835441ec99d4688f532f74e9610bae494d03ba": {
+        "frequency": 1,
+        "positions": [
+          79
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "0cb9ba65602c5adf7d195f677e17cc73fcbf54ad": {
+        "frequency": 1,
+        "positions": [
+          79
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "2e82ce971b182c35dda76f878a3791f200046c42": {
+        "frequency": 1,
+        "positions": [
+          114
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "4c13be11a41de81fb7066f7993da218c463cfa1e": {
+        "frequency": 1,
+        "positions": [
+          28
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "5e0fff0d12badd81afba0098f997f5143c0005f1": {
+        "frequency": 1,
+        "positions": [
+          84
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "672c722cc86c0f4afda80fd9a7ca1c4c7cb67c15": {
+        "frequency": 1,
+        "positions": [
+          47
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "6e4e60ae746c62756181f4863dcc4b1a98d8c2e9": {
+        "frequency": 1,
+        "positions": [
+          56
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "7161522ddfb7d0ae8980540ac960978af964d828": {
+        "frequency": 1,
+        "positions": [
+          19
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "8aba6975d8bd8819c2490dedf131893850f5aa1c": {
+        "frequency": 1,
+        "positions": [
+          174
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "cb91fc4ab4d7aff52357bfc8830954bcacdf5f30": {
+        "frequency": 1,
+        "positions": [
+          25
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "f0dd1cca2c2cc4ff4f1a37a74ca694382ba9eed4": {
+        "frequency": 1,
+        "positions": [
+          27
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "f3c5dbfd682af9f81d55a8feda2e808a0b4f22a0": {
+        "frequency": 1,
+        "positions": [
+          9
+        ],
+        "source_type": "pdf_json",
+        "term_id": 119883
+      },
+      "PMC3837310.xml": {
+        "frequency": 1,
+        "positions": [
+          27
+        ],
+        "source_type": "pmc_json",
+        "term_id": 119883
+      },
+      "PMC5516308.xml": {
+        "frequency": 1,
+        "positions": [
+          8
+        ],
+        "source_type": "pmc_json",
+        "term_id": 119883
+      },
+      "PMC6421595.xml": {
+        "frequency": 1,
+        "positions": [
+          27
+        ],
+        "source_type": "pmc_json",
+        "term_id": 119883
+      },
+      "PMC7090399.xml": {
+        "frequency": 1,
+        "positions": [
+          84
+        ],
+        "source_type": "pmc_json",
+        "term_id": 119883
+      },
+      "PMC7107162.xml": {
+        "frequency": 1,
+        "positions": [
+          50
+        ],
+        "source_type": "pmc_json",
+        "term_id": 119883
+      },
+      "PMC7167840.xml": {
+        "frequency": 1,
+        "positions": [
+          53
+        ],
+        "source_type": "pmc_json",
+        "term_id": 119883
+      }
+    },
+    "MYBPC3": {
+      "155105d7f2ae165512a1466dd5e6c0fd6eb59c29": {
+        "frequency": 3,
+        "positions": [
+          9,
+          10,
+          20
+        ],
+        "source_type": "pdf_json",
+        "term_id": 191748
+      },
+      "25a10dcacb257ac926ad42124f605189b3789d3f": {
+        "frequency": 1,
+        "positions": [
+          39
+        ],
+        "source_type": "pdf_json",
+        "term_id": 191748
+      },
+      "85dfb59af4c4ec824f1f62c645e5b91a6e3cc814": {
+        "frequency": 2,
+        "positions": [
+          136,
+          69
+        ],
+        "source_type": "pdf_json",
+        "term_id": 191748
+      },
+      "88114f67066e3fdfc79961b44fd9b7660b3c43a6": {
+        "frequency": 1,
+        "positions": [
+          99
+        ],
+        "source_type": "pdf_json",
+        "term_id": 191748
+      },
+      "d06c1c56443bbb298c2cdeabb60aad6bedf74d82": {
+        "frequency": 2,
+        "positions": [
+          64,
+          99
+        ],
+        "source_type": "pdf_json",
+        "term_id": 191748
+      },
+      "PMC4858066.xml": {
+        "frequency": 1,
+        "positions": [
+          34
+        ],
+        "source_type": "pmc_json",
+        "term_id": 191748
+      },
+      "PMC4895366.xml": {
+        "frequency": 3,
+        "positions": [
+          79,
+          70,
+          150
+        ],
+        "source_type": "pmc_json",
+        "term_id": 191748
+      },
+      "PMC6430903.xml": {
+        "frequency": 3,
+        "positions": [
+          73,
+          56,
+          45
+        ],
+        "source_type": "pmc_json",
+        "term_id": 191748
+      }
+    },
+    "myburgh": {
+      "290dac8bf97322db9abdc6eca2f353d71809da4c": {
+        "frequency": 1,
+        "positions": [
+          48
+        ],
+        "source_type": "pdf_json",
+        "term_id": 61751
+      },
+      "8dd0f569642dee82ce843951099180c6506fb5c9": {
+        "frequency": 1,
+        "positions": [
+          47
+        ],
+        "source_type": "pdf_json",
+        "term_id": 61751
+      },
+      "b9a15f2e8f99682bea4b833725680536f190b53f": {
+        "frequency": 1,
+        "positions": [
+          51
+        ],
+        "source_type": "pdf_json",
+        "term_id": 61751
+      }
+    },
+    "mybox": {
+      "52069d14f038d493dce5d6cc1fdcdc7c1f0823f9": {
+        "frequency": 1,
+        "positions": [
+          32
+        ],
+        "source_type": "pdf_json",
+        "term_id": 699562
+      },
+      "PMC5259643.xml": {
+        "frequency": 1,
+        "positions": [
+          33
+        ],
+        "source_type": "pmc_json",
+        "term_id": 699562
+      }
+    },
+    "mybph": {
+      "58b27cbd886391ada3e61abdc0695ad1a02e45c7": {
+        "frequency": 1,
+        "positions": [
+          70
+        ],
+        "source_type": "pdf_json",
+        "term_id": 561600
+      },
+      "PMC4123303.xml": {
+        "frequency": 1,
+        "positions": [
+          70
+        ],
+        "source_type": "pmc_json",
+        "term_id": 561600
+      }
+    },
+    "myblast": {
+      "85c04886b69b27eeddd4a72c74e2e1727a80598f": {
+        "frequency": 2,
+        "positions": [
+          0,
+          1
+        ],
+        "source_type": "pdf_json",
+        "term_id": 539739
+      },
+      "PMC2238867.xml": {
+        "frequency": 1,
+        "positions": [
+          0
+        ],
+        "source_type": "pmc_json",
+        "term_id": 539739
+      }
+    },
+    "mybpc": {
+      "a8a2882316256ca578ec31863059897cb66a4039": {
+        "frequency": 1,
+        "positions": [
+          34
+        ],
+        "source_type": "pdf_json",
+        "term_id": 468930
+      },
+      "ae05907bbddcbe93390b53dbc70950339cccb46a": {
+        "frequency": 1,
+        "positions": [
+          89
+        ],
+        "source_type": "pdf_json",
+        "term_id": 468930
+      },
+      "PMC7166496.xml": {
+        "frequency": 1,
+        "positions": [
+          34
+        ],
+        "source_type": "pmc_json",
+        "term_id": 468930
+      }
+    },
+    "Myb-independent": {
+      "e79fcaa2494a73da92efa1a339746728e676fe74": {
+        "frequency": 1,
+        "positions": [
+          109
+        ],
+        "source_type": "pdf_json",
+        "term_id": 427945
+      }
+    }
+  },
+  "created_at": "2025-12-04T02:31:11.092504"
+}

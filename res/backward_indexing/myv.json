@@ -1,0 +1,42 @@
+{
+  "prefix": "myv",
+  "term_count": 1,
+  "total_documents": 4,
+  "terms": {
+    "myvps": {
+      "8efcaaec2c994885ac54454ab1be199aea6f6e99": {
+        "frequency": 1,
+        "positions": [
+          33
+        ],
+        "source_type": "pdf_json",
+        "term_id": 385304
+      },
+      "ef2cb5e71a210aec8bd8dba3c7b47583705b36c9": {
+        "frequency": 1,
+        "positions": [
+          303
+        ],
+        "source_type": "pdf_json",
+        "term_id": 385304
+      },
+      "PMC7172976.xml": {
+        "frequency": 1,
+        "positions": [
+          33
+        ],
+        "source_type": "pmc_json",
+        "term_id": 385304
+      },
+      "PMC7173403.xml": {
+        "frequency": 1,
+        "positions": [
+          302
+        ],
+        "source_type": "pmc_json",
+        "term_id": 385304
+      }
+    }
+  },
+  "created_at": "2025-12-04T02:31:41.011846"
+}

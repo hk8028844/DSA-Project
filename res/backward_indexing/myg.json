@@ -1,0 +1,180 @@
+{
+  "prefix": "myg",
+  "term_count": 5,
+  "total_documents": 19,
+  "terms": {
+    "myg": {
+      "021291da7cf3769e4182317703a95b6c5f7c76f9": {
+        "frequency": 1,
+        "positions": [
+          147
+        ],
+        "source_type": "pdf_json",
+        "term_id": 562486
+      },
+      "6aadca94314fe7e81e278fbbef178f2a5bf4f538": {
+        "frequency": 7,
+        "positions": [
+          171,
+          183,
+          223,
+          298,
+          325,
+          645,
+          696
+        ],
+        "source_type": "pdf_json",
+        "term_id": 562486
+      }
+    },
+    "mygg": {
+      "0c3be9775e24a07931a5644899df5c99636895be": {
+        "frequency": 1,
+        "positions": [
+          226
+        ],
+        "source_type": "pdf_json",
+        "term_id": 775004
+      },
+      "eac35e08db078cab80874750443aaab8ef9a26f5": {
+        "frequency": 1,
+        "positions": [
+          270
+        ],
+        "source_type": "pdf_json",
+        "term_id": 775004
+      }
+    },
+    "mygind": {
+      "0d7829de6ac904b60d44d14dc24835807b746a66": {
+        "frequency": 1,
+        "positions": [
+          35
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "3d3b0051618713c434cab71cdd2b85964cbaea48": {
+        "frequency": 1,
+        "positions": [
+          181
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "49eeef68715e49929c92187f8491b0c11006ed5d": {
+        "frequency": 1,
+        "positions": [
+          395
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "515dd4e4106ae000e759cc372410e12b66d2f982": {
+        "frequency": 1,
+        "positions": [
+          55
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "82f24628ffe6b657e12c857588e7c2860aac3003": {
+        "frequency": 1,
+        "positions": [
+          69
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "8de75abaaa4cee93e0a96cc50e1a9a2f693fcdd7": {
+        "frequency": 1,
+        "positions": [
+          55
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "b389e37083398f980a89a3d9d6c0fa1b311e7f48": {
+        "frequency": 3,
+        "positions": [
+          65,
+          338,
+          135
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "e84532333db8f219f20ae0a8fe18130c0d010b04": {
+        "frequency": 1,
+        "positions": [
+          196
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "f6471f4d2c7be66213add2c5aa1d6efb5a8b3241": {
+        "frequency": 1,
+        "positions": [
+          19
+        ],
+        "source_type": "pdf_json",
+        "term_id": 27520
+      },
+      "PMC7121097.xml": {
+        "frequency": 1,
+        "positions": [
+          92
+        ],
+        "source_type": "pmc_json",
+        "term_id": 27520
+      }
+    },
+    "mygland": {
+      "129a9a36f9814b22fd37bfe550c6c746df954e96": {
+        "frequency": 2,
+        "positions": [
+          74,
+          130
+        ],
+        "source_type": "pdf_json",
+        "term_id": 281214
+      },
+      "b830d94bad1731d4d22f0dc05b5b9d6f3b06ad83": {
+        "frequency": 2,
+        "positions": [
+          74,
+          130
+        ],
+        "source_type": "pdf_json",
+        "term_id": 281214
+      }
+    },
+    "myglobin": {
+      "f3a7dafa9d2ebe778d132954b42fb96fcf45d5e0": {
+        "frequency": 1,
+        "positions": [
+          20
+        ],
+        "source_type": "pdf_json",
+        "term_id": 431164
+      },
+      "PMC4429500.xml": {
+        "frequency": 1,
+        "positions": [
+          99
+        ],
+        "source_type": "pmc_json",
+        "term_id": 431164
+      },
+      "PMC4632850.xml": {
+        "frequency": 1,
+        "positions": [
+          20
+        ],
+        "source_type": "pmc_json",
+        "term_id": 431164
+      }
+    }
+  },
+  "created_at": "2025-12-04T02:31:30.087971"
+}

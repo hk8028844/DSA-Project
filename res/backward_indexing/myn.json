@@ -1,0 +1,175 @@
+{
+  "prefix": "myn",
+  "term_count": 5,
+  "total_documents": 16,
+  "terms": {
+    "mynderse": {
+      "082c8dd55d1131efa0ddf87c339253237d700387": {
+        "frequency": 1,
+        "positions": [
+          127
+        ],
+        "source_type": "pdf_json",
+        "term_id": 835453
+      },
+      "2ebbf143f9b3fd5c5e5c7e74cc939d1420bc7de1": {
+        "frequency": 1,
+        "positions": [
+          71
+        ],
+        "source_type": "pdf_json",
+        "term_id": 835453
+      },
+      "bb27446908d3e3809f43bfabb29d79c73738c661": {
+        "frequency": 1,
+        "positions": [
+          71
+        ],
+        "source_type": "pdf_json",
+        "term_id": 835453
+      }
+    },
+    "mynah": {
+      "0c572052701fb6af60dc6a000a524c90f3116670": {
+        "frequency": 12,
+        "positions": [
+          56,
+          11,
+          40,
+          48,
+          77,
+          88,
+          100,
+          4,
+          2,
+          45,
+          44,
+          81
+        ],
+        "source_type": "pdf_json",
+        "term_id": 18908
+      },
+      "8f2bd9cc60c24e8f57681c2fe7006cb813352f53": {
+        "frequency": 1,
+        "positions": [
+          275
+        ],
+        "source_type": "pdf_json",
+        "term_id": 18908
+      },
+      "9813bcc8462cef1797e178660990dbb1637c535d": {
+        "frequency": 13,
+        "positions": [
+          57,
+          55,
+          1,
+          47,
+          55,
+          84,
+          95,
+          107,
+          6,
+          2,
+          89,
+          31,
+          82
+        ],
+        "source_type": "pdf_json",
+        "term_id": 18908
+      },
+      "9f6e9801833a46fab7cf5bb97683baff0c19b518": {
+        "frequency": 1,
+        "positions": [
+          212
+        ],
+        "source_type": "pdf_json",
+        "term_id": 18908
+      },
+      "a90cc1c056b67b5f972f1957bbda07be2161773f": {
+        "frequency": 1,
+        "positions": [
+          312
+        ],
+        "source_type": "pdf_json",
+        "term_id": 18908
+      },
+      "d18e2869c75164d326bad22279b024bcc704460c": {
+        "frequency": 5,
+        "positions": [
+          49,
+          121,
+          134,
+          148,
+          76
+        ],
+        "source_type": "pdf_json",
+        "term_id": 18908
+      },
+      "f7ac0a1029a6af87184b13f508c05eb01154fd05": {
+        "frequency": 2,
+        "positions": [
+          52,
+          48
+        ],
+        "source_type": "pdf_json",
+        "term_id": 18908
+      },
+      "PMC7088108.xml": {
+        "frequency": 1,
+        "positions": [
+          74
+        ],
+        "source_type": "pmc_json",
+        "term_id": 18908
+      },
+      "PMC7121861.xml": {
+        "frequency": 2,
+        "positions": [
+          52,
+          48
+        ],
+        "source_type": "pmc_json",
+        "term_id": 18908
+      }
+    },
+    "mynd": {
+      "fcb05b603bc6706f0fbef2c1bdbe3e2ed70566bc": {
+        "frequency": 1,
+        "positions": [
+          391
+        ],
+        "source_type": "pdf_json",
+        "term_id": 675667
+      },
+      "PMC7167984.xml": {
+        "frequency": 1,
+        "positions": [
+          205
+        ],
+        "source_type": "pmc_json",
+        "term_id": 675667
+      }
+    },
+    "myn": {
+      "PMC4267700.xml": {
+        "frequency": 1,
+        "positions": [
+          58
+        ],
+        "source_type": "pmc_json",
+        "term_id": 801357
+      }
+    },
+    "mynarcik": {
+      "PMC5439735.xml": {
+        "frequency": 1,
+        "positions": [
+          10
+        ],
+        "source_type": "pmc_json",
+        "term_id": 507307
+      }
+    }
+  },
+  "created_at": "2025-12-04T02:31:30.795836"
+}
