@@ -14,6 +14,9 @@ Browser will open automatically!
 from flask import Flask, request, jsonify, Response
 from flask_cors import CORS
 import ujson as json
+import speech_recognition as sr
+import io
+import base64
 import time
 import math
 from pathlib import Path
@@ -55,32 +58,36 @@ HTML_FRONTEND = """<!DOCTYPE html>
         .logo span:nth-child(6) { color: #ea4335; }
         
         .search-container { 
-            max-width: 700px; 
-            margin: 100px auto 40px; 
+            max-width: 700px;
+            margin: 160px auto 40px; 
             padding: 0 20px; 
-            text-align: center; 
+            text-align: center;
         }
         .search-container.results-mode { margin-top: 20px; }
         
         .logo-large { 
-            font-size: 92px; 
-            font-weight: bold; 
+            font-size: 90px; 
+            font-weight: 100;
             margin-bottom: 30px; 
+            margin-top: 100px;
+            margin-left: 10px;
             letter-spacing: -2px; 
         }
         .logo-large.hidden { display: none; }
         
         .search-box { 
             position: relative; 
-            width: 100%; 
-            max-width: 584px; 
-            margin: 0 auto; 
+            width: 110%; 
+            max-width: 900px; 
+            margin: 10px auto; 
+            
         }
-        .search-input { 
+        .search-input {  
             width: 100%; 
+            height: 55px;
             padding: 14px 50px 14px 45px; 
             border: 1px solid #dfe1e5; 
-            border-radius: 24px; 
+            border-radius: 36px; 
             font-size: 16px; 
             outline: none; 
             transition: box-shadow 0.2s; 
@@ -93,25 +100,61 @@ HTML_FRONTEND = """<!DOCTYPE html>
             position: absolute; 
             left: 15px; 
             top: 50%; 
+            margin-top:-3px;
+            margin-right:-1px;
             transform: translateY(-50%); 
             color: #9aa0a6; 
-            font-size: 20px; 
+            font-size: 30px; 
         }
         .search-btn { 
             position: absolute; 
-            right: 15px; 
+            margin-right:-10px;
+            right: 30px; 
             top: 50%; 
             transform: translateY(-50%); 
             background: #4285f4; 
             color: white; 
             border: none; 
             padding: 8px 20px; 
-            border-radius: 4px; 
+            border-radius: 24px; 
             cursor: pointer; 
             font-size: 14px; 
             font-weight: 500; 
         }
         .search-btn:hover { background: #3367d6; }
+         .mic-btn {
+            position: absolute;
+            right: 110px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: white;
+            color: #5f6368;
+            border: none;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            margin-right: 3px;
+        }
+        .mic-btn:hover {
+            background: #f1f3f4;
+        }
+        .mic-btn.recording {
+            color: #ea4335;
+            animation: pulse 1.5s infinite;
+        }
+        .mic-btn.processing {
+            color: #4285f4;
+        }
+        @keyframes pulse {
+            0%, 100% { transform: translateY(-50%) scale(1); }
+            50% { transform: translateY(-50%) scale(1.1); }
+        }
         
         .suggestions-dropdown { 
             position: absolute; 
@@ -276,24 +319,26 @@ HTML_FRONTEND = """<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <div class="header" id="header">
-        <div class="logo">
-            <span>C</span><span>O</span><span>R</span><span>D</span><span>-</span><span>19</span>
-            <span class="speed-badge">⚡ ENHANCED</span>
-        </div>
-    </div>
+     
 
     <div class="search-container" id="searchContainer">
         <div class="logo-large" id="logoLarge">
             <span style="color: #4285f4;">C</span><span style="color: #ea4335;">O</span><span style="color: #fbbc04;">R</span><span style="color: #4285f4;">D</span><span style="color: #34a853;">-</span><span style="color: #ea4335;">19</span>
         </div>
         <div class="search-box">
-            <span class="search-icon">🔍</span>
+            <span class="search-icon">⌕ </span>
             <input type="text" class="search-input" id="searchInput" placeholder="Search CORD-19 research papers..." maxlength="100" autocomplete="off" />
+           <button class="mic-btn" id="micBtn" title="Voice search">
+            <svg class="mic-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z" fill="currentColor"/>
+                <path d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z" fill="currentColor"/>
+            </svg>
+            </button>
             <button class="search-btn" id="searchBtn">Search</button>
             <div class="suggestions-dropdown" id="suggestionsDropdown"></div>
         </div>
     </div>
+    <h6 style="text-align: center;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>© 2025  Developed by BESE-15B  DSA Project</h6>
 
     <div class="loading" id="loading"></div>
     <div class="error-message" id="errorMessage"></div>
@@ -312,36 +357,41 @@ HTML_FRONTEND = """<!DOCTYPE html>
         const API_BASE = window.location.origin;
         const FILE_OPENER_API = "http://localhost:8081";
         
-        console.log("🚀 Frontend loaded successfully!");
-        
+        console.log(" Frontend loaded successfully!");
         const els = {
-            input: document.getElementById("searchInput"),
-            btn: document.getElementById("searchBtn"),
-            loading: document.getElementById("loading"),
-            container: document.getElementById("resultsContainer"),
-            content: document.getElementById("resultsContent"),
-            info: document.getElementById("resultsInfo"),
-            noResults: document.getElementById("noResults"),
-            error: document.getElementById("errorMessage"),
-            searchContainer: document.getElementById("searchContainer"),
-            logo: document.getElementById("logoLarge"),
-            header: document.getElementById("header"),
-            suggestions: document.getElementById("suggestionsDropdown")
-        };
+                    input: document.getElementById("searchInput"),
+                    btn: document.getElementById("searchBtn"),
+                    micBtn: document.getElementById("micBtn"),
+                    loading: document.getElementById("loading"),
+                    container: document.getElementById("resultsContainer"),
+                    content: document.getElementById("resultsContent"),
+                    info: document.getElementById("resultsInfo"),
+                    noResults: document.getElementById("noResults"),
+                    error: document.getElementById("errorMessage"),
+                    searchContainer: document.getElementById("searchContainer"),
+                    logo: document.getElementById("logoLarge"),
+                    header: document.getElementById("header"),
+                    suggestions: document.getElementById("suggestionsDropdown")
+                };
 
         let suggestionTimeout = null;
         let currentSuggestions = [];
         let selectedSuggestionIndex = -1;
+        let mediaRecorder = null;
+        let audioChunks = [];
+        let isRecording = false;
 
-        els.btn.addEventListener("click", search);
+               els.btn.addEventListener("click", search);
         els.input.addEventListener("keypress", e => { 
             if (e.key === "Enter") search(); 
         });
         
+        els.micBtn.addEventListener("click", toggleRecording);
+        
         els.input.addEventListener("input", handleInput);
         els.input.addEventListener("keydown", handleKeyDown);
         els.input.addEventListener("blur", () => {
-            setTimeout(() => hideSuggestions(), 200);
+            setTimeout(() => hideSuggestions(), 250);
         });
 
         function handleInput(e) {
@@ -355,7 +405,6 @@ HTML_FRONTEND = """<!DOCTYPE html>
             clearTimeout(suggestionTimeout);
             suggestionTimeout = setTimeout(() => fetchSuggestions(query), 150);
         }
-
         function handleKeyDown(e) {
             if (!els.suggestions.classList.contains('active')) return;
 
@@ -402,10 +451,18 @@ HTML_FRONTEND = """<!DOCTYPE html>
             }
 
             els.suggestions.innerHTML = suggestions.map((sug, idx) => `
-                <div class="suggestion-item" data-index="${idx}" onclick="selectSuggestion('${escapeHtml(sug.text)}')">
+                <div class="suggestion-item" data-index="${idx}">
                     <span class="suggestion-text">${highlightMatch(escapeHtml(sug.text), els.input.value)}</span>
                 </div>
             `).join('');
+
+            // Add click event listeners to each suggestion item
+            els.suggestions.querySelectorAll('.suggestion-item').forEach((item, idx) => {
+                item.addEventListener('mousedown', (e) => {
+                    e.preventDefault(); // Prevent input blur
+                    selectSuggestion(suggestions[idx].text);
+                });
+            });
 
             els.suggestions.classList.add('active');
         }
@@ -435,6 +492,7 @@ HTML_FRONTEND = """<!DOCTYPE html>
         function selectSuggestion(text) {
             els.input.value = text;
             hideSuggestions();
+            els.input.focus();
             search();
         }
 
@@ -442,6 +500,163 @@ HTML_FRONTEND = """<!DOCTYPE html>
             els.suggestions.classList.remove('active');
             currentSuggestions = [];
             selectedSuggestionIndex = -1;
+        }
+         async function toggleRecording() {
+            if (isRecording) {
+                stopRecording();
+            } else {
+                startRecording();
+            }
+        }
+
+        async function startRecording() {
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+                
+                mediaRecorder = new MediaRecorder(stream, {
+                    mimeType: 'audio/webm'
+                });
+                
+                audioChunks = [];
+                
+                mediaRecorder.ondataavailable = (event) => {
+                    if (event.data.size > 0) {
+                        audioChunks.push(event.data);
+                    }
+                };
+                
+                mediaRecorder.onstop = async () => {
+                    const audioBlob = new Blob(audioChunks, { type: 'audio/webm' });
+                    await processAudio(audioBlob);
+                    
+                    // Stop all tracks
+                    stream.getTracks().forEach(track => track.stop());
+                };
+                
+                mediaRecorder.start();
+                isRecording = true;
+                els.micBtn.classList.add('recording');
+                els.micBtn.title = 'Stop recording';
+                
+                showToast('Listening... Click again to stop', 'info');
+                
+            } catch (err) {
+                console.error('Microphone access error:', err);
+                showToast('Error: Could not access microphone', 'error');
+            }
+        }
+
+        function stopRecording() {
+            if (mediaRecorder && isRecording) {
+                mediaRecorder.stop();
+                isRecording = false;
+                els.micBtn.classList.remove('recording');
+                els.micBtn.classList.add('processing');
+                els.micBtn.title = 'Voice search';
+            }
+        }
+
+        async function processAudio(audioBlob) {
+            try {
+                showToast(' Processing audio...', 'info');
+                
+                // Convert blob to base64
+                const reader = new FileReader();
+                reader.readAsDataURL(audioBlob);
+                
+                reader.onloadend = async () => {
+                    const base64Audio = reader.result;
+                    
+                    // Convert webm to wav using Web Audio API
+                    const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                    const arrayBuffer = await audioBlob.arrayBuffer();
+                    const audioBuffer = await audioContext.decodeAudioData(arrayBuffer);
+                    
+                    // Convert to WAV
+                    const wavBlob = await audioBufferToWav(audioBuffer);
+                    const wavReader = new FileReader();
+                    
+                    wavReader.onloadend = async () => {
+                        const wavBase64 = wavReader.result;
+                        
+                        // Send to backend
+                        const res = await fetch(`${API_BASE}/transcribe`, {
+                            method: 'POST',
+                            headers: { 'Content-Type': 'application/json' },
+                            body: JSON.stringify({ audio: wavBase64 })
+                        });
+                        
+                        const data = await res.json();
+                        
+                        els.micBtn.classList.remove('processing');
+                        
+                        if (data.success && data.text) {
+                            els.input.value = data.text;
+                            showToast('✓ Transcribed successfully!', 'success');
+                            els.input.focus();
+                            
+                            // Auto-search after 1 second
+                            setTimeout(() => search(), 1000);
+                        } else {
+                            showToast(data.error || 'Could not transcribe audio', 'error');
+                        }
+                    };
+                    
+                    wavReader.readAsDataURL(wavBlob);
+                };
+                
+            } catch (err) {
+                console.error('Audio processing error:', err);
+                els.micBtn.classList.remove('processing');
+                showToast('Error processing audio', 'error');
+            }
+        }
+
+        function audioBufferToWav(audioBuffer) {
+            const numChannels = audioBuffer.numberOfChannels;
+            const sampleRate = audioBuffer.sampleRate;
+            const format = 1; // PCM
+            const bitDepth = 16;
+            
+            const bytesPerSample = bitDepth / 8;
+            const blockAlign = numChannels * bytesPerSample;
+            
+            const data = audioBuffer.getChannelData(0);
+            const dataLength = data.length * bytesPerSample;
+            const buffer = new ArrayBuffer(44 + dataLength);
+            const view = new DataView(buffer);
+            
+            // WAV header
+            writeString(view, 0, 'RIFF');
+            view.setUint32(4, 36 + dataLength, true);
+            writeString(view, 8, 'WAVE');
+            writeString(view, 12, 'fmt ');
+            view.setUint32(16, 16, true);
+            view.setUint16(20, format, true);
+            view.setUint16(22, numChannels, true);
+            view.setUint32(24, sampleRate, true);
+            view.setUint32(28, sampleRate * blockAlign, true);
+            view.setUint16(32, blockAlign, true);
+            view.setUint16(34, bitDepth, true);
+            writeString(view, 36, 'data');
+            view.setUint32(40, dataLength, true);
+            
+            // Write audio data
+            const volume = 0.8;
+            let offset = 44;
+            for (let i = 0; i < data.length; i++) {
+                const sample = Math.max(-1, Math.min(1, data[i]));
+                view.setInt16(offset, sample < 0 ? sample * 0x8000 : sample * 0x7FFF, true);
+                offset += 2;
+            }
+            
+            return new Blob([buffer], { type: 'audio/wav' });
+        }
+
+        function writeString(view, offset, string) {
+            for (let i = 0; i < string.length; i++) {
+                view.setUint8(offset + i, string.charCodeAt(i));
+            }
         }
 
         async function search() {
@@ -492,7 +707,7 @@ HTML_FRONTEND = """<!DOCTYPE html>
                 div.className = "result-item";
                 div.innerHTML = `
                     <div class="result-url">
-                        <span class="result-domain">📄 ${escapeHtml(r.source_type)}</span>
+                        <span class="result-domain"> ${escapeHtml(r.source_type)}</span>
                         <span>› ${escapeHtml(r.doc_id)}</span>
                     </div>
                     <div class="result-title">${escapeHtml(r.title)}</div>
@@ -503,7 +718,7 @@ HTML_FRONTEND = """<!DOCTYPE html>
                         <span>Matched: ${r.matched_terms}/${r.total_query_terms} terms</span>
                     </div>
                     <button class="open-file-btn" onclick="openFile('${escapeHtml(r.doc_id)}', '${escapeHtml(r.source_type)}')">
-                        📂 Open File
+                         Open File
                     </button>
                 `;
                 els.content.appendChild(div);
@@ -544,7 +759,7 @@ HTML_FRONTEND = """<!DOCTYPE html>
 
         async function openFile(docId, sourceType) {
             try {
-                console.log(`📂 Opening file: ${docId} (${sourceType})`);
+                console.log(` Opening file: ${docId} (${sourceType})`);
                 
                 // Open file in new browser tab
                 const url = `${FILE_OPENER_API}/view-file?doc_id=${encodeURIComponent(docId)}&source_type=${encodeURIComponent(sourceType)}`;
@@ -557,13 +772,12 @@ HTML_FRONTEND = """<!DOCTYPE html>
                 showToast('Error: Could not open file', 'error');
             }
         }
-
         function showToast(message, type = 'success') {
             const toast = document.createElement('div');
             toast.style.position = 'fixed';
             toast.style.bottom = '20px';
             toast.style.right = '20px';
-            toast.style.background = type === 'error' ? '#c5221f' : '#34a853';
+            toast.style.background = type === 'error' ? '#c5221f' : (type === 'info' ? '#5f6368' : '#34a853');
             toast.style.color = 'white';
             toast.style.padding = '12px 20px';
             toast.style.borderRadius = '4px';
@@ -578,7 +792,7 @@ HTML_FRONTEND = """<!DOCTYPE html>
                 toast.style.opacity = '0';
                 toast.style.transition = 'opacity 0.3s';
                 setTimeout(() => toast.remove(), 300);
-            }, 2000);
+            }, 3000);
         }
 
         window.addEventListener("load", () => els.input.focus());
@@ -687,7 +901,7 @@ class EnhancedSearchEngine:
     
     def preload_hot_buckets(self):
         start = time.time()
-        print(f"⚡ Pre-loading {len(self.hot_prefixes)} hot buckets...")
+        print(f"Pre-loading {len(self.hot_prefixes)} hot buckets...")
         
         loaded = 0
         for prefix in self.hot_prefixes:
@@ -939,7 +1153,7 @@ class EnhancedSearchEngine:
 # GLOBAL ENGINE INSTANCE
 # ============================================================================
 
-BASE_PATH = r"D:\Hamza\cord-19_2020-05-01\res"
+BASE_PATH = r"res"
 search_engine = EnhancedSearchEngine(BASE_PATH)
 
 
@@ -1016,32 +1230,86 @@ def health():
         'cache_stats': stats
     }), 200
 
+@app.route('/transcribe', methods=['POST', 'OPTIONS'])
+def transcribe():
+    """Speech-to-text transcription endpoint"""
+    if request.method == 'OPTIONS':
+        return jsonify({}), 200
+    
+    try:
+        data = request.get_json()
+        audio_data = data.get('audio', '')
+        
+        if not audio_data:
+            return jsonify({'error': 'No audio data provided'}), 400
+        
+        # Remove the data URL prefix if present
+        if ',' in audio_data:
+            audio_data = audio_data.split(',')[1]
+        
+        # Decode base64 audio
+        audio_bytes = base64.b64decode(audio_data)
+        
+        # Initialize recognizer
+        recognizer = sr.Recognizer()
+        
+        # Convert to AudioFile
+        audio_file = sr.AudioFile(io.BytesIO(audio_bytes))
+        
+        with audio_file as source:
+            audio = recognizer.record(source)
+        
+        # Recognize speech using Google Speech Recognition
+        text = recognizer.recognize_google(audio)
+        
+        print(f"🎤 Transcribed: {text}")
+        
+        return jsonify({
+            'text': text,
+            'success': True
+        }), 200
+        
+    except sr.UnknownValueError:
+        print("❌ Could not understand audio")
+        return jsonify({
+            'error': 'Could not understand audio',
+            'success': False
+        }), 200
+        
+    except sr.RequestError as e:
+        print(f"❌ Speech recognition error: {e}")
+        return jsonify({
+            'error': 'Speech recognition service error',
+            'success': False
+        }), 500
+        
+    except Exception as e:
+        print(f"❌ Transcription error: {e}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({
+            'error': str(e),
+            'success': False
+        }), 500
+
 
 # ============================================================================
 # MAIN
 # ============================================================================
 
 if __name__ == '__main__':
-    print("\n" + "="*60)
-    print("🚀 CORD-19 ENHANCED ULTRA-FAST Search Server")
-    print("   (Integrated Single-File Version)")
-    print("="*60)
-    print("⚡ Hot cache enabled for common terms")
-    print("💾 Smart caching with lazy-loaded suggestions")
-    print("🎯 Target: <0.5s response time")
-    print("📄 HTML frontend embedded in Python")
-    print("="*60 + "\n")
+    
     
     import webbrowser
     from threading import Timer
     
     def open_browser():
         frontend_url = "http://localhost:8080"
-        print(f"🌐 Opening browser: {frontend_url}\n")
+        print(f" Opening browser: {frontend_url}\n")
         webbrowser.open(frontend_url)
     
-    print("🌐 Server: http://localhost:8080")
-    print("🌐 Frontend: http://localhost:8080/")
+    print(" Server: http://localhost:8080")
+    print(" Frontend: http://localhost:8080/")
     print("="*60 + "\n")
     
     Timer(0.5, open_browser).start()
